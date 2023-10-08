@@ -1,0 +1,9 @@
+#content {
+    background-color:  lightpink;
+    height: 2400px;
+    max-height: 2845px;
+}
+
+#content > #divFareDealsCarousel {
+
+}
