@@ -4,6 +4,14 @@
     max-height: 2845px;
 }
 
-#content > #divFareDealsCarousel {
+#content .ic {
+    background-color: lightblue;
+    height: 400px;
+    margin: 20px;
+}
 
+#content .row {
+    background-color: lightgreen;
+    height: 400px;
+    margin: 20px;
 }

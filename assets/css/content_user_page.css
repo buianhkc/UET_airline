@@ -1,0 +1,16 @@
+#content {
+    background-color: lightpink;
+    height: 1000px;
+}
+
+.user-info {
+    background-color: lightgoldenrodyellow;
+    margin: 20px;
+    height: 40%;
+}
+
+.user-booked-ticket {
+    background-color: lightgrey;
+    margin: 20px;
+    height: 40%;
+}
