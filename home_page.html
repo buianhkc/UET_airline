@@ -18,6 +18,8 @@
         <!-- Latest compiled JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap" rel="stylesheet">
@@ -28,17 +30,69 @@
         <link rel="stylesheet" href="./assets/css/content_home_page.css">
         <link rel="stylesheet" href="./assets/css/footer.css">
 
+        <script src="./assets/js/slider.js"></script>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+
     </head>
     <body>
         <!-- Header -->
-        <div id="header-wrapper" class="home-page">
-            header-wrapper
+        <div id="header-wrapper">
+            <div class="container-wrapper">
+                <div class="nav-home">
+                    <img src="./assets/img/header/Logo ĐH Công Nghệ-UET.png" alt="logo" class="logo">
+                    <div class="info">
+                        <p class="name">UET Airline</p>
+                        <p class="slogan">Sải cánh vươn cao</p>
+                    </div> 
+                </div>
+                <div class="nav-open">
+                    <div class="nav-sitetop">
+                        <a href="login.html" class="linkTologin">Đăng nhập</a>
+                        <a href="register.html" class="linkRegister">Đăng ký</a>
+                    </div>
+                    <div class="booking-ticket">
+                        <a href="booking_page.html" class="linkToBookingPage">Đặt vé ngay</a>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <!-- Slider -->
         <div id="divSliderCarousel">
-            divSliderCarousel
+            <div class="carousel">
+                <div class="carousel_inner">
+                   <div class="carousel_item carousel_item__active">
+                      <img src="./assets/img/slider/Hero_Web-2600x1111_ban_tet.jpg" alt="" class="carousel_img">
+                      <div class="carousel_caption">
+                         
+                      </div>
+                   </div>
+                   <div class="carousel_item">
+                      <img src="./assets/img/slider/230103_QuickSalesApp_2600x1111.jpg" alt="" class="carousel_img">
+                   </div>
+                   <div class="carousel_item">
+                      <img src="./assets/img/slider/2600x1111px_Thiet ke trai nghiem thuong gia noi dia.jpg" alt="" class="carousel_img">
+                   </div>
+                </div>
+          
+                <div class="carousel_indicator">
+                   <button class="carousel_dot carousel_dot__active"></button>
+                   <button class="carousel_dot"></button>
+                   <button class="carousel_dot"></button>
+                </div>
+          
+                <div class="carousel_control">
+                   <button class="carousel_button carousel_button__prev">
+                      <i class="fas fa-chevron-left"></i>
+                   </button>
+                   <button class="carousel_button carousel_button__next">
+                      <i class="fas fa-chevron-right"></i>
+                   </button>
+                </div>
+             </div>
         </div>
+        
 
         <!--Container-->
         <div id="content">
@@ -65,8 +119,55 @@
         </div>
 
         <!-- Footer -->
-        <div id="footer">
-            footer
-        </div>
+        <footer>
+            <div class="content">
+              <div class="left box">
+                <div class="upper">
+                  <div class="topic">About us</div>
+                  <p>CodingLab is a channel where you can learn HTML,
+                  CSS, and also JavaScript along with creative CSS Animations and Effects.</p>
+                </div>
+                <div class="lower">
+                  <div class="topic">Contact us</div>
+                  <div class="phone">
+                    <a href="#"><i class="fas fa-phone-volume"></i>024.37547.461</a>
+                  </div>
+                  <div class="email">
+                    <a href="#"><i class="fas fa-envelope"></i>uet@vnu.edu.vn</a>
+                  </div>
+                </div>
+              </div>
+              <div class="middle box">
+                <div class="topic">Our Services</div>
+                <div><a href="#">Web Design, Development</a></div>
+                <div><a href="#">Web UX Design, Reasearch</a></div>
+                <div><a href="#">Web User Interface Design</a></div>
+                <div><a href="#">Theme Development, Design</a></div>
+                <div><a href="#">Mobile Application Design</a></div>
+                <div><a href="#">Wire raming & Prototyping</a></div>
+              </div>
+              <div class="right box">
+                <div class="topic">Subscribe us</div>
+                <form action="#">
+                  <input type="text" placeholder="Enter email address">
+                  <input type="submit" name="" value="Send">
+                  <div class="media-icons">
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                  </div>
+                </form>
+              </div>
+            </div>
+            <div class="bottom">
+              <p>Copyright © 2020 <a href="#">CodingLab</a> All rights reserved</p>
+            </div>
+          </footer>
+        <!-- Bootstrap Js Cdn -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+        integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
+        crossorigin="anonymous"></script>
     </body>
 </html>
