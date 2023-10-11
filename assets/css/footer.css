@@ -9,8 +9,29 @@ footer * {
   border: none;
   outline: none;
 }
+
+#logo_skytrax_wap {
+  background-color: #2a8ded;
+  position: relative;
+}
+
+#logo_skytrax_wap .logo-skytrax-img {
+  position: absolute;
+  bottom: -50px;
+  left: 32px;
+}
+.logo-skytrax-img img {
+  height: 100px;
+  width: 100px;
+}
+
+#logo_skytrax_wap .logo-skytrax-txt {
+  margin-left: 150px;
+  padding-top: 5px;
+}
+
 .row {
-  padding: 2em 1em;
+  padding: 4em 1em;
 }
 .row.primary {
   display: grid;
@@ -80,6 +101,7 @@ div.social {
   display: flex;
   justify-content: space-around;
   text-align: center;
+  padding: 0 2em;
 }
 .row.secondary i {
   font-size: 1.8em;
