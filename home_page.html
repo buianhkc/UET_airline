@@ -18,6 +18,8 @@
         <!-- Latest compiled JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap" rel="stylesheet">
@@ -28,17 +30,67 @@
         <link rel="stylesheet" href="./assets/css/content_home_page.css">
         <link rel="stylesheet" href="./assets/css/footer.css">
 
+        <script src="./assets/js/slider.js"></script>
+
     </head>
     <body>
         <!-- Header -->
-        <div id="header-wrapper" class="home-page">
-            header-wrapper
+        <div id="header-wrapper">
+            <div class="container-wrapper">
+                <div class="nav-home">
+                    <img src="./assets/img/header/Logo ĐH Công Nghệ-UET.png" alt="logo" class="logo">
+                    <div class="info">
+                        <p class="name">UET Airline</p>
+                        <p class="slogan">Sải cánh vươn cao</p>
+                    </div> 
+                </div>
+                <div class="nav-open">
+                    <div class="nav-sitetop">
+                        <a href="login.html" class="linkTologin">Đăng nhập</a>
+                        <a href="register.html" class="linkRegister">Đăng ký</a>
+                    </div>
+                    <div class="booking-ticket">
+                        <a href="booking_page.html" class="linkToBookingPage">Đặt vé ngay</a>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <!-- Slider -->
         <div id="divSliderCarousel">
-            divSliderCarousel
+            <div class="carousel">
+                <div class="carousel_inner">
+                   <div class="carousel_item carousel_item__active">
+                      <img src="./assets/img/slider/Hero_Web-2600x1111_ban_tet.jpg" alt="" class="carousel_img">
+                      <div class="carousel_caption">
+                         
+                      </div>
+                   </div>
+                   <div class="carousel_item">
+                      <img src="./assets/img/slider/230103_QuickSalesApp_2600x1111.jpg" alt="" class="carousel_img">
+                   </div>
+                   <div class="carousel_item">
+                      <img src="./assets/img/slider/2600x1111px_Thiet ke trai nghiem thuong gia noi dia.jpg" alt="" class="carousel_img">
+                   </div>
+                </div>
+          
+                <div class="carousel_indicator">
+                   <button class="carousel_dot carousel_dot__active"></button>
+                   <button class="carousel_dot"></button>
+                   <button class="carousel_dot"></button>
+                </div>
+          
+                <div class="carousel_control">
+                   <button class="carousel_button carousel_button__prev">
+                      <i class="fas fa-chevron-left"></i>
+                   </button>
+                   <button class="carousel_button carousel_button__next">
+                      <i class="fas fa-chevron-right"></i>
+                   </button>
+                </div>
+             </div>
         </div>
+        
 
         <!--Container-->
         <div id="content">
@@ -68,5 +120,6 @@
         <div id="footer">
             footer
         </div>
+
     </body>
 </html>
