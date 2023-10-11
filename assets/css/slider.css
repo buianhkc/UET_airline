@@ -183,4 +183,5 @@
 #slider2 {
     background-color: lightslategray;
     height: 390px;
+    display: block;
 }
