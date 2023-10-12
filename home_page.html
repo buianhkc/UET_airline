@@ -30,10 +30,8 @@
         <link rel="stylesheet" href="./assets/css/content_home_page.css">
         <link rel="stylesheet" href="./assets/css/footer.css">
 
-        <script src="./assets/js/slider.js"></script>
-
+        <!-- for footer -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
-
         <!-- Font Awesome CDN -->
         <link
         rel="stylesheet"
@@ -45,17 +43,21 @@
             rel="stylesheet"
         />
 
+        <link rel="stylesheet" href="./assets/font/themify-icons/themify-icons.css">
+
     </head>
     <body>
         <!-- Header -->
         <div id="header-wrapper">
             <div class="container-wrapper">
                 <div class="nav-home">
-                    <img src="./assets/img/header/Logo ĐH Công Nghệ-UET.png" alt="logo" class="logo">
-                    <div class="info">
-                        <p class="name">UET Airline</p>
-                        <p class="slogan">Sải cánh vươn cao</p>
-                    </div> 
+                    <a href="home_page.html">
+                        <img src="./assets/img/header/Logo ĐH Công Nghệ-UET.png" alt="logo" class="logo">
+                        <div class="info">
+                            <p class="name">UET Airline</p>
+                            <p class="slogan">Sải cánh vươn cao</p>
+                        </div> 
+                    </a>
                 </div>
                 <div class="nav-open">
                     <div class="nav-sitetop">
@@ -103,21 +105,265 @@
                 </div>
              </div>
         </div>
+        <script src="./assets/js/slider.js"></script>
         
-
         <!--Container-->
         <div id="content">
-            content
             <div id="divFareDealsCarousel">
                 <div class="container-wrapper">
                     <div class="fare-deals-home-vna">
-
                         <div class="ic">
-                            Khám Phá Các Chuyến Bay Phổ Biến Nhất Của Chúng Tôi
-                        </div>
-                        
-                        <div class="row">
-                            KHÁM PHÁ ĐIỂM ĐẾN
+                            <h2 class="heading">
+                                <p class="heading--text">Khám Phá Những Chuyến Bay Phổ Biến Nhất Của Chúng Tôi</p>
+                            </h2>
+                            <div class="filter">
+                                <div class="toggleElement">
+                                    <button class="toggleElement--buton">
+                                        <p>Chọn tuyến đường</p>
+                                        <i class="ti-angle-down"></i>  
+                                    </button>
+    
+                                    <div class="ltr">
+                                        <div class="ltr--container">
+                                            <div class="ltr-part1">
+                                                <div class="container-input">
+                                                    <p class="fr-input--name">Từ</p>
+                                                    <div class="fr-input">
+                                                        <i class="ti-location-pin"></i>
+                                                        <input type="text" placeholder="Nhập điểm đi">
+                                                    </div>
+                                                </div>
+                                                
+                                                <div class="container-input">
+                                                    <p class="fr-input--name">Đến</p>
+                                                    <div class="fr-input">
+                                                        <i class="ti-location-pin"></i>
+                                                        <input type="text" placeholder="Nhập điểm đến">
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+    
+                                            <div class="ltr-part2">
+                                                <button class="fr-btn--applicant">ÁP DỤNG</button>
+                                                <button class="fr-btn--applicant">ĐẶT LẠI</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="toggleElement">
+                                    <button class="toggleElement--buton">
+                                        <p>Ngân sách</p>
+                                        <i class="ti-angle-down"></i>  
+                                    </button>
+    
+                                    <div class="ltr ltrBudget">
+                                        <div class="ltr--container">
+                                            <div class="ltr-part1">
+                                                <div class="container-input">
+                                                    <p class="fr-input--name">Ngân sách</p>
+                                                    <div class="fr-input">
+                                                        <p class="money-logo">VND</p>
+                                                        <input type="text" placeholder="Ngân sách tổng">
+                                                    </div>
+                                                </div>
+                                            </div>
+    
+                                            <div class="ltr-part2">
+                                               <button class="fr-btn--applicant">ÁP DỤNG</button>
+                                               <button class="fr-btn--applicant">ĐẶT LẠI</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                     
+                                <div class="erase">
+                                    <button class="erase--button">
+                                        <p class="erase-name">Xóa</p>
+                                    </button>
+                                </div>
+
+                            </div>
+
+                            <div class="farelist">
+                                <div class="fare-list-content list-grid">
+                                    <div class="fare-item">
+                                        <div class="fare-item--content fare-img">
+                                            <div class="fareItem--number">
+                                                1/8
+                                            </div>
+                                            <div class="fareItem--info">
+                                                <div style="position: relative; width: 100%; height: 100%;">
+                                                    <div class="name-journey">
+                                                        <p>Hà Nội đến TP.Hồ Chí Minh</p>
+                                                    </div>
+                                                    <p class="depart-date">12/12/2023</p>
+    
+                                                    <div class="price">
+                                                        <p style="margin: 0; text-align: right;">Từ</p>
+                                                        <p style="font-size: 30px; font-weight: bold;">1.000.000 VND</p>
+                                                    </div>
+                                                    <p class="type-journey">
+                                                        Một chiều / Phổ Thông
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="fare-item">
+                                        <div class="fare-item--content fare-img">
+                                            <div class="fareItem--number">
+                                                1/8
+                                            </div>
+                                            <div class="fareItem--info">
+                                                <div style="position: relative; width: 100%; height: 100%;">
+                                                    <div class="name-journey">
+                                                        <p>Hà Nội đến TP.Hồ Chí Minh</p>
+                                                    </div>
+                                                    <p class="depart-date">12/12/2023</p>
+    
+                                                    <div class="price">
+                                                        <p style="margin: 0; text-align: right;">Từ</p>
+                                                        <p style="font-size: 30px; font-weight: bold;">1.000.000 VND</p>
+                                                    </div>
+                                                    <p class="type-journey">
+                                                        Một chiều / Phổ Thông
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="fare-item">
+                                        <div class="fare-item--content fare-img">
+                                            <div class="fareItem--number">
+                                                1/8
+                                            </div>
+                                            <div class="fareItem--info">
+                                                <div style="position: relative; width: 100%; height: 100%;">
+                                                    <div class="name-journey">
+                                                        <p>Hà Nội đến TP.Hồ Chí Minh</p>
+                                                    </div>
+                                                    <p class="depart-date">12/12/2023</p>
+    
+                                                    <div class="price">
+                                                        <p style="margin: 0; text-align: right;">Từ</p>
+                                                        <p style="font-size: 30px; font-weight: bold;">1.000.000 VND</p>
+                                                    </div>
+                                                    <p class="type-journey">
+                                                        Một chiều / Phổ Thông
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="fare-item">
+                                        <div class="fare-item--content fare-img">
+                                            <div class="fareItem--number">
+                                                1/8
+                                            </div>
+                                            <div class="fareItem--info">
+                                                <div style="position: relative; width: 100%; height: 100%;">
+                                                    <div class="name-journey">
+                                                        <p>Hà Nội đến TP.Hồ Chí Minh</p>
+                                                    </div>
+                                                    <p class="depart-date">12/12/2023</p>
+    
+                                                    <div class="price">
+                                                        <p style="margin: 0; text-align: right;">Từ</p>
+                                                        <p style="font-size: 30px; font-weight: bold;">1.000.000 VND</p>
+                                                    </div>
+                                                    <p class="type-journey">
+                                                        Một chiều / Phổ Thông
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="fare-item">
+                                        <div class="fare-item--content fare-img">
+                                            <div class="fareItem--number">
+                                                1/8
+                                            </div>
+                                            <div class="fareItem--info">
+                                                <div style="position: relative; width: 100%; height: 100%;">
+                                                    <div class="name-journey">
+                                                        <p>Hà Nội đến TP.Hồ Chí Minh</p>
+                                                    </div>
+                                                    <p class="depart-date">12/12/2023</p>
+    
+                                                    <div class="price">
+                                                        <p style="margin: 0; text-align: right;">Từ</p>
+                                                        <p style="font-size: 30px; font-weight: bold;">1.000.000 VND</p>
+                                                    </div>
+                                                    <p class="type-journey">
+                                                        Một chiều / Phổ Thông
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="fare-item">
+                                        <div class="fare-item--content fare-img">
+                                            <div class="fareItem--number">
+                                                1/8
+                                            </div>
+                                            <div class="fareItem--info">
+                                                <div style="position: relative; width: 100%; height: 100%;">
+                                                    <div class="name-journey">
+                                                        <p>Hà Nội đến TP.Hồ Chí Minh</p>
+                                                    </div>
+                                                    <p class="depart-date">12/12/2023</p>
+    
+                                                    <div class="price">
+                                                        <p style="margin: 0; text-align: right;">Từ</p>
+                                                        <p style="font-size: 30px; font-weight: bold;">1.000.000 VND</p>
+                                                    </div>
+                                                    <p class="type-journey">
+                                                        Một chiều / Phổ Thông
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="fare-item">
+                                        <div class="fare-item--content fare-img">
+                                            <div class="fareItem--number">
+                                                1/8
+                                            </div>
+                                            <div class="fareItem--info">
+                                                <div style="position: relative; width: 100%; height: 100%;">
+                                                    <div class="name-journey">
+                                                        <p>Hà Nội đến TP.Hồ Chí Minh</p>
+                                                    </div>
+                                                    <p class="depart-date">12/12/2023</p>
+    
+                                                    <div class="price">
+                                                        <p style="margin: 0; text-align: right;">Từ</p>
+                                                        <p style="font-size: 30px; font-weight: bold;">1.000.000 VND</p>
+                                                    </div>
+                                                    <p class="type-journey">
+                                                        Một chiều / Phổ Thông
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     
+                                </div>
+                            </div>
+
+                            <button class="showmore-button">xem thêm</button>
+
+                            <p class="noctice">*Giá vé hiển thị được thu thập trong vòng 48 giờ và có thể không còn hiệu lực tại thời điểm đặt chỗ. 
+                                Chúng tôi có thể thu thêm phí và lệ phí cho một số sản phẩm và dịch vụ.
+                            </p>
                         </div>
 
                     </div>

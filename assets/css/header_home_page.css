@@ -84,10 +84,12 @@
     border: none;
     border-radius: 20px;
     padding: 5px 10px;
+    transition-duration: .5s;
 }
 
 .nav-open .linkToBookingPage:hover {
     font-size: larger;
     font-weight: bold;
     padding: 5px 20px;
+    border-radius: 10px;
 }
