@@ -261,3 +261,58 @@
     font-size: 14px;
     text-align: center;
 }
+
+#divHomeHightLight .slidebox {
+    max-width: 1200px;
+    margin: auto;
+}
+
+#divHomeHightLight {
+    margin-bottom: 50px;
+}
+
+.slidebox .title-hightlight {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.title-hightlight .slash {
+    border-top: solid 1px;
+    height: 1px;
+    flex: 1;
+}
+.title-hightlight .title-name {
+    font-size: 36px;
+    margin: 0 20px;
+}
+
+.box-wrapper .box-viewport {
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+}
+
+.box-viewport > .item .item-img {
+    width: 100%;
+    transition: transform 3s;
+}
+
+.box-viewport > .item > .title-info {
+    height: 100px;
+    background-image: url("../img/boxhightlight/pastel-pink-japanese-style-wave-pattern-background/pastel_pink_japanese_style_wave_pattern_background_1611.jpg");
+    background-size: 200px 200px;
+}
+
+.box-viewport > .item > .title-info > p {
+    font-size: 25px;
+    color: rgb(1, 176, 196);
+    font-weight: bold;
+    padding: 10px 15px;
+}
+
+.box-viewport > .item:hover .item-img {
+    transform: scale(1.1);
+}
