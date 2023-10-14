@@ -2,3 +2,98 @@
     background-color: lightblue;
     height: 81px;
 }
+#header-wrapper {
+    background-color: whitesmoke;
+    height: 84px;
+    display: block;
+}
+
+#header-wrapper .container-wrapper {
+    margin: auto;
+    height: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.container-wrapper .nav-home {
+    height: 90%;
+    margin: auto;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.nav-home .info {
+    height: 100%;
+    float: left;
+    margin-left: 12px;
+    margin-top: 6px;
+    text-align: center;
+}
+
+.nav-home .logo {
+    height: 100%;
+    float: left;
+}
+
+.nav-home .name {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(71, 156, 205);
+    display: block;
+    margin-bottom: 0px;
+}
+
+.nav-home .slogan {
+    font-size: 14px;
+    color: rgb(71, 156, 205);
+    display: block;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+
+.nav-open {
+    align-self: center;
+}
+
+.nav-open a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.nav-sitetop .linkTologin {
+    color: black;
+    border-right: solid;
+    border-right-width: 1px;
+    border-right-color: black;  
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+.nav-sitetop .linkRegister {
+    color: black;
+    padding-left: 10px;
+}
+
+.nav-open .booking-ticket {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.nav-open .linkToBookingPage {
+    background-color: lightblue;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    transition-duration: .5s;
+}
+
+.nav-open .linkToBookingPage:hover {
+    font-size: larger;
+    font-weight: bold;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
