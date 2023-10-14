@@ -1,4 +1,138 @@
-#footer {
-    background-color: lightseagreen;
-    height: 300px;
+footer {
+  background-color: #121315;
+  color: #ffffff;
+  font-size: 16px;
+}
+footer * {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+}
+
+#logo_skytrax_wap {
+  background-color: #2a8ded;
+}
+
+#logo_skytrax_wap .logo_skytrax_wap--container {
+  position: relative;
+  margin: auto;
+  max-width: 1200px;
+}
+
+.logo_skytrax_wap--container .logo-skytrax-img {
+  position: absolute;
+  bottom: -50px;
+}
+.logo-skytrax-img img {
+  height: 100px;
+  width: 100px;
+}
+
+#logo_skytrax_wap .logo-skytrax-txt {
+  margin-left: 120px;
+  padding-top: 5px;
+}
+
+.row {
+  padding: 4em 1em;
+}
+.row.primary {
+  display: grid;
+  grid-template-columns: 2fr 1fr 2fr;
+  align-items: stretch;
+  max-width: 1200px;
+  margin: auto;
+  
+}
+.column {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0 2em;
+  min-height: 15em;
+}
+h3 {
+  width: 100%;
+  text-align: left;
+  color: #2a8ded;
+  font-size: 1.6em;
+  white-space: nowrap;
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+}
+li:not(:first-child) {
+  margin-top: 0.8em;
+}
+ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+ul li a:hover {
+  color: #2a8ded;
+}
+.about p {
+  text-align: justify;
+  line-height: 2;
+  margin: 0;
+}
+
+.column input,
+.column button {
+  font-size: 1em;
+  padding: 1em;
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.column .subscribe button {
+  background-color: #2a8ded;
+  color: #ffffff;
+}
+div.social {
+  display: flex;
+  justify-content: space-around;
+  font-size: 2.4em;
+  flex-direction: row;
+  margin-top: 0.5em;
+}
+.social i:hover {
+  color: #2a8ded;
+}
+.row.secondary {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding: 0 2em;
+}
+.row.secondary i {
+  font-size: 1.8em;
+  color: #2a8ded;
+}
+.row.secondary div {
+  padding: 1em 0;
+}
+.row.secondary div:hover {
+  background-color: #25262e;
+}
+.copyright {
+  padding: 0.3em 1em;
+  background-color: #25262e;
+}
+.copyright p {
+  font-size: 0.9em;
+  text-align: center;
+}
+@media screen and (max-width: 850px) {
+  .row.primary {
+    grid-template-columns: 1fr;
+  }
+  .row.secondary {
+    
+  }
 }

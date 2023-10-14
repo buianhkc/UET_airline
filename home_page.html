@@ -18,6 +18,8 @@
         <!-- Latest compiled JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap" rel="stylesheet">
@@ -28,25 +30,88 @@
         <link rel="stylesheet" href="./assets/css/content_home_page.css">
         <link rel="stylesheet" href="./assets/css/footer.css">
 
+        <!-- for footer -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+        <!-- Font Awesome CDN -->
+        <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+        />
+        <!-- Google Fonts -->
+        <link
+            href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+            rel="stylesheet"
+        />
+
+        <link rel="stylesheet" href="./assets/font/themify-icons/themify-icons.css">
+
     </head>
     <body>
         <!-- Header -->
-        <div id="header-wrapper" class="home-page">
-            header-wrapper
+        <div id="header-wrapper">
+            <div class="container-wrapper">
+                <div class="nav-home">
+                    <a href="home_page.html">
+                        <img src="./assets/img/header/Logo ĐH Công Nghệ-UET.png" alt="logo" class="logo">
+                        <div class="info">
+                            <p class="name">UET Airline</p>
+                            <p class="slogan">Sải cánh vươn cao</p>
+                        </div> 
+                    </a>
+                </div>
+                <div class="nav-open">
+                    <div class="nav-sitetop">
+                        <a href="login.html" class="linkTologin">Đăng nhập</a>
+                        <a href="register.html" class="linkRegister">Đăng ký</a>
+                    </div>
+                    <div class="booking-ticket">
+                        <a href="booking_page.html" class="linkToBookingPage">Đặt vé ngay</a>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <!-- Slider -->
         <div id="divSliderCarousel">
-            divSliderCarousel
+            <div class="carousel">
+                <div class="carousel_inner">
+                   <div class="carousel_item carousel_item__active">
+                      <img src="./assets/img/slider/Hero_Web-2600x1111_ban_tet.jpg" alt="" class="carousel_img">
+                      <div class="carousel_caption">
+                         
+                      </div>
+                   </div>
+                   <div class="carousel_item">
+                      <img src="./assets/img/slider/230103_QuickSalesApp_2600x1111.jpg" alt="" class="carousel_img">
+                   </div>
+                   <div class="carousel_item">
+                      <img src="./assets/img/slider/2600x1111px_Thiet ke trai nghiem thuong gia noi dia.jpg" alt="" class="carousel_img">
+                   </div>
+                </div>
+          
+                <div class="carousel_indicator">
+                   <button class="carousel_dot carousel_dot__active"></button>
+                   <button class="carousel_dot"></button>
+                   <button class="carousel_dot"></button>
+                </div>
+          
+                <div class="carousel_control">
+                   <button class="carousel_button carousel_button__prev">
+                      <i class="fas fa-chevron-left"></i>
+                   </button>
+                   <button class="carousel_button carousel_button__next">
+                      <i class="fas fa-chevron-right"></i>
+                   </button>
+                </div>
+             </div>
         </div>
-
+        <script src="./assets/js/slider.js"></script>
+        
         <!--Container-->
         <div id="content">
-            content
             <div id="divFareDealsCarousel">
                 <div class="container-wrapper">
                     <div class="fare-deals-home-vna">
-
                         <div class="ic">
                             Khám Phá Các Chuyến Bay Phổ Biến Nhất Của Chúng Tôi
                         </div>
@@ -60,13 +125,135 @@
             </div>
         </div>
 
-        <div id="slider2">
-            Thông tin nổi bật
+        <div id="divHomeHightLight">
+            <div class="slidebox">
+                <div class="title-hightlight">
+                    <div class="slash"></div>
+                    <p class="title-name">Thông tin nổi bật</p>
+                    <div class="slash"></div>
+                </div>
+
+                <div class="box-wrapper">
+                    <div class="box-viewport">
+                        <div class="item">
+                            <div style="
+                                display: block; 
+                                overflow: hidden; 
+                                margin: 0;
+                            ">
+                                <img class="item-img" src="./assets/img/boxhightlight/HL-business.jpg">
+                            </div>
+                            <div class="title-info">
+                                <p>Hạng Thương Gia</p>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div style="
+                                display: block; 
+                                overflow: hidden; 
+                            ">
+                            <img class="item-img" src="./assets/img/boxhightlight/HL-pre-eco.webp">
+                            </div>
+                            <div class="title-info">
+                                <p>Hạng Phổ Thông Đặc Biệt</p>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div style="
+                                display: block; 
+                                overflow: hidden; 
+                            ">
+                                <img class="item-img" src="./assets/img/boxhightlight/HL-entertainment.webp">
+                            </div>
+                            <div class="title-info">
+                                <p>Dịch Vụ Trên Không</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
-        <!-- Footer -->
-        <div id="footer">
-            footer
-        </div>
+        <footer>
+
+            <div id="logo_skytrax_wap">
+                <div class="logo_skytrax_wap--container">
+                    <div class="custom-logo">
+                        <div class="logo-skytrax-img">
+                            <img src="./assets/img/footer/4-Star_Metallic_150x150.webp" alt=" Vietnam Airlines is proud to be leading 4-star global airline ">
+                        </div>
+                        <div class="logo-skytrax-txt">
+                            <h4></h4><h4 style="margin-top: 5px;">Uet Airlines tự hào là Hãng hàng không quốc tế 4 sao</h4>
+                            <p></p><p style="margin-bottom: 5px;">Xin trân trọng cảm ơn sự đồng hành của Quý khách và bạn hàng!</p><p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row primary">
+              <div class="column about">
+                <h3>UET Airline</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae,
+                  voluptatem corporis error non, corrupti delectus unde, incidunt
+                  dolorem quam porro tenetur autem? Maxime aspernatur quas, natus
+                  nesciunt harum obcaecati voluptatum.
+                </p>
+              </div>
+              <div class="column links">
+                <h3>Quick Links</h3>
+                <ul>
+                  <li>
+                    <a href="#faq">F.A.Q</a>
+                  </li>
+                  <li>
+                    <a href="#cookies-policy">Cookies Policy</a>
+                  </li>
+                  <li>
+                    <a href="#terms-of-services">Terms Of Service</a>
+                  </li>
+                  <li>
+                    <a href="#support">Support</a>
+                  </li>
+                  <li>
+                    <a href="#careers">Careers</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="column subscribe">
+                <h3>Subscribe</h3>
+                <div>
+                  <input type="email" placeholder="Your email id here" />
+                  <button>Subscribe</button>
+                </div>
+                <div class="social">
+                  <i class="fa-brands fa-facebook-square"></i>
+                  <i class="fa-brands fa-instagram-square"></i>
+                  <i class="fa-brands fa-twitter-square"></i>
+                </div>
+              </div>
+            </div>
+            <div class="row secondary">
+              <div>
+                <p>
+                  <i class="fas fa-phone-alt"></i>
+                </p>
+                <p>024.37547.461</p>
+              </div>
+              <div>
+                <p><i class="fas fa-envelope"></i></p>
+                <p>uet@vnu.edu.vn</p>
+              </div>
+              <div>
+                <p><i class="fas fa-map-marker-alt"></i></p>
+                <p>E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội</p>
+              </div>
+            </div>
+            <div class="row copyright">
+              <p>Copyright &copy; 2021 Coding Artist | All Rights Reserved</p>
+            </div>
+        </footer>
     </body>
 </html>
