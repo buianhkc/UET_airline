@@ -7,3 +7,30 @@
 #content > #divFareDealsCarousel {
 
 }
+
+.sticky-inner-wrapper {
+    z-index: 1002;
+    background-color: #f6edcc;
+}
+
+.wrapper-body {
+    padding: 0;
+    overflow: hidden;
+    max-width: 1920px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 100%;
+    background-color: transparent;
+}
+
+.view-title .title-wrapper {
+    font-size: 28px;
+    text-shadow: none;
+    color: #005f6e;
+    font-family: "OpenSans","Arial",sans-serif;
+    line-height: 38px;
+    font-weight: 700;
+    padding-bottom: 8px;
+}
