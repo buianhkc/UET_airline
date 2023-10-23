@@ -25,6 +25,45 @@
     background-color: transparent;
 }
 
+.wrapper-button {
+
+}
+
+.wrapper-button .spark-icon {
+    color: #000;
+
+}
+
+.wrapper-button > span {
+    margin-left: 0.25rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.spark-icon {
+    margin-right: 0.5rem;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-size: 1.33333333rem;
+    line-height: 1.33333333rem;
+    text-rendering: auto;
+    vertical-align: middle;
+    speak: none;
+    font-family: spark-icon-line;
+    font-style: normal;
+    font-variant: normal!important;
+    font-weight: 400;
+    text-transform: none!important;
+}
+
+span {
+    border: 0;
+    font: inherit;
+    margin: 0;
+    padding: 0;
+}
+
 .view-title .title-wrapper {
     font-size: 28px;
     text-shadow: none;
