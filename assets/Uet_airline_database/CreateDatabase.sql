@@ -6,7 +6,7 @@ USE UET_Airline;
 CREATE TABLE city (	
 	ma_thanh_pho VARCHAR(3) NOT NULL PRIMARY KEY,
     ten_thanh_pho NVARCHAR(30) NOT NULL,
-    img BLOB
+    linkImg VARCHAR(500)
 );
 
 CREATE TABLE airline (	
