@@ -28,21 +28,170 @@
         <link rel="stylesheet" href="./assets/css/hidden-nav-mobile.css">
         <link rel="stylesheet" href="./assets/css/login.css">
 
+                <!-- for footer -->
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+                <!-- Font Awesome CDN -->
+                <link
+                rel="stylesheet"
+                href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+                />
+                <!-- Google Fonts -->
+                <link
+                    href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+                    rel="stylesheet"
+                />
+        
+                <link rel="stylesheet" href="./assets/font/themify-icons/themify-icons.css">
+                <meta charset="UTF-8">
+                <title>Login Page in HTML with CSS Code Example</title>
+                <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+                <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"><link rel="stylesheet" href="./style.css">
+
     </head>
     <body>
         <!-- Header -->
         <div id="header-wrapper">
-            header-wrapper
+            <div class="container-wrapper">
+                <div class="nav-home">
+                    <a href="home_page.html">
+                        <img src="./assets/img/header/Logo ĐH Công Nghệ-UET.png" alt="logo" class="logo">
+                        <div class="info">
+                            <p class="name">UET Airline</p>
+                            <p class="slogan">Sải cánh vươn cao</p>
+                        </div> 
+                    </a>
+                </div>
+                <div class="nav-open">
+                    <div class="nav-sitetop">
+                        <a href="login.html" class="linkTologin">Đăng nhập</a>
+                        <a href="register.html" class="linkRegister">Đăng ký</a>
+                    </div>
+                    <div class="booking-ticket">
+                        <a href="booking_page.html" class="linkToBookingPage">Đặt vé ngay</a>
+                    </div>
+                </div>
+            </div>
         </div>
-
         <!-- Login -->
-        <div id="divLogin">
-            Login
+      <div class="phandangnhap">
+        <div class="box-form">
+          <div class="left">
+            <div class="overlay">
+            <h1>UET Airline</h1>
+            <p>Luôn đồng hành cùng bạn</p>
+            <span>
+              <p>login with social media</p>
+              <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i> Login with Twitter</a>
+            </span>
+            </div>
+          </div>
+          
+          <div class="right">
+            <h5>Login</h5>
+            <div class="inputs">
+              <input type="text" placeholder="user name">
+              <br>
+              <input type="password" placeholder="password">
+            </div>
+              <br><br>
+              
+            <div class="remember-me--forget-password">
+                <!-- Angular -->
+          <label>
+            <input type="checkbox" name="item" checked/>
+            <span class="text-checkbox">Remember me</span>
+          </label>
+            </div>
+              <br>
+              <div style="display:block;">
+                <button >Login</button>
+              </div>
+             <div style="margin-top: 20px;">
+                <p>Don't have an account? <a href="register.html">Creat Your Account</a> it takes less than a minute</p>
+             </div>
+          </div>
         </div>
-
+      </div>
         <!-- Footer -->
-        <div id="footer">
-            footer
-        </div>
+        <footer>
+
+            <div id="logo_skytrax_wap">
+                <div class="logo_skytrax_wap--container">
+                    <div class="custom-logo">
+                        <div class="logo-skytrax-img">
+                            <img src="./assets/img/footer/4-Star_Metallic_150x150.webp" alt=" Vietnam Airlines is proud to be leading 4-star global airline ">
+                        </div>
+                        <div class="logo-skytrax-txt">
+                            <h4></h4><h4 style="margin-top: 5px;">Uet Airlines tự hào là Hãng hàng không quốc tế 4 sao</h4>
+                            <p></p><p style="margin-bottom: 5px;">Xin trân trọng cảm ơn sự đồng hành của Quý khách và bạn hàng!</p><p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row primary">
+              <div class="column about">
+                <h3>UET Airline</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae,
+                  voluptatem corporis error non, corrupti delectus unde, incidunt
+                  dolorem quam porro tenetur autem? Maxime aspernatur quas, natus
+                  nesciunt harum obcaecati voluptatum.
+                </p>
+              </div>
+              <div class="column links">
+                <h3>Quick Links</h3>
+                <ul>
+                  <li>
+                    <a href="#faq">F.A.Q</a>
+                  </li>
+                  <li>
+                    <a href="#cookies-policy">Cookies Policy</a>
+                  </li>
+                  <li>
+                    <a href="#terms-of-services">Terms Of Service</a>
+                  </li>
+                  <li>
+                    <a href="#support">Support</a>
+                  </li>
+                  <li>
+                    <a href="#careers">Careers</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="column subscribe">
+                <h3>Subscribe</h3>
+                <div>
+                  <input type="email" placeholder="Your email id here" />
+                  <button>Subscribe</button>
+                </div>
+                <div class="social">
+                  <i class="fa-brands fa-facebook-square"></i>
+                  <i class="fa-brands fa-instagram-square"></i>
+                  <i class="fa-brands fa-twitter-square"></i>
+                </div>
+              </div>
+            </div>
+            <div class="row secondary">
+              <div>
+                <p>
+                  <i class="fas fa-phone-alt"></i>
+                </p>
+                <p>024.37547.461</p>
+              </div>
+              <div>
+                <p><i class="fas fa-envelope"></i></p>
+                <p>uet@vnu.edu.vn</p>
+              </div>
+              <div>
+                <p><i class="fas fa-map-marker-alt"></i></p>
+                <p>E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội</p>
+              </div>
+            </div>
+            <div class="row copyright">
+              <p>Copyright &copy; 2021 Coding Artist | All Rights Reserved</p>
+            </div>
+        </footer>
     </body>
 </html>
