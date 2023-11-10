@@ -59,9 +59,13 @@
     border: none;
     border-radius: 5px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.308);
-    display: none;
     flex-direction: column;
     z-index: 1;
+    display: none;
+}
+
+.showLtr {
+    display: flex;
 }
 
 .toggleElement .ltr.ltrBudget {
@@ -174,7 +178,6 @@
 }
 
 .fare-item--content.fare-img {
-    background-image: url("../img/farelist/licensed-image.jfif");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
