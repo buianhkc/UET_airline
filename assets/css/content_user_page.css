@@ -1,9 +1,18 @@
-/* body{
-    margin-top:20px;
-    color: #1a202c;
-    text-align: left;
-    background-color: #e2e8f0;    
-} */
+body {
+    margin: 0; 
+    padding: 0;
+} 
+
+p {
+    margin: 0; 
+    padding: 0;
+}
+
+label {
+    margin: 0; 
+    padding: 0;
+}
+
 .main-body {
     padding: 15px;
 }
@@ -56,3 +65,126 @@
     padding: 0;
 }
 
+
+/* css for list ticket */
+
+.balance-content-wraper {
+    margin: 20px 20px 10px 10px;
+}
+
+.balance-content-wraper .balance-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.list-ticket-booked-commingSoon {
+    width: 100%;
+}
+
+.list-ticket-booked-commingSoon .ticket {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.26);
+    border-width: 1px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.06);
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.list-ticket-booked-commingSoon .ticket .part-left {
+    display: flex;
+    padding: 10px;
+}
+
+.ticket .part-left .flight-offer-details {
+    /* display: flex;
+    flex-direction: row; */
+    float: left;
+}
+
+.flight-offer-details .route-date-time {
+    display: flex;
+    flex-direction: row;
+    margin-right: 10px;
+}
+
+.route-date-time .time-airport {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.flight-offer-details .route-date-time .icon-arrow {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.route-date-time .time-airport .time {
+    color: #005F6E;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.flight-offer-details .duration-stop {
+    font-size: 15px;
+}
+
+.route-date-time .time-airport .airport {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.route-date-time .icon-arrow {
+    display: inline-block;
+}
+
+.ticket .part-left .plane-details {
+    display: flex;
+}
+
+.list-ticket-booked-commingSoon .ticket .part-right {
+    display: flex;
+}
+
+.ticket .part-right .price-content-wrapper {
+    width: 50%;
+    margin: 10px 10px;
+}
+
+.part-right .price-content-wrapper .buy-ticket-btn {
+    width: 100%;
+    color: #005F6E;
+    font-weight: bold;
+    padding: 5px 0px;
+    cursor: pointer;
+}
+.buy-ticket-btn.business {
+    background-color: #FBF9E4;
+    border: solid;
+    border-color: #7B5A04;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.buy-ticket-btn.economy {
+    background-color: #F4F9F5;
+    border: solid;
+    border-color: #005F6E;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.buy-ticket-btn > label {
+    justify-self: left;
+}
+
+.buy-ticket-btn .quantity-remain {
+    color: rgba(0, 0, 0, 0.681);
+    font-weight: 300;
+}
