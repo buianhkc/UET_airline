@@ -15,6 +15,9 @@ label {
 
 .main-body {
     padding: 15px;
+    margin-bottom: 30px;
+    background-color: #FBF9E4;
+    margin-top: 10px;
 }
 .card {
     box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
@@ -65,9 +68,6 @@ label {
     padding: 0;
 }
 
-
-/* css for list ticket */
-
 .balance-content-wraper {
     margin: 20px 20px 10px 10px;
 }
@@ -76,6 +76,47 @@ label {
     font-size: 20px;
     font-weight: bold;
 }
+
+.deposit-content-wraper {
+    margin: 20px 20px 10px 10px;
+}
+
+.deposit-content-wraper .deposit-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.deposit-content-wraper .input-amount-content {
+    width: 100%;
+    padding: 10px 10px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    margin-top: 10px;
+}
+
+.input-amount-content #input-amount {
+    border: none;
+    background: none;
+    width: 75%;
+}
+
+.input-amount-content .monetary {
+    float: right;
+    width: 20%;
+    text-align: center;
+}
+
+
+.deposit-content-wraper .deposit-btn {
+    border: none;
+    background-color: #ffe600;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+/* css for list ticket */
 
 .list-ticket-booked-commingSoon {
     width: 100%;
@@ -150,8 +191,66 @@ label {
 
 .list-ticket-booked-commingSoon .ticket .part-right {
     display: flex;
+    justify-content: space-between;
 }
 
+.part-right .customer-order-details {
+    background-color: #F4F9F5;
+    border: solid;
+    border-color: #005F6E;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 10px;
+    color: #005F6E;
+    font-weight: bold;
+    margin-left: 10px;
+    width: 65%
+}
+
+.part-right .process-ticket {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+}
+
+.part-right .process-ticket .pay-ticket {
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin: 10px 0px;
+    background-color: rgb(36, 213, 36);
+    transition: 0.5s;
+}
+
+.part-right .process-ticket .pay-ticket.unpaid {
+    background-color: rgb(36, 213, 36);
+    transition: 0.5s;
+}
+
+.part-right .process-ticket .pay-ticket.unpaid:hover {
+    background-color: rgb(0, 255, 0);
+}
+
+.part-right .process-ticket .pay-ticket.paid {
+    background-color: rgba(156, 156, 156, 0.673);
+}
+
+
+.part-right .process-ticket .cancel-ticket {
+    border: none;
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px 20px;
+    margin: 10px 0px;
+    background-color: rgba(252, 104, 55, 0.804);
+    transition: 0.5s;
+}
+.part-right .process-ticket .cancel-ticket:hover {
+    background-color: rgb(248, 79, 23)
+}
 .ticket .part-right .price-content-wrapper {
     width: 50%;
     margin: 10px 10px;
