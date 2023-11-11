@@ -11,6 +11,10 @@
 .sticky-inner-wrapper {
     z-index: 1002;
     background-color: #f6edcc;
+    display: flex;
+    clear: both;
+    display: flex;
+    justify-content: space-between;
 }
 
 .wrapper-body {
@@ -24,45 +28,66 @@
     width: 100%;
     background-color: transparent;
 }
-
-.wrapper-button {
-
-}
-
-.wrapper-button .spark-icon {
-    color: #000;
-
-}
-
+/* 
 .wrapper-button > span {
     margin-left: 0.25rem;
     overflow: hidden;
     text-overflow: ellipsis;
+    margin-bottom: 0;
+} */
+
+.wrapper-body .indicator-item {
+    background-color: lightblue;
+    display: flex;
+    align-content: center;
+    margin-right: 1100px;
 }
 
-.spark-icon {
-    margin-right: 0.5rem;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    display: inline-block;
-    font-size: 1.33333333rem;
-    line-height: 1.33333333rem;
-    text-rendering: auto;
-    vertical-align: middle;
-    speak: none;
-    font-family: spark-icon-line;
-    font-style: normal;
-    font-variant: normal!important;
-    font-weight: 400;
-    text-transform: none!important;
+.wrapper-body .indicator-item .indicator-item-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-span {
-    border: 0;
-    font: inherit;
+.wrapper-body .indicator-item .indicator-item-icon {
+    display: flex;
+    max-width: 100%;
+    margin-right: 10px;
+}
+
+/* .wrapper-body .indicator-item .indicator-item-title  {
+    line-height: 100%;
+} */
+
+.wrapper-body .indicator-item .indicator-item-title1, .indicator-item-title2 {
     margin: 0;
-    padding: 0;
 }
+
+.sticky-inner-wrapper .wrapper-body .indicator-edit-button {
+    margin-left: auto;
+}
+
+.indicator-edit-button .wrapper-button {
+    background-color: lightpink;
+    display: flex;
+    align-items: center;
+    /* align-content: center; */
+    /* padding-top: 2px; */
+}
+  
+.wrapper-button .spark-img {
+    max-width: 100%; 
+    height: auto; 
+  }
+  
+ .wrapper-button .spark-text {
+    margin-left: 10px; 
+  }
+
+/* .wrapper-body .indicator-edit-button {
+    background-color: lightpink;
+    float: right;
+} */
 
 .view-title .title-wrapper {
     font-size: 28px;
@@ -184,4 +209,111 @@ button {
     display: flex;
     -webkit-box-flex: 1;
     flex: 1;
+}
+
+.result-into-sort-filter .result-count {
+    margin-right: 20px;
+}
+
+.first-row .result-into-sort-filter .spark-propover {
+    display: flex;
+    align-items: center; 
+}
+ 
+.spark-propover .button-choice {
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.text-button {
+    font-family: "OpenSans","Arial",sans-serif;
+    font-weight: 700;
+    color: #005f6e;
+}
+
+.button-label {
+    display: flex;
+    align-items: center;
+    /* background: none; */
+    /* border: none;
+    cursor: pointer; */
+}
+
+.button-label span {
+    display: flex;
+    border: 0;
+    padding: 0;
+    vertical-align: baseline;
+    margin-right: 5px;
+}
+
+.button-label .button-img {
+    max-width: 10px;
+}
+
+.dropdown-list {
+    display: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dropdown-list li {
+    padding: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Hiệu ứng chuyển đổi màu nền */
+  }
+  
+  .dropdown-list li:hover {
+    background-color: #f0f0f0;
+  }
+
+.first-row .offer-labels {
+    background-color: transparent;
+    padding: 0;
+    font-family: "OpenSans", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 1.677rem;
+    width: 50%;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.offer-labels .offer-label {
+    -webkit-box-flex: 1;
+    flex: 1;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0px 6px 0px 6px;
+    font-size: 18;
+    border-radius: 4px;
+    background: #005f6e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 4rem;
+    font-weight: 700;
+    padding: 10px;
+}
+
+.offer-label:not(:last-child) {
+    margin-right: 10px;
+}
+
+.offer-labels .economy {
+    color: white;
+}
+
+.offer-labels .business {
+    color: black;
+    background-color: #e6b4e6;
+    color: #222;
 }
