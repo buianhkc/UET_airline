@@ -18,6 +18,9 @@
         <!-- Latest compiled JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
+        <!-- JS -->
+        <script src="assets/js/sort-booking-page.js" defer></script>
+
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap" rel="stylesheet">
@@ -58,12 +61,24 @@
           <div class = "main-content">
             <div class="sticky-inner-wrapper">
               <div class="wrapper-body">
-                <button  type ="button" class="wrapper-button">
-                  <span class="spark-icon"></span>
-                  <span class="spark-text">Thay đổi</span>
-                </button>
+                <div class="indicator-item">
+                  <img src="./assets/img/booking-page/airplane.png" class="indicator-item-icon">
+                  <div class="indicator-item-title">
+                    <p class="indicator-item-title1">SGN -> HAN</p>
+                    <p class="indicator-item-title2">xem lại chuyến đi</p>
+                  </div>
+                </div>
+                <div class="indicator-edit-button">
+                  <a href="selected_ticket.html">
+                    <div class="wrapper-button" > 
+                    <img src="./assets/img/booking-page/change.png" class="spark-img">  
+                    <p class="spark-text">Thay đổi</p>
+                  </div>
+                  </a>
+                </div>
               </div>
             </div>
+
             <div class="view-title">
               <p class="title-wrapper">Chọn chuyến bay</p>
               <p class="view-subtitle">Chọn chuyến bay TP. Hồ Chí Minh đến TP. Hà Nội</p>
@@ -104,7 +119,29 @@
                 <div class="first-row">
                   <div class="result-into-sort-filter">
                     <span class="result-count">27 kết quả</span>  
-                    
+                    <div class="spark-popover" id="popover">
+                      <button type="button" class="button-choice" id="buttonChoice">
+                        <span class="button-label">
+                          <span class="text-button">Sắp xếp theo: </span>
+                          <img src="assets/img/booking-page/down-arrow.png" alt="down-arrow">
+                        </span>
+                      </button>
+                      <ul class="dropdown-list" id="dropdownList">
+                        <li data-sort="desc">Thời gian khởi hành giảm dần</li>
+                        <li data-sort="asc">Thời gian khởi hành tăng dần</li>
+                        <li data-sort="desc">Giá vé giảm dần</li> 
+                        <li data-sort="asc">Giá vé tăng dần</li>
+                      </ul>
+                    </div>     
+                    <script>
+                      document.addEventListener('DOMContentLoaded', function () {
+                        initializeDropdown();
+                      });
+                    </script>
+                  </div>
+                  <div class="offer-labels">
+                    <div class="offer-label economy">Phổ thông</div>
+                    <div class="offer-label business">Thương gia</div>
                   </div>
                 </div>
               </div>
