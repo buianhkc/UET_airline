@@ -317,3 +317,192 @@ button {
     background-color: #e6b4e6;
     color: #222;
 }
+
+.upper-row {
+    padding: 24px 24px 0px 24px;
+    position: relative;
+    border: none;
+}
+
+.upper-row .panel-content {
+    position: relative;
+    border: 1px solid #c8c8c8;
+    border-radius: 4px;
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,18) ;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    width: 100%;
+}
+
+/* css for list ticket */
+
+.list-ticket-booked-commingSoon {
+    width: 100%;
+}
+
+.list-ticket-booked-commingSoon .ticket {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.26);
+    border-width: 1px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.06);
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.list-ticket-booked-commingSoon .ticket .part-left {
+    display: flex;
+    padding: 10px;
+}
+
+.ticket .part-left .flight-offer-details {
+    display: flex;
+    flex-direction: row;
+    float: left;
+}
+
+.flight-offer-details .route-date-time {
+    display: flex;
+    flex-direction: row;
+    margin-right: 10px;
+}
+
+.route-date-time .time-airport {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.flight-offer-details .route-date-time .icon-arrow {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.route-date-time .time-airport .time {
+    color: #005F6E;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.flight-offer-details .duration-stop {
+    font-size: 15px;
+}
+
+.route-date-time .time-airport .airport {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.route-date-time .icon-arrow {
+    display: inline-block;
+}
+
+.ticket .part-left .plane-details {
+    display: flex;
+}
+
+.list-ticket-booked-commingSoon .ticket .part-right {
+    display: flex;
+    justify-content: space-between;
+}
+
+.part-right .customer-order-details {
+    background-color: #F4F9F5;
+    border: solid;
+    border-color: #005F6E;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 10px;
+    color: #005F6E;
+    font-weight: bold;
+    margin-left: 10px;
+    width: 65%
+}
+
+.part-right .process-ticket {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+}
+
+.part-right .process-ticket .pay-ticket {
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin: 10px 0px;
+    background-color: rgb(36, 213, 36);
+    transition: 0.5s;
+}
+
+.part-right .process-ticket .pay-ticket.unpaid {
+    background-color: rgb(36, 213, 36);
+    transition: 0.5s;
+}
+
+.part-right .process-ticket .pay-ticket.unpaid:hover {
+    background-color: rgb(0, 255, 0);
+}
+
+.part-right .process-ticket .pay-ticket.paid {
+    background-color: rgba(156, 156, 156, 0.673);
+}
+
+
+.part-right .process-ticket .cancel-ticket {
+    border: none;
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px 20px;
+    margin: 10px 0px;
+    background-color: rgba(252, 104, 55, 0.804);
+    transition: 0.5s;
+}
+.part-right .process-ticket .cancel-ticket:hover {
+    background-color: rgb(248, 79, 23)
+}
+.ticket .part-right .price-content-wrapper {
+    width: 50%;
+    margin: 10px 10px;
+}
+
+.part-right .price-content-wrapper .buy-ticket-btn {
+    width: 100%;
+    color: #005F6E;
+    font-weight: bold;
+    padding: 5px 0px;
+    cursor: pointer;
+}
+.buy-ticket-btn.business {
+    background-color: #FBF9E4;
+    border: solid;
+    border-color: #7B5A04;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.buy-ticket-btn.economy {
+    background-color: #F4F9F5;
+    border: solid;
+    border-color: #005F6E;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.buy-ticket-btn > label {
+    justify-self: left;
+}
+
+.buy-ticket-btn .quantity-remain {
+    color: rgba(0, 0, 0, 0.681);
+    font-weight: 300;
+}
