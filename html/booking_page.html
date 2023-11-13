@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>UET Airline</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+        <!-- jQuery library -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+        <!-- Popper JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+        <!-- Latest compiled JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+        <!-- JS -->
+        <script src="assets/js/sort-booking-page.js" defer></script>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="/public/css/style.css">
+        <link rel="stylesheet" href="/public/css/header_booking_page.css">
+        <link rel="stylesheet" href="/public/css/content_booking_page.css">
+        <link rel="stylesheet" href="/public/css/footer.css">
+        <link rel="stylesheet" href="/public/css/search_booking_page.css">
+    </head>
+    <body>
+        <!-- Header -->
+        <div id="header-wrapper">
+            <div class="container-wrapper">
+                <div class="nav-home">
+                    <a href="home_page.html">
+                        <img src="/public/img/header/Logo ĐH Công Nghệ-UET.png" alt="logo" class="logo">
+                        <div class="info">
+                            <p class="name">UET Airline</p>
+                            <p class="slogan">Sải cánh vươn cao</p>
+                        </div> 
+                    </a>
+                </div>
+                <div class = "nav-menu">
+                  <div class="user-page">
+                    <a href="user_page.html" class="LinkToUserpage">Trang cá nhân của tôi</a>
+                  </div>
+                </div>
+                <div class="nav-open">
+                  <div class="nav-sitetop">
+                      <a href="login.html" class="linkTologin">Đăng nhập</a>
+                      <a href="register.html" class="linkRegister">Đăng ký</a>
+                  </div>
+                </div>
+            </div>
+        </div>
+        <div id="divMaincontent">
+          <div class = "main-content">
+            <div class="sticky-inner-wrapper">
+              <div class="wrapper-body">
+                <div class="indicator-item">
+                  <img src="/public/img/booking-page/airplane.png" class="indicator-item-icon">
+                  <div class="indicator-item-title">
+                    <p class="indicator-item-title1">SGN -> HAN</p>
+                    <p class="indicator-item-title2">xem lại chuyến đi</p>
+                  </div>
+                </div>
+                <div class="indicator-edit-button">
+                  <a href="selected_ticket.html">
+                    <div class="wrapper-button" > 
+                    <img src="/public/img/booking-page/change.png" class="spark-img">  
+                    <p class="spark-text">Thay đổi</p>
+                  </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="view-title">
+              <p class="title-wrapper">Chọn chuyến bay</p>
+              <p class="view-subtitle">Chọn chuyến bay TP. Hồ Chí Minh đến TP. Hà Nội</p>
+            </div>
+            <div class="left-side-panel">
+              <div class="dxp-panel">
+                <div class="inside-panel">
+                    <span size="4rem">Tra cứu thông tin chuyến bay khác 
+                      <a href="home_page.html" target="_blank">tại đây.</a>
+                    </span>
+                    <br>
+                    <span style="color:#cc0000;">
+                      <b>Lưu ý: Giá dưới đây đã bao gồm thuế, phí </b>
+                    </span>
+                    <br>
+                    <a href="" target="_blank"> + Phí Dịch Vụ Đặc Biệt </a>
+                    <br>
+                    <a href="https://vnbay.com.vn/cach-tinh-thue-va-phi-ve-may-bay-cua-3-hang-hang-khong-.html" target="_blank">
+                      + Thuế Theo Thị Trường
+                    </a>
+                    <br>
+                    <p style="font-weight: bold;">Đồng tiền thanh toán hiển thị theo "Quốc gia/Vùng" đã chọn, Quý khách
+                    kiểm tra kỹ lưỡng đồng tiền trước khi thanh toán.</p>
+                </div>
+              </div>
+              <div class="view-title">
+                <p class="title-wrapper">Chuyến bay chiều đi</p>
+              </div>
+              <!-- <div class="flight-selection-rippon">
+                <div type="button" class="flight-selection-item" aria-pressed="true">
+                  <div class="date">10 Thg 11</div>
+                  <div class="flight-price">
+                    <span class="dxp-price">"2,000,000 VND"</span>
+                  </div>
+                </div>
+              </div> -->
+              <div class="flight-table-section">
+                <div class="first-row">
+                  <div class="result-into-sort-filter">
+                    <span class="result-count">27 kết quả</span>  
+                    <div class="spark-popover" id="popover">
+                      <button type="button" class="button-choice" id="buttonChoice">
+                        <span class="button-label">
+                          <span class="text-button">Sắp xếp theo: </span>
+                          <img src="assets/img/booking-page/down-arrow.png" alt="down-arrow">
+                        </span>
+                      </button>
+                      <ul class="dropdown-list" id="dropdownList">
+                        <li data-sort="desc">Thời gian khởi hành giảm dần</li>
+                        <li data-sort="asc">Thời gian khởi hành tăng dần</li>
+                        <li data-sort="desc">Giá vé giảm dần</li> 
+                        <li data-sort="asc">Giá vé tăng dần</li>
+                      </ul>
+                    </div>     
+                    <script>
+                      document.addEventListener('DOMContentLoaded', function () {
+                        initializeDropdown();
+                      });
+                    </script>
+                  </div>
+                  <div class="offer-labels">
+                    <div class="offer-label economy">Phổ thông</div>
+                    <div class="offer-label business">Thương gia</div>
+                  </div>
+                </div>
+                <div class="upper-row">
+                  <div class="panel-content">
+                    <div class="ticket">
+                    <div class="part-left">
+                      <div class="flight-offer-details">
+                        <div class="route-date-time">
+                          <div class="time-airport">
+                            <div class="time">15 Thg 11, 06:30
+                            </div>
+                            <div class="airport">
+                              HAN (Hà Nội)
+                            </div>
+                          </div>
+                          <div class="icon-arrow">
+                            <img src="/public/img/user/aircraft.png">
+                          </div>
+                          <div class="time-airport">
+                            <div class="time">15 Thg 11, 06:30
+                            </div>
+                            <div class="airport">
+                              HAN (Hà Nội)
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="duration-stop">
+                          1 tiếng 30 phút
+                        </div>
+                      </div>
+
+                      <div class="plane-details">
+                        <div class="details" style="display: inline-block;">
+                          <div style="display: flex; align-items: center;">
+                            <img src="/public/img/user/VN.png" style="width: 20px; height:20px; display: inline-block; align-self: center;">
+                            <p class="flight-code" style="display: inline-block; margin-left: 5px;">UET 283749</p>
+                          </div>
+                          <p class="plane-name" style="font-weight: bold;">ATA 3632</p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="part-right">
+                      <div class="price-content-wrapper">
+                        <button class="buy-ticket-btn economy">
+                            <div class="ticket-adult">
+                              <label style="font-size: 15px;">Người lớn</label>
+                              <p style="font-size: 20px;">1.000.000VND</p>
+                            </div>
+
+                            <div class="ticket-chilren">
+                              <label style="font-size: 15px;">Trẻ em</label>
+                              <p style="font-size: 20px;">500.000VND</p>
+                            </div>
+                            
+                            <div class="quantity-remain">
+                              <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
+                            </div>
+                          </button>
+                          </div>
+
+                          <div class="price-content-wrapper">
+                            <button class="buy-ticket-btn business">
+                                <div class="ticket-adult">
+                                  <label style="font-size: 15px;">Người lớn</label>
+                                  <p style="font-size: 20px;">2.000.000VND</p>
+                                </div>
+
+                                <div class="ticket-chilren">
+                                  <label style="font-size: 15px;">Trẻ em</label>
+                                  <p style="font-size: 20px;">1.000.000VND</p>
+                                </div>
+                                
+                                <div class="quantity-remain">
+                                  <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
+                                </div>
+                              </button>
+                          </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Footer -->      
+        <footer>
+
+            <div id="logo_skytrax_wap">
+                <div class="logo_skytrax_wap--container">
+                    <div class="custom-logo">
+                        <div class="logo-skytrax-img">
+                            <img src="/public/img/footer/4-Star_Metallic_150x150.webp" alt=" Vietnam Airlines is proud to be leading 4-star global airline ">
+                        </div>
+                        <div class="logo-skytrax-txt">
+                            <h4></h4><h4 style="margin-top: 5px;">Uet Airlines tự hào là Hãng hàng không quốc tế 4 sao</h4>
+                            <p></p><p style="margin-bottom: 5px;">Xin trân trọng cảm ơn sự đồng hành của Quý khách và bạn hàng!</p><p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row primary">
+              <div class="column about">
+                <h3>UET Airline</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae,
+                  voluptatem corporis error non, corrupti delectus unde, incidunt
+                  dolorem quam porro tenetur autem? Maxime aspernatur quas, natus
+                  nesciunt harum obcaecati voluptatum.
+                </p>
+              </div>
+              <div class="column links">
+                <h3>Quick Links</h3>
+                <ul>
+                  <li>
+                    <a href="#faq">F.A.Q</a>
+                  </li>
+                  <li>
+                    <a href="#cookies-policy">Cookies Policy</a>
+                  </li>
+                  <li>
+                    <a href="#terms-of-services">Terms Of Service</a>
+                  </li>
+                  <li>
+                    <a href="#support">Support</a>
+                  </li>
+                  <li>
+                    <a href="#careers">Careers</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="column subscribe">
+                <h3>Subscribe</h3>
+                <div>
+                  <input type="email" placeholder="Your email id here" />
+                  <button>Subscribe</button>
+                </div>
+                <div class="social">
+                  <i class="fa-brands fa-facebook-square"></i>
+                  <i class="fa-brands fa-instagram-square"></i>
+                  <i class="fa-brands fa-twitter-square"></i>
+                </div>
+              </div>
+            </div>
+            <div class="row secondary">
+              <div>
+                <p>
+                  <i class="fas fa-phone-alt"></i>
+                </p>
+                <p>024.37547.461</p>
+              </div>
+              <div>
+                <p><i class="fas fa-envelope"></i></p>
+                <p>uet@vnu.edu.vn</p>
+              </div>
+              <div>
+                <p><i class="fas fa-map-marker-alt"></i></p>
+                <p>E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội</p>
+              </div>
+            </div>
+            <div class="row copyright">
+              <p>Copyright &copy; 2021 Coding Artist | All Rights Reserved</p>
+            </div>
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <%- include ('../partials/head') %>
+
+        <link rel="stylesheet" href="/public/css/style.css">
+        <link rel="stylesheet" href="/public/css/header_home_page.css">
+        <link rel="stylesheet" href="/public/css/slider.css">
+        <link rel="stylesheet" href="/public/css/content_home_page.css">
+        <link rel="stylesheet" href="/public/css/footer.css">
+        <link rel="stylesheet" href="/public/css/selected_ticket.css"
+
+    </head>
+    <body>
+        <!-- Header -->
+        <%- include ('../partials/header') %>
+
+        <!-- Slider -->
+        <div id="divSliderCarousel">
+            <div class="carousel">
+                <div class="carousel_inner">
+                   <div class="carousel_item carousel_item__active">
+                      <img src="/public/img/slider/Hero_Web-2600x1111_ban_tet.jpg" alt="" class="carousel_img">
+                      <div class="carousel_caption">
+                         
+                      </div>
+                   </div>
+                   <div class="carousel_item">
+                      <img src="/public/img/slider/230103_QuickSalesApp_2600x1111.jpg" alt="" class="carousel_img">
+                   </div>
+                   <div class="carousel_item">
+                      <img src="/public/img/slider/2600x1111px_Thiet ke trai nghiem thuong gia noi dia.jpg" alt="" class="carousel_img">
+                   </div>
+                </div>
+          
+                <div class="carousel_indicator">
+                   <button class="carousel_dot carousel_dot__active"></button>
+                   <button class="carousel_dot"></button>
+                   <button class="carousel_dot"></button>
+                </div>
+          
+                <div class="carousel_control">
+                   <button class="carousel_button carousel_button__prev">
+                      <i class="fas fa-chevron-left"></i>
+                   </button>
+                   <button class="carousel_button carousel_button__next">
+                      <i class="fas fa-chevron-right"></i>
+                   </button>
+                </div>
+             </div>
+        </div>
+        <script src="/public/js/slider.js"></script>
+        
+        <!--Container-->
+        <div id="content">
+            <div id="divFareDealsCarousel">
+                <div class="container-wrapper">
+                    <div class="fare-deals-home-vna">
+                        <div class="ic">
+                            <h2 class="heading">
+                                <p class="heading--text">Khám Phá Những Chuyến Bay Phổ Biến Nhất Của Chúng Tôi</p>
+                            </h2>
+                            <div class="filter">
+                                <div class="toggleElement">
+                                    <button class="toggleElement--buton Route" onclick="showLtr(this)">
+                                        <p>Chọn tuyến đường</p>
+                                        <i class="ti-angle-down"></i>  
+                                    </button>
+    
+                                    <div class="ltr ltrRoute">
+                                        <div class="ltr--container">
+                                            <div class="ltr-part1">
+                                                <div class="container-input">
+                                                    <!-- <p class="fr-input--name">Từ</p>
+                                                    <div class="fr-input">
+                                                        <i class="ti-location-pin"></i>
+                                                        <input type="text" placeholder="Nhập điểm đi" name="airport-depart">
+                                                    </div> -->
+
+                                                    <p class="fr-input--name">Từ</p>
+                                                    <div class="fr-input">
+                                                        <i class="ti-location-pin"></i>
+                                                        <select class="form-select airport-depart" aria-label="Default select example" name="airport-depart">
+                                                            <option value="0" selected>Chọn điểm đi</option>
+                                                            <option value="1">VTB (Bà Rịa – Vũng Tàu)</option>
+                                                            <option value="2">BDI (Bình Định)</option>
+                                                            <option value="3">CMU (Cà Mau)</option>
+                                                            <option value="4">CTH (Cần Thơ)</option>
+                                                            <option value="5">DNA (Đà Nẵng)</option>
+                                                            <option value="6">DLA (Đắk Lắk)</option>
+                                                            <option value="7">DBI (Điện Biên)</option>
+                                                            <option value="8">GLA (Gia Lai)</option>
+                                                            <option value="9">HNO (Hà Nội)</option>
+                                                            <option value="10">HPG (Hải Phòng)</option>
+                                                            <option value="11">HCM (Thành phố Hồ Chí Minh)</option>
+                                                            <option value="12">KHA (Khánh Hòa)</option>
+                                                            <option value="13">KGI (Kiên Giang)</option>
+                                                            <option value="14">LDG (Lâm Đồng)</option>
+                                                            <option value="15">NAN (Nghệ An)</option>
+                                                            <option value="16">PYE (Phú Yên)</option>
+                                                            <option value="17">QBI (Quảng Bình)</option>
+                                                            <option value="18">QNA (Quảng Nam)</option>
+                                                            <option value="19">QNH (Quảng Ninh)</option>
+                                                            <option value="20">THA (Thanh Hóa)</option>
+                                                            <option value="21">TTH (Thừa Thiên Huế)</option>
+
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                
+                                                <div class="container-input">
+                                                    <!-- <p class="fr-input--name">Đến</p>
+                                                    <div class="fr-input">
+                                                        <i class="ti-location-pin"></i>
+                                                        <input type="text" placeholder="Nhập điểm đến" name="airport-arrive">
+                                                    </div> -->
+
+                                                    <p class="fr-input--name">Đến</p>
+                                                    <div class="fr-input">
+                                                        <i class="ti-location-pin"></i>
+                                                        <select class="form-select airport-arrive" aria-label="Default select example" name="airport-arrive">
+                                                            <option value="0" selected>Chọn điểm đến</option>
+                                                            <option value="1">VTB (Bà Rịa – Vũng Tàu)</option>
+                                                            <option value="2">BDI (Bình Định)</option>
+                                                            <option value="3">CMU (Cà Mau)</option>
+                                                            <option value="4">CTH (Cần Thơ)</option>
+                                                            <option value="5">DNA (Đà Nẵng)</option>
+                                                            <option value="6">DLA (Đắk Lắk)</option>
+                                                            <option value="7">DBI (Điện Biên)</option>
+                                                            <option value="8">GLA (Gia Lai)</option>
+                                                            <option value="9">HNO (Hà Nội)</option>
+                                                            <option value="10">HPG (Hải Phòng)</option>
+                                                            <option value="11">HCM (Thành phố Hồ Chí Minh)</option>
+                                                            <option value="12">KHA (Khánh Hòa)</option>
+                                                            <option value="13">KGI (Kiên Giang)</option>
+                                                            <option value="14">LDG (Lâm Đồng)</option>
+                                                            <option value="15">NAN (Nghệ An)</option>
+                                                            <option value="16">PYE (Phú Yên)</option>
+                                                            <option value="17">QBI (Quảng Bình)</option>
+                                                            <option value="18">QNA (Quảng Nam)</option>
+                                                            <option value="19">QNH (Quảng Ninh)</option>
+                                                            <option value="20">THA (Thanh Hóa)</option>
+                                                            <option value="21">TTH (Thừa Thiên Huế)</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+    
+                                            <div class="ltr-part2">
+                                                <button class="fr-btn--applicant" onclick="changeValueFilter()">ÁP DỤNG</button>
+                                                <!-- <button class="fr-btn--applicant">ĐẶT LẠI</button> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="toggleElement">
+                                    <button class="toggleElement--buton Budget" onclick="showLtr(this)">
+                                        <p>Ngân sách</p>
+                                        <i class="ti-angle-down"></i>  
+                                    </button>
+    
+                                    <div class="ltr ltrBudget">
+                                        <div class="ltr--container">
+                                            <div class="ltr-part1">
+                                                <div class="container-input">
+                                                    <p class="fr-input--name">Ngân sách</p>
+                                                    <div class="fr-input">
+                                                        <p class="money-logo">VND</p>
+                                                        <input type="text" placeholder="Ngân sách tổng" name="total-money">
+                                                    </div>
+                                                </div>
+                                            </div>
+    
+                                            <div class="ltr-part2">
+                                                <button class="fr-btn--applicant" onclick="changeValueFilter()">ÁP DỤNG</button>
+                                                <!-- <button class="fr-btn--applicant">ĐẶT LẠI</button> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                     
+                                <div class="erase">
+                                    <button class="erase--button" onclick="deleteInfoFilter()">
+                                        <p class="erase-name">Xóa</p>
+                                    </button>
+                                </div>
+                                <script src="/public/js/ltrShow.js"></script>
+
+                            </div>
+
+                            
+                            <div class="farelist">
+                                <div class="fare-list-content list-grid">
+
+                                    <!-- <div class="fare-item">
+                                        <div class="fare-item--content fare-img" style="background-image: url('/public/Uet_airline_database/imgCity/ba-ria-vung-tau.jpg')">
+                                            <div class="fareItem--number">
+                                                1/8
+                                            </div>
+                                            <div class="fareItem--info">
+                                                <div style="position: relative; width: 100%; height: 100%;">
+                                                    <div class="name-journey">
+                                                        <p>Hà Nội đến TP.Hồ Chí Minh</p>
+                                                    </div>
+                                                    <p class="depart-date">12/12/2023</p>
+    
+                                                    <div class="price">
+                                                        <p style="margin: 0; text-align: right;">Từ</p>
+                                                        <p style="font-size: 30px; font-weight: bold;">1.000.000 VND</p>
+                                                    </div>
+                                                    <p class="type-journey">
+                                                        Một chiều / Phổ Thông
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> -->
+
+
+                                    <script src="/public/js/fare-itemShow.js"></script>
+
+                                </div>
+                            </div>
+
+                            <button onclick="showMoreFares()" class="showmore-button">xem thêm</button>
+
+                            <p class="noctice">*Giá vé hiển thị được thu thập trong vòng 48 giờ và có thể không còn hiệu lực tại thời điểm đặt chỗ. 
+                                Chúng tôi có thể thu thêm phí và lệ phí cho một số sản phẩm và dịch vụ.
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="divHomeHightLight">
+            <div class="slidebox">
+                <div class="title-hightlight">
+                    <div class="slash"></div>
+                    <p class="title-name">Thông tin nổi bật</p>
+                    <div class="slash"></div>
+                </div>
+
+                <div class="box-wrapper">
+                    <div class="box-viewport">
+                        <div class="item">
+                            <div style="
+                                display: block; 
+                                overflow: hidden; 
+                                margin: 0;
+                            ">
+                                <img class="item-img" src="/public/img/boxhightlight/HL-business.jpg">
+                            </div>
+                            <div class="title-info">
+                                <p>Hạng Thương Gia</p>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div style="
+                                display: block; 
+                                overflow: hidden; 
+                            ">
+                            <img class="item-img" src="/public/img/boxhightlight/HL-pre-eco.webp">
+                            </div>
+                            <div class="title-info">
+                                <p>Hạng Phổ Thông Đặc Biệt</p>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div style="
+                                display: block; 
+                                overflow: hidden; 
+                            ">
+                                <img class="item-img" src="/public/img/boxhightlight/HL-entertainment.webp">
+                            </div>
+                            <div class="title-info">
+                                <p>Dịch Vụ Trên Không</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <%- include ('../partials/footer') %>
+        
+    </body>
+</html>
