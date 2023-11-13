@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <%- include ('../partials/head') %>
+
+        <link rel="stylesheet" href="/public/css/style.css">
+        <link rel="stylesheet" href="/public/css/header_home_page.css">
+        <link rel="stylesheet" href="/public/css/footer.css">
+        <link rel="stylesheet" href="/public/css/hidden-nav-mobile.css">
+        <link rel="stylesheet" href="/public/css/login.css">
+
+    </head>
+
+    <body>
+        <!-- Header -->
+        <%- include ('../partials/header') %>
+
+        <!-- Login -->
+        <form class="phandangnhap" method="post">
+            <div class="box-form">
+              <div class="left">
+                <div class="overlay">
+                <h1>UET Airline</h1>
+                <p>Luôn đồng hành cùng bạn</p>
+                <span>
+                  <p>login with social media</p>
+                  <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                  <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i> Login with Twitter</a>
+                </span>
+                </div>
+              </div>
+              
+              <div class="right">
+                <h5>Login</h5>
+                <div class="inputs">
+                  <input type="text" placeholder="user name" name="useraccount">
+                  <br>
+                  <input type="password" placeholder="password" name="password">
+                </div>
+                  <br><br>
+                  
+                <div class="remember-me--forget-password">
+                    <!-- Angular -->
+              <label>
+                <input type="checkbox" name="item" checked/>
+                <span class="text-checkbox">Remember me</span>
+              </label>
+                </div>
+                  <br>
+                  <div style="display:block;">
+                    <button >Login</button>
+                  </div>
+                 <div style="margin-top: 20px;">
+                    <p>Don't have an account? <a href="register.html">Creat Your Account</a> it takes less than a minute</p>
+                 </div>
+              </div>
+            </div>
+        </form>
+
+    <!-- Footer -->
+    <%- include ('../partials/footer') %>
+
+    </body>
+</html>
