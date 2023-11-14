@@ -2,16 +2,26 @@ const express = require('express');
 const path = require('path')
 const route = require('./routes/server.route');
 const db = require('./config/db/server');
-const { release } = require('os');
+const session = require('express-session');
+const dotenv = require('dotenv');
 
-const app = express()
-const port = 3000
+dotenv.config({path:"./.env"});
+
+const app = express();
+const port = 3000;
+
+app.use(session({
+  secret: 'your-secret-key',
+  resave: false,
+  saveUninitialized: true,
+}));
 
 app.use(express.urlencoded(
   {
     extended: true
   }
 ));
+
 app.use(express.json());
 
 

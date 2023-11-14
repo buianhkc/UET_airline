@@ -27,7 +27,7 @@ function setApiToGetData() {
     var ma_diem_den  = (e2.selectedIndex - 1 >= 0) ? danhSachTinhThanh[e2.selectedIndex - 1] : "";
     var str = `?money=${document.querySelector('[name="total-money"]').value}&depart=${ma_diem_di}&arrive=${ma_diem_den}`;
     apiFares = api + str;
-    console.log(apiFares);
+    // console.log(apiFares);
 }
 
 function changeValueFilter() {

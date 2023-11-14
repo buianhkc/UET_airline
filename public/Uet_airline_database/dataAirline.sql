@@ -26,7 +26,7 @@ INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
 VALUES (500, 'cua so 0', 'DNA', 'good');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
-VALUES (501, 'cua so 1', 'DNA', 'good');
+VALUES (501, 'cua so 1', 'DNA', 'bad');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
 VALUES (600, 'cua so 0', 'DLA', 'good');
@@ -56,13 +56,13 @@ INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
 VALUES (1000, 'cua so 0', 'HPG', 'good');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
-VALUES (1001, 'cua so 1', 'HPG', 'good');
+VALUES (1001, 'cua so 1', 'HPG', 'bad');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
 VALUES (1100, 'cua so 0', 'HCM', 'good');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
-VALUES (1101, 'cua so 1', 'HCM', 'bad');
+VALUES (1101, 'cua so 1', 'HCM', 'good');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
 VALUES (1200, 'cua so 0', 'KHA', 'good');
@@ -86,7 +86,7 @@ INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
 VALUES (1500, 'cua so 0', 'NAN', 'good');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
-VALUES (1501, 'cua so 1', 'NAN', 'good');
+VALUES (1501, 'cua so 1', 'NAN', 'bad');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
 VALUES (1600, 'cua so 0', 'PYE', 'good');
@@ -104,7 +104,7 @@ INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
 VALUES (1800, 'cua so 0', 'QNA', 'good');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
-VALUES (1801, 'cua so 1', 'QNA', 'bad');
+VALUES (1801, 'cua so 1', 'QNA', 'good');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
 VALUES (1900, 'cua so 0', 'QNH', 'good');
@@ -116,7 +116,7 @@ INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
 VALUES (2000, 'cua so 0', 'THA', 'good');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
-VALUES (2001, 'cua so 1', 'THA', 'bad');
+VALUES (2001, 'cua so 1', 'THA', 'good');
 
 INSERT INTO airline(ma_duong_bay, vi_tri, ma_thanh_pho, trang_thai)
 VALUES (2100, 'cua so 0', 'TTH', 'good');

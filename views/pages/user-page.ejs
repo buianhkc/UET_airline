@@ -11,35 +11,12 @@
     </head>
     <body>
         <!-- Header -->
-        <div id="header-wrapper">
-            <div class="container-wrapper">
-                <div class="nav-home">
-                    <a href="home-page">
-                        <img src="/public/img/header/Logo ĐH Công Nghệ-UET.png" alt="logo" class="logo">
-                        <div class="info">
-                            <p class="name">UET Airline</p>
-                            <p class="slogan">Sải cánh vươn cao</p>
-                        </div> 
-                    </a>
-                </div>
-                <div class="nav-open">
-                    <div class="nav-sitetop">
-                        <p>MR: <%= data.name %> </p>
-                        <a href="login" class="linkRegister">Đăng xuất</a>
-                    </div>
-                    <div class="booking-ticket">
-                        <a href="booking_page.html" class="linkToBookingPage">Đặt vé ngay</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
+        <%- include('../partials/header') %>
+        
         <!--Container-->
         <div id="content">
             <div class="container">
-                <div class="main-body">
-                
-                      
+                <div class="main-body"> 
                       <!-- /Breadcrumb -->
                   <div class="row gutters-sm">
                         <div class="col-md-4 mb-3">
@@ -50,37 +27,12 @@
                               </div>
                             </div>
                           </div>
-                          <!-- <div class="card mt-3">
-                            <ul class="list-group list-group-flush">
-                              <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                                <h6 class="mb-0"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-globe mr-2 icon-inline"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>Website</h6>
-                                <span class="text-secondary">https://bootdey.com</span>
-                              </li>
-                              <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                                <h6 class="mb-0"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github mr-2 icon-inline"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>Github</h6>
-                                <span class="text-secondary">bootdey</span>
-                              </li>
-                              <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                                <h6 class="mb-0"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-twitter mr-2 icon-inline text-info"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg>Twitter</h6>
-                                <span class="text-secondary">@bootdey</span>
-                              </li>
-                              <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                                <h6 class="mb-0"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-instagram mr-2 icon-inline text-danger"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>Instagram</h6>
-                                <span class="text-secondary">bootdey</span>
-                              </li>
-                              <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                                <h6 class="mb-0"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-facebook mr-2 icon-inline text-primary"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>Facebook</h6>
-                                <span class="text-secondary">bootdey</span>
-                              </li>
-                            </ul>
-                          </div> -->
-
                           <div class="card mt-3">
                             <div class="balance-content-wraper">
                               <label class="balance-title">
                                 Số tiền trong tài khoản
                               </label>
-                              <p class=""> 1.000.000.000 VND</p>
+                              <p class="balance"> <%= new Intl.NumberFormat(["ban", "id"]).format(user.balance) %> VND</p>
                             </div>
                           </div>
 
@@ -99,8 +51,6 @@
                           </div>
                         </div>
 
-
-
                         <div class="col-md-8">
                           <div class="card mb-3">
                             <div class="card-body">
@@ -109,7 +59,7 @@
                                   <h6 class="mb-0">Full Name</h6>
                                 </div>
                                 <div class="col-sm-9 text-secondary">
-                                  Kenneth Valdez
+                                  <%= user.ten_khach_hang %>
                                 </div>
                               </div>
                               <hr>
@@ -118,7 +68,7 @@
                                   <h6 class="mb-0">Gender</h6>
                                 </div>
                                 <div class="col-sm-9 text-secondary">
-                                  Nam
+                                  <%= user.gioi_tinh %>
                                 </div>
                               </div>
                               <hr>
@@ -128,7 +78,7 @@
                                   <h6 class="mb-0">Birthday</h6>
                                 </div>
                                 <div class="col-sm-9 text-secondary">
-                                    01/01/2004
+                                    <%= user.ngay_sinh %>
                                 </div>
                               </div>
                               <hr>
@@ -138,7 +88,7 @@
                                   <h6 class="mb-0">Email</h6>
                                 </div>
                                 <div class="col-sm-9 text-secondary">
-                                  fip@jukmuh.al
+                                  <%= user.email %>
                                 </div>
                               </div>
                               <hr>
@@ -147,7 +97,7 @@
                                   <h6 class="mb-0">Phone</h6>
                                 </div>
                                 <div class="col-sm-9 text-secondary">
-                                  (239) 816-9029
+                                  <%= user.sdt %>
                                 </div>
                               </div>
                               <hr>
@@ -156,20 +106,17 @@
                                   <h6 class="mb-0">Address</h6>
                                 </div>
                                 <div class="col-sm-9 text-secondary">
-                                  Bay Area, San Francisco, CA
+                                  <%= user.dia_chi %>
                                 </div>
                               </div>
                               <hr>
                               <div class="row">
                                 <div class="col-sm-12">
-                                  <a class="btn btn-info " target="__blank" href="https://www.bootdey.com/snippets/view/profile-edit-data-and-skills">Edit</a>
+                                  <a class="btn btn-info " target="__blank" href="#">Edit</a>
                                 </div>
                               </div>
                             </div>
                           </div>
-
-                          
-            
                         </div>
                   </div>
             
@@ -219,7 +166,7 @@
                       </div>
 
                       <div class="part-right">
-                        <div class="price-content-wrapper">
+                        <!-- <div class="price-content-wrapper">
                           <button class="buy-ticket-btn economy">
                               <div class="ticket-adult">
                                 <label style="font-size: 15px;">Người lớn</label>
@@ -235,9 +182,9 @@
                                 <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
                               </div>
                             </button>
-                            </div>
+                        </div>
 
-                            <div class="price-content-wrapper">
+                        <div class="price-content-wrapper">
                               <button class="buy-ticket-btn business">
                                   <div class="ticket-adult">
                                     <label style="font-size: 15px;">Người lớn</label>
@@ -253,19 +200,20 @@
                                     <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
                                   </div>
                                 </button>
-                            </div>
+                        </div> -->
 
-                            <!-- <div class="customer-order-details">
-                              <p class="number-order">Người lớn: 1 người</p>
-                              <p class="number-order">Trẻ em: 2 người</p>
-                              <p class="number-order">Tổng ghế: 3 ghế</p>
-                              <p class="number-order">Thành giá: 10.000.000 VND</p>
-                            </div>
+                        <div class="customer-order-details">
+                          <p class="number-order">Người lớn: 1 người</p>
+                          <p class="number-order">Trẻ em: 2 người</p>
+                          <p class="number-order">Tổng ghế: 3 ghế</p>
+                          <p class="number-order">Thành giá: 10.000.000 VND</p>
+                        </div>
 
-                            <div class="process-ticket">
-                              <button class="pay-ticket">Thanh Toán</button>
-                              <button class="cancel-ticket">Hủy Vé</button>
-                            </div> -->
+                        <div class="process-ticket">
+                          <button class="pay-ticket unpaid">Thanh Toán</button>
+                          <!-- <button class="pay-ticket paid">Đã Thanh Toán</button> -->
+                          <button class="cancel-ticket">Hủy Vé</button>
+                        </div>
                             
                       </div>
                         
@@ -273,197 +221,9 @@
                         
                     </div>
 
-                    <div class="ticket">
-                      <div class="part-left">
-                        <div class="flight-offer-details">
-                          <div class="route-date-time">
-                            <div class="time-airport">
-                              <div class="time">15 Thg 11, 06:30
-                              </div>
-                              <div class="airport">
-                                HAN (Hà Nội)
-                              </div>
-                            </div>
-                            <div class="icon-arrow">
-                              <img src="/public/img/user/aircraft.png">
-                            </div>
-                            <div class="time-airport">
-                              <div class="time">15 Thg 11, 06:30
-                              </div>
-                              <div class="airport">
-                                HAN (Hà Nội)
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="duration-stop">
-                            1 tiếng 30 phút
-                          </div>
-                        </div>
-
-                        <div class="plane-details">
-                          <div class="details" style="display: inline-block;">
-                            <div style="display: flex; align-items: center;">
-                              <img src="/public/img/user/VN.png" style="width: 20px; height:20px; display: inline-block; align-self: center;">
-                              <p class="flight-code" style="display: inline-block; margin-left: 5px;">UET 283749</p>
-                            </div>
-                            <p class="plane-name" style="font-weight: bold;">ATA 3632</p>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="part-right">
-                        <!-- <div class="price-content-wrapper">
-                          <button class="buy-ticket-btn economy">
-                              <div class="ticket-adult">
-                                <label style="font-size: 15px;">Người lớn</label>
-                                <p style="font-size: 20px;">1.000.000VND</p>
-                              </div>
-
-                              <div class="ticket-chilren">
-                                <label style="font-size: 15px;">Tre em</label>
-                                <p style="font-size: 20px;">500.000VND</p>
-                              </div>
-                              
-                              <div class="quantity-remain">
-                                <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
-                              </div>
-                            </button>
-                            </div>
-
-                            <div class="price-content-wrapper">
-                              <button class="buy-ticket-btn business">
-                                  <div class="ticket-adult">
-                                    <label style="font-size: 15px;">Người lớn</label>
-                                    <p style="font-size: 20px;">2.000.000VND</p>
-                                  </div>
-
-                                  <div class="ticket-chilren">
-                                    <label style="font-size: 15px;">Tre em</label>
-                                    <p style="font-size: 20px;">1.000.000VND</p>
-                                  </div>
-                                  
-                                  <div class="quantity-remain">
-                                    <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
-                                  </div>
-                                </button>
-                            </div> -->
-
-                            <div class="customer-order-details">
-                              <p class="number-order">Người lớn: 1 người</p>
-                              <p class="number-order">Trẻ em: 2 người</p>
-                              <p class="number-order">Tổng ghế: 3 ghế</p>
-                              <p class="number-order">Thành giá: 10.000.000 VND</p>
-                            </div>
-
-                            <div class="process-ticket">
-                              <button class="pay-ticket unpaid">Thanh Toán</button>
-                              <button class="cancel-ticket">Hủy Vé</button>
-                            </div>
-                            
-                      </div>
-                        
-
-                        
-                    </div>
-
-                    <div class="ticket">
-                      <div class="part-left">
-                        <div class="flight-offer-details">
-                          <div class="route-date-time">
-                            <div class="time-airport">
-                              <div class="time">15 Thg 11, 06:30
-                              </div>
-                              <div class="airport">
-                                HAN (Hà Nội)
-                              </div>
-                            </div>
-                            <div class="icon-arrow">
-                              <img src="/public/img/user/aircraft.png">
-                            </div>
-                            <div class="time-airport">
-                              <div class="time">15 Thg 11, 06:30
-                              </div>
-                              <div class="airport">
-                                HAN (Hà Nội)
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="duration-stop">
-                            1 tiếng 30 phút
-                          </div>
-                        </div>
-
-                        <div class="plane-details">
-                          <div class="details" style="display: inline-block;">
-                            <div style="display: flex; align-items: center;">
-                              <img src="/public/img/user/VN.png" style="width: 20px; height:20px; display: inline-block; align-self: center;">
-                              <p class="flight-code" style="display: inline-block; margin-left: 5px;">UET 283749</p>
-                            </div>
-                            <p class="plane-name" style="font-weight: bold;">ATA 3632</p>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="part-right">
-                        <!-- <div class="price-content-wrapper">
-                          <button class="buy-ticket-btn economy">
-                              <div class="ticket-adult">
-                                <label style="font-size: 15px;">Người lớn</label>
-                                <p style="font-size: 20px;">1.000.000VND</p>
-                              </div>
-
-                              <div class="ticket-chilren">
-                                <label style="font-size: 15px;">Tre em</label>
-                                <p style="font-size: 20px;">500.000VND</p>
-                              </div>
-                              
-                              <div class="quantity-remain">
-                                <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
-                              </div>
-                            </button>
-                            </div>
-
-                            <div class="price-content-wrapper">
-                              <button class="buy-ticket-btn business">
-                                  <div class="ticket-adult">
-                                    <label style="font-size: 15px;">Người lớn</label>
-                                    <p style="font-size: 20px;">2.000.000VND</p>
-                                  </div>
-
-                                  <div class="ticket-chilren">
-                                    <label style="font-size: 15px;">Tre em</label>
-                                    <p style="font-size: 20px;">1.000.000VND</p>
-                                  </div>
-                                  
-                                  <div class="quantity-remain">
-                                    <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
-                                  </div>
-                                </button>
-                            </div> -->
-
-                            <div class="customer-order-details">
-                              <p class="number-order">Người lớn: 1 người</p>
-                              <p class="number-order">Trẻ em: 2 người</p>
-                              <p class="number-order">Tổng ghế: 3 ghế</p>
-                              <p class="number-order">Thành giá: 10.000.000 VND</p>
-                            </div>
-
-                            <div class="process-ticket">
-                              <button class="pay-ticket paid">Đã Thanh Toán</button>
-                              <button class="cancel-ticket">Hủy Vé</button>
-                            </div>
-                            
-                      </div>
-                        
-
-                        
-                    </div>
                   </div>
-                </div>
+              </div>
             </div>
-
         </div>
 
         <!-- Footer -->

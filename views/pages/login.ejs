@@ -9,14 +9,24 @@
         <link rel="stylesheet" href="/public/css/hidden-nav-mobile.css">
         <link rel="stylesheet" href="/public/css/login.css">
 
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"><link rel="stylesheet" href="./style.css">
     </head>
 
     <body>
+
+      <% if (typeof alertText !== 'undefined') { %>
+          <!-- Biến tồn tại, bạn có thể sử dụng nó ở đây -->
+          <script>
+              alert('<%= alertText%>');
+          </script>
+      <% } %>
+
         <!-- Header -->
         <%- include ('../partials/header') %>
 
         <!-- Login -->
-        <form class="phandangnhap" method="post">
+        <form class="phandangnhap" method="POST" action="/login">
             <div class="box-form">
               <div class="left">
                 <div class="overlay">
@@ -33,25 +43,24 @@
               <div class="right">
                 <h5>Login</h5>
                 <div class="inputs">
-                  <input type="text" placeholder="user name" name="useraccount">
+                  <input type="text" placeholder="User name / Email" name="useraccount" required>
                   <br>
-                  <input type="password" placeholder="password" name="password">
+                  <input type="password" placeholder="Password" name="password" required>
                 </div>
                   <br><br>
                   
-                <div class="remember-me--forget-password">
-                    <!-- Angular -->
-              <label>
-                <input type="checkbox" name="item" checked/>
-                <span class="text-checkbox">Remember me</span>
-              </label>
-                </div>
+                <!-- <div class="remember-me--forget-password">
+                  <label>
+                    <input type="checkbox" name="item" checked/>
+                    <span class="text-checkbox">Remember me</span>
+                  </label>
+                </div> -->
                   <br>
                   <div style="display:block;">
                     <button >Login</button>
                   </div>
                  <div style="margin-top: 20px;">
-                    <p>Don't have an account? <a href="register.html">Creat Your Account</a> it takes less than a minute</p>
+                    <p>Don't have an account? <a href="register">Creat Your Account</a> it takes less than a minute</p>
                  </div>
               </div>
             </div>

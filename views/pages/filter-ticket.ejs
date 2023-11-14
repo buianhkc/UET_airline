@@ -25,10 +25,18 @@
 		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
 
+    <%- include('../partials/head') %>
+    <link rel="stylesheet" href="/public/css/style.css">
+    <link rel="stylesheet" href="/public/css/header_home_page.css">
+    <link rel="stylesheet" href="/public/css/selected_ticket.css">
+    <link rel="stylesheet" href="/public/css/footer.css">
 </head>
 
 <body>
-	<form method="post" action="/booking-page">
+    
+    <%- include('../partials/header') %>
+
+	<form method="post" action="/booking_page.html">
 		<div id="booking" class="section">
 			<div class="section-center">
 				<div class="container">
@@ -129,6 +137,7 @@
 		</div>
 	</form>
 	
+    <%- include('../partials/footer') %>
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 
 </html>
