@@ -70,6 +70,10 @@
   .user-details .input-box input:valid{
     border-color: #9b59b6;
   }
+
+  form .gender-details {
+    width: 20%;
+  }
    form .gender-details .gender-title{
     font-size: 20px;
     font-weight: 500;

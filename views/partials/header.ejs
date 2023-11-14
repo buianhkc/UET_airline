@@ -11,11 +11,19 @@
         </div>
         <div class="nav-open">
             <div class="nav-sitetop">
-                <a href="login" class="linkTologin">Đăng nhập</a>
-                <a href="register.html" class="linkRegister">Đăng ký</a>
+                <% if (typeof isLoggedIn !== 'undefined') { %>
+                    <% if (isLoggedIn) { %>
+                        <a href="/user-page" class="linkToUser onHover">Xin Chào: <%= user.ten_khach_hang %> </a>
+                        <a href="/logout" class="logout onHover">Đăng Xuất</a>
+                    <% } %>
+                <% } else { %>
+                    <a href="login" class="linkTologin onHover">Đăng nhập</a>
+                    <a href="register" class="linkRegister onHover">Đăng ký</a>
+                <% } %>
             </div>
+
             <div class="booking-ticket">
-                <a href="Selected_ticket.html" class="linkToBookingPage">Đặt vé ngay</a>
+                <a href="filter-ticket" class="linkToFilterTicket">Đặt vé ngay</a>
             </div>
         </div>
     </div>

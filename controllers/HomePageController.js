@@ -3,13 +3,15 @@ const db = require("../database/server");
 class HomePageController {
     // [GET] /home-page
     index (req, res) {
-        res.render('./pages/home-page');
+        console.log(req.session);
+
+        res.render('./pages/home-page', {isLoggedIn:req.session.isLoggedIn, user: req.session.user});
     }
 
     getBestSellerTicket(req, res) {
         try {
 
-            console.log(req.query);
+            // console.log(req.query);
 
             var queryDepart = (req.query.depart == "") ? "" :`AND f.ma_diem_di = \'${req.query.depart}\'\n`;
             var queryArrive = (req.query.arrive == "") ? "" :`AND f.ma_diem_den = \'${req.query.arrive}\'\n`;

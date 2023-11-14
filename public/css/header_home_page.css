@@ -73,13 +73,27 @@
     padding-left: 10px;
 }
 
+.nav-sitetop .linkToUser {
+    color: black;
+    border-right: solid;
+    border-right-width: 1px;
+    border-right-color: black;  
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+.nav-sitetop .logout {
+    color: black;
+    padding-left: 10px;
+}
+
 .nav-open .booking-ticket {
     display: flex;
     justify-content: center;
     margin-top: 10px;
 }
 
-.nav-open .linkToBookingPage {
+.nav-open .linkToFilterTicket {
     background-color: lightblue;
     border: none;
     border-radius: 20px;
@@ -87,9 +101,19 @@
     transition-duration: .5s;
 }
 
-.nav-open .linkToBookingPage:hover {
+.nav-open .linkToFilterTicket:hover {
     font-size: larger;
     font-weight: bold;
     padding: 5px 20px;
     border-radius: 10px;
+}
+
+.onHover {
+    transition: 0.5s;
+}
+
+.onHover:hover {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 128, 255);
 }

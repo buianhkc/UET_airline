@@ -13,7 +13,7 @@
     </head>
     <body>
         <!-- Header -->
-        <%- include ('../partials/header') %>
+        <%- include ('../partials/header', {isLoggedIn: isLoggedIn, user: user}) %>
 
         <!-- Slider -->
         <div id="divSliderCarousel">

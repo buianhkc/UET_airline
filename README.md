@@ -14,4 +14,8 @@ nhập trên cmd theo các dòng dưới:
 
 - npm install --save-dev nodemon
 
+- npm install dotenv --save
+
+- npm install express-session 
+
 để chạy nhập: npm start

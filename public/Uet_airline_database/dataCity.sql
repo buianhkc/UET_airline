@@ -1,4 +1,3 @@
-
 INSERT INTO city(ma_thanh_pho, ten_thanh_pho, linkImg)
 VALUES ('VTB', 'Bà Rịa – Vũng Tàu', '/public/Uet_airline_database/imgCity/ba-ria-vung-tau.jpg');
 
