@@ -1,6 +1,6 @@
 # UET_airline
 
-install nodejs
+install nodejs version 20.9 https://nodejs.org/en/download/
 
 nhập trên cmd theo các dòng dưới:
 
