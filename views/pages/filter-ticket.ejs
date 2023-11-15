@@ -34,9 +34,9 @@
 
 <body>
     
-    <%- include('../partials/header') %>
+	<%- include ('../partials/header', {isLoggedIn: isLoggedIn, user: user}) %>
 
-	<form method="post" action="/booking_page.html">
+	<form method="POST" action="/booking-page">
 		<div id="booking" class="section">
 			<div class="section-center">
 				<div class="container">
