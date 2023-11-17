@@ -13,10 +13,10 @@
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400" rel="stylesheet">
 
 	<!-- Bootstrap -->
-	<link type="text/css" rel="stylesheet" href="assets/css/bootstrap.min.css" />
+	<link type="text/css" rel="stylesheet" href="/public/css/bootstrap.min.css" />
 
 	<!-- Custom stlylesheet -->
-	<link type="text/css" rel="stylesheet" href="assets/css/selected_ticket.css" />
+	<link type="text/css" rel="stylesheet" href="/public/css/selected_ticket.css" />
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -36,7 +36,7 @@
     
 	<%- include ('../partials/header', {isLoggedIn: isLoggedIn, user: user}) %>
 
-	<form method="POST" action="/booking-page">
+	<form onsubmit="submitFilterForm(event)">
 		<div id="booking" class="section">
 			<div class="section-center">
 				<div class="container">
@@ -63,27 +63,75 @@
 									<div class="col-md-6">
 										<div class="form-group">
 											<span class="form-label">Sân bay khởi hành</span>
-											<input name="airportDepart" class="form-control" type="text" placeholder="City or airport" required>
+											<!-- <input name="airportDepart" class="form-control" type="text" placeholder="City or airport" required> -->
+										
+											<select class="form-control form-select airport-depart" aria-label="Default select example" name="airportDepart" required>
+												<option value="0" selected>Chọn điểm đi</option>
+												<option value="1">VTB (Bà Rịa – Vũng Tàu)</option>
+												<option value="2">BDI (Bình Định)</option>
+												<option value="3">CMU (Cà Mau)</option>
+												<option value="4">CTH (Cần Thơ)</option>
+												<option value="5">DNA (Đà Nẵng)</option>
+												<option value="6">DLA (Đắk Lắk)</option>
+												<option value="7">DBI (Điện Biên)</option>
+												<option value="8">GLA (Gia Lai)</option>
+												<option value="9">HNO (Hà Nội)</option>
+												<option value="10">HPG (Hải Phòng)</option>
+												<option value="11">HCM (Thành phố Hồ Chí Minh)</option>
+												<option value="12">KHA (Khánh Hòa)</option>
+												<option value="13">KGI (Kiên Giang)</option>
+												<option value="14">LDG (Lâm Đồng)</option>
+												<option value="15">NAN (Nghệ An)</option>
+												<option value="16">PYE (Phú Yên)</option>
+												<option value="17">QBI (Quảng Bình)</option>
+												<option value="18">QNA (Quảng Nam)</option>
+												<option value="19">QNH (Quảng Ninh)</option>
+												<option value="20">THA (Thanh Hóa)</option>
+												<option value="21">TTH (Thừa Thiên Huế)</option>
+											</select>
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="form-group">
 											<span class="form-label">Sân bay đến</span>
-											<input name="airportArrive" class="form-control" type="text" placeholder="City or airport" required>
+											<select class="form-control form-select airport-depart" aria-label="Default select example" name="airportArrive" required>
+												<option value="0" selected>Chọn điểm đi</option>
+												<option value="1">VTB (Bà Rịa – Vũng Tàu)</option>
+												<option value="2">BDI (Bình Định)</option>
+												<option value="3">CMU (Cà Mau)</option>
+												<option value="4">CTH (Cần Thơ)</option>
+												<option value="5">DNA (Đà Nẵng)</option>
+												<option value="6">DLA (Đắk Lắk)</option>
+												<option value="7">DBI (Điện Biên)</option>
+												<option value="8">GLA (Gia Lai)</option>
+												<option value="9">HNO (Hà Nội)</option>
+												<option value="10">HPG (Hải Phòng)</option>
+												<option value="11">HCM (Thành phố Hồ Chí Minh)</option>
+												<option value="12">KHA (Khánh Hòa)</option>
+												<option value="13">KGI (Kiên Giang)</option>
+												<option value="14">LDG (Lâm Đồng)</option>
+												<option value="15">NAN (Nghệ An)</option>
+												<option value="16">PYE (Phú Yên)</option>
+												<option value="17">QBI (Quảng Bình)</option>
+												<option value="18">QNA (Quảng Nam)</option>
+												<option value="19">QNH (Quảng Ninh)</option>
+												<option value="20">THA (Thanh Hóa)</option>
+												<option value="21">TTH (Thừa Thiên Huế)</option>
+											</select>
 										</div>
 									</div>
 								</div>
 								<div class="row">
 									<div class="col-md-3">
 										<div class="form-group">
-											<span class="form-label">Ngày khởi hành</span>
-											<input class="form-control" type="date" required>
+											<span class="form-label">Từ Ngày</span>
+											<input class="form-control" type="date" name="dateDepartBegin">
 										</div>
 									</div>
 									<div class="col-md-3">
 										<div class="form-group">
-											<span class="form-label">Ngày trở về</span>
-											<input class="form-control" type="date" required>
+											<span class="form-label">Đến ngày</span>
+											<input class="form-control" type="date" name="dateDepartEnd">
 										</div>
 									</div>
 									<div class="col-md-2">
@@ -113,7 +161,7 @@
 									</div>
 								</div>
 								<div class="row">
-									<div class="col-md-3">
+									<!-- <div class="col-md-3">
 										<div class="form-group">
 											<span class="form-label">Hạng vé</span>
 											<select class="form-control" name="typeTicket">
@@ -122,7 +170,7 @@
 											</select>
 											<span class="select-arrow"></span>
 										</div>
-									</div>
+									</div> -->
 									<div class="col-md-3">
 										<div class="form-btn">
 											<button class="submit-btn">Tìm kiếm chuyến bay</button>
@@ -136,6 +184,8 @@
 			</div>
 		</div>
 	</form>
+
+	<script src="/public/js/filterticket.js"></script>
 	
     <%- include('../partials/footer') %>
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->

@@ -211,6 +211,13 @@
     align-items: end;
     padding: 10px 15px;
     height: 50%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.fare-item--content > .fareItem--info:hover {
+    padding: 20px 15px;
+    height: 60%;
 }
 
 .fareItem--info .name-journey {
