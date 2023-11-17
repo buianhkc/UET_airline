@@ -79,12 +79,12 @@ function showMoreFares() {
         let dateDepart = new Date(date);
 
         fareListE.innerHTML += `
-            <div class="fare-item">
+            <div class="fare-item" >
             <div class="fare-item--content fare-img" style="background-image: url('${fares[i].linkimg_diem_den}')">
                 <div class="fareItem--number">
                     ${i + 1}/${currentNumFares}
                 </div>
-                <div class="fareItem--info">
+                <div class="fareItem--info ${fares[i].ma_diem_di} ${fares[i].ma_diem_den} " onclick="submitFilterForm(this)">
                     <div style="position: relative; width: 100%; height: 100%;">
                         <div class="name-journey">
                             <p>${fares[i].ten_diem_di} đến ${fares[i].ten_diem_den}</p>
@@ -96,7 +96,7 @@ function showMoreFares() {
                             <p style="font-size: 30px; font-weight: bold;">${new Intl.NumberFormat(["ban", "id"]).format(fares[i].minPrice)} VND</p>
                         </div>
                         <p class="type-journey">
-                        ${(fares[i].ten_diem_den === 'pho_tho') ? 'Phổ Thông / 1 Chiều' : 'Thương Gia / 1 Chiều'}
+                        ${(fares[i].ten_diem_den === 'pho_thong') ? 'Phổ Thông / 1 Chiều' : 'Thương Gia / 1 Chiều'}
                         </p>
                     </div>
                 </div>
