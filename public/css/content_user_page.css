@@ -108,14 +108,6 @@ label {
 }
 
 
-.deposit-content-wraper .deposit-btn {
-    border: none;
-    background-color: #ffe600;
-    border-radius: 10px;
-    padding: 10px 20px;
-    margin-top: 10px;
-}
-
 /* css for list ticket */
 
 .list-ticket-booked-commingSoon {
@@ -211,7 +203,8 @@ label {
     color: #005F6E;
     font-weight: bold;
     margin-left: 10px;
-    width: 65%
+    width: 65%;
+    font-size: 18px;
 }
 
 .part-right .process-ticket {
@@ -237,27 +230,14 @@ label {
     transition: 0.5s;
 }
 
-.part-right .process-ticket .pay-ticket.unpaid:hover {
+.part-right .process-ticket .unpaid:hover {
     background-color: rgb(0, 255, 0);
 }
 
-.part-right .process-ticket .pay-ticket.paid {
+.part-right .process-ticket .paid {
     background-color: rgba(156, 156, 156, 0.673);
 }
 
-
-.part-right .process-ticket .cancel-ticket {
-    border: none;
-    border-radius: 20px;
-    width: 100%;
-    padding: 10px 20px;
-    margin: 10px 0px;
-    background-color: rgba(252, 104, 55, 0.804);
-    transition: 0.5s;
-}
-.part-right .process-ticket .cancel-ticket:hover {
-    background-color: rgb(248, 79, 23)
-}
 .ticket .part-right .price-content-wrapper {
     width: 50%;
     margin: 10px 10px;
@@ -294,3 +274,146 @@ label {
     color: rgba(0, 0, 0, 0.681);
     font-weight: 300;
 }
+
+
+.btnvip {
+    width: 150px;
+    height: 50px;
+    --color: rgb(40, 255, 24);
+    --color2: rgb(10, 25, 30);
+    padding: 0.8em 1.75em;
+    background-color: transparent;
+    border-radius: 6px;
+    border: 1px solid var(--color);
+    transition: .5s;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    z-index: 1;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: 'Roboto', 'Segoe UI', sans-serif;
+    text-transform: uppercase;
+    color: var(--color2);
+    margin-bottom: 10px;
+   }
+   
+   .btnvip::after, .btnvip::before {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    transform: skew(90deg) translate(-50%, -50%);
+    position: absolute;
+    inset: 50%;
+    left: 25%;
+    z-index: -1;
+    transition: .5s ease-out;
+    background-color: var(--color);
+   }
+   
+   .btnvip::before {
+    top: -50%;
+    left: -25%;
+    transform: skew(90deg) rotate(180deg) translate(-50%, -50%);
+   }
+   
+   .btnvip:hover::before {
+    transform: skew(45deg) rotate(180deg) translate(-50%, -50%);
+   }
+   
+   .btnvip:hover::after {
+    transform: skew(45deg) translate(-50%, -50%);
+   }
+   
+   .btnvip:hover {
+    color: var(--color2);
+   }
+   
+   .btnvip:active {
+    filter: brightness(.7);
+    transform: scale(.98);
+   }
+
+   .cancel-btn {
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    background: red;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.15);
+    background: #e62222;
+   }
+   
+   .cancel-btn, button span {
+    transition: 200ms;
+   }
+   
+   .cancel-btn .text {
+    transform: translateX(35px);
+    color: white;
+    font-weight: bold;
+   }
+   
+   .cancel-btn .icon {
+    position: absolute;
+    border-left: 1px solid #c41b1b;
+    transform: translateX(110px);
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+   
+   .cancel-btn svg {
+    width: 15px;
+    fill: #eee;
+   }
+   
+   .cancel-btn:hover {
+    background: #ff3636;
+   }
+   
+   .cancel-btn:hover .text {
+    color: transparent;
+   }
+   
+   .cancel-btn:hover .icon {
+    width: 150px;
+    border-left: none;
+    transform: translateX(0);
+   }
+   
+   .cancel-btn:focus {
+    outline: none;
+   }
+   
+   .cancel-btn:active .icon svg {
+    transform: scale(0.8);
+   }
+
+   .deposit-btn {
+    background: #FBCA1F;
+    font-family: inherit;
+    padding: 0.4em 1.3em;
+    font-weight: 900;
+    font-size: 18px;
+    border: 3px solid black;
+    border-radius: 0.4em;
+    box-shadow: 0.1em 0.1em;
+    margin: 10px 0px;
+  }
+  
+  .deposit-btn:hover {
+    transform: translate(-0.05em, -0.05em);
+    box-shadow: 0.15em 0.15em;
+  }
+  
+  .deposit-btn:active {
+    transform: translate(0.05em, 0.05em);
+    box-shadow: 0.05em 0.05em;
+  }
