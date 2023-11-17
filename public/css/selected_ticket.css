@@ -14,7 +14,7 @@
 
 #booking {
 	font-family: 'PT Sans', sans-serif;
-	background-image: url('../img/selected-ticket/selected.jpg');
+	background-image: url('/public/img/selected-ticket/selected.jpg');
 	background-size: cover;
 	background-position: center;
 }
