@@ -8,7 +8,8 @@ function submitFilterForm(event) {
     var dateDepartEnd = document.querySelector('[name="dateDepartEnd"]').value;
     var numOfAdult = document.querySelector('[name="numOfAdult"]').value;
     var numOfChildren = document.querySelector('[name="numOfChildren"]').value;
-    var totalSeat = parseInt(numOfAdult) + parseInt(numOfChildren);
+    var numOfChildren = parseInt(numOfChildren);
+    var numOfAdult = parseInt(numOfAdult);
 
     // Tạo URL với tham số truyền đi
     var url = "/booking-page" 
@@ -16,7 +17,8 @@ function submitFilterForm(event) {
               + "&airportArrive=" + encodeURIComponent(airportArrive)
               + "&dateDepartBegin=" + encodeURIComponent(dateDepartBegin)
               + "&dateDepartEnd=" + encodeURIComponent(dateDepartEnd)
-              + "&totalSeat=" + encodeURIComponent(totalSeat);
+              + "&numOfChildren=" + encodeURIComponent(numOfChildren)
+              + "&numOfAdult=" + encodeURIComponent(numOfAdult);
 
     // Chuyển hướng đến trang hiển thị vé với tham số
     window.location.href = url;

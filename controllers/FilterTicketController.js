@@ -34,7 +34,8 @@ class FilterTicketController {
         var qTuNgay = (dateDepartBegin == '') ? '' : `AND ngay_di >= \'${dateDepartBegin}\'\n`;
         var qDenNgay = (dateDepartEnd == '') ? '' : `AND ngay_di <= \'${dateDepartEnd}\'\n`;
 
-        var sql = `SELECT ma_chuyen_bay,
+        var sql = `SELECT loai_ve,
+            ma_chuyen_bay,
             ngay_di, 
             ngay_den, 
             gio_bay,
