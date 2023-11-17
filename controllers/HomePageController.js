@@ -15,7 +15,7 @@ class HomePageController {
 
             var queryDepart = (req.query.depart == "") ? "" :`AND f.ma_diem_di = \'${req.query.depart}\'\n`;
             var queryArrive = (req.query.arrive == "") ? "" :`AND f.ma_diem_den = \'${req.query.arrive}\'\n`;
-            var queryMoney = (req.query.money == "") ? "" :`HAVING minPrice >= ${req.query.money}\n`;
+            var queryMoney = (req.query.money == "") ? "" :`HAVING minPrice <= ${req.query.money}\n`;
 
             var sqlQuery = `SELECT ma_diem_di, 
             (SELECT ten_thanh_pho FROM city WHERE f.ma_diem_di = ma_thanh_pho) as ten_diem_di,
