@@ -70,7 +70,7 @@ CREATE TABLE customer (
     ten_dang_nhap VARCHAR(50) NOT NULL,
     mat_khau VARCHAR(50) NOT NULL,
     email NVARCHAR(50),
-    balance DECIMAL(20, 2) NOT NULL DEFAULT 10000000000.00
+    balance DECIMAL(20, 2) NOT NULL DEFAULT 100000000000.00
 );
 
 CREATE TABLE transactions (
