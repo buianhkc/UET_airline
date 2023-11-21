@@ -4,4 +4,13 @@
     font-family: 'Open Sans', sans-serif;
     box-sizing: border-box;
     outline: 0 !important;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
 }

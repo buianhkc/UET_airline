@@ -78,25 +78,31 @@ function showMoreFares() {
         var date = fares[i].date_depart;
         let dateDepart = new Date(date);
 
+        var day = dateDepart.getDate();
+        var month = dateDepart.getMonth() + 1; // Tháng bắt đầu từ 0
+        var year = dateDepart.getFullYear();
+
+        var formattedDate = day + '/' + month + '/' + year;
+
         fareListE.innerHTML += `
             <div class="fare-item" >
             <div class="fare-item--content fare-img" style="background-image: url('${fares[i].linkimg_diem_den}')">
                 <div class="fareItem--number">
                     ${i + 1}/${currentNumFares}
                 </div>
-                <div class="fareItem--info ${fares[i].ma_diem_di} ${fares[i].ma_diem_den} " onclick="submitFilterForm(this)">
+                <div class="fareItem--info ${fares[i].ma_diem_di} ${fares[i].ma_diem_den}" onclick="submitFilter(this)">
                     <div style="position: relative; width: 100%; height: 100%;">
                         <div class="name-journey">
                             <p>${fares[i].ten_diem_di} đến ${fares[i].ten_diem_den}</p>
                         </div>
-                        <p class="depart-date">${dateDepart}</p>
+                        <p class="depart-date">${formattedDate}</p>
         
                         <div class="price">
                             <p style="margin: 0; text-align: right;">Từ</p>
                             <p style="font-size: 30px; font-weight: bold;">${new Intl.NumberFormat(["ban", "id"]).format(fares[i].minPrice)} VND</p>
                         </div>
                         <p class="type-journey">
-                        ${(fares[i].ten_diem_den === 'pho_thong') ? 'Phổ Thông / 1 Chiều' : 'Thương Gia / 1 Chiều'}
+                        ${(fares[i].loai_ve == 'pho_thong') ? 'Phổ Thông / 1 Chiều' : 'Thương Gia / 1 Chiều'}
                         </p>
                     </div>
                 </div>

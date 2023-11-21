@@ -59,7 +59,7 @@ h3 {
   font-size: 1.6em;
   white-space: nowrap;
 }
-ul {
+.ulOfFooter {
   list-style: none;
   display: flex;
   flex-direction: column;
@@ -69,14 +69,14 @@ ul {
 li:not(:first-child) {
   margin-top: 0.8em;
 }
-ul li a {
+.ulOfFooter li a {
   color: #ffffff;
   text-decoration: none;
 }
-ul li a:hover {
+.ulOfFooter li a:hover {
   color: #2a8ded;
 }
-.about p {
+.about .pOfFooter {
   text-align: justify;
   line-height: 2;
   margin: 0;
@@ -114,17 +114,17 @@ div.social {
   font-size: 1.8em;
   color: #2a8ded;
 }
-.row.secondary div {
+.row.secondary > div {
   padding: 1em 0;
 }
-.row.secondary div:hover {
+.row.secondary > div:hover {
   background-color: #25262e;
 }
 .copyright {
   padding: 0.3em 1em;
   background-color: #25262e;
 }
-.copyright p {
+.copyright .pOfFooter {
   font-size: 0.9em;
   text-align: center;
 }

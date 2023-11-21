@@ -153,6 +153,12 @@ label {
     margin-right: 10px;
 }
 
+.flight-offer-details .type-ticket {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(2, 113, 186);
+}
+
 .route-date-time .time-airport {
     display: inline-block;
     margin-right: 15px;

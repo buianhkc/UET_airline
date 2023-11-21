@@ -42,11 +42,11 @@
                                 Nạp tiền vào tài khoản
                               </label>
                               <div class="input-amount-content">
-                                <input type="text" name="deposit" id="input-amount" placeholder="ex: 1000000">
+                                <input type="number" name="deposit" id="input-amount" placeholder="ex: 1000000">
                                 <p class="monetary">VND</p>
                               </div>
                               
-                              <button class="deposit-btn">Nạp</button>
+                              <button class="deposit-btn" onclick="deposit()">Nạp</button>
                             </div>
                           </div>
                         </div>
@@ -152,6 +152,10 @@
                           <div class="duration-stop">
                             1 tiếng 30 phút
                           </div>
+
+                          <div class="type-ticket">
+                            Hạng: Phổ Thông
+                          </div>
                         </div>
 
                         <div class="plane-details">
@@ -229,5 +233,7 @@
 
         <!-- Footer -->
         <%- include ('../partials/footer') %>
+
+        <script src="/public/js/user-page.js"></script>
     </body>
 </html>

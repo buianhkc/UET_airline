@@ -1,20 +1,32 @@
 #content {
-    background-color:  lightpink;
     height: 2400px;
     max-height: 2845px;
 }
 
-#content > #divFareDealsCarousel {
+p {
+    margin: 0;
+    padding: 0;
+}
 
+label {
+    margin: 0;
+    padding: 0;
 }
 
 .sticky-inner-wrapper {
     z-index: 1002;
-    background-color: #f6edcc;
+    background-color: #F6EDCC;
     display: flex;
     clear: both;
-    display: flex;
     justify-content: space-between;
+
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.105);
+
+    padding: 0 300px;
 }
 
 .wrapper-body {
@@ -35,7 +47,7 @@
     display: inline-flex;
     align-items: center;
     gap: .75rem;
-    background-color: var(--clr);
+    background-color: none;
     color: #fff;
     border-radius: 10rem;
     font-weight: 600;
@@ -47,23 +59,38 @@
     transition: background-color .3s;
   }
 
-.wrapper-body .indicator-item {
-    background-color: lightblue;
+.wrapper-body .infoFlight {
     display: flex;
-    align-content: center;
-    margin-right: 1100px;
+    flex-direction: row;
+    height: 50px;
+    align-self: center;
+    margin-left: 20px;
 }
 
-.wrapper-body .indicator-item .indicator-item-title {
+.infoFlight .indicator-item {
+    background-color: #E6B441;
     display: flex;
-    flex-direction: column;
+    align-content: center;
+    border-radius: 10px;
+    margin-right: 2px;
+}
+
+.infoFlight .indicator-item .indicator-item-title {
+    display: flex;
     align-items: center;
 }
 
-.wrapper-body .indicator-item .indicator-item-icon {
-    display: flex;
-    max-width: 100%;
+.indicator-item .indicator-item-title > p {
+    margin: 0;
     margin-right: 10px;
+    font-weight: bold;
+}
+
+.infoFlight .indicator-item .indicator-item-icon {
+    display: flex;
+    margin-right: 10px;
+    object-fit: contain;
+    scale: 0.7;
 }
 
 /* .wrapper-body .indicator-item .indicator-item-title  {
@@ -79,7 +106,7 @@
 }
 
 .indicator-edit-button .wrapper-button {
-    background-color: lightpink;
+    background-color: none;
     display: flex;
     align-items: center;
     /* align-content: center; */
@@ -265,7 +292,7 @@
     margin: 0px 6px 0px 6px;
     font-size: 18;
     border-radius: 4px;
-    background: #005f6e;
+    background: #005F6E;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -284,7 +311,7 @@
 
 .offer-labels .business {
     color: black;
-    background-color: #e6b4e6;
+    background-color: #E6B441;
     color: #222;
 }
 
@@ -333,7 +360,7 @@
 
 .ticket .part-left .flight-offer-details {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     float: left;
 }
 
@@ -362,6 +389,7 @@
 
 .flight-offer-details .duration-stop {
     font-size: 15px;
+    margin-right: 5px;
 }
 
 .route-date-time .time-airport .airport {
@@ -372,10 +400,15 @@
 
 .route-date-time .icon-arrow {
     display: inline-block;
+    height: 50px;
 }
 
 .ticket .part-left .plane-details {
     display: flex;
+}
+
+.part-left .plane-details .plane-name {
+    margin-left: 10px;
 }
 
 .upper-row .panel-content .ticket .part-right {
@@ -396,50 +429,6 @@
     width: 65%
 }
 
-.part-right .process-ticket {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 30%;
-}
-
-.part-right .process-ticket .pay-ticket {
-    width: 100%;
-    border: none;
-    border-radius: 20px;
-    padding: 10px 20px;
-    margin: 10px 0px;
-    background-color: rgb(36, 213, 36);
-    transition: 0.5s;
-}
-
-.part-right .process-ticket .pay-ticket.unpaid {
-    background-color: rgb(36, 213, 36);
-    transition: 0.5s;
-}
-
-.part-right .process-ticket .pay-ticket.unpaid:hover {
-    background-color: rgb(0, 255, 0);
-}
-
-.part-right .process-ticket .pay-ticket.paid {
-    background-color: rgba(156, 156, 156, 0.673);
-}
-
-
-.part-right .process-ticket .cancel-ticket {
-    border: none;
-    border-radius: 20px;
-    width: 100%;
-    padding: 10px 20px;
-    margin: 10px 0px;
-    background-color: rgba(252, 104, 55, 0.804);
-    transition: 0.5s;
-}
-.part-right .process-ticket .cancel-ticket:hover {
-    background-color: rgb(248, 79, 23)
-}
 .ticket .part-right .price-content-wrapper {
     width: 50%;
     margin: 10px 10px;
@@ -452,12 +441,14 @@
     padding: 5px 0px;
     cursor: pointer;
 }
+
 .buy-ticket-btn.business {
     background-color: #FBF9E4;
     border: solid;
     border-color: #7B5A04;
     border-radius: 5px;
     border-width: 1px;
+    transition: 0.5s;
 }
 
 .buy-ticket-btn.economy {
@@ -466,6 +457,21 @@
     border-color: #005F6E;
     border-radius: 5px;
     border-width: 1px;
+    transition: 0.5s;
+}
+
+.buy-ticket-btn.business:hover {
+    background-color: #E6B441;
+    color: black;
+}
+
+.buy-ticket-btn.economy:hover {
+    background-color: #005F6E;
+    color: white;
+}
+
+.buy-ticket-btn.economy:hover p {
+    color: white;
 }
 
 .buy-ticket-btn > label {
@@ -476,3 +482,60 @@
     color: rgba(0, 0, 0, 0.681);
     font-weight: 300;
 }
+
+
+.buttonChange {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(30, 112, 178);
+    border: none;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.164);
+    cursor: pointer;
+    transition-duration: .3s;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .svgIcon {
+    width: 12px;
+    transition-duration: .3s;
+  }
+  
+  .svgIcon path {
+    fill: white;
+  }
+  
+  .buttonChange:hover {
+    width: 140px;
+    border-radius: 50px;
+    transition-duration: .3s;
+    background-color: rgb(46, 100, 249);
+    align-items: center;
+  }
+  
+  .buttonChange:hover .svgIcon {
+    width: 50px;
+    transition-duration: .3s;
+    transform: translateY(60%);
+  }
+  
+  .buttonChange::before {
+    position: absolute;
+    top: -20px;
+    content: "Thay đổi";
+    color: white;
+    transition-duration: .3s;
+    font-size: 10px;
+  }
+  
+  .buttonChange:hover::before {
+    font-size: 13px;
+    opacity: 1;
+    transform: translateY(30px);
+    transition-duration: .3s;
+  }
