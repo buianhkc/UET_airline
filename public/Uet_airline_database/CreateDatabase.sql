@@ -10,7 +10,7 @@ CREATE TABLE city (
 );
 
 CREATE TABLE airline (	
-	ma_duong_bay INT NOT NULL PRIMARY KEY,
+	ma_duong_bay INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     vi_tri VARCHAR(10) NOT NULL,
     ma_thanh_pho VARCHAR(3) NOT NULL,
     chieu_dai DECIMAL(20, 2) DEFAULT 1000,
@@ -19,7 +19,7 @@ CREATE TABLE airline (
 );
 
 CREATE TABLE plane (	
-	ma_may_bay INT NOT NULL PRIMARY KEY,
+	ma_may_bay INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     ten_may_bay VARCHAR(30) NOT NULL,
     kich_thuoc DECIMAL(20, 2),
     so_ghe_pho_thong INT NOT NULL,
@@ -28,7 +28,7 @@ CREATE TABLE plane (
 );
 
 CREATE TABLE flight (	
-	ma_chuyen_bay INT NOT NULL PRIMARY KEY,
+	ma_chuyen_bay INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
 	ma_may_bay INT NOT NULL,
     ma_duong_bay INT NOT NULL,
     ngay_di DATETIME NOT NULL,
@@ -40,7 +40,7 @@ CREATE TABLE flight (
 );
 
 CREATE TABLE ticket (	
-	ma_ve INT NOT NULL PRIMARY KEY,
+	ma_ve INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
 	ma_chuyen_bay INT NOT NULL,
     loai_ve VARCHAR(20) NOT NULL,
     so_luong_con INT,
@@ -50,7 +50,7 @@ CREATE TABLE ticket (
 );
 
 CREATE TABLE orders (	
-	order_number INT NOT NULL PRIMARY KEY,
+	order_number INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
 	ma_ve INT NOT NULL,
 	ma_khach_hang INT NOT NULL,
     order_date DATETIME NOT NULL,
@@ -60,28 +60,29 @@ CREATE TABLE orders (
 );
 
 CREATE TABLE customer (	
-	ma_khach_hang INT NOT NULL PRIMARY KEY,
+	ma_khach_hang INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     ten_khach_hang NVARCHAR(30) NOT NULL,
     sdt VARCHAR(20),
-    dia_chi NVARCHAR(50),
+    dia_chi NVARCHAR(500),
     cmnd VARCHAR(10),
     gioi_tinh VARCHAR(10),
     ngay_sinh DATE,
     ten_dang_nhap VARCHAR(50) NOT NULL,
     mat_khau VARCHAR(50) NOT NULL,
-    email VARCHAR(50),
-    balance DECIMAL(20, 2) NOT NULL DEFAULT 1000000000.00
+    email NVARCHAR(50),
+    balance DECIMAL(20, 2) NOT NULL DEFAULT 10000000000.00
 );
 
-CREATE TABLE payment (
+CREATE TABLE transactions (
 	ma_thanh_toan INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
 	ma_khach_hang INT NOT NULL,
-    order_number INT NOT NULL,
+    order_number INT,
+    loai_giao_dich VARCHAR(10),
     amount DECIMAL(20, 2) NOT NULL
 );
 
-ALTER TABLE payment
-	ADD CONSTRAINT fk_payment_customer FOREIGN KEY (ma_khach_hang) REFERENCES customer(ma_khach_hang) ON UPDATE CASCADE ON DELETE RESTRICT;
+ALTER TABLE transactions
+	ADD CONSTRAINT fk_transactions_customer FOREIGN KEY (ma_khach_hang) REFERENCES customer(ma_khach_hang) ON UPDATE CASCADE ON DELETE RESTRICT;
     
 ALTER TABLE orders
 	ADD CONSTRAINT fk_orders_customer FOREIGN KEY (ma_khach_hang) REFERENCES customer(ma_khach_hang) ON UPDATE CASCADE ON DELETE RESTRICT;

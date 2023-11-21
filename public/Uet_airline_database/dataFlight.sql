@@ -1,1500 +1,3000 @@
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (193, 902, 6827, '2023-12-05 16:20:25', '2023-12-05 23:17:25', 'VTB', 'HPG', '06:57:24');
+VALUES (18, 1501, 6894, '2024-01-12 14:26:40', '2024-01-12 16:32:40', 'DNA', 'PYE', '02:06:26');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (287, 1602, 1033, '2024-01-02 04:08:25', '2024-01-02 09:32:25', 'CMU', 'QBI', '05:24:47');
+VALUES (21, 1201, 9946, '2024-01-17 04:32:40', '2024-01-17 05:36:40', 'QNH', 'KGI', '01:04:22');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (358, 1601, 4065, '2024-01-21 17:25:25', '2024-01-21 21:06:25', 'DBI', 'QBI', '03:41:37');
+VALUES (38, 1102, 2045, '2023-12-16 23:39:40', '2023-12-17 07:02:40', 'DBI', 'KHA', '07:23:58');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (438, 901, 8691, '2024-01-22 00:52:25', '2024-01-22 02:15:25', 'HNO', 'HPG', '01:23:48');
+VALUES (44, 902, 2730, '2024-01-24 16:47:40', '2024-01-24 19:46:40', 'CMU', 'HPG', '02:59:49');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (573, 302, 1977, '2023-12-28 05:38:25', '2023-12-28 10:53:25', 'VTB', 'CTH', '05:15:14');
+VALUES (50, 1301, 5971, '2024-01-02 22:42:40', '2024-01-03 08:15:40', 'QNH', 'LDG', '09:33:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (639, 302, 9375, '2023-12-08 04:31:25', '2023-12-08 10:47:25', 'HNO', 'CTH', '06:16:52');
+VALUES (67, 902, 2045, '2024-01-26 18:14:40', '2024-01-27 04:52:40', 'DNA', 'HPG', '10:38:51');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (735, 2001, 1201, '2023-12-31 08:29:25', '2023-12-31 14:23:25', 'PYE', 'TTH', '05:54:57');
+VALUES (73, 1402, 4607, '2024-02-19 13:58:40', '2024-02-20 00:25:40', 'KHA', 'NAN', '10:27:45');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (835, 1402, 9907, '2024-01-10 09:19:25', '2024-01-10 17:10:25', 'THA', 'NAN', '07:51:06');
+VALUES (81, 1101, 1999, '2024-02-03 16:19:40', '2024-02-04 00:58:40', 'CMU', 'KHA', '08:39:33');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (975, 1902, 1033, '2024-01-01 04:43:25', '2024-01-01 06:41:25', 'QNH', 'THA', '01:58:21');
+VALUES (99, 201, 4342, '2024-02-04 21:17:40', '2024-02-05 05:11:40', 'KGI', 'CMU', '07:54:51');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (1046, 501, 2298, '2023-12-03 06:19:25', '2023-12-03 08:30:25', 'DBI', 'DLA', '02:11:53');
+VALUES (103, 1, 8818, '2024-02-25 11:41:40', '2024-02-25 15:57:40', 'LDG', 'VTB', '04:16:37');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (1109, 1001, 6016, '2023-12-20 13:16:25', '2023-12-20 19:12:25', 'LDG', 'HCM', '05:56:11');
+VALUES (117, 1302, 1241, '2024-01-09 17:14:40', '2024-01-09 18:17:40', 'HCM', 'LDG', '01:03:37');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (1258, 1602, 7120, '2023-12-11 09:59:25', '2023-12-11 18:14:25', 'CMU', 'QBI', '08:15:02');
+VALUES (122, 302, 3715, '2024-02-26 08:10:40', '2024-02-26 17:11:40', 'HNO', 'CTH', '09:01:47');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (1314, 1901, 6469, '2024-01-13 18:28:25', '2024-01-13 20:44:25', 'HPG', 'THA', '02:16:48');
+VALUES (135, 1502, 3037, '2023-12-12 05:35:40', '2023-12-12 07:39:40', 'KGI', 'PYE', '02:04:02');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (1454, 201, 9907, '2024-01-05 00:56:25', '2024-01-05 06:07:25', 'QBI', 'CMU', '05:11:21');
+VALUES (148, 1702, 4577, '2023-12-10 03:59:40', '2023-12-10 07:15:40', 'GLA', 'QNA', '03:16:48');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (1578, 202, 568, '2024-01-21 20:23:25', '2024-01-22 03:05:25', 'QNH', 'CMU', '06:42:23');
+VALUES (157, 401, 2199, '2024-01-24 01:18:40', '2024-01-24 02:44:40', 'PYE', 'DNA', '01:26:35');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (1613, 2001, 3542, '2023-12-03 06:17:25', '2023-12-03 15:07:25', 'QNA', 'TTH', '08:50:45');
+VALUES (162, 2001, 9661, '2024-02-13 22:35:40', '2024-02-14 04:17:40', 'BDI', 'TTH', '05:42:52');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (1780, 1001, 7494, '2023-12-19 05:02:25', '2023-12-19 07:08:25', 'QNH', 'HCM', '02:06:30');
+VALUES (173, 501, 5286, '2023-12-13 12:29:40', '2023-12-13 15:12:40', 'QNH', 'DLA', '02:43:33');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (1829, 1802, 6827, '2023-12-06 08:21:25', '2023-12-06 15:26:25', 'THA', 'QNH', '07:05:15');
+VALUES (189, 1601, 1887, '2024-01-31 08:27:40', '2024-01-31 14:09:40', 'HCM', 'QBI', '05:42:01');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (1909, 1601, 8342, '2023-12-13 04:11:25', '2023-12-13 10:36:25', 'DBI', 'QBI', '06:25:15');
+VALUES (192, 1002, 1710, '2023-12-24 21:24:40', '2023-12-25 05:44:40', 'GLA', 'HCM', '08:20:37');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (2052, 1302, 8550, '2024-01-19 00:22:25', '2024-01-19 10:27:25', 'KHA', 'LDG', '10:05:05');
+VALUES (206, 1, 4406, '2023-12-05 18:32:40', '2023-12-06 01:55:40', 'QBI', 'VTB', '07:23:18');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (2127, 1702, 5737, '2023-12-22 13:11:25', '2023-12-22 16:01:25', 'QBI', 'QNA', '02:50:19');
+VALUES (213, 2, 6894, '2023-12-28 21:20:40', '2023-12-29 07:52:40', 'THA', 'VTB', '10:32:12');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (2240, 1401, 9733, '2023-11-28 12:55:25', '2023-11-28 21:00:25', 'HPG', 'NAN', '08:05:42');
+VALUES (225, 1501, 7460, '2024-02-17 19:13:40', '2024-02-18 03:11:40', 'KHA', 'PYE', '07:58:23');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (2385, 501, 4065, '2023-12-09 22:52:25', '2023-12-10 02:25:25', 'KHA', 'DLA', '03:33:36');
+VALUES (230, 301, 9661, '2023-12-21 11:04:40', '2023-12-21 16:38:40', 'QNA', 'CTH', '05:34:47');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (2489, 1802, 9375, '2023-11-30 23:17:25', '2023-12-01 00:33:25', 'CTH', 'QNH', '01:16:55');
+VALUES (245, 302, 6112, '2024-01-05 07:44:40', '2024-01-05 14:56:40', 'CMU', 'CTH', '07:12:34');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (2571, 1702, 8691, '2024-01-17 18:13:25', '2024-01-18 00:03:25', 'CTH', 'QNA', '05:50:19');
+VALUES (250, 1901, 5816, '2023-12-24 13:02:40', '2023-12-24 19:47:40', 'CMU', 'THA', '06:45:58');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (2692, 1902, 7289, '2024-01-12 20:20:25', '2024-01-13 02:28:25', 'KHA', 'THA', '06:08:26');
+VALUES (263, 801, 2730, '2024-01-31 17:40:40', '2024-02-01 00:34:40', 'LDG', 'HNO', '06:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (2777, 801, 9429, '2023-12-13 15:50:25', '2023-12-13 17:18:25', 'HCM', 'HNO', '01:28:05');
+VALUES (271, 1901, 1489, '2023-12-01 17:40:40', '2023-12-01 22:33:40', 'TTH', 'THA', '04:53:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (2809, 102, 3986, '2023-11-28 13:06:25', '2023-11-28 17:48:25', 'QBI', 'BDI', '04:42:17');
+VALUES (280, 1802, 976, '2024-02-01 20:17:40', '2024-02-02 07:07:40', 'HPG', 'QNH', '10:50:49');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (2954, 601, 9627, '2023-12-05 03:35:25', '2023-12-05 07:35:25', 'QNA', 'DBI', '04:00:56');
+VALUES (299, 501, 3622, '2024-02-19 21:56:40', '2024-02-19 23:15:40', 'THA', 'DLA', '01:19:12');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (3058, 801, 9132, '2023-11-25 02:39:25', '2023-11-25 11:48:25', 'HCM', 'HNO', '09:09:54');
+VALUES (308, 202, 2274, '2023-12-02 23:02:40', '2023-12-03 09:33:40', 'QNA', 'CMU', '10:31:23');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (3194, 1102, 6756, '2023-12-23 13:00:25', '2023-12-23 20:46:25', 'HPG', 'KHA', '07:46:45');
+VALUES (316, 1601, 10025, '2023-12-21 04:56:40', '2023-12-21 07:43:40', 'GLA', 'QBI', '02:47:17');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (3228, 1102, 740, '2023-12-23 00:20:25', '2023-12-23 07:26:25', 'CTH', 'KHA', '07:06:38');
+VALUES (327, 1801, 4854, '2024-01-11 13:41:40', '2024-01-11 21:27:40', 'CTH', 'QNH', '07:46:21');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (3344, 601, 8157, '2024-01-10 13:45:25', '2024-01-10 20:00:25', 'LDG', 'DBI', '06:15:53');
+VALUES (338, 1701, 5085, '2023-12-11 00:25:40', '2023-12-11 02:09:40', 'DNA', 'QNA', '01:44:57');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (3493, 202, 5345, '2023-12-28 06:52:25', '2023-12-28 10:03:25', 'HNO', 'CMU', '03:11:39');
+VALUES (344, 1702, 1632, '2024-01-25 04:17:40', '2024-01-25 13:40:40', 'DNA', 'QNA', '09:23:57');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (3560, 402, 5499, '2023-12-26 08:30:25', '2023-12-26 11:40:25', 'HCM', 'DNA', '03:10:19');
+VALUES (355, 901, 1109, '2024-02-13 23:05:40', '2024-02-14 02:36:40', 'CTH', 'HPG', '03:31:48');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (3690, 1402, 7289, '2023-12-01 04:27:25', '2023-12-01 09:30:25', 'TTH', 'NAN', '05:03:56');
+VALUES (369, 2, 5971, '2024-01-01 10:09:40', '2024-01-01 18:08:40', 'QNA', 'VTB', '07:59:05');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (3724, 1201, 6199, '2023-11-26 19:10:25', '2023-11-27 02:01:25', 'KHA', 'KGI', '06:51:40');
+VALUES (372, 301, 1327, '2023-12-13 04:16:40', '2023-12-13 08:14:40', 'KGI', 'CTH', '03:58:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (3888, 902, 8157, '2023-12-02 14:59:25', '2023-12-02 17:47:25', 'QBI', 'HPG', '02:48:42');
+VALUES (387, 901, 4854, '2024-01-26 02:04:40', '2024-01-26 11:01:40', 'BDI', 'HPG', '08:57:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (3925, 1502, 5737, '2023-11-25 10:14:25', '2023-11-25 17:01:25', 'QNH', 'PYE', '06:47:23');
+VALUES (397, 1902, 1710, '2024-02-23 20:46:40', '2024-02-24 02:48:40', 'HNO', 'THA', '06:02:48');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (4075, 1001, 7872, '2024-01-23 02:03:25', '2024-01-23 11:18:25', 'THA', 'HCM', '09:15:56');
+VALUES (406, 102, 5599, '2024-02-22 19:48:40', '2024-02-23 04:02:40', 'VTB', 'BDI', '08:14:53');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (4183, 1501, 6334, '2023-11-30 09:55:25', '2023-11-30 13:35:25', 'QNA', 'PYE', '03:40:12');
+VALUES (412, 501, 3037, '2024-01-04 11:50:40', '2024-01-04 20:19:40', 'QNA', 'DLA', '08:29:57');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (4273, 902, 7494, '2024-01-18 22:11:25', '2024-01-19 08:32:25', 'KGI', 'HPG', '10:21:42');
+VALUES (423, 201, 1999, '2024-02-18 03:30:40', '2024-02-18 09:51:40', 'TTH', 'CMU', '06:21:56');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (4326, 901, 804, '2023-12-01 05:32:25', '2023-12-01 12:11:25', 'LDG', 'HPG', '06:39:11');
+VALUES (432, 1402, 3037, '2024-01-05 03:55:40', '2024-01-05 09:04:40', 'LDG', 'NAN', '05:09:41');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (4478, 701, 1201, '2023-12-21 21:54:25', '2023-12-21 23:05:25', 'CTH', 'GLA', '01:11:58');
+VALUES (448, 1401, 5816, '2023-12-26 20:28:40', '2023-12-27 02:50:40', 'PYE', 'NAN', '06:22:34');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (4561, 1602, 5930, '2023-12-12 04:25:25', '2023-12-12 11:06:25', 'THA', 'QBI', '06:41:21');
+VALUES (453, 1801, 7003, '2024-02-02 20:35:40', '2024-02-03 04:42:40', 'CMU', 'QNH', '08:07');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (4658, 101, 5895, '2023-12-18 19:38:25', '2023-12-19 02:22:25', 'VTB', 'BDI', '06:44:22');
+VALUES (467, 802, 4854, '2024-02-04 15:11:40', '2024-02-04 16:12:40', 'CMU', 'HNO', '01:01:27');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (4771, 2001, 8342, '2023-12-30 18:56:25', '2023-12-30 21:54:25', 'VTB', 'TTH', '02:58:47');
+VALUES (476, 302, 8722, '2023-12-12 14:16:40', '2023-12-12 22:56:40', 'KHA', 'CTH', '08:40:15');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (4836, 1301, 3542, '2023-12-23 03:18:25', '2023-12-23 12:41:25', 'CTH', 'LDG', '09:23:44');
+VALUES (483, 1602, 8432, '2024-01-30 12:56:40', '2024-01-30 20:25:40', 'HCM', 'QBI', '07:29:21');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (4985, 302, 4610, '2024-01-12 04:57:25', '2024-01-12 10:13:25', 'DBI', 'CTH', '05:16:08');
+VALUES (497, 2002, 2730, '2023-12-17 02:18:40', '2023-12-17 03:56:40', 'DBI', 'TTH', '01:38:02');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (5007, 1202, 4589, '2023-12-03 19:23:25', '2023-12-03 21:41:25', 'QNH', 'KGI', '02:18:34');
+VALUES (505, 2001, 4180, '2024-02-19 12:01:40', '2024-02-19 15:36:40', 'HNO', 'TTH', '03:35:33');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (5135, 2, 3864, '2023-12-14 07:14:25', '2023-12-14 11:21:25', 'CMU', 'VTB', '04:07:27');
+VALUES (514, 202, 7700, '2023-12-22 20:09:40', '2023-12-23 02:59:40', 'KHA', 'CMU', '06:50:17');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (5262, 302, 5345, '2023-12-25 19:31:25', '2023-12-26 03:19:25', 'DBI', 'CTH', '07:48:33');
+VALUES (522, 1302, 454, '2024-01-11 22:23:40', '2024-01-12 02:02:40', 'QBI', 'LDG', '03:39:45');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (5314, 1302, 6334, '2023-12-09 08:33:25', '2023-12-09 09:41:25', 'QBI', 'LDG', '01:08:53');
+VALUES (531, 602, 2990, '2024-02-16 17:19:40', '2024-02-16 23:22:40', 'NAN', 'DBI', '06:03:17');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (5419, 1902, 3407, '2023-12-10 22:30:25', '2023-12-11 02:59:25', 'HCM', 'THA', '04:29:55');
+VALUES (540, 902, 7116, '2023-12-20 05:53:40', '2023-12-20 09:30:40', 'KGI', 'HPG', '03:37:57');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (5531, 1902, 406, '2024-01-04 11:49:25', '2024-01-04 13:48:25', 'QBI', 'THA', '01:59:45');
+VALUES (559, 102, 1632, '2024-01-11 23:23:40', '2024-01-12 05:15:40', 'DLA', 'BDI', '05:52:05');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (5666, 501, 1201, '2024-01-05 13:06:25', '2024-01-05 23:02:25', 'PYE', 'DLA', '09:56:57');
+VALUES (566, 1601, 2467, '2024-01-19 14:56:40', '2024-01-19 16:48:40', 'PYE', 'QBI', '01:52:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (5784, 401, 3136, '2024-01-15 16:19:25', '2024-01-15 20:29:25', 'HNO', 'DNA', '04:10:05');
+VALUES (571, 102, 1710, '2024-02-08 10:44:40', '2024-02-08 21:22:40', 'DBI', 'BDI', '10:38:53');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (5896, 1, 6695, '2023-12-20 01:21:25', '2023-12-20 10:40:25', 'HCM', 'VTB', '09:19:46');
+VALUES (583, 1901, 9570, '2024-01-11 16:02:40', '2024-01-12 02:14:40', 'HCM', 'THA', '10:12:43');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (5939, 302, 3389, '2024-01-03 16:09:25', '2024-01-03 18:02:25', 'CMU', 'CTH', '01:53:03');
+VALUES (595, 1602, 454, '2023-12-20 13:38:40', '2023-12-21 00:20:40', 'HCM', 'QBI', '10:42:59');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (6014, 402, 1033, '2023-11-30 04:09:25', '2023-11-30 07:14:25', 'PYE', 'DNA', '03:05:15');
+VALUES (607, 501, 6112, '2024-01-25 00:33:40', '2024-01-25 05:47:40', 'GLA', 'DLA', '05:14:16');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (6174, 702, 6695, '2023-12-22 07:47:25', '2023-12-22 16:38:25', 'PYE', 'GLA', '08:51:46');
+VALUES (619, 902, 1887, '2024-02-18 13:28:40', '2024-02-18 15:57:40', 'HNO', 'HPG', '02:29:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (6231, 301, 5737, '2023-12-28 14:19:25', '2023-12-28 20:58:25', 'DNA', 'CTH', '06:39:48');
+VALUES (629, 602, 8201, '2024-01-07 21:27:40', '2024-01-08 08:17:40', 'KGI', 'DBI', '10:50:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (6349, 1701, 3608, '2024-01-01 20:37:25', '2024-01-02 04:33:25', 'KGI', 'QNA', '07:56:21');
+VALUES (635, 202, 9763, '2023-12-23 16:25:40', '2023-12-24 01:47:40', 'DBI', 'CMU', '09:22:14');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (6403, 401, 7289, '2023-11-26 08:14:25', '2023-11-26 18:29:25', 'LDG', 'DNA', '10:15:45');
+VALUES (641, 1102, 5085, '2024-02-18 17:11:40', '2024-02-19 03:36:40', 'GLA', 'KHA', '10:25:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (6531, 1101, 6756, '2024-01-06 16:25:25', '2024-01-06 18:32:25', 'CTH', 'KHA', '02:07:14');
+VALUES (657, 1102, 4854, '2023-12-07 11:50:40', '2023-12-07 19:17:40', 'QBI', 'KHA', '07:27:30');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (6663, 1201, 7383, '2023-12-28 21:31:25', '2023-12-29 08:06:25', 'QBI', 'KGI', '10:35:36');
+VALUES (666, 902, 7825, '2024-02-11 05:58:40', '2024-02-11 08:24:40', 'HCM', 'HPG', '02:26:52');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (6781, 902, 4809, '2023-12-07 10:51:25', '2023-12-07 16:34:25', 'QBI', 'HPG', '05:43:40');
+VALUES (676, 1, 6112, '2024-01-07 16:23:40', '2024-01-07 18:21:40', 'CMU', 'VTB', '01:58:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (6846, 1, 1201, '2024-01-24 03:23:25', '2024-01-24 10:37:25', 'KGI', 'VTB', '07:14:43');
+VALUES (684, 401, 8933, '2024-01-24 14:18:40', '2024-01-25 00:36:40', 'DBI', 'DNA', '10:18:30');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (6990, 1901, 7120, '2023-12-06 02:27:25', '2023-12-06 04:07:25', 'TTH', 'THA', '01:40:30');
+VALUES (693, 1001, 4719, '2023-12-27 07:42:40', '2023-12-27 11:07:40', 'DNA', 'HCM', '03:25:01');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (7023, 1901, 8157, '2023-12-09 02:34:25', '2023-12-09 08:12:25', 'LDG', 'THA', '05:38:29');
+VALUES (708, 1002, 9258, '2024-01-30 09:28:40', '2024-01-30 13:43:40', 'CTH', 'HCM', '04:15:53');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (7148, 401, 9907, '2024-01-18 19:50:25', '2024-01-18 22:26:25', 'KGI', 'DNA', '02:36:46');
+VALUES (714, 2001, 118, '2024-01-23 03:10:40', '2024-01-23 13:06:40', 'DNA', 'TTH', '09:56:12');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (7202, 1001, 3407, '2024-01-12 16:38:25', '2024-01-12 21:46:25', 'THA', 'HCM', '05:08:37');
+VALUES (720, 1202, 1710, '2024-02-26 19:12:40', '2024-02-27 01:21:40', 'CMU', 'KGI', '06:09:11');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (7345, 1202, 2517, '2023-12-08 22:31:25', '2023-12-09 08:34:25', 'LDG', 'KGI', '10:03:05');
+VALUES (732, 1501, 8129, '2023-12-08 16:54:40', '2023-12-08 23:19:40', 'HCM', 'PYE', '06:25:10');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (7486, 1401, 4743, '2023-12-12 04:10:25', '2023-12-12 14:01:25', 'DBI', 'NAN', '09:51:56');
+VALUES (749, 601, 1241, '2024-02-03 20:27:40', '2024-02-04 02:16:40', 'CTH', 'DBI', '05:49:36');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (7578, 1501, 2880, '2024-01-10 08:27:25', '2024-01-10 10:55:25', 'GLA', 'PYE', '02:28:21');
+VALUES (750, 601, 4342, '2024-02-15 21:34:40', '2024-02-16 08:04:40', 'DLA', 'DBI', '10:30:25');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (7600, 401, 1408, '2023-12-15 03:04:25', '2023-12-15 07:25:25', 'HCM', 'DNA', '04:21:57');
+VALUES (760, 1401, 2199, '2024-01-09 06:48:40', '2024-01-09 16:54:40', 'CTH', 'NAN', '10:06:23');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (7789, 1401, 1312, '2024-01-23 19:40:25', '2024-01-24 04:15:25', 'VTB', 'NAN', '08:35:27');
+VALUES (774, 1401, 8333, '2024-02-13 20:30:40', '2024-02-13 23:49:40', 'DLA', 'NAN', '03:19:21');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (7878, 1802, 1567, '2024-01-17 07:32:25', '2024-01-17 13:22:25', 'DBI', 'QNH', '05:50:16');
+VALUES (789, 301, 3715, '2023-12-14 23:15:40', '2023-12-15 03:30:40', 'HCM', 'CTH', '04:15:03');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (7971, 1302, 4743, '2023-12-20 14:29:25', '2023-12-20 22:56:25', 'CTH', 'LDG', '08:27:08');
+VALUES (797, 1701, 341, '2024-02-29 11:44:40', '2024-02-29 20:42:40', 'QBI', 'QNA', '08:58:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (8089, 1, 2392, '2024-01-23 15:09:25', '2024-01-23 21:58:25', 'DLA', 'VTB', '06:49:44');
+VALUES (808, 1201, 8201, '2023-12-13 02:26:40', '2023-12-13 13:19:40', 'QNA', 'KGI', '10:53:52');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (8190, 1202, 9375, '2024-01-04 21:25:25', '2024-01-05 00:30:25', 'DLA', 'KGI', '03:05:36');
+VALUES (814, 602, 1031, '2023-12-13 08:59:40', '2023-12-13 18:04:40', 'BDI', 'DBI', '09:05:26');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (8279, 1002, 8691, '2023-12-29 10:46:25', '2023-12-29 18:21:25', 'PYE', 'HCM', '07:35:50');
+VALUES (825, 902, 9661, '2023-12-09 09:10:40', '2023-12-09 18:29:40', 'VTB', 'HPG', '09:19:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (8321, 1001, 3542, '2023-12-06 11:20:25', '2023-12-06 13:12:25', 'QNH', 'HCM', '01:52:27');
+VALUES (838, 1501, 1489, '2023-12-04 14:38:40', '2023-12-04 21:07:40', 'VTB', 'PYE', '06:29:40');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (8492, 402, 2298, '2023-12-15 21:39:25', '2023-12-16 06:28:25', 'DBI', 'DNA', '08:49:05');
+VALUES (846, 1501, 8077, '2024-02-15 18:01:40', '2024-02-16 03:57:40', 'TTH', 'PYE', '09:56');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (8526, 402, 1408, '2024-01-14 05:59:25', '2024-01-14 14:43:25', 'QBI', 'DNA', '08:44:08');
+VALUES (854, 1201, 7221, '2024-01-03 01:58:40', '2024-01-03 09:51:40', 'GLA', 'KGI', '07:53:24');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (8658, 102, 7724, '2023-11-25 01:33:25', '2023-11-25 09:24:25', 'THA', 'BDI', '07:51:18');
+VALUES (869, 402, 1109, '2024-02-14 14:24:40', '2024-02-15 00:01:40', 'KHA', 'DNA', '09:37:59');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (8734, 601, 8691, '2023-11-27 15:42:25', '2023-11-27 20:09:25', 'CTH', 'DBI', '04:27:10');
+VALUES (873, 202, 3205, '2023-12-28 09:38:40', '2023-12-28 19:59:40', 'QNH', 'CMU', '10:21:13');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (8877, 301, 3608, '2023-12-04 07:13:25', '2023-12-04 14:09:25', 'QNA', 'CTH', '06:56:14');
+VALUES (888, 602, 756, '2024-01-20 06:40:40', '2024-01-20 10:07:40', 'QBI', 'DBI', '03:27:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (8940, 2, 7289, '2023-12-02 00:01:25', '2023-12-02 09:15:25', 'DNA', 'VTB', '09:14:33');
+VALUES (897, 101, 1710, '2024-02-02 23:04:40', '2024-02-03 06:20:40', 'PYE', 'BDI', '07:16:13');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (9024, 601, 6904, '2023-11-25 07:54:25', '2023-11-25 09:03:25', 'TTH', 'DBI', '01:09:02');
+VALUES (904, 1402, 8669, '2023-12-07 05:41:40', '2023-12-07 12:59:40', 'QNH', 'NAN', '07:18:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (9118, 602, 3285, '2023-11-29 05:52:25', '2023-11-29 11:38:25', 'HCM', 'DBI', '05:46:32');
+VALUES (919, 202, 9801, '2024-01-20 09:35:40', '2024-01-20 14:28:40', 'DNA', 'CMU', '04:53:35');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (9246, 402, 7120, '2024-01-03 02:55:25', '2024-01-03 08:32:25', 'HPG', 'DNA', '05:37:37');
+VALUES (922, 1901, 5971, '2023-12-13 13:54:40', '2023-12-13 21:21:40', 'KGI', 'THA', '07:27:04');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (9376, 1801, 3389, '2023-12-21 08:09:25', '2023-12-21 10:23:25', 'QNA', 'QNH', '02:14:22');
+VALUES (935, 2002, 1887, '2024-02-23 20:29:40', '2024-02-23 21:50:40', 'KGI', 'TTH', '01:21:31');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (9421, 702, 7085, '2023-12-26 15:42:25', '2023-12-27 00:24:25', 'PYE', 'GLA', '08:42:56');
+VALUES (948, 902, 7825, '2023-12-20 16:23:40', '2023-12-21 02:45:40', 'HCM', 'HPG', '10:22');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (9598, 1601, 2046, '2023-12-08 04:10:25', '2023-12-08 07:54:25', 'TTH', 'QBI', '03:44:29');
+VALUES (958, 301, 9946, '2023-12-03 11:17:40', '2023-12-03 15:08:40', 'TTH', 'CTH', '03:51:53');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (9650, 1502, 5737, '2023-12-06 20:08:25', '2023-12-07 04:14:25', 'QNA', 'PYE', '08:06:03');
+VALUES (969, 602, 2274, '2023-12-19 00:28:40', '2023-12-19 09:53:40', 'DLA', 'DBI', '09:25:04');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (9778, 1901, 9211, '2024-01-15 04:34:25', '2024-01-15 12:21:25', 'HPG', 'THA', '07:47:42');
+VALUES (976, 101, 2577, '2023-12-10 04:19:40', '2023-12-10 07:35:40', 'NAN', 'BDI', '03:16:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (9804, 801, 7120, '2024-01-04 02:53:25', '2024-01-04 04:37:25', 'KGI', 'HNO', '01:44:02');
+VALUES (982, 302, 6631, '2023-12-14 06:14:40', '2023-12-14 15:33:40', 'GLA', 'CTH', '09:19:39');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (9960, 1702, 4743, '2023-12-05 15:52:25', '2023-12-05 20:35:25', 'CMU', 'QNA', '04:43:50');
+VALUES (990, 1401, 7600, '2024-02-20 02:05:40', '2024-02-20 06:30:40', 'GLA', 'NAN', '04:25:41');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (10090, 502, 7982, '2024-01-12 08:29:25', '2024-01-12 14:05:25', 'DNA', 'DLA', '05:36:06');
+VALUES (1007, 202, 9763, '2024-01-13 04:31:40', '2024-01-13 05:39:40', 'CTH', 'CMU', '01:08:09');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (10163, 102, 6016, '2024-01-22 11:13:25', '2024-01-22 15:42:25', 'HNO', 'BDI', '04:29:17');
+VALUES (1012, 1401, 2577, '2024-02-12 03:13:40', '2024-02-12 13:30:40', 'LDG', 'NAN', '10:17:29');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (10255, 201, 6250, '2024-01-22 03:05:25', '2024-01-22 12:29:25', 'DNA', 'CMU', '09:24:26');
+VALUES (1028, 501, 8129, '2024-01-05 01:28:40', '2024-01-05 05:42:40', 'THA', 'DLA', '04:14:21');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (10306, 1301, 7872, '2023-12-05 23:29:25', '2023-12-06 05:31:25', 'THA', 'LDG', '06:02:12');
+VALUES (1030, 1902, 6631, '2023-12-28 19:16:40', '2023-12-28 21:36:40', 'CMU', 'THA', '02:20:26');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (10434, 2002, 7383, '2023-11-25 14:11:25', '2023-11-25 18:31:25', 'DBI', 'TTH', '04:20:06');
+VALUES (1041, 1901, 6631, '2024-02-22 05:52:40', '2024-02-22 16:16:40', 'VTB', 'THA', '10:24:47');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (10590, 1602, 4589, '2023-12-02 07:44:25', '2023-12-02 16:48:25', 'LDG', 'QBI', '09:04:18');
+VALUES (1050, 1002, 5349, '2024-01-20 08:05:40', '2024-01-20 10:58:40', 'DNA', 'HCM', '02:53:58');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (10670, 1601, 3783, '2023-12-25 05:19:25', '2023-12-25 07:16:25', 'PYE', 'QBI', '01:57:48');
+VALUES (1064, 202, 3142, '2024-02-22 19:01:40', '2024-02-22 20:26:40', 'QNA', 'CMU', '01:25:36');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (10766, 1202, 6756, '2024-01-20 07:32:25', '2024-01-20 11:51:25', 'QNH', 'KGI', '04:19:28');
+VALUES (1074, 702, 8933, '2024-02-05 14:08:40', '2024-02-05 15:13:40', 'HNO', 'GLA', '01:05:21');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (10827, 1701, 9907, '2023-12-14 13:06:25', '2023-12-14 20:16:25', 'LDG', 'QNA', '07:10:43');
+VALUES (1085, 1901, 9763, '2023-12-10 09:39:40', '2023-12-10 17:31:40', 'GLA', 'THA', '07:52:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (10909, 1901, 9565, '2024-01-13 02:16:25', '2024-01-13 10:56:25', 'DBI', 'THA', '08:40:37');
+VALUES (1095, 1501, 5482, '2023-12-30 03:49:40', '2023-12-30 05:35:40', 'TTH', 'PYE', '01:46:52');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (11082, 1702, 2046, '2024-01-23 06:12:25', '2024-01-23 08:17:25', 'HPG', 'QNA', '02:05:24');
+VALUES (1101, 1602, 9763, '2024-01-12 03:17:40', '2024-01-12 09:06:40', 'THA', 'QBI', '05:49:45');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (11189, 1701, 3136, '2024-01-22 23:08:25', '2024-01-23 09:09:25', 'HNO', 'QNA', '10:01:39');
+VALUES (1114, 1001, 4063, '2024-02-24 04:20:40', '2024-02-24 05:33:40', 'CTH', 'HCM', '01:13:07');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (11225, 101, 3864, '2024-01-21 07:16:25', '2024-01-21 09:21:25', 'NAN', 'BDI', '02:05:43');
+VALUES (1125, 1301, 5971, '2023-12-19 12:44:40', '2023-12-19 16:06:40', 'DNA', 'LDG', '03:22:06');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (11372, 2002, 9211, '2023-11-27 22:07:25', '2023-11-28 06:16:25', 'CTH', 'TTH', '08:09:01');
+VALUES (1132, 201, 118, '2023-12-18 23:02:40', '2023-12-19 05:22:40', 'DBI', 'CMU', '06:20:25');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (11409, 1902, 7383, '2024-01-11 09:03:25', '2024-01-11 10:54:25', 'GLA', 'THA', '01:51:12');
+VALUES (1147, 602, 1327, '2024-01-29 03:16:40', '2024-01-29 04:46:40', 'QNH', 'DBI', '01:30:45');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (11560, 1802, 1977, '2023-12-18 22:05:25', '2023-12-19 04:26:25', 'LDG', 'QNH', '06:21:07');
+VALUES (1150, 902, 7570, '2023-12-09 19:13:40', '2023-12-10 00:53:40', 'HCM', 'HPG', '05:40:02');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (11682, 802, 247, '2023-11-27 08:01:25', '2023-11-27 18:51:25', 'HPG', 'HNO', '10:50:41');
+VALUES (1166, 802, 454, '2023-12-04 06:31:40', '2023-12-04 09:46:40', 'QBI', 'HNO', '03:15:32');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (11785, 802, 8743, '2024-01-19 17:06:25', '2024-01-19 21:57:25', 'KGI', 'HNO', '04:51:56');
+VALUES (1170, 1601, 8669, '2024-02-25 04:22:40', '2024-02-25 13:30:40', 'HNO', 'QBI', '09:08:05');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (11853, 2, 2046, '2023-11-26 00:46:25', '2023-11-26 10:50:25', 'CMU', 'VTB', '10:04:05');
+VALUES (1183, 1701, 2045, '2024-01-12 13:23:40', '2024-01-12 16:38:40', 'DBI', 'QNA', '03:15:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (11954, 1, 4589, '2023-12-03 14:41:25', '2023-12-03 18:11:25', 'KHA', 'VTB', '03:30:12');
+VALUES (1196, 1901, 7116, '2024-01-07 06:39:40', '2024-01-07 12:17:40', 'HPG', 'THA', '05:38:06');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (12006, 102, 7494, '2024-01-09 05:17:25', '2024-01-09 13:43:25', 'NAN', 'BDI', '08:26:22');
+VALUES (1206, 301, 1489, '2024-01-18 06:23:40', '2024-01-18 14:53:40', 'KHA', 'CTH', '08:30:02');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (12122, 1001, 8066, '2023-12-28 05:48:25', '2023-12-28 10:46:25', 'THA', 'HCM', '04:58:57');
+VALUES (1211, 1002, 1241, '2024-01-28 10:06:40', '2024-01-28 19:02:40', 'QNA', 'HCM', '08:56:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (12236, 302, 3608, '2024-01-24 10:04:25', '2024-01-24 13:22:25', 'THA', 'CTH', '03:18:26');
+VALUES (1228, 201, 756, '2024-02-18 19:56:40', '2024-02-19 03:34:40', 'HCM', 'CMU', '07:38:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (12374, 702, 4174, '2024-01-02 00:37:25', '2024-01-02 05:01:25', 'DNA', 'GLA', '04:24:45');
+VALUES (1232, 802, 6894, '2024-01-12 19:32:40', '2024-01-13 04:39:40', 'DBI', 'HNO', '09:07:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (12442, 301, 7085, '2023-12-14 05:05:25', '2023-12-14 13:57:25', 'VTB', 'CTH', '08:52:23');
+VALUES (1247, 902, 261, '2024-01-09 12:57:40', '2024-01-09 19:23:40', 'DBI', 'HPG', '06:26:31');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (12510, 402, 4610, '2024-01-04 02:31:25', '2024-01-04 05:56:25', 'GLA', 'DNA', '03:25:03');
+VALUES (1254, 1702, 2199, '2023-12-03 17:46:40', '2023-12-03 22:57:40', 'VTB', 'QNA', '05:11:37');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (12613, 1002, 9839, '2024-01-11 09:45:25', '2024-01-11 20:15:25', 'HPG', 'HCM', '10:30:24');
+VALUES (1265, 302, 756, '2024-01-18 03:22:40', '2024-01-18 08:49:40', 'THA', 'CTH', '05:27:46');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (12766, 202, 4313, '2023-12-29 06:47:25', '2023-12-29 16:12:25', 'HCM', 'CMU', '09:25:01');
+VALUES (1275, 1501, 4180, '2024-01-21 23:02:40', '2024-01-22 04:20:40', 'QNH', 'PYE', '05:18:24');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (12813, 501, 133, '2024-01-19 16:35:25', '2024-01-19 21:53:25', 'QNA', 'DLA', '05:18:47');
+VALUES (1280, 302, 5286, '2024-01-10 00:24:40', '2024-01-10 11:07:40', 'DLA', 'CTH', '10:43:43');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (12968, 1201, 740, '2024-01-17 20:30:25', '2024-01-18 03:53:25', 'KHA', 'KGI', '07:23:43');
+VALUES (1296, 1401, 2730, '2024-01-15 23:10:40', '2024-01-16 06:07:40', 'QBI', 'NAN', '06:57');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (13012, 402, 9733, '2024-01-14 18:54:25', '2024-01-14 20:54:25', 'KHA', 'DNA', '02:00:20');
+VALUES (1304, 1402, 3142, '2023-12-31 07:37:40', '2023-12-31 17:16:40', 'VTB', 'NAN', '09:39:25');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (13155, 902, 9839, '2024-01-07 04:37:25', '2024-01-07 14:33:25', 'THA', 'HPG', '09:56:45');
+VALUES (1313, 901, 1710, '2024-01-09 19:59:40', '2024-01-09 22:11:40', 'GLA', 'HPG', '02:12:30');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (13247, 701, 3986, '2023-12-28 08:19:25', '2023-12-28 09:45:25', 'HCM', 'GLA', '01:26:30');
+VALUES (1326, 102, 4719, '2024-01-11 03:27:40', '2024-01-11 06:10:40', 'DLA', 'BDI', '02:43:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (13357, 1401, 3136, '2023-11-25 03:15:25', '2023-11-25 06:28:25', 'TTH', 'NAN', '03:13:08');
+VALUES (1337, 201, 9801, '2023-12-08 16:15:40', '2023-12-09 00:41:40', 'QNH', 'CMU', '08:26:13');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (13450, 1902, 3608, '2023-12-05 23:29:25', '2023-12-06 01:36:25', 'DBI', 'THA', '02:07:01');
+VALUES (1349, 1402, 4257, '2023-12-19 22:41:40', '2023-12-19 23:45:40', 'KHA', 'NAN', '01:04:22');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (13574, 1402, 8691, '2023-12-09 05:49:25', '2023-12-09 12:30:25', 'TTH', 'NAN', '06:41:16');
+VALUES (1354, 1401, 3423, '2024-01-24 14:57:40', '2024-01-24 19:15:40', 'KGI', 'NAN', '04:18:43');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (13630, 1201, 6199, '2023-12-04 02:23:25', '2023-12-04 04:59:25', 'CMU', 'KGI', '02:36:35');
+VALUES (1367, 1201, 1541, '2024-01-26 03:47:40', '2024-01-26 05:51:40', 'DNA', 'KGI', '02:04:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (13774, 2, 979, '2023-11-30 01:02:25', '2023-11-30 02:38:25', 'QNA', 'VTB', '01:36:35');
+VALUES (1376, 1301, 4180, '2024-02-02 13:44:40', '2024-02-02 22:46:40', 'DLA', 'LDG', '09:02:38');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (13877, 2, 8291, '2024-01-24 01:43:25', '2024-01-24 06:50:25', 'HCM', 'VTB', '05:07:55');
+VALUES (1389, 1601, 2730, '2024-01-27 07:47:40', '2024-01-27 15:58:40', 'KGI', 'QBI', '08:11:35');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (13999, 101, 8981, '2023-12-06 12:14:25', '2023-12-06 16:43:25', 'QNH', 'BDI', '04:29:22');
+VALUES (1396, 1702, 6556, '2024-02-03 20:47:40', '2024-02-04 07:46:40', 'VTB', 'QNA', '10:59:30');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (14047, 901, 5499, '2023-12-03 17:02:25', '2023-12-03 22:01:25', 'PYE', 'HPG', '04:59:24');
+VALUES (1407, 101, 4994, '2024-02-15 22:46:40', '2024-02-16 01:21:40', 'CTH', 'BDI', '02:35:38');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (14165, 902, 740, '2023-12-25 03:56:25', '2023-12-25 07:00:25', 'NAN', 'HPG', '03:04:01');
+VALUES (1417, 1602, 10025, '2024-01-17 08:13:40', '2024-01-17 14:12:40', 'HPG', 'QBI', '05:59:35');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (14203, 1502, 1795, '2023-12-15 21:58:25', '2023-12-16 05:50:25', 'THA', 'PYE', '07:52:42');
+VALUES (1426, 1001, 4342, '2023-12-10 07:29:40', '2023-12-10 15:20:40', 'DLA', 'HCM', '07:51:11');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (14375, 1602, 8342, '2023-12-09 03:06:25', '2023-12-09 05:34:25', 'PYE', 'QBI', '02:28:19');
+VALUES (1432, 1702, 9258, '2024-01-12 04:01:40', '2024-01-12 14:17:40', 'KHA', 'QNA', '10:16:38');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (14498, 1401, 1033, '2024-01-07 13:19:25', '2024-01-07 22:35:25', 'GLA', 'NAN', '09:16:39');
+VALUES (1445, 1101, 9414, '2023-12-28 05:32:40', '2023-12-28 10:17:40', 'GLA', 'KHA', '04:45:56');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (14569, 1401, 5895, '2024-01-03 10:17:25', '2024-01-03 17:57:25', 'CTH', 'NAN', '07:40');
+VALUES (1452, 602, 1999, '2024-02-29 05:06:40', '2024-02-29 09:38:40', 'QNH', 'DBI', '04:32:56');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (14691, 2, 7494, '2024-01-20 00:20:25', '2024-01-20 06:37:25', 'CMU', 'VTB', '06:17:19');
+VALUES (1466, 701, 3968, '2024-01-13 12:31:40', '2024-01-13 21:25:40', 'LDG', 'GLA', '08:54:08');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (14737, 1802, 8691, '2023-12-22 09:18:25', '2023-12-22 17:36:25', 'CTH', 'QNH', '08:18:25');
+VALUES (1479, 1102, 3423, '2024-01-27 08:47:40', '2024-01-27 19:21:40', 'QBI', 'KHA', '10:34:16');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (14814, 1702, 8482, '2023-12-31 22:58:25', '2024-01-01 07:15:25', 'THA', 'QNA', '08:17:01');
+VALUES (1483, 2001, 676, '2023-12-05 04:56:40', '2023-12-05 10:50:40', 'VTB', 'TTH', '05:54:34');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (14922, 1502, 1312, '2024-01-23 21:47:25', '2024-01-24 07:25:25', 'BDI', 'PYE', '09:38:40');
+VALUES (1497, 202, 676, '2023-12-12 07:04:40', '2023-12-12 09:56:40', 'VTB', 'CMU', '02:52:33');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (15027, 1801, 6250, '2024-01-01 13:09:25', '2024-01-01 21:52:25', 'HCM', 'QNH', '08:43:58');
+VALUES (1503, 301, 1327, '2024-01-11 22:20:40', '2024-01-12 03:50:40', 'NAN', 'CTH', '05:30:33');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (15179, 1001, 6199, '2023-12-05 09:03:25', '2023-12-05 15:50:25', 'DBI', 'HCM', '06:47:03');
+VALUES (1511, 301, 8933, '2024-01-04 21:34:40', '2024-01-05 01:49:40', 'TTH', 'CTH', '04:15:12');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (15244, 1202, 3542, '2023-12-11 18:53:25', '2023-12-11 22:44:25', 'DLA', 'KGI', '03:51:13');
+VALUES (1529, 1901, 9414, '2024-01-23 20:00:40', '2024-01-24 05:45:40', 'PYE', 'THA', '09:45:56');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (15349, 602, 8342, '2023-12-17 14:19:25', '2023-12-17 22:53:25', 'DLA', 'DBI', '08:34:14');
+VALUES (1539, 402, 6767, '2024-01-23 16:05:40', '2024-01-23 20:40:40', 'TTH', 'DNA', '04:35:47');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (15410, 1702, 406, '2024-01-23 17:49:25', '2024-01-23 23:47:25', 'THA', 'QNA', '05:58:46');
+VALUES (1540, 401, 8669, '2024-02-23 14:53:40', '2024-02-23 17:58:40', 'GLA', 'DNA', '03:05');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (15504, 1102, 4809, '2023-12-30 19:32:25', '2023-12-31 01:41:25', 'KGI', 'KHA', '06:09:37');
+VALUES (1553, 902, 5085, '2024-01-02 23:07:40', '2024-01-03 01:59:40', 'THA', 'HPG', '02:52:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (15639, 502, 7724, '2023-12-01 16:10:25', '2023-12-02 01:57:25', 'THA', 'DLA', '09:47:42');
+VALUES (1561, 202, 1887, '2023-12-25 23:25:40', '2023-12-26 04:03:40', 'HNO', 'CMU', '04:38:09');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (15759, 1901, 7982, '2023-12-08 07:11:25', '2023-12-08 11:14:25', 'CMU', 'THA', '04:03:42');
+VALUES (1575, 1302, 1241, '2024-01-08 10:05:40', '2024-01-08 13:21:40', 'VTB', 'LDG', '03:16:51');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (15812, 1402, 3136, '2024-01-19 14:32:25', '2024-01-20 01:19:25', 'HPG', 'NAN', '10:47:02');
+VALUES (1580, 1901, 9258, '2024-02-01 07:45:40', '2024-02-01 12:02:40', 'BDI', 'THA', '04:17:24');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (15959, 2002, 2685, '2023-12-20 07:36:25', '2023-12-20 17:20:25', 'HNO', 'TTH', '09:44:23');
+VALUES (1593, 1202, 6999, '2024-01-08 16:51:40', '2024-01-08 20:16:40', 'DNA', 'KGI', '03:25:16');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (16059, 102, 4313, '2023-11-28 15:10:25', '2023-11-28 20:31:25', 'GLA', 'BDI', '05:21:01');
+VALUES (1607, 502, 261, '2024-02-05 21:31:40', '2024-02-06 00:42:40', 'QNH', 'DLA', '03:11:13');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (16131, 1101, 381, '2023-12-01 07:22:25', '2023-12-01 09:57:25', 'BDI', 'KHA', '02:35:36');
+VALUES (1611, 1602, 7460, '2024-02-20 21:27:40', '2024-02-21 07:15:40', 'PYE', 'QBI', '09:48:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (16288, 802, 3783, '2023-12-22 11:45:25', '2023-12-22 12:46:25', 'KGI', 'HNO', '01:01:38');
+VALUES (1622, 702, 7825, '2024-02-09 22:02:40', '2024-02-10 08:51:40', 'BDI', 'GLA', '10:49:53');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (16318, 1, 6756, '2023-12-24 09:24:25', '2023-12-24 19:23:25', 'GLA', 'VTB', '09:59:07');
+VALUES (1633, 1201, 8333, '2024-02-05 19:03:40', '2024-02-05 22:17:40', 'HNO', 'KGI', '03:14:01');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (16414, 402, 5166, '2024-01-14 12:57:25', '2024-01-14 14:27:25', 'DBI', 'DNA', '01:30:01');
+VALUES (1644, 601, 6631, '2024-02-19 23:55:40', '2024-02-20 09:22:40', 'THA', 'DBI', '09:27:12');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (16501, 1302, 8066, '2024-01-18 20:42:25', '2024-01-19 07:00:25', 'QBI', 'LDG', '10:18:28');
+VALUES (1652, 602, 2990, '2024-02-27 02:54:40', '2024-02-27 04:03:40', 'VTB', 'DBI', '01:09:12');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (16627, 1601, 1795, '2024-01-20 02:24:25', '2024-01-20 08:22:25', 'HPG', 'QBI', '05:58:56');
+VALUES (1662, 201, 7392, '2024-01-20 13:57:40', '2024-01-20 22:41:40', 'HNO', 'CMU', '08:44:46');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (16746, 502, 6469, '2023-11-30 03:28:25', '2023-11-30 04:48:25', 'HPG', 'DLA', '01:20:16');
+VALUES (1671, 1001, 6400, '2024-01-06 17:57:40', '2024-01-06 20:28:40', 'CMU', 'HCM', '02:31:12');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (16824, 1101, 7494, '2024-01-14 15:53:25', '2024-01-14 21:41:25', 'HCM', 'KHA', '05:48:27');
+VALUES (1682, 1802, 1327, '2023-12-26 22:22:40', '2023-12-26 23:32:40', 'KGI', 'QNH', '01:10:11');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (16940, 1702, 9839, '2023-12-03 08:37:25', '2023-12-03 10:28:25', 'CMU', 'QNA', '01:51:07');
+VALUES (1698, 902, 6631, '2024-01-25 04:48:40', '2024-01-25 07:21:40', 'LDG', 'HPG', '02:33:25');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (17015, 902, 6529, '2024-01-10 16:34:25', '2024-01-11 02:00:25', 'GLA', 'HPG', '09:26:42');
+VALUES (1700, 1602, 8507, '2023-12-13 14:26:40', '2023-12-13 22:53:40', 'HPG', 'QBI', '08:27:42');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (17196, 601, 8066, '2023-12-30 01:49:25', '2023-12-30 06:32:25', 'DLA', 'DBI', '04:43:45');
+VALUES (1716, 2, 9946, '2023-12-01 18:55:40', '2023-12-01 23:27:40', 'THA', 'VTB', '04:32:16');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (17287, 1302, 5930, '2024-01-13 22:05:25', '2024-01-14 06:27:25', 'KHA', 'LDG', '08:22:26');
+VALUES (1723, 1501, 2602, '2024-02-15 02:17:40', '2024-02-15 09:48:40', 'BDI', 'PYE', '07:31:44');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (17359, 601, 1312, '2023-12-25 19:50:25', '2023-12-26 05:03:25', 'HNO', 'DBI', '09:13:03');
+VALUES (1733, 301, 8818, '2024-02-04 05:09:40', '2024-02-04 06:27:40', 'CMU', 'CTH', '01:18');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (17417, 202, 9839, '2023-12-02 02:35:25', '2023-12-02 08:14:25', 'KGI', 'CMU', '05:39:48');
+VALUES (1748, 302, 7600, '2023-12-05 07:27:40', '2023-12-05 11:02:40', 'QBI', 'CTH', '03:35:24');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (17505, 202, 1977, '2024-01-23 17:08:25', '2024-01-24 02:10:25', 'KHA', 'CMU', '09:02:34');
+VALUES (1756, 1902, 6400, '2024-02-29 11:49:40', '2024-02-29 17:29:40', 'KHA', 'THA', '05:40:09');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (17660, 1602, 4809, '2023-12-22 00:30:25', '2023-12-22 11:19:25', 'HPG', 'QBI', '10:49:48');
+VALUES (1763, 1502, 529, '2023-12-28 21:31:40', '2023-12-29 04:32:40', 'NAN', 'PYE', '07:01:11');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (17788, 1702, 7982, '2024-01-21 17:50:25', '2024-01-21 21:40:25', 'QNH', 'QNA', '03:50:55');
+VALUES (1773, 901, 8333, '2024-02-24 08:02:40', '2024-02-24 15:12:40', 'QNA', 'HPG', '07:10:39');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (17862, 502, 5507, '2023-11-28 17:43:25', '2023-11-28 23:39:25', 'HPG', 'DLA', '05:56:14');
+VALUES (1783, 302, 4063, '2023-12-07 20:08:40', '2023-12-08 06:32:40', 'NAN', 'CTH', '10:24:31');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (17959, 801, 1631, '2024-01-07 13:50:25', '2024-01-07 21:33:25', 'VTB', 'HNO', '07:43:12');
+VALUES (1795, 902, 6894, '2024-01-01 17:12:40', '2024-01-01 23:56:40', 'HNO', 'HPG', '06:44:07');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (18089, 501, 8482, '2023-12-02 09:27:25', '2023-12-02 16:36:25', 'GLA', 'DLA', '07:09:50');
+VALUES (1803, 402, 9327, '2024-01-23 07:44:40', '2024-01-23 14:38:40', 'HCM', 'DNA', '06:54:15');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (18136, 2, 9132, '2024-01-06 14:16:25', '2024-01-06 23:37:25', 'LDG', 'VTB', '09:21:49');
+VALUES (1812, 1, 5971, '2024-01-24 12:42:40', '2024-01-24 22:35:40', 'NAN', 'VTB', '09:53:57');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (18240, 901, 3864, '2024-01-16 20:40:25', '2024-01-17 02:26:25', 'DLA', 'HPG', '05:46:42');
+VALUES (1825, 601, 6894, '2024-02-17 01:05:40', '2024-02-17 02:57:40', 'LDG', 'DBI', '01:52:17');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (18341, 901, 6199, '2023-12-23 00:43:25', '2023-12-23 02:48:25', 'VTB', 'HPG', '02:05:47');
+VALUES (1834, 1502, 10025, '2024-01-08 11:23:40', '2024-01-08 20:05:40', 'BDI', 'PYE', '08:42:04');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (18470, 1001, 3864, '2023-12-02 02:47:25', '2023-12-02 12:49:25', 'LDG', 'HCM', '10:02:54');
+VALUES (1845, 501, 6999, '2023-12-07 11:14:40', '2023-12-07 14:46:40', 'DNA', 'DLA', '03:32:31');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (18554, 1601, 7872, '2023-12-10 13:50:25', '2023-12-10 20:52:25', 'QNA', 'QBI', '07:02:07');
+VALUES (1859, 1202, 9155, '2024-01-09 10:13:40', '2024-01-09 18:59:40', 'KHA', 'KGI', '08:46');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (18660, 2002, 9211, '2024-01-17 16:50:25', '2024-01-18 00:01:25', 'LDG', 'TTH', '07:11:36');
+VALUES (1863, 402, 4180, '2024-02-01 08:19:40', '2024-02-01 10:30:40', 'TTH', 'DNA', '02:11:44');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (18760, 702, 5895, '2024-01-21 17:57:25', '2024-01-21 22:54:25', 'LDG', 'GLA', '04:57:46');
+VALUES (1875, 702, 6400, '2023-12-22 17:49:40', '2023-12-22 19:53:40', 'THA', 'GLA', '02:04:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (18882, 602, 2164, '2023-12-14 20:45:25', '2023-12-15 01:03:25', 'QNH', 'DBI', '04:18:53');
+VALUES (1889, 902, 1999, '2024-02-04 00:47:40', '2024-02-04 06:50:40', 'CTH', 'HPG', '06:03:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (18948, 1302, 8691, '2024-01-14 01:13:25', '2024-01-14 11:32:25', 'HNO', 'LDG', '10:19:15');
+VALUES (1895, 702, 9946, '2023-12-10 22:28:40', '2023-12-11 08:43:40', 'QNA', 'GLA', '10:15:52');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (19060, 1102, 3407, '2023-11-26 09:34:25', '2023-11-26 17:50:25', 'GLA', 'KHA', '08:16:02');
+VALUES (1908, 1801, 1541, '2023-12-01 20:13:40', '2023-12-01 22:56:40', 'PYE', 'QNH', '02:43:05');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (19104, 1901, 8482, '2023-12-11 03:59:25', '2023-12-11 13:51:25', 'DBI', 'THA', '09:52:59');
+VALUES (1911, 2, 3037, '2023-12-03 18:16:40', '2023-12-03 23:13:40', 'DLA', 'VTB', '04:57:01');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (19221, 1301, 4589, '2023-12-28 05:01:25', '2023-12-28 06:16:25', 'VTB', 'LDG', '01:15:35');
+VALUES (1928, 1001, 7003, '2024-02-01 02:55:40', '2024-02-01 10:32:40', 'PYE', 'HCM', '07:37:28');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (19336, 1101, 1631, '2024-01-15 05:14:25', '2024-01-15 10:13:25', 'KGI', 'KHA', '04:59:29');
+VALUES (1935, 401, 1327, '2023-12-09 01:36:40', '2023-12-09 10:20:40', 'CMU', 'DNA', '08:44:05');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (19461, 1, 7383, '2023-12-29 14:28:25', '2023-12-29 17:34:25', 'HCM', 'VTB', '03:06:03');
+VALUES (1944, 2001, 6767, '2024-02-26 02:50:40', '2024-02-26 12:35:40', 'DLA', 'TTH', '09:45:48');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (19512, 1102, 7120, '2023-12-17 22:20:25', '2023-12-18 02:57:25', 'QNH', 'KHA', '04:37:08');
+VALUES (1951, 1601, 3037, '2024-02-29 08:34:40', '2024-02-29 13:31:40', 'VTB', 'QBI', '04:57:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (19655, 1001, 7675, '2024-01-23 04:37:25', '2024-01-23 14:27:25', 'CMU', 'HCM', '09:50:31');
+VALUES (1969, 2, 6767, '2024-02-03 04:47:40', '2024-02-03 06:22:40', 'BDI', 'VTB', '01:35:37');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (19758, 1601, 7383, '2024-01-17 08:07:25', '2024-01-17 17:33:25', 'DLA', 'QBI', '09:26:48');
+VALUES (1970, 202, 9155, '2024-02-09 10:23:40', '2024-02-09 20:55:40', 'THA', 'CMU', '10:32:41');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (19878, 1101, 5737, '2023-12-20 12:38:25', '2023-12-20 16:46:25', 'QNH', 'KHA', '04:08:10');
+VALUES (1983, 1002, 9079, '2024-02-06 00:47:40', '2024-02-06 07:15:40', 'CMU', 'HCM', '06:28:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (19927, 602, 1155, '2023-12-06 20:54:25', '2023-12-07 01:42:25', 'KGI', 'DBI', '04:48:59');
+VALUES (1994, 301, 1632, '2023-12-07 00:13:40', '2023-12-07 01:48:40', 'HCM', 'CTH', '01:35:32');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (20013, 1102, 5345, '2024-01-03 19:33:25', '2024-01-04 04:24:25', 'HNO', 'KHA', '08:51:18');
+VALUES (2005, 402, 3869, '2024-02-01 20:17:40', '2024-02-01 23:58:40', 'BDI', 'DNA', '03:41:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (20129, 501, 1033, '2024-01-12 02:57:25', '2024-01-12 10:05:25', 'PYE', 'DLA', '07:08:35');
+VALUES (2013, 1102, 4063, '2024-02-14 13:54:40', '2024-02-14 16:12:40', 'QNA', 'KHA', '02:18:44');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (20203, 901, 5067, '2023-11-28 09:35:25', '2023-11-28 16:18:25', 'DLA', 'HPG', '06:43:40');
+VALUES (2028, 1101, 8722, '2024-02-29 09:56:40', '2024-02-29 18:09:40', 'QNH', 'KHA', '08:13:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (20396, 1201, 6756, '2024-01-19 20:51:25', '2024-01-20 05:38:25', 'HPG', 'KGI', '08:47:47');
+VALUES (2033, 301, 5349, '2024-01-10 16:20:40', '2024-01-10 21:02:40', 'DBI', 'CTH', '04:42:16');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (20492, 2, 2428, '2023-12-30 18:23:25', '2023-12-30 23:03:25', 'BDI', 'VTB', '04:40:27');
+VALUES (2040, 1901, 2990, '2023-12-15 22:21:40', '2023-12-16 07:53:40', 'DNA', 'THA', '09:32:27');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (20517, 1802, 9429, '2023-12-11 03:35:25', '2023-12-11 07:10:25', 'KHA', 'QNH', '03:35:28');
+VALUES (2058, 1, 6400, '2023-12-10 11:03:40', '2023-12-10 21:29:40', 'DLA', 'VTB', '10:26:17');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (20635, 1301, 133, '2023-12-25 14:23:25', '2023-12-25 23:24:25', 'QBI', 'LDG', '09:01:11');
+VALUES (2060, 401, 2807, '2024-01-08 11:37:40', '2024-01-08 14:34:40', 'BDI', 'DNA', '02:57:35');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (20728, 1802, 2685, '2023-12-15 05:29:25', '2023-12-15 15:09:25', 'CMU', 'QNH', '09:40:32');
+VALUES (2075, 1301, 9570, '2024-02-15 06:00:40', '2024-02-15 14:08:40', 'KGI', 'LDG', '08:08:09');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (20804, 601, 4174, '2023-12-03 10:45:25', '2023-12-03 18:21:25', 'CTH', 'DBI', '07:36:17');
+VALUES (2086, 802, 2577, '2024-02-04 00:00:40', '2024-02-04 06:31:40', 'PYE', 'HNO', '06:31:17');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (20917, 1201, 2756, '2024-01-19 04:42:25', '2024-01-19 07:45:25', 'NAN', 'KGI', '03:03:28');
+VALUES (2091, 902, 8669, '2024-01-28 07:01:40', '2024-01-28 10:33:40', 'QNA', 'HPG', '03:32:30');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (21098, 1001, 4434, '2023-11-29 15:43:25', '2023-11-29 23:23:25', 'CTH', 'HCM', '07:40:09');
+VALUES (2104, 1301, 4180, '2024-01-23 03:33:40', '2024-01-23 08:09:40', 'THA', 'LDG', '04:36:51');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (21173, 802, 8482, '2023-12-31 05:42:25', '2023-12-31 13:36:25', 'CTH', 'HNO', '07:54:31');
+VALUES (2117, 302, 9661, '2023-12-20 16:45:40', '2023-12-21 02:54:40', 'VTB', 'CTH', '10:09:08');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (21271, 1801, 2428, '2023-12-12 03:21:25', '2023-12-12 04:55:25', 'KGI', 'QNH', '01:34:17');
+VALUES (2122, 1002, 5635, '2024-02-12 16:58:40', '2024-02-13 02:09:40', 'KHA', 'HCM', '09:11:57');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (21306, 202, 3389, '2024-01-15 23:35:25', '2024-01-16 06:36:25', 'THA', 'CMU', '07:01:27');
+VALUES (2133, 902, 3316, '2024-02-24 05:40:40', '2024-02-24 09:11:40', 'BDI', 'HPG', '03:31:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (21486, 801, 3389, '2023-12-17 09:57:25', '2023-12-17 15:36:25', 'NAN', 'HNO', '05:39:11');
+VALUES (2142, 302, 7570, '2023-12-16 17:53:40', '2023-12-17 03:25:40', 'KHA', 'CTH', '09:32:45');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (21528, 201, 6334, '2023-12-28 07:49:25', '2023-12-28 14:42:25', 'PYE', 'CMU', '06:53:02');
+VALUES (2152, 1101, 5635, '2024-01-19 03:11:40', '2024-01-19 06:53:40', 'HNO', 'KHA', '03:42:21');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (21674, 201, 7675, '2023-12-17 07:19:25', '2023-12-17 12:17:25', 'NAN', 'CMU', '04:58:02');
+VALUES (2162, 1001, 118, '2024-01-27 18:06:40', '2024-01-27 20:14:40', 'KGI', 'HCM', '02:08:35');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (21707, 1, 9211, '2023-12-31 08:49:25', '2023-12-31 11:29:25', 'QNH', 'VTB', '02:40:22');
+VALUES (2170, 501, 2990, '2024-02-02 01:45:40', '2024-02-02 03:37:40', 'QBI', 'DLA', '01:52:25');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (21837, 1202, 607, '2023-12-20 17:00:25', '2023-12-20 22:57:25', 'HNO', 'KGI', '05:57:48');
+VALUES (2180, 1001, 7570, '2023-12-22 18:29:40', '2023-12-23 02:20:40', 'CMU', 'HCM', '07:51:05');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (21964, 702, 740, '2023-12-25 06:08:25', '2023-12-25 13:39:25', 'PYE', 'GLA', '07:31:04');
+VALUES (2190, 1001, 3205, '2023-12-26 02:15:40', '2023-12-26 07:54:40', 'KGI', 'HCM', '05:39:42');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (22009, 1801, 5737, '2023-12-22 14:56:25', '2023-12-22 19:00:25', 'KHA', 'QNH', '04:04:59');
+VALUES (2201, 1, 2467, '2023-12-10 10:26:40', '2023-12-10 13:25:40', 'BDI', 'VTB', '02:59:29');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (22120, 301, 2164, '2023-12-28 10:52:25', '2023-12-28 15:54:25', 'KHA', 'CTH', '05:02:31');
+VALUES (2211, 101, 4063, '2024-01-08 12:27:40', '2024-01-08 21:50:40', 'DLA', 'BDI', '09:23:17');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (22290, 1501, 3986, '2024-01-18 11:40:25', '2024-01-18 19:30:25', 'KHA', 'PYE', '07:50:47');
+VALUES (2225, 1302, 1887, '2024-02-05 06:21:40', '2024-02-05 10:19:40', 'QBI', 'LDG', '03:58:10');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (22350, 402, 1839, '2023-11-27 06:06:25', '2023-11-27 12:11:25', 'CTH', 'DNA', '06:05:48');
+VALUES (2239, 1301, 1999, '2024-03-01 00:13:40', '2024-03-01 04:16:40', 'GLA', 'LDG', '04:03:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (22481, 202, 3542, '2024-01-02 10:29:25', '2024-01-02 18:18:25', 'BDI', 'CMU', '07:49:35');
+VALUES (2245, 501, 1031, '2024-02-01 11:38:40', '2024-02-01 19:08:40', 'DNA', 'DLA', '07:30:36');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (22502, 1301, 8835, '2023-12-12 00:37:25', '2023-12-12 08:00:25', 'NAN', 'LDG', '07:23:24');
+VALUES (2252, 1702, 9079, '2023-12-28 11:06:40', '2023-12-28 21:03:40', 'CMU', 'QNA', '09:57:17');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (22667, 602, 2392, '2023-12-21 16:54:25', '2023-12-21 18:32:25', 'THA', 'DBI', '01:38:31');
+VALUES (2267, 502, 5816, '2024-02-22 02:23:40', '2024-02-22 09:14:40', 'CMU', 'DLA', '06:51:38');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (22729, 1402, 6469, '2024-01-11 10:37:25', '2024-01-11 20:30:25', 'CMU', 'NAN', '09:53:55');
+VALUES (2279, 101, 2730, '2023-12-18 20:45:40', '2023-12-19 05:34:40', 'PYE', 'BDI', '08:49:58');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (22872, 1401, 5737, '2023-12-15 18:43:25', '2023-12-16 01:15:25', 'PYE', 'NAN', '06:32:12');
+VALUES (2281, 1902, 7950, '2024-01-08 03:58:40', '2024-01-08 07:06:40', 'BDI', 'THA', '03:08:53');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (22960, 1301, 6695, '2024-01-21 19:50:25', '2024-01-22 06:40:25', 'GLA', 'LDG', '10:50:52');
+VALUES (2297, 1001, 9801, '2023-12-09 15:58:40', '2023-12-09 19:53:40', 'KHA', 'HCM', '03:55:40');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (23033, 502, 4434, '2023-12-22 14:13:25', '2023-12-22 19:56:25', 'PYE', 'DLA', '05:43:08');
+VALUES (2306, 1502, 8129, '2024-02-22 22:06:40', '2024-02-23 04:49:40', 'QNA', 'PYE', '06:43:48');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (23196, 1601, 9211, '2023-12-20 14:34:25', '2023-12-20 22:14:25', 'DBI', 'QBI', '07:40:36');
+VALUES (2317, 502, 1632, '2024-01-21 09:02:40', '2024-01-21 14:33:40', 'THA', 'DLA', '05:31:48');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (23217, 1201, 6827, '2023-12-18 05:34:25', '2023-12-18 12:51:25', 'BDI', 'KGI', '07:17:14');
+VALUES (2328, 801, 2577, '2024-02-10 10:04:40', '2024-02-10 11:08:40', 'CTH', 'HNO', '01:04:08');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (23306, 1402, 2912, '2023-11-25 21:34:25', '2023-11-26 02:24:25', 'GLA', 'NAN', '04:50:59');
+VALUES (2337, 101, 3316, '2023-12-28 03:23:40', '2023-12-28 10:50:40', 'CTH', 'BDI', '07:27:28');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (23462, 701, 8066, '2024-01-08 01:22:25', '2024-01-08 05:43:25', 'VTB', 'GLA', '04:21:16');
+VALUES (2342, 1902, 8129, '2024-01-01 23:38:40', '2024-01-02 03:03:40', 'TTH', 'THA', '03:25:45');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (23563, 1602, 3986, '2023-12-03 16:36:25', '2023-12-04 02:14:25', 'KGI', 'QBI', '09:38:25');
+VALUES (2356, 102, 5085, '2024-03-01 08:54:40', '2024-03-01 10:00:40', 'CMU', 'BDI', '01:06:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (23677, 1102, 1567, '2023-11-28 01:52:25', '2023-11-28 08:08:25', 'LDG', 'KHA', '06:16:56');
+VALUES (2361, 2001, 6556, '2024-01-22 03:15:40', '2024-01-22 05:46:40', 'CMU', 'TTH', '02:31:04');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (23764, 501, 2046, '2024-01-20 07:39:25', '2024-01-20 17:23:25', 'HCM', 'DLA', '09:44:08');
+VALUES (2374, 901, 1541, '2023-12-05 00:14:40', '2023-12-05 09:04:40', 'THA', 'HPG', '08:50:51');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (23806, 802, 2164, '2023-12-08 21:42:25', '2023-12-09 03:09:25', 'BDI', 'HNO', '05:27:58');
+VALUES (2387, 1802, 5816, '2024-02-11 00:42:40', '2024-02-11 06:53:40', 'DBI', 'QNH', '06:11:52');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (23927, 2001, 1033, '2023-12-21 18:06:25', '2023-12-21 19:34:25', 'CMU', 'TTH', '01:28:20');
+VALUES (2397, 101, 2274, '2023-12-22 15:40:40', '2023-12-23 00:42:40', 'QBI', 'BDI', '09:02:42');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (24079, 1702, 9429, '2023-12-26 03:27:25', '2023-12-26 08:23:25', 'CMU', 'QNA', '04:56:31');
+VALUES (2406, 2002, 8333, '2024-01-18 15:21:40', '2024-01-18 18:54:40', 'DBI', 'TTH', '03:33:33');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (24120, 2001, 5166, '2023-12-11 05:20:25', '2023-12-11 10:23:25', 'LDG', 'TTH', '05:03:09');
+VALUES (2416, 2, 5349, '2024-01-23 02:30:40', '2024-01-23 08:40:40', 'DBI', 'VTB', '06:10:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (24218, 1501, 7724, '2023-12-29 13:24:25', '2023-12-29 17:26:25', 'CTH', 'PYE', '04:02:02');
+VALUES (2422, 1501, 8201, '2023-12-31 12:21:40', '2023-12-31 15:47:40', 'NAN', 'PYE', '03:26:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (24340, 1702, 4434, '2023-12-02 20:55:25', '2023-12-03 01:43:25', 'NAN', 'QNA', '04:48:05');
+VALUES (2435, 401, 7460, '2024-01-04 15:10:40', '2024-01-04 20:00:40', 'LDG', 'DNA', '04:50:03');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (24403, 1601, 5895, '2023-12-02 08:19:25', '2023-12-02 09:33:25', 'DLA', 'QBI', '01:14:46');
+VALUES (2448, 1901, 8129, '2024-02-18 20:05:40', '2024-02-19 00:57:40', 'VTB', 'THA', '04:52:35');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (24533, 1, 3389, '2023-12-22 01:24:25', '2023-12-22 04:12:25', 'CTH', 'VTB', '02:48:43');
+VALUES (2458, 1502, 4342, '2023-12-26 10:32:40', '2023-12-26 16:17:40', 'THA', 'PYE', '05:45:16');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (24664, 102, 4809, '2024-01-13 00:45:25', '2024-01-13 04:56:25', 'NAN', 'BDI', '04:11:02');
+VALUES (2468, 1601, 5482, '2024-02-24 14:18:40', '2024-02-24 21:43:40', 'KHA', 'QBI', '07:25:23');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (24716, 501, 381, '2023-11-27 09:01:25', '2023-11-27 12:04:25', 'VTB', 'DLA', '03:03:34');
+VALUES (2474, 501, 341, '2023-12-16 03:59:40', '2023-12-16 14:00:40', 'HPG', 'DLA', '10:01:32');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (24827, 1701, 2392, '2024-01-12 21:10:25', '2024-01-13 03:47:25', 'HPG', 'QNA', '06:37:41');
+VALUES (2486, 1901, 4854, '2024-01-03 18:48:40', '2024-01-03 20:29:40', 'QNA', 'THA', '01:41:08');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (24937, 202, 9132, '2023-11-28 01:15:25', '2023-11-28 09:57:25', 'TTH', 'CMU', '08:42:26');
+VALUES (2498, 1902, 9946, '2024-02-13 17:48:40', '2024-02-13 23:21:40', 'VTB', 'THA', '05:33:49');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (25037, 1402, 4589, '2024-01-16 13:53:25', '2024-01-16 22:23:25', 'DBI', 'NAN', '08:30:45');
+VALUES (2501, 601, 6112, '2024-02-17 10:21:40', '2024-02-17 19:29:40', 'HCM', 'DBI', '09:08:14');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (25101, 2, 7289, '2024-01-12 23:58:25', '2024-01-13 09:43:25', 'GLA', 'VTB', '09:45:55');
+VALUES (2512, 1, 1031, '2024-01-12 03:41:40', '2024-01-12 09:31:40', 'KGI', 'VTB', '05:50:41');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (25224, 601, 7289, '2023-11-26 20:59:25', '2023-11-27 02:33:25', 'KHA', 'DBI', '05:34:39');
+VALUES (2525, 301, 2807, '2024-02-21 01:47:40', '2024-02-21 12:18:40', 'QBI', 'CTH', '10:31:10');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (25343, 2001, 6250, '2023-12-11 18:12:25', '2023-12-11 20:43:25', 'QNH', 'TTH', '02:31:48');
+VALUES (2538, 1501, 4257, '2023-12-28 21:04:40', '2023-12-29 05:24:40', 'THA', 'PYE', '08:20:25');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (25407, 501, 6756, '2024-01-05 05:01:25', '2024-01-05 09:21:25', 'KGI', 'DLA', '04:20:36');
+VALUES (2542, 501, 5749, '2024-01-23 23:24:40', '2024-01-24 03:51:40', 'QNA', 'DLA', '04:27:05');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (25584, 1601, 5067, '2023-12-25 13:11:25', '2023-12-25 21:40:25', 'QNA', 'QBI', '08:29:26');
+VALUES (2556, 1202, 2045, '2023-12-11 20:02:40', '2023-12-12 03:56:40', 'HPG', 'KGI', '07:54:15');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (25650, 1, 740, '2023-11-27 19:04:25', '2023-11-28 02:04:25', 'CTH', 'VTB', '07:00:38');
+VALUES (2562, 1801, 5482, '2024-01-15 13:15:40', '2024-01-15 20:35:40', 'VTB', 'QNH', '07:20:18');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (25764, 2001, 6199, '2024-01-12 03:40:25', '2024-01-12 07:57:25', 'DBI', 'TTH', '04:17:35');
+VALUES (2576, 1401, 1999, '2024-02-09 23:09:40', '2024-02-10 06:19:40', 'HNO', 'NAN', '07:10:27');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (25892, 301, 5204, '2023-12-07 21:25:25', '2023-12-08 00:42:25', 'KGI', 'CTH', '03:17:27');
+VALUES (2589, 1502, 7460, '2024-01-12 19:36:40', '2024-01-13 03:58:40', 'DNA', 'PYE', '08:22:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (25957, 1201, 7982, '2023-11-28 11:38:25', '2023-11-28 13:49:25', 'QNH', 'KGI', '02:11:15');
+VALUES (2591, 702, 976, '2024-02-14 16:17:40', '2024-02-14 20:51:40', 'CTH', 'GLA', '04:34:01');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (26073, 1802, 7120, '2024-01-05 01:27:25', '2024-01-05 10:03:25', 'HPG', 'QNH', '08:36:01');
+VALUES (2605, 1801, 4257, '2024-01-13 04:07:40', '2024-01-13 11:09:40', 'THA', 'QNH', '07:02:51');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (26191, 802, 7085, '2024-01-12 22:15:25', '2024-01-12 23:19:25', 'LDG', 'HNO', '01:04:34');
+VALUES (2612, 501, 1887, '2024-02-07 00:03:40', '2024-02-07 08:06:40', 'QNA', 'DLA', '08:03:05');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (26202, 1601, 2517, '2023-11-30 18:29:25', '2023-11-30 20:05:25', 'VTB', 'QBI', '01:36:42');
+VALUES (2620, 1801, 7392, '2023-12-17 14:19:40', '2023-12-17 20:15:40', 'CMU', 'QNH', '05:56:32');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (26342, 602, 3407, '2024-01-09 02:44:25', '2024-01-09 10:10:25', 'QBI', 'DBI', '07:26:01');
+VALUES (2635, 101, 6556, '2024-02-02 20:52:40', '2024-02-02 22:59:40', 'KHA', 'BDI', '02:07:46');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (26410, 1801, 6250, '2024-01-13 19:39:25', '2024-01-14 04:24:25', 'GLA', 'QNH', '08:45:34');
+VALUES (2648, 101, 6400, '2023-12-07 03:23:40', '2023-12-07 13:20:40', 'THA', 'BDI', '09:57:29');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (26557, 1501, 6756, '2023-12-05 02:45:25', '2023-12-05 13:10:25', 'QBI', 'PYE', '10:25:48');
+VALUES (2654, 402, 8129, '2024-02-28 07:59:40', '2024-02-28 13:11:40', 'TTH', 'DNA', '05:12:30');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (26611, 602, 8550, '2023-12-07 09:27:25', '2023-12-07 13:02:25', 'LDG', 'DBI', '03:35:52');
+VALUES (2668, 802, 2467, '2023-12-22 22:43:40', '2023-12-23 03:51:40', 'NAN', 'HNO', '05:08:52');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (26761, 1, 2912, '2024-01-01 03:15:25', '2024-01-01 04:25:25', 'GLA', 'VTB', '01:10:41');
+VALUES (2679, 1202, 341, '2024-01-30 19:32:40', '2024-01-30 22:10:40', 'GLA', 'KGI', '02:38:22');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (26822, 1801, 7675, '2023-12-06 11:34:25', '2023-12-06 16:13:25', 'VTB', 'QNH', '04:39:02');
+VALUES (2689, 1001, 3622, '2024-02-27 21:03:40', '2024-02-28 05:03:40', 'HNO', 'HCM', '08:00:18');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (26946, 1501, 1631, '2023-12-14 11:37:25', '2023-12-14 12:37:25', 'DNA', 'PYE', '01:00:23');
+VALUES (2690, 102, 8933, '2024-01-05 18:46:40', '2024-01-06 04:45:40', 'HNO', 'BDI', '09:59:34');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (27029, 102, 8066, '2024-01-03 04:01:25', '2024-01-03 11:44:25', 'GLA', 'BDI', '07:43:55');
+VALUES (2709, 1202, 1999, '2024-02-02 19:59:40', '2024-02-03 04:11:40', 'QBI', 'KGI', '08:12:56');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (27115, 1301, 4743, '2023-12-08 13:58:25', '2023-12-08 18:17:25', 'HPG', 'LDG', '04:19:20');
+VALUES (2717, 602, 7392, '2023-12-20 06:52:40', '2023-12-20 15:24:40', 'THA', 'DBI', '08:32:11');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (27294, 501, 3864, '2023-12-04 11:30:25', '2023-12-04 16:18:25', 'HCM', 'DLA', '04:48:08');
+VALUES (2720, 701, 3037, '2024-01-08 04:28:40', '2024-01-08 07:23:40', 'DBI', 'GLA', '02:55:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (27347, 502, 133, '2024-01-18 14:12:25', '2024-01-18 16:44:25', 'HNO', 'DLA', '02:32:27');
+VALUES (2732, 602, 1999, '2024-01-17 03:16:40', '2024-01-17 11:51:40', 'VTB', 'DBI', '08:35:08');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (27451, 801, 3608, '2023-12-13 17:57:25', '2023-12-13 20:47:25', 'VTB', 'HNO', '02:50:40');
+VALUES (2742, 1702, 4180, '2024-01-07 16:21:40', '2024-01-07 23:12:40', 'CMU', 'QNA', '06:51:56');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (27553, 2, 7982, '2023-12-18 22:25:25', '2023-12-19 00:07:25', 'KHA', 'VTB', '01:42:44');
+VALUES (2751, 1201, 2577, '2024-02-19 21:54:40', '2024-02-20 06:26:40', 'HNO', 'KGI', '08:32:39');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (27666, 1402, 4610, '2024-01-05 09:51:25', '2024-01-05 19:56:25', 'KGI', 'NAN', '10:05:14');
+VALUES (2764, 802, 5286, '2024-01-26 12:52:40', '2024-01-26 21:39:40', 'QNA', 'HNO', '08:47:10');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (27710, 1, 1033, '2024-01-17 17:33:25', '2024-01-17 21:21:25', 'KGI', 'VTB', '03:48:13');
+VALUES (2770, 1101, 4607, '2024-02-29 14:34:40', '2024-02-29 22:17:40', 'DNA', 'KHA', '07:43:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (27892, 1801, 4174, '2023-11-26 15:18:25', '2023-11-26 20:21:25', 'GLA', 'QNH', '05:03:34');
+VALUES (2780, 1701, 3037, '2023-12-28 04:27:40', '2023-12-28 13:09:40', 'CMU', 'QNA', '08:42:30');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (27923, 2002, 4434, '2024-01-15 12:09:25', '2024-01-15 15:26:25', 'HNO', 'TTH', '03:17:20');
+VALUES (2793, 801, 341, '2023-12-19 05:47:40', '2023-12-19 11:54:40', 'VTB', 'HNO', '06:07:23');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (28039, 1101, 4220, '2023-12-16 21:27:25', '2023-12-16 23:37:25', 'DBI', 'KHA', '02:10:41');
+VALUES (2808, 1302, 3205, '2024-01-09 16:39:40', '2024-01-09 23:18:40', 'TTH', 'LDG', '06:39:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (28133, 1, 3389, '2023-12-21 16:29:25', '2023-12-21 18:28:25', 'BDI', 'VTB', '01:59:10');
+VALUES (2817, 301, 8333, '2024-02-26 05:55:40', '2024-02-26 07:03:40', 'CMU', 'CTH', '01:08:59');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (28223, 1402, 2428, '2023-12-18 02:37:25', '2023-12-18 11:29:25', 'LDG', 'NAN', '08:52:57');
+VALUES (2827, 1101, 2602, '2024-01-06 06:38:40', '2024-01-06 08:38:40', 'KGI', 'KHA', '02:00:26');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (28322, 1401, 9627, '2023-12-04 12:29:25', '2023-12-04 22:09:25', 'DLA', 'NAN', '09:40:41');
+VALUES (2834, 1301, 3205, '2024-01-16 18:55:40', '2024-01-17 00:31:40', 'PYE', 'LDG', '05:36:24');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (28433, 1602, 2392, '2024-01-01 01:35:25', '2024-01-01 10:23:25', 'KHA', 'QBI', '08:48:04');
+VALUES (2848, 601, 9570, '2024-02-23 02:38:40', '2024-02-23 09:07:40', 'QNH', 'DBI', '06:29:06');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (28569, 1401, 7494, '2024-01-02 08:33:25', '2024-01-02 12:52:25', 'DNA', 'NAN', '04:19:15');
+VALUES (2855, 2, 6400, '2023-12-03 12:03:40', '2023-12-03 15:42:40', 'CTH', 'VTB', '03:39:26');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (28639, 1302, 3407, '2024-01-22 23:16:25', '2024-01-23 06:12:25', 'QNA', 'LDG', '06:56:52');
+VALUES (2860, 401, 1327, '2024-02-24 02:00:40', '2024-02-24 04:44:40', 'HNO', 'DNA', '02:44:26');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (28767, 401, 6334, '2023-11-27 23:44:25', '2023-11-28 08:48:25', 'QBI', 'DNA', '09:04:48');
+VALUES (2875, 601, 1327, '2024-02-14 12:02:40', '2024-02-14 19:38:40', 'THA', 'DBI', '07:36:07');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (28885, 1002, 7494, '2023-12-06 20:13:25', '2023-12-06 22:53:25', 'VTB', 'HCM', '02:40:28');
+VALUES (2883, 901, 2602, '2024-01-21 10:24:40', '2024-01-21 20:07:40', 'KGI', 'HPG', '09:43:39');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (28977, 1401, 740, '2024-01-24 03:48:25', '2024-01-24 06:47:25', 'HCM', 'NAN', '02:59:08');
+VALUES (2890, 302, 2807, '2024-01-13 02:37:40', '2024-01-13 04:37:40', 'THA', 'CTH', '02:00:17');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (29050, 1602, 1567, '2023-12-16 15:19:25', '2023-12-16 20:07:25', 'DBI', 'QBI', '04:48:01');
+VALUES (2908, 1201, 3715, '2023-12-11 05:31:40', '2023-12-11 12:04:40', 'LDG', 'KGI', '06:33:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (29194, 901, 3136, '2023-12-03 21:27:25', '2023-12-04 03:19:25', 'LDG', 'HPG', '05:52:05');
+VALUES (2911, 1601, 5599, '2023-12-19 01:03:40', '2023-12-19 11:29:40', 'LDG', 'QBI', '10:26:27');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (29290, 402, 9565, '2023-12-14 14:16:25', '2023-12-14 19:30:25', 'QBI', 'DNA', '05:14:43');
+VALUES (2926, 2001, 9763, '2024-01-15 14:08:40', '2024-01-15 20:19:40', 'PYE', 'TTH', '06:11:26');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (29307, 1201, 2880, '2023-12-23 23:41:25', '2023-12-24 10:05:25', 'NAN', 'KGI', '10:24:06');
+VALUES (2931, 401, 5635, '2024-02-05 18:04:40', '2024-02-05 23:47:40', 'DBI', 'DNA', '05:43');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (29469, 1402, 8691, '2023-12-03 23:10:25', '2023-12-04 07:54:25', 'DNA', 'NAN', '08:44:20');
+VALUES (2946, 701, 3968, '2024-01-20 05:29:40', '2024-01-20 06:59:40', 'QNA', 'GLA', '01:30:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (29518, 1002, 5345, '2023-12-24 07:37:25', '2023-12-24 15:15:25', 'KHA', 'HCM', '07:38:40');
+VALUES (2954, 402, 3578, '2024-02-10 12:39:40', '2024-02-10 17:51:40', 'QNH', 'DNA', '05:12:51');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (29605, 802, 3542, '2024-01-03 10:48:25', '2024-01-03 19:50:25', 'TTH', 'HNO', '09:02:23');
+VALUES (2963, 601, 3715, '2023-12-18 12:53:40', '2023-12-18 16:35:40', 'HPG', 'DBI', '03:42');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (29718, 501, 4743, '2024-01-07 10:56:25', '2024-01-07 15:11:25', 'KGI', 'DLA', '04:15:37');
+VALUES (2977, 1202, 2990, '2023-12-10 17:28:40', '2023-12-11 01:29:40', 'GLA', 'KGI', '08:01:45');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (29818, 1, 5507, '2023-11-28 17:33:25', '2023-11-28 19:55:25', 'PYE', 'VTB', '02:22:44');
+VALUES (2980, 901, 1109, '2024-02-11 19:54:40', '2024-02-12 06:47:40', 'BDI', 'HPG', '10:53:40');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (29958, 1502, 381, '2023-12-30 11:45:25', '2023-12-30 18:21:25', 'THA', 'PYE', '06:36:21');
+VALUES (2991, 1101, 9327, '2023-12-24 03:13:40', '2023-12-24 10:35:40', 'TTH', 'KHA', '07:22:48');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (30036, 1601, 7982, '2023-12-09 15:15:25', '2023-12-10 00:24:25', 'NAN', 'QBI', '09:09:59');
+VALUES (3007, 1202, 5816, '2023-12-30 01:04:40', '2023-12-30 11:54:40', 'KHA', 'KGI', '10:50:49');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (30106, 1802, 9839, '2023-12-02 20:44:25', '2023-12-03 03:59:25', 'PYE', 'QNH', '07:15:32');
+VALUES (3012, 1801, 2730, '2024-01-15 14:31:40', '2024-01-15 16:56:40', 'VTB', 'QNH', '02:25:14');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (30227, 901, 4313, '2023-12-27 08:13:25', '2023-12-27 16:53:25', 'CTH', 'HPG', '08:40:05');
+VALUES (3024, 1302, 7003, '2023-12-11 19:02:40', '2023-12-11 20:48:40', 'QNA', 'LDG', '01:46:16');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (30370, 1101, 2392, '2024-01-08 16:50:25', '2024-01-08 21:56:25', 'BDI', 'KHA', '05:06:51');
+VALUES (3030, 1201, 261, '2024-01-18 17:19:40', '2024-01-19 02:53:40', 'DBI', 'KGI', '09:34:41');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (30440, 301, 6529, '2023-12-07 02:09:25', '2023-12-07 12:27:25', 'BDI', 'CTH', '10:18:09');
+VALUES (3040, 102, 5349, '2024-01-09 14:46:40', '2024-01-09 19:01:40', 'CTH', 'BDI', '04:15:04');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (30532, 402, 6695, '2023-12-08 06:46:25', '2023-12-08 10:06:25', 'KHA', 'DNA', '03:20:42');
+VALUES (3054, 1802, 976, '2024-02-15 17:05:40', '2024-02-16 02:52:40', 'THA', 'QNH', '09:47:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (30674, 701, 4313, '2024-01-11 07:43:25', '2024-01-11 15:34:25', 'QBI', 'GLA', '07:51:53');
+VALUES (3062, 1902, 2990, '2023-12-14 09:52:40', '2023-12-14 17:52:40', 'DBI', 'THA', '08:00:40');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (30781, 1602, 1155, '2024-01-13 03:23:25', '2024-01-13 07:49:25', 'QNH', 'QBI', '04:26:43');
+VALUES (3073, 1102, 1327, '2024-01-03 19:04:40', '2024-01-04 02:07:40', 'THA', 'KHA', '07:03:10');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (30805, 402, 5737, '2023-11-30 13:31:25', '2023-11-30 15:34:25', 'PYE', 'DNA', '02:03:27');
+VALUES (3083, 102, 2199, '2023-12-21 07:59:40', '2023-12-21 14:01:40', 'DLA', 'BDI', '06:02:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (30993, 1501, 5204, '2023-12-11 15:16:25', '2023-12-11 18:38:25', 'GLA', 'PYE', '03:22:03');
+VALUES (3093, 901, 8507, '2023-12-17 21:10:40', '2023-12-18 08:03:40', 'PYE', 'HPG', '10:53:14');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (31008, 602, 1795, '2023-12-29 22:26:25', '2023-12-30 02:59:25', 'BDI', 'DBI', '04:33:15');
+VALUES (3105, 2, 5085, '2024-02-22 18:30:40', '2024-02-23 02:44:40', 'CMU', 'VTB', '08:14:56');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (31150, 601, 979, '2024-01-23 08:15:25', '2024-01-23 18:12:25', 'QNH', 'DBI', '09:57:57');
+VALUES (3119, 602, 2577, '2024-02-23 14:53:40', '2024-02-23 19:52:40', 'TTH', 'DBI', '04:59:05');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (31206, 402, 8157, '2024-01-21 11:31:25', '2024-01-21 13:49:25', 'NAN', 'DNA', '02:18:03');
+VALUES (3121, 601, 7221, '2023-12-21 13:37:40', '2023-12-21 15:50:40', 'HNO', 'DBI', '02:13:57');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (31303, 202, 8743, '2023-12-06 11:21:25', '2023-12-06 20:34:25', 'KGI', 'CMU', '09:13');
+VALUES (3132, 1401, 341, '2024-02-06 20:16:40', '2024-02-06 22:58:40', 'PYE', 'NAN', '02:42:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (31433, 1802, 2912, '2024-01-03 13:17:25', '2024-01-04 00:04:25', 'DLA', 'QNH', '10:47:03');
+VALUES (3147, 1302, 8507, '2024-01-22 12:21:40', '2024-01-22 15:28:40', 'CMU', 'LDG', '03:07:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (31598, 1102, 5067, '2023-12-07 23:14:25', '2023-12-08 05:27:25', 'QBI', 'KHA', '06:13:55');
+VALUES (3154, 201, 7460, '2024-01-28 10:46:40', '2024-01-28 20:39:40', 'BDI', 'CMU', '09:53:57');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (31666, 1001, 7534, '2023-12-21 16:52:25', '2023-12-21 22:11:25', 'TTH', 'HCM', '05:19:45');
+VALUES (3169, 1102, 3316, '2024-02-11 09:05:40', '2024-02-11 16:20:40', 'HCM', 'KHA', '07:15:48');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (31784, 1201, 8743, '2023-12-29 00:35:25', '2023-12-29 08:10:25', 'BDI', 'KGI', '07:35:10');
+VALUES (3178, 801, 9661, '2024-01-13 02:02:40', '2024-01-13 06:54:40', 'CMU', 'HNO', '04:52:26');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (31801, 202, 3608, '2024-01-21 00:56:25', '2024-01-21 09:47:25', 'NAN', 'CMU', '08:51:23');
+VALUES (3182, 202, 4719, '2024-02-14 02:11:40', '2024-02-14 10:40:40', 'HCM', 'CMU', '08:29:12');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (31934, 1302, 9429, '2024-01-11 04:02:25', '2024-01-11 09:04:25', 'THA', 'LDG', '05:02:03');
+VALUES (3191, 102, 5749, '2023-12-17 09:32:40', '2023-12-17 13:20:40', 'PYE', 'BDI', '03:48:24');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (32047, 1501, 1155, '2024-01-18 06:01:25', '2024-01-18 11:53:25', 'DNA', 'PYE', '05:52:10');
+VALUES (3200, 1402, 3869, '2024-02-05 23:09:40', '2024-02-06 10:01:40', 'QBI', 'NAN', '10:52:41');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (32141, 1801, 3087, '2023-12-03 19:05:25', '2023-12-04 02:35:25', 'HPG', 'QNH', '07:30:07');
+VALUES (3215, 1602, 1489, '2024-02-20 22:37:40', '2024-02-21 09:02:40', 'HCM', 'QBI', '10:25:24');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (32244, 1801, 6334, '2024-01-03 09:20:25', '2024-01-03 14:04:25', 'VTB', 'QNH', '04:44:13');
+VALUES (3224, 1902, 3715, '2024-02-22 09:36:40', '2024-02-22 12:28:40', 'CTH', 'THA', '02:52:58');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (32316, 1002, 9733, '2023-11-26 12:00:25', '2023-11-26 19:19:25', 'CMU', 'HCM', '07:19:13');
+VALUES (3235, 602, 2990, '2024-01-05 11:58:40', '2024-01-05 16:53:40', 'CMU', 'DBI', '04:55:22');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (32478, 1301, 3407, '2024-01-19 09:44:25', '2024-01-19 17:57:25', 'NAN', 'LDG', '08:13:03');
+VALUES (3241, 202, 7950, '2024-02-05 09:34:40', '2024-02-05 19:37:40', 'KGI', 'CMU', '10:03:39');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (32585, 301, 10093, '2024-01-14 17:36:25', '2024-01-14 23:21:25', 'KHA', 'CTH', '05:45:56');
+VALUES (3258, 1402, 9801, '2024-02-21 19:19:40', '2024-02-22 01:12:40', 'TTH', 'NAN', '05:53:21');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (32689, 801, 3608, '2023-12-18 18:36:25', '2023-12-19 00:24:25', 'NAN', 'HNO', '05:48:01');
+VALUES (3261, 1201, 4180, '2023-12-06 14:57:40', '2023-12-07 01:11:40', 'QBI', 'KGI', '10:14:37');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (32705, 802, 4434, '2024-01-14 14:31:25', '2024-01-14 21:22:25', 'HCM', 'HNO', '06:51:51');
+VALUES (3275, 901, 5349, '2024-02-08 05:55:40', '2024-02-08 07:02:40', 'CMU', 'HPG', '01:07:45');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (32841, 102, 1155, '2023-12-11 05:32:25', '2023-12-11 15:12:25', 'HCM', 'BDI', '09:40:23');
+VALUES (3288, 102, 8722, '2024-01-15 02:46:40', '2024-01-15 05:44:40', 'VTB', 'BDI', '02:58:18');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (32922, 1802, 4931, '2023-12-21 14:36:25', '2023-12-21 21:12:25', 'QBI', 'QNH', '06:36:09');
+VALUES (3291, 501, 1327, '2024-01-26 18:07:40', '2024-01-26 20:20:40', 'KGI', 'DLA', '02:13:10');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (33066, 601, 8981, '2023-12-29 02:32:25', '2023-12-29 11:00:25', 'QNA', 'DBI', '08:28:47');
+VALUES (3303, 1901, 1031, '2023-12-21 23:17:40', '2023-12-22 06:17:40', 'KGI', 'THA', '07:00:04');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (33176, 1701, 8981, '2023-12-09 19:19:25', '2023-12-10 04:23:25', 'LDG', 'QNA', '09:04:34');
+VALUES (3319, 1001, 7825, '2024-01-03 11:18:40', '2024-01-03 15:36:40', 'DLA', 'HCM', '04:18:41');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (33209, 302, 1033, '2024-01-06 14:11:25', '2024-01-07 00:18:25', 'HNO', 'CTH', '10:07:57');
+VALUES (3329, 1, 118, '2024-02-29 16:48:40', '2024-02-29 23:09:40', 'THA', 'VTB', '06:21:13');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (33378, 1, 5895, '2023-12-03 18:15:25', '2023-12-04 00:25:25', 'TTH', 'VTB', '06:10:43');
+VALUES (3334, 402, 5971, '2024-02-08 04:06:40', '2024-02-08 09:08:40', 'KGI', 'DNA', '05:02:46');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (33422, 1201, 8482, '2024-01-02 05:11:25', '2024-01-02 15:28:25', 'TTH', 'KGI', '10:17:44');
+VALUES (3340, 402, 4719, '2024-02-24 08:46:40', '2024-02-24 10:37:40', 'DLA', 'DNA', '01:51:16');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (33561, 1201, 4743, '2023-12-02 02:01:25', '2023-12-02 03:29:25', 'HNO', 'KGI', '01:28:49');
+VALUES (3354, 901, 5286, '2024-01-14 19:23:40', '2024-01-14 21:21:40', 'NAN', 'HPG', '01:58:25');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (33650, 2001, 1631, '2024-01-05 23:53:25', '2024-01-06 08:28:25', 'PYE', 'TTH', '08:35:11');
+VALUES (3369, 1002, 8077, '2024-01-11 07:11:40', '2024-01-11 12:39:40', 'DBI', 'HCM', '05:28:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (33795, 202, 7120, '2024-01-13 17:02:25', '2024-01-14 03:04:25', 'HPG', 'CMU', '10:02:51');
+VALUES (3370, 102, 6631, '2024-01-25 12:04:40', '2024-01-25 14:22:40', 'CTH', 'BDI', '02:18:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (33864, 1302, 3285, '2024-01-15 13:16:25', '2024-01-15 19:55:25', 'NAN', 'LDG', '06:39:42');
+VALUES (3389, 701, 261, '2023-12-25 02:48:40', '2023-12-25 10:28:40', 'BDI', 'GLA', '07:40:03');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (33971, 102, 5930, '2024-01-02 09:19:25', '2024-01-02 12:55:25', 'HNO', 'BDI', '03:36:34');
+VALUES (3391, 1802, 10025, '2024-01-06 14:48:40', '2024-01-06 19:13:40', 'HCM', 'QNH', '04:25:25');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (34093, 701, 804, '2023-12-06 01:37:25', '2023-12-06 08:29:25', 'LDG', 'GLA', '06:52:28');
+VALUES (3409, 1802, 7460, '2024-01-21 20:25:40', '2024-01-22 02:11:40', 'VTB', 'QNH', '05:46:10');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (34124, 1201, 3783, '2023-12-13 12:00:25', '2023-12-13 14:58:25', 'DBI', 'KGI', '02:58:35');
+VALUES (3419, 1602, 5971, '2024-01-28 15:04:40', '2024-01-28 20:32:40', 'DBI', 'QBI', '05:28:06');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (34243, 1701, 6827, '2023-11-25 21:49:25', '2023-11-26 01:45:25', 'DNA', 'QNA', '03:56:22');
+VALUES (3423, 1001, 9258, '2024-01-06 08:28:40', '2024-01-06 18:50:40', 'QNH', 'HCM', '10:22:11');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (34306, 1402, 6529, '2023-12-19 17:13:25', '2023-12-19 21:02:25', 'HNO', 'NAN', '03:49:55');
+VALUES (3433, 1101, 8129, '2024-03-01 08:25:40', '2024-03-01 18:21:40', 'HCM', 'KHA', '09:56:14');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (34450, 502, 3986, '2024-01-08 21:53:25', '2024-01-09 07:29:25', 'LDG', 'DLA', '09:36:48');
+VALUES (3448, 1102, 454, '2024-01-28 17:28:40', '2024-01-28 18:42:40', 'HNO', 'KHA', '01:14:08');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (34583, 1702, 3783, '2023-12-19 02:09:25', '2023-12-19 11:12:25', 'DLA', 'QNA', '09:03:30');
+VALUES (3452, 501, 1541, '2024-01-04 07:58:40', '2024-01-04 18:53:40', 'QNH', 'DLA', '10:55:03');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (34644, 1601, 979, '2023-12-27 14:19:25', '2023-12-27 23:14:25', 'KHA', 'QBI', '08:55:16');
+VALUES (3465, 1702, 5749, '2024-01-18 11:32:40', '2024-01-18 21:28:40', 'KHA', 'QNA', '09:56:09');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (34749, 1001, 1977, '2023-12-25 14:55:25', '2023-12-25 21:27:25', 'CMU', 'HCM', '06:32:23');
+VALUES (3475, 2, 1327, '2024-01-21 05:30:40', '2024-01-21 11:12:40', 'QBI', 'VTB', '05:42:14');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (34851, 901, 9733, '2024-01-20 16:08:25', '2024-01-20 22:05:25', 'QNH', 'HPG', '05:57:05');
+VALUES (3482, 802, 2467, '2023-12-26 14:11:40', '2023-12-26 23:42:40', 'GLA', 'HNO', '09:31:47');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (34911, 602, 1201, '2023-11-25 04:30:25', '2023-11-25 12:44:25', 'KGI', 'DBI', '08:14:29');
+VALUES (3494, 1502, 3622, '2024-02-09 07:18:40', '2024-02-09 17:36:40', 'TTH', 'PYE', '10:18:09');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (35038, 2002, 7675, '2023-12-22 21:08:25', '2023-12-23 02:48:25', 'KGI', 'TTH', '05:40:37');
+VALUES (3507, 1202, 4257, '2024-02-08 12:27:40', '2024-02-08 20:41:40', 'BDI', 'KGI', '08:14:16');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (35169, 1102, 4220, '2023-12-20 17:03:25', '2023-12-21 00:36:25', 'NAN', 'KHA', '07:33:27');
+VALUES (3513, 2, 4994, '2024-02-19 02:40:40', '2024-02-19 09:54:40', 'THA', 'VTB', '07:14:10');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (35246, 501, 4313, '2023-12-17 14:04:25', '2023-12-17 18:06:25', 'NAN', 'DLA', '04:02:18');
+VALUES (3520, 1, 2990, '2024-02-26 08:38:40', '2024-02-26 16:41:40', 'LDG', 'VTB', '08:03:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (35399, 702, 1631, '2023-12-16 18:26:25', '2023-12-16 20:53:25', 'THA', 'GLA', '02:27');
+VALUES (3536, 401, 3968, '2024-01-02 16:22:40', '2024-01-02 19:25:40', 'CMU', 'DNA', '03:03:32');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (35450, 1402, 3285, '2023-12-19 20:50:25', '2023-12-20 02:56:25', 'GLA', 'NAN', '06:06:37');
+VALUES (3541, 1401, 2807, '2024-02-09 03:23:40', '2024-02-09 07:56:40', 'DNA', 'NAN', '04:33:59');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (35559, 1201, 4589, '2023-12-23 22:35:25', '2023-12-23 23:46:25', 'GLA', 'KGI', '01:11:46');
+VALUES (3557, 1501, 9327, '2023-12-02 10:24:40', '2023-12-02 12:31:40', 'CTH', 'PYE', '02:07:43');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (35682, 1302, 7872, '2023-12-14 00:25:25', '2023-12-14 03:47:25', 'DBI', 'LDG', '03:22:27');
+VALUES (3562, 1801, 9570, '2024-02-12 12:04:40', '2024-02-12 14:07:40', 'CMU', 'QNH', '02:03:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (35773, 401, 979, '2023-12-27 05:37:25', '2023-12-27 12:53:25', 'BDI', 'DNA', '07:16:15');
+VALUES (3571, 1501, 976, '2023-12-02 03:25:40', '2023-12-02 06:04:40', 'TTH', 'PYE', '02:39:04');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (35805, 1701, 1155, '2024-01-08 22:30:25', '2024-01-09 08:46:25', 'BDI', 'QNA', '10:16:29');
+VALUES (3585, 1902, 7221, '2024-02-14 00:01:40', '2024-02-14 03:27:40', 'CTH', 'THA', '03:26:43');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (35920, 101, 2912, '2023-11-27 01:23:25', '2023-11-27 08:46:25', 'CTH', 'BDI', '07:23:30');
+VALUES (3598, 1401, 894, '2024-02-05 08:20:40', '2024-02-05 18:43:40', 'PYE', 'NAN', '10:23:14');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (36015, 202, 568, '2024-01-13 11:55:25', '2024-01-13 12:55:25', 'LDG', 'CMU', '01:00:17');
+VALUES (3608, 1602, 5349, '2024-01-18 00:37:40', '2024-01-18 03:49:40', 'QNA', 'QBI', '03:12:36');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (36109, 1002, 406, '2023-11-30 18:07:25', '2023-11-30 20:51:25', 'NAN', 'HCM', '02:44:58');
+VALUES (3613, 2, 6112, '2024-02-15 20:28:40', '2024-02-16 06:29:40', 'CMU', 'VTB', '10:01:44');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (36238, 1501, 6469, '2024-01-08 15:03:25', '2024-01-08 18:55:25', 'DLA', 'PYE', '03:52:57');
+VALUES (3622, 1001, 894, '2024-02-13 07:25:40', '2024-02-13 10:21:40', 'LDG', 'HCM', '02:56:43');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (36321, 1901, 2392, '2023-12-08 16:26:25', '2023-12-08 22:09:25', 'GLA', 'THA', '05:43:11');
+VALUES (3631, 901, 4719, '2023-12-20 08:22:40', '2023-12-20 12:30:40', 'LDG', 'HPG', '04:08:41');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (36471, 1301, 1567, '2023-12-14 08:00:25', '2023-12-14 13:02:25', 'CTH', 'LDG', '05:02:50');
+VALUES (3648, 201, 6999, '2023-12-20 16:41:40', '2023-12-21 02:35:40', 'DBI', 'CMU', '09:54:30');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (36529, 102, 133, '2024-01-07 10:31:25', '2024-01-07 11:49:25', 'NAN', 'BDI', '01:18:51');
+VALUES (3653, 1, 9327, '2024-01-09 09:09:40', '2024-01-09 14:08:40', 'DBI', 'VTB', '04:59:45');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (36630, 1, 9733, '2024-01-13 02:06:25', '2024-01-13 07:27:25', 'KGI', 'VTB', '05:21:18');
+VALUES (3663, 402, 7825, '2023-12-22 17:40:40', '2023-12-22 21:05:40', 'QNA', 'DNA', '03:25:27');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (36741, 702, 5345, '2023-12-09 01:22:25', '2023-12-09 09:23:25', 'HCM', 'GLA', '08:01:20');
+VALUES (3679, 2, 5816, '2024-02-12 04:59:40', '2024-02-12 06:37:40', 'NAN', 'VTB', '01:38:09');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (36827, 801, 979, '2024-01-16 02:38:25', '2024-01-16 05:34:25', 'VTB', 'HNO', '02:56:33');
+VALUES (3681, 1502, 2467, '2024-02-17 06:56:40', '2024-02-17 10:24:40', 'HPG', 'PYE', '03:28:02');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (36958, 1501, 7494, '2024-01-06 00:21:25', '2024-01-06 10:21:25', 'KHA', 'PYE', '10:00:36');
+VALUES (3699, 1601, 8722, '2024-02-05 17:24:40', '2024-02-05 21:24:40', 'QNA', 'QBI', '04:00:09');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (37001, 801, 5204, '2023-12-13 01:05:25', '2023-12-13 04:13:25', 'LDG', 'HNO', '03:08:37');
+VALUES (3703, 2002, 8933, '2024-01-18 02:38:40', '2024-01-18 04:58:40', 'KGI', 'TTH', '02:20:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (37159, 802, 7120, '2023-12-01 23:50:25', '2023-12-02 09:33:25', 'DNA', 'HNO', '09:43:40');
+VALUES (3713, 1702, 2274, '2023-12-14 19:37:40', '2023-12-15 06:25:40', 'CMU', 'QNA', '10:48:59');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (37298, 1802, 2164, '2023-11-25 08:12:25', '2023-11-25 11:12:25', 'LDG', 'QNH', '03:00:56');
+VALUES (3721, 902, 454, '2024-01-28 02:56:40', '2024-01-28 11:01:40', 'DLA', 'HPG', '08:05:22');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (37337, 1901, 8743, '2023-12-22 21:04:25', '2023-12-23 06:16:25', 'QBI', 'THA', '09:12:17');
+VALUES (3734, 1901, 8333, '2023-12-11 19:04:40', '2023-12-12 05:58:40', 'NAN', 'THA', '10:54:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (37490, 602, 9839, '2024-01-18 16:49:25', '2024-01-18 18:59:25', 'VTB', 'DBI', '02:10:58');
+VALUES (3744, 202, 4577, '2024-01-06 19:24:40', '2024-01-06 22:38:40', 'QBI', 'CMU', '03:14:31');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (37535, 1502, 8291, '2024-01-10 08:19:25', '2024-01-10 16:25:25', 'DBI', 'PYE', '08:06:21');
+VALUES (3752, 701, 454, '2024-02-27 08:21:40', '2024-02-27 18:59:40', 'HNO', 'GLA', '10:38:30');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (37662, 101, 2685, '2024-01-06 18:34:25', '2024-01-07 04:57:25', 'LDG', 'BDI', '10:23:51');
+VALUES (3767, 902, 9414, '2024-01-20 09:37:40', '2024-01-20 15:21:40', 'CMU', 'HPG', '05:44:42');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (37785, 1202, 9565, '2023-12-09 19:48:25', '2023-12-09 23:30:25', 'PYE', 'KGI', '03:42:04');
+VALUES (3778, 1702, 5174, '2024-02-25 06:08:40', '2024-02-25 09:38:40', 'HPG', 'QNA', '03:30:53');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (37899, 1502, 247, '2023-11-27 08:32:25', '2023-11-27 17:15:25', 'GLA', 'PYE', '08:43:47');
+VALUES (3781, 1402, 8818, '2024-01-08 03:08:40', '2024-01-08 05:34:40', 'KGI', 'NAN', '02:26:21');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (37977, 1201, 1155, '2023-12-19 04:20:25', '2023-12-19 07:46:25', 'CTH', 'KGI', '03:26:48');
+VALUES (3793, 1802, 3968, '2024-02-20 04:36:40', '2024-02-20 14:09:40', 'KHA', 'QNH', '09:33:02');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (38049, 502, 7534, '2023-12-26 21:29:25', '2023-12-27 06:38:25', 'HPG', 'DLA', '09:09:01');
+VALUES (3801, 401, 10025, '2024-02-07 05:20:40', '2024-02-07 08:12:40', 'GLA', 'DNA', '02:52:52');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (38140, 1, 6250, '2023-12-23 01:47:25', '2023-12-23 04:28:25', 'KGI', 'VTB', '02:41:24');
+VALUES (3812, 2002, 4180, '2024-01-05 18:53:40', '2024-01-05 22:53:40', 'KHA', 'TTH', '04:00:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (38250, 1802, 9733, '2024-01-04 12:21:25', '2024-01-04 20:48:25', 'HNO', 'QNH', '08:27:15');
+VALUES (3827, 701, 454, '2023-12-07 12:09:40', '2023-12-07 21:09:40', 'DBI', 'GLA', '09:00:37');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (38380, 1501, 4809, '2023-12-31 15:27:25', '2023-12-31 17:56:25', 'KHA', 'PYE', '02:29:08');
+VALUES (3836, 1902, 8507, '2023-12-29 00:11:40', '2023-12-29 07:29:40', 'GLA', 'THA', '07:18:09');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (38455, 501, 8550, '2024-01-08 06:04:25', '2024-01-08 10:35:25', 'QNH', 'DLA', '04:31:11');
+VALUES (3847, 301, 9661, '2024-01-07 11:26:40', '2024-01-07 15:09:40', 'QBI', 'CTH', '03:43');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (38530, 1, 1408, '2024-01-05 09:50:25', '2024-01-05 14:40:25', 'DBI', 'VTB', '04:50:59');
+VALUES (3855, 601, 2807, '2024-02-20 05:22:40', '2024-02-20 11:22:40', 'GLA', 'DBI', '06:00:29');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (38686, 1201, 5166, '2024-01-10 00:44:25', '2024-01-10 03:59:25', 'PYE', 'KGI', '03:15:34');
+VALUES (3865, 501, 6631, '2024-01-18 02:55:40', '2024-01-18 10:24:40', 'VTB', 'DLA', '07:29:11');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (38742, 1802, 4589, '2023-12-01 07:31:25', '2023-12-01 14:45:25', 'NAN', 'QNH', '07:14:16');
+VALUES (3874, 802, 3622, '2023-12-14 21:33:40', '2023-12-14 23:05:40', 'GLA', 'HNO', '01:32:59');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (38893, 602, 979, '2023-12-31 22:37:25', '2024-01-01 05:44:25', 'DLA', 'DBI', '07:07:34');
+VALUES (3889, 1502, 3715, '2024-02-01 13:03:40', '2024-02-01 18:35:40', 'GLA', 'PYE', '05:32:35');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (38998, 801, 3542, '2023-11-30 22:49:25', '2023-12-01 07:27:25', 'TTH', 'HNO', '08:38:09');
+VALUES (3896, 1101, 7700, '2023-12-31 12:55:40', '2023-12-31 20:16:40', 'CMU', 'KHA', '07:21:11');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (39003, 1702, 3783, '2023-12-19 15:55:25', '2023-12-19 23:55:25', 'GLA', 'QNA', '08:00:41');
+VALUES (3901, 1802, 6894, '2024-03-01 11:44:40', '2024-03-01 18:15:40', 'DNA', 'QNH', '06:31:04');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (39100, 1902, 1631, '2024-01-24 07:24:25', '2024-01-24 16:36:25', 'DNA', 'THA', '09:12:53');
+VALUES (3917, 1202, 118, '2024-02-24 05:01:40', '2024-02-24 11:23:40', 'DNA', 'KGI', '06:22:32');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (39241, 1002, 1631, '2024-01-05 00:39:25', '2024-01-05 09:39:25', 'GLA', 'HCM', '09:00:21');
+VALUES (3922, 1201, 5085, '2023-12-01 18:13:40', '2023-12-02 01:04:40', 'QNH', 'KGI', '06:51:33');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (39307, 1001, 3542, '2023-11-29 10:55:25', '2023-11-29 14:21:25', 'CMU', 'HCM', '03:26:36');
+VALUES (3933, 801, 5971, '2024-01-19 08:42:40', '2024-01-19 17:12:40', 'DNA', 'HNO', '08:30:15');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (39476, 1601, 3783, '2024-01-06 02:58:25', '2024-01-06 12:03:25', 'LDG', 'QBI', '09:05:27');
+VALUES (3946, 901, 341, '2024-01-31 22:50:40', '2024-02-01 02:56:40', 'QNA', 'HPG', '04:06:40');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (39506, 701, 7494, '2024-01-14 13:42:25', '2024-01-14 19:53:25', 'QNA', 'GLA', '06:11:38');
+VALUES (3951, 1401, 1241, '2024-01-24 17:58:40', '2024-01-24 23:51:40', 'HCM', 'NAN', '05:53:10');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (39645, 301, 4809, '2023-11-28 20:39:25', '2023-11-28 22:41:25', 'KHA', 'CTH', '02:02:28');
+VALUES (3969, 401, 8129, '2024-02-15 16:45:40', '2024-02-15 17:48:40', 'QNH', 'DNA', '01:03:36');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (39719, 1002, 6199, '2023-11-27 06:08:25', '2023-11-27 13:52:25', 'DLA', 'HCM', '07:44:16');
+VALUES (3973, 1601, 10025, '2023-12-12 11:04:40', '2023-12-12 13:57:40', 'HCM', 'QBI', '02:53');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (39844, 2002, 8342, '2023-12-14 13:58:25', '2023-12-14 18:08:25', 'BDI', 'TTH', '04:10:17');
+VALUES (3983, 1701, 5816, '2024-01-14 17:06:40', '2024-01-14 19:58:40', 'NAN', 'QNA', '02:52:46');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (39952, 1402, 2164, '2023-12-20 09:47:25', '2023-12-20 17:43:25', 'CMU', 'NAN', '07:56:05');
+VALUES (3991, 302, 4406, '2023-12-31 00:06:40', '2023-12-31 07:10:40', 'GLA', 'CTH', '07:04:08');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (40079, 1701, 5204, '2024-01-15 19:22:25', '2024-01-16 00:36:25', 'HNO', 'QNA', '05:14:29');
+VALUES (4005, 1201, 3205, '2024-02-14 06:53:40', '2024-02-14 17:21:40', 'BDI', 'KGI', '10:28:51');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (40193, 1402, 4589, '2023-12-15 02:06:25', '2023-12-15 06:15:25', 'PYE', 'NAN', '04:09:05');
+VALUES (4011, 1502, 9155, '2023-12-05 17:15:40', '2023-12-05 22:03:40', 'DLA', 'PYE', '04:48:46');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (40261, 102, 4220, '2024-01-02 07:03:25', '2024-01-02 12:46:25', 'GLA', 'BDI', '05:43:42');
+VALUES (4020, 2001, 5482, '2023-12-15 19:30:40', '2023-12-16 06:07:40', 'DLA', 'TTH', '10:37:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (40382, 1101, 7534, '2023-11-27 19:43:25', '2023-11-28 02:10:25', 'GLA', 'KHA', '06:27:12');
+VALUES (4039, 1902, 341, '2023-12-20 13:53:40', '2023-12-20 19:14:40', 'QNA', 'THA', '05:21:56');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (40460, 1202, 7724, '2023-12-12 22:45:25', '2023-12-13 09:15:25', 'QNH', 'KGI', '10:30:14');
+VALUES (4047, 701, 2199, '2023-12-24 15:54:40', '2023-12-24 22:34:40', 'CTH', 'GLA', '06:40:44');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (40526, 1501, 1155, '2024-01-15 09:56:25', '2024-01-15 15:29:25', 'KGI', 'PYE', '05:33:04');
+VALUES (4052, 802, 7600, '2024-02-15 19:43:40', '2024-02-16 05:58:40', 'PYE', 'HNO', '10:15:26');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (40699, 2, 9565, '2024-01-20 02:24:25', '2024-01-20 07:58:25', 'CTH', 'VTB', '05:34:15');
+VALUES (4062, 202, 9155, '2024-02-15 15:28:40', '2024-02-15 20:17:40', 'HPG', 'CMU', '04:49:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (40777, 1301, 8157, '2024-01-24 15:23:25', '2024-01-24 23:08:25', 'HCM', 'LDG', '07:45:54');
+VALUES (4073, 1302, 7570, '2024-02-09 07:21:40', '2024-02-09 17:48:40', 'DLA', 'LDG', '10:27:52');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (40863, 801, 9627, '2024-01-22 06:30:25', '2024-01-22 15:52:25', 'THA', 'HNO', '09:22:13');
+VALUES (4086, 602, 2807, '2023-12-06 01:45:40', '2023-12-06 03:38:40', 'HCM', 'DBI', '01:53:14');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (40934, 1601, 8835, '2023-12-29 14:43:25', '2023-12-29 18:52:25', 'QNA', 'QBI', '04:09:48');
+VALUES (4091, 1902, 8722, '2024-01-12 13:15:40', '2024-01-12 19:17:40', 'LDG', 'THA', '06:02:39');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (41070, 1802, 4065, '2023-12-21 09:20:25', '2023-12-21 19:22:25', 'DLA', 'QNH', '10:02:47');
+VALUES (4102, 1802, 4719, '2024-02-10 20:00:40', '2024-02-10 22:53:40', 'PYE', 'QNH', '02:53:24');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (41156, 301, 8342, '2023-11-29 20:56:25', '2023-11-30 05:02:25', 'DNA', 'CTH', '08:06:29');
+VALUES (4113, 1401, 9946, '2023-12-16 03:36:40', '2023-12-16 05:30:40', 'CMU', 'NAN', '01:54:04');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (41293, 801, 5345, '2024-01-15 14:00:25', '2024-01-15 20:21:25', 'NAN', 'HNO', '06:21:53');
+VALUES (4125, 1402, 6269, '2024-01-12 21:37:40', '2024-01-13 08:03:40', 'CMU', 'NAN', '10:26:03');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (41351, 1901, 6904, '2023-12-14 00:22:25', '2023-12-14 06:58:25', 'LDG', 'THA', '06:36:36');
+VALUES (4132, 2002, 9079, '2024-02-22 23:20:40', '2024-02-23 08:15:40', 'HNO', 'TTH', '08:55:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (41474, 1902, 2912, '2023-12-23 03:23:25', '2023-12-23 07:40:25', 'DNA', 'THA', '04:17');
+VALUES (4148, 1102, 1241, '2024-02-05 11:51:40', '2024-02-05 17:12:40', 'QNH', 'KHA', '05:21:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (41599, 2, 8981, '2023-11-25 21:56:25', '2023-11-26 04:39:25', 'PYE', 'VTB', '06:43:02');
+VALUES (4152, 1901, 7950, '2023-12-10 16:16:40', '2023-12-11 00:02:40', 'KGI', 'THA', '07:46:58');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (41690, 1102, 607, '2023-11-29 00:52:25', '2023-11-29 08:01:25', 'DNA', 'KHA', '07:09:48');
+VALUES (4169, 1502, 9327, '2023-12-27 20:38:40', '2023-12-28 06:35:40', 'QNH', 'PYE', '09:57:56');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (41708, 1601, 3986, '2023-12-14 07:33:25', '2023-12-14 11:25:25', 'KGI', 'QBI', '03:52:18');
+VALUES (4171, 1802, 8722, '2023-12-02 01:07:40', '2023-12-02 05:41:40', 'TTH', 'QNH', '04:34:51');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (41858, 802, 9907, '2023-12-13 00:22:25', '2023-12-13 10:29:25', 'CTH', 'HNO', '10:07:01');
+VALUES (4185, 1701, 7825, '2024-01-13 23:03:40', '2024-01-14 07:39:40', 'CTH', 'QNA', '08:36:23');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (41975, 502, 5204, '2023-12-18 19:42:25', '2023-12-19 00:41:25', 'KGI', 'DLA', '04:59:25');
+VALUES (4195, 602, 7700, '2023-12-10 13:10:40', '2023-12-10 15:15:40', 'DLA', 'DBI', '02:05:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (42042, 1, 7982, '2023-12-14 04:15:25', '2023-12-14 06:35:25', 'DNA', 'VTB', '02:20:05');
+VALUES (4206, 801, 6400, '2024-01-08 18:01:40', '2024-01-09 04:30:40', 'HPG', 'HNO', '10:29:43');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (42155, 1901, 5345, '2023-12-29 20:00:25', '2023-12-30 06:13:25', 'QNH', 'THA', '10:13:53');
+VALUES (4217, 1701, 454, '2023-12-29 11:48:40', '2023-12-29 16:01:40', 'PYE', 'QNA', '04:13:32');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (42252, 201, 7982, '2023-11-26 03:42:25', '2023-11-26 13:14:25', 'BDI', 'CMU', '09:32:44');
+VALUES (4228, 1401, 4342, '2024-01-20 06:00:40', '2024-01-20 12:34:40', 'GLA', 'NAN', '06:34:20');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (42358, 1202, 8482, '2023-12-15 14:51:25', '2023-12-15 22:06:25', 'LDG', 'KGI', '07:15');
+VALUES (4239, 1001, 976, '2024-01-23 22:53:40', '2024-01-24 00:32:40', 'DNA', 'HCM', '01:39:03');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (42471, 1202, 4610, '2023-12-16 20:36:25', '2023-12-16 23:50:25', 'QNH', 'KGI', '03:14:32');
+VALUES (4241, 1301, 7392, '2023-12-11 01:18:40', '2023-12-11 10:13:40', 'QNA', 'LDG', '08:55:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (42505, 601, 8291, '2024-01-04 16:27:25', '2024-01-04 20:50:25', 'THA', 'DBI', '04:23:17');
+VALUES (4259, 1901, 7825, '2023-12-23 07:32:40', '2023-12-23 15:33:40', 'DNA', 'THA', '08:01:05');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (42642, 402, 247, '2023-11-27 02:23:25', '2023-11-27 12:18:25', 'QNA', 'DNA', '09:55:07');
+VALUES (4265, 1201, 894, '2024-01-29 09:12:40', '2024-01-29 15:41:40', 'HPG', 'KGI', '06:29:34');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (42725, 302, 9071, '2023-12-04 20:10:25', '2023-12-05 00:25:25', 'KGI', 'CTH', '04:15:26');
+VALUES (4270, 1802, 7950, '2024-01-29 22:38:40', '2024-01-30 08:02:40', 'QBI', 'QNH', '09:24:29');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (42831, 2002, 2756, '2023-12-01 17:44:25', '2023-12-02 00:44:25', 'QNA', 'TTH', '07:00:52');
+VALUES (4282, 301, 6315, '2024-01-22 10:58:40', '2024-01-22 17:05:40', 'DLA', 'CTH', '06:07:16');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (42993, 1202, 8835, '2024-01-10 05:25:25', '2024-01-10 14:36:25', 'PYE', 'KGI', '09:11:03');
+VALUES (4291, 301, 2467, '2024-02-22 15:31:40', '2024-02-22 21:51:40', 'KHA', 'CTH', '06:20:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (43035, 702, 133, '2023-11-28 03:12:25', '2023-11-28 07:51:25', 'QNH', 'GLA', '04:39');
+VALUES (4300, 102, 2199, '2023-12-03 16:08:40', '2023-12-03 22:27:40', 'DBI', 'BDI', '06:19:35');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (43107, 1301, 8066, '2023-12-16 09:58:25', '2023-12-16 15:31:25', 'DNA', 'LDG', '05:33:24');
+VALUES (4312, 602, 5971, '2024-01-21 06:11:40', '2024-01-21 12:13:40', 'QNH', 'DBI', '06:02:42');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (43294, 1702, 8835, '2023-12-01 17:55:25', '2023-12-02 01:46:25', 'DNA', 'QNA', '07:51:03');
+VALUES (4326, 1902, 6631, '2023-12-06 09:48:40', '2023-12-06 18:32:40', 'DLA', 'THA', '08:44:29');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (43372, 1302, 8743, '2023-11-28 01:03:25', '2023-11-28 09:13:25', 'TTH', 'LDG', '08:10:36');
+VALUES (4339, 102, 1327, '2023-12-12 19:55:40', '2023-12-13 06:53:40', 'LDG', 'BDI', '10:58:17');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (43469, 1001, 4065, '2023-12-26 18:33:25', '2023-12-27 04:45:25', 'QNA', 'HCM', '10:12:34');
+VALUES (4348, 1, 1887, '2024-02-22 00:56:40', '2024-02-22 02:24:40', 'NAN', 'VTB', '01:28:27');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (43538, 602, 3542, '2024-01-11 03:36:25', '2024-01-11 07:45:25', 'GLA', 'DBI', '04:09:34');
+VALUES (4351, 902, 2807, '2024-02-29 16:41:40', '2024-03-01 02:37:40', 'LDG', 'HPG', '09:56:17');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (43654, 1101, 3864, '2023-11-25 21:50:25', '2023-11-26 00:40:25', 'HCM', 'KHA', '02:50:26');
+VALUES (4365, 602, 1109, '2024-01-31 10:24:40', '2024-01-31 12:57:40', 'HCM', 'DBI', '02:33:42');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (43701, 1001, 6827, '2023-11-28 20:54:25', '2023-11-29 03:41:25', 'DLA', 'HCM', '06:47:47');
+VALUES (4371, 902, 4994, '2024-02-22 19:20:40', '2024-02-22 21:37:40', 'KGI', 'HPG', '02:17:29');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (43895, 101, 3864, '2023-12-02 18:09:25', '2023-12-03 02:30:25', 'DNA', 'BDI', '08:21:11');
+VALUES (4380, 1101, 7116, '2024-01-17 16:46:40', '2024-01-18 01:12:40', 'HPG', 'KHA', '08:26:28');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (43975, 102, 6250, '2023-12-04 15:58:25', '2023-12-04 21:56:25', 'NAN', 'BDI', '05:58:59');
+VALUES (4398, 2002, 676, '2024-02-03 01:47:40', '2024-02-03 12:01:40', 'HPG', 'TTH', '10:14:30');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (44027, 201, 9839, '2024-01-02 08:25:25', '2024-01-02 17:49:25', 'QNA', 'CMU', '09:24:09');
+VALUES (4409, 1001, 6400, '2024-01-13 20:34:40', '2024-01-13 21:42:40', 'QBI', 'HCM', '01:08:12');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (44109, 1702, 1631, '2024-01-22 19:48:25', '2024-01-23 02:30:25', 'LDG', 'QNA', '06:42:46');
+VALUES (4410, 1801, 8077, '2024-01-03 08:01:40', '2024-01-03 11:41:40', 'VTB', 'QNH', '03:40:37');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (44216, 2, 8157, '2023-12-08 00:45:25', '2023-12-08 02:39:25', 'HNO', 'VTB', '01:54:12');
+VALUES (4428, 1602, 3205, '2023-12-21 14:38:40', '2023-12-21 17:54:40', 'LDG', 'QBI', '03:16:54');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (44366, 1501, 3389, '2024-01-18 18:14:25', '2024-01-18 20:17:25', 'GLA', 'PYE', '02:03:44');
+VALUES (4433, 802, 3869, '2024-01-31 15:07:40', '2024-01-31 20:35:40', 'TTH', 'HNO', '05:28:48');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (44465, 1401, 1033, '2023-11-25 08:46:25', '2023-11-25 15:50:25', 'HNO', 'NAN', '07:04:28');
+VALUES (4441, 1301, 7460, '2024-01-02 17:33:40', '2024-01-02 20:24:40', 'DNA', 'LDG', '02:51:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (44538, 102, 8981, '2024-01-04 03:01:25', '2024-01-04 05:28:25', 'CTH', 'BDI', '02:27:54');
+VALUES (4455, 301, 8669, '2024-03-01 12:40:40', '2024-03-01 14:17:40', 'PYE', 'CTH', '01:37:11');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (44628, 1601, 1408, '2023-12-12 03:45:25', '2023-12-12 13:23:25', 'VTB', 'QBI', '09:38:10');
+VALUES (4464, 1802, 8333, '2024-01-04 20:33:40', '2024-01-04 22:04:40', 'PYE', 'QNH', '01:31:40');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (44785, 1601, 3542, '2024-01-06 11:19:25', '2024-01-06 16:14:25', 'TTH', 'QBI', '04:55:51');
+VALUES (4473, 502, 1999, '2023-12-02 15:46:40', '2023-12-02 21:38:40', 'KGI', 'DLA', '05:52:44');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (44861, 1501, 8291, '2024-01-03 02:38:25', '2024-01-03 05:56:25', 'LDG', 'PYE', '03:18:13');
+VALUES (4489, 1902, 4063, '2023-12-04 00:56:40', '2023-12-04 11:55:40', 'QNA', 'THA', '10:59:58');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (44942, 1301, 1839, '2023-12-02 23:50:25', '2023-12-03 01:13:25', 'QBI', 'LDG', '01:23:13');
+VALUES (4497, 1302, 8432, '2024-01-29 13:38:40', '2024-01-29 23:20:40', 'THA', 'LDG', '09:42:56');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (45048, 501, 1201, '2024-01-24 09:54:25', '2024-01-24 17:27:25', 'QBI', 'DLA', '07:33:59');
+VALUES (4506, 901, 1109, '2023-12-19 16:51:40', '2023-12-20 00:35:40', 'KGI', 'HPG', '07:44:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (45178, 502, 7872, '2024-01-05 18:52:25', '2024-01-06 01:38:25', 'VTB', 'DLA', '06:46:50');
+VALUES (4516, 901, 9258, '2024-01-04 07:43:40', '2024-01-04 18:13:40', 'QBI', 'HPG', '10:30:12');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (45227, 102, 406, '2023-12-08 21:01:25', '2023-12-09 07:02:25', 'DNA', 'BDI', '10:01:25');
+VALUES (4527, 1302, 8722, '2024-01-24 05:08:40', '2024-01-24 13:16:40', 'DNA', 'LDG', '08:08:04');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (45390, 602, 7982, '2024-01-08 23:13:25', '2024-01-09 00:52:25', 'QNA', 'DBI', '01:39:24');
+VALUES (4531, 801, 8129, '2023-12-28 19:12:40', '2023-12-28 20:26:40', 'NAN', 'HNO', '01:14:42');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (45477, 1101, 5067, '2023-12-30 04:09:25', '2023-12-30 08:34:25', 'THA', 'KHA', '04:25:51');
+VALUES (4540, 301, 6631, '2024-02-03 20:35:40', '2024-02-03 23:57:40', 'GLA', 'CTH', '03:22:10');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (45563, 1801, 4220, '2023-12-05 09:29:25', '2023-12-05 18:22:25', 'QBI', 'QNH', '08:53:47');
+VALUES (4552, 1002, 6556, '2024-02-21 01:29:40', '2024-02-21 09:38:40', 'DBI', 'HCM', '08:09:48');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (45610, 2002, 6334, '2023-12-18 06:13:25', '2023-12-18 13:13:25', 'HCM', 'TTH', '07:00:20');
+VALUES (4568, 102, 3205, '2024-01-02 21:57:40', '2024-01-03 02:41:40', 'DLA', 'BDI', '04:44:51');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (45714, 202, 3608, '2023-12-19 12:16:25', '2023-12-19 22:36:25', 'HPG', 'CMU', '10:20:31');
+VALUES (4574, 901, 6999, '2024-02-29 09:31:40', '2024-02-29 13:30:40', 'CTH', 'HPG', '03:59:48');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (45822, 1702, 2685, '2023-12-04 10:16:25', '2023-12-04 13:23:25', 'CTH', 'QNA', '03:07:10');
+VALUES (4584, 1701, 9570, '2023-12-09 03:04:40', '2023-12-09 07:46:40', 'GLA', 'QNA', '04:42:23');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (45949, 1701, 3389, '2024-01-12 23:56:25', '2024-01-13 10:54:25', 'TTH', 'QNA', '10:58:12');
+VALUES (4590, 1, 4577, '2024-02-06 14:03:40', '2024-02-06 19:39:40', 'QNA', 'VTB', '05:36:38');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (46033, 402, 607, '2024-01-12 00:44:25', '2024-01-12 01:50:25', 'DBI', 'DNA', '01:06:31');
+VALUES (4606, 1401, 6003, '2024-02-25 20:02:40', '2024-02-26 02:36:40', 'KGI', 'NAN', '06:34:49');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (46142, 1401, 2046, '2023-11-26 16:56:25', '2023-11-27 00:42:25', 'GLA', 'NAN', '07:46:13');
+VALUES (4616, 1902, 4342, '2024-01-05 23:55:40', '2024-01-06 05:48:40', 'KGI', 'THA', '05:53:44');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (46224, 2001, 3087, '2024-01-05 23:46:25', '2024-01-06 05:32:25', 'CTH', 'TTH', '05:46:04');
+VALUES (4621, 1002, 1109, '2024-01-22 12:36:40', '2024-01-22 23:32:40', 'KHA', 'HCM', '10:56:10');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (46396, 201, 6827, '2023-11-29 12:09:25', '2023-11-29 20:56:25', 'VTB', 'CMU', '08:47:02');
+VALUES (4631, 801, 7950, '2024-02-22 17:28:40', '2024-02-22 19:11:40', 'LDG', 'HNO', '01:43:29');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (46456, 1901, 1795, '2023-12-05 07:14:25', '2023-12-05 11:54:25', 'DNA', 'THA', '04:40:15');
+VALUES (4649, 602, 1999, '2023-12-07 05:54:40', '2023-12-07 12:05:40', 'PYE', 'DBI', '06:11:04');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (46556, 1002, 4743, '2023-12-17 09:07:25', '2023-12-17 17:07:25', 'KGI', 'HCM', '08:00:49');
+VALUES (4651, 2001, 1327, '2023-12-20 08:33:40', '2023-12-20 18:45:40', 'QNA', 'TTH', '10:12:41');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (46620, 1101, 9907, '2023-12-08 01:03:25', '2023-12-08 06:25:25', 'DNA', 'KHA', '05:22:35');
+VALUES (4660, 1801, 6112, '2024-02-17 00:11:40', '2024-02-17 06:28:40', 'PYE', 'QNH', '06:17:07');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (46758, 1301, 6529, '2023-12-02 12:48:25', '2023-12-02 16:06:25', 'HPG', 'LDG', '03:18:11');
+VALUES (4674, 2, 4063, '2024-01-17 08:29:40', '2024-01-17 16:56:40', 'CTH', 'VTB', '08:27:01');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (46832, 1401, 6016, '2023-11-28 05:09:25', '2023-11-28 13:50:25', 'THA', 'NAN', '08:41');
+VALUES (4689, 901, 1109, '2023-12-31 11:06:40', '2023-12-31 20:54:40', 'DLA', 'HPG', '09:48:09');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (46969, 1801, 4610, '2023-12-16 14:09:25', '2023-12-16 22:00:25', 'QBI', 'QNH', '07:51:14');
+VALUES (4692, 802, 8669, '2024-01-06 01:01:40', '2024-01-06 09:23:40', 'HCM', 'HNO', '08:22:52');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (47081, 2, 3389, '2024-01-02 23:41:25', '2024-01-03 03:49:25', 'KGI', 'VTB', '04:08:30');
+VALUES (4703, 2, 5482, '2023-12-18 03:02:40', '2023-12-18 04:48:40', 'BDI', 'VTB', '01:46:47');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (47135, 301, 3783, '2023-12-02 22:35:25', '2023-12-03 08:05:25', 'NAN', 'CTH', '09:30:39');
+VALUES (4710, 902, 2274, '2024-01-06 00:11:40', '2024-01-06 08:11:40', 'CMU', 'HPG', '08:00:14');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (47271, 302, 9071, '2023-12-07 08:29:25', '2023-12-07 17:56:25', 'QNA', 'CTH', '09:27:27');
+VALUES (4727, 1202, 3622, '2024-01-10 10:12:40', '2024-01-10 17:26:40', 'DBI', 'KGI', '07:14:55');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (47373, 1901, 8342, '2024-01-01 20:42:25', '2024-01-02 07:10:25', 'PYE', 'THA', '10:28:45');
+VALUES (4734, 1002, 261, '2023-12-08 06:57:40', '2023-12-08 14:56:40', 'KGI', 'HCM', '07:59:25');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (47467, 1901, 6529, '2023-12-11 10:05:25', '2023-12-11 11:15:25', 'KGI', 'THA', '01:10:12');
+VALUES (4742, 2, 1632, '2024-02-18 18:39:40', '2024-02-18 23:45:40', 'THA', 'VTB', '05:06:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (47537, 202, 9132, '2023-12-22 06:52:25', '2023-12-22 09:41:25', 'HPG', 'CMU', '02:49:14');
+VALUES (4751, 502, 6003, '2024-02-02 23:06:40', '2024-02-03 02:00:40', 'QNH', 'DLA', '02:54:14');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (47631, 1002, 9071, '2023-12-27 20:03:25', '2023-12-28 04:46:25', 'THA', 'HCM', '08:43:53');
+VALUES (4766, 1302, 6003, '2024-02-29 22:26:40', '2024-03-01 02:40:40', 'HPG', 'LDG', '04:14:06');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (47789, 402, 9733, '2023-12-27 18:19:25', '2023-12-28 01:07:25', 'BDI', 'DNA', '06:48:17');
+VALUES (4776, 502, 4854, '2023-12-27 11:50:40', '2023-12-27 21:03:40', 'QBI', 'DLA', '09:13:35');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (47862, 1802, 7120, '2023-12-30 23:27:25', '2023-12-31 02:07:25', 'HNO', 'QNH', '02:40:19');
+VALUES (4787, 1402, 2730, '2023-12-23 05:01:40', '2023-12-23 08:32:40', 'HPG', 'NAN', '03:31:58');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (47973, 101, 8743, '2023-12-26 22:41:25', '2023-12-27 08:43:25', 'GLA', 'BDI', '10:02:17');
+VALUES (4794, 1101, 9661, '2024-01-14 01:30:40', '2024-01-14 09:01:40', 'TTH', 'KHA', '07:31:40');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (48024, 1901, 1201, '2023-11-27 06:02:25', '2023-11-27 12:42:25', 'HPG', 'THA', '06:40:08');
+VALUES (4802, 501, 1541, '2024-01-30 13:47:40', '2024-01-30 18:33:40', 'NAN', 'DLA', '04:46:50');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (48144, 602, 1155, '2024-01-07 22:24:25', '2024-01-08 01:50:25', 'CTH', 'DBI', '03:26:08');
+VALUES (4812, 1401, 4719, '2023-12-25 18:14:40', '2023-12-26 00:48:40', 'TTH', 'NAN', '06:34:59');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (48205, 1701, 6827, '2023-12-12 08:59:25', '2023-12-12 18:45:25', 'HNO', 'QNA', '09:46:32');
+VALUES (4827, 101, 4719, '2023-12-05 22:50:40', '2023-12-06 06:45:40', 'DBI', 'BDI', '07:55:47');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (48392, 1401, 4743, '2023-12-11 01:50:25', '2023-12-11 11:22:25', 'TTH', 'NAN', '09:32:12');
+VALUES (4835, 2, 9258, '2024-01-02 10:31:40', '2024-01-02 18:31:40', 'DLA', 'VTB', '08:00:51');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (48408, 802, 4809, '2023-12-17 17:40:25', '2023-12-18 02:21:25', 'DLA', 'HNO', '08:41:57');
+VALUES (4849, 1001, 7392, '2024-01-14 18:10:40', '2024-01-14 23:54:40', 'CMU', 'HCM', '05:44:38');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (48523, 1701, 607, '2024-01-11 15:15:25', '2024-01-11 21:59:25', 'DBI', 'QNA', '06:44:32');
+VALUES (4853, 801, 4854, '2024-01-21 09:31:40', '2024-01-21 12:07:40', 'VTB', 'HNO', '02:36:41');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (48639, 1501, 3407, '2023-12-11 06:49:25', '2023-12-11 09:12:25', 'THA', 'PYE', '02:23:23');
+VALUES (4868, 502, 3423, '2023-12-23 04:32:40', '2023-12-23 12:53:40', 'HNO', 'DLA', '08:21:06');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (48713, 102, 3285, '2023-12-12 15:32:25', '2023-12-12 21:09:25', 'CTH', 'BDI', '05:37');
+VALUES (4873, 1502, 4994, '2023-12-03 15:29:40', '2023-12-03 23:28:40', 'HCM', 'PYE', '07:59:03');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (48855, 1302, 1033, '2023-12-11 14:09:25', '2023-12-11 16:43:25', 'QBI', 'LDG', '02:34:21');
+VALUES (4883, 1, 7392, '2023-12-15 10:54:40', '2023-12-15 18:57:40', 'LDG', 'VTB', '08:03:43');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (48913, 101, 5628, '2023-11-28 03:20:25', '2023-11-28 08:24:25', 'DLA', 'BDI', '05:04:04');
+VALUES (4899, 1401, 8669, '2023-12-31 18:50:40', '2023-12-31 21:35:40', 'DBI', 'NAN', '02:45:59');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (49026, 1801, 406, '2023-11-29 22:41:25', '2023-11-30 02:29:25', 'THA', 'QNH', '03:48:05');
+VALUES (4904, 402, 3578, '2024-02-22 22:18:40', '2024-02-23 04:00:40', 'QBI', 'DNA', '05:42:36');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (49113, 2, 4610, '2024-01-23 13:50:25', '2024-01-23 18:27:25', 'HNO', 'VTB', '04:37:05');
+VALUES (4918, 501, 261, '2024-02-07 09:47:40', '2024-02-07 12:36:40', 'HCM', 'DLA', '02:49:28');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (49258, 902, 6334, '2023-12-15 12:33:25', '2023-12-15 18:39:25', 'QBI', 'HPG', '06:06:30');
+VALUES (4923, 1002, 5635, '2023-12-05 13:15:40', '2023-12-05 20:49:40', 'PYE', 'HCM', '07:34:25');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (49318, 1601, 1033, '2024-01-06 00:05:25', '2024-01-06 06:40:25', 'THA', 'QBI', '06:35:51');
+VALUES (4935, 1801, 9946, '2024-02-05 10:30:40', '2024-02-05 14:31:40', 'KHA', 'QNH', '04:01:19');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (49431, 701, 4589, '2024-01-07 21:53:25', '2024-01-08 01:29:25', 'CTH', 'GLA', '03:36:32');
+VALUES (4947, 1102, 4342, '2024-02-03 00:33:40', '2024-02-03 02:04:40', 'BDI', 'KHA', '01:31:28');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (49583, 201, 8291, '2024-01-09 04:45:25', '2024-01-09 09:11:25', 'BDI', 'CMU', '04:26:27');
+VALUES (4957, 902, 5174, '2024-01-26 16:58:40', '2024-01-26 22:24:40', 'HNO', 'HPG', '05:26:47');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (49618, 902, 2164, '2023-12-12 10:49:25', '2023-12-12 20:05:25', 'LDG', 'HPG', '09:16:56');
+VALUES (4968, 1001, 9763, '2024-02-26 03:26:40', '2024-02-26 10:20:40', 'CMU', 'HCM', '06:54:58');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (49729, 1601, 9132, '2024-01-10 11:56:25', '2024-01-10 20:46:25', 'HCM', 'QBI', '08:50:59');
+VALUES (4971, 901, 1241, '2023-12-22 00:05:40', '2023-12-22 02:36:40', 'NAN', 'HPG', '02:31:41');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (49887, 802, 804, '2024-01-07 11:40:25', '2024-01-07 22:28:25', 'QNA', 'HNO', '10:48:37');
+VALUES (4981, 202, 1710, '2024-02-19 03:37:40', '2024-02-19 08:59:40', 'HPG', 'CMU', '05:22:31');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (49998, 501, 3986, '2024-01-05 22:42:25', '2024-01-05 23:54:25', 'TTH', 'DLA', '01:12:22');
+VALUES (4991, 1101, 894, '2024-01-20 10:00:40', '2024-01-20 16:46:40', 'GLA', 'KHA', '06:46:33');
 
 INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (50090, 1302, 133, '2023-11-26 10:32:25', '2023-11-26 20:16:25', 'DBI', 'LDG', '09:44:59');
+VALUES (5009, 1101, 3205, '2024-02-01 18:11:40', '2024-02-02 02:55:40', 'BDI', 'KHA', '08:44:56');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5016, 902, 3578, '2024-01-07 19:01:40', '2024-01-08 05:46:40', 'LDG', 'HPG', '10:45:31');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5022, 1801, 7950, '2024-01-20 18:39:40', '2024-01-20 20:49:40', 'BDI', 'QNH', '02:10');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5034, 1602, 341, '2023-12-27 18:04:40', '2023-12-27 21:55:40', 'DNA', 'QBI', '03:51:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5049, 301, 7392, '2023-12-26 02:19:40', '2023-12-26 11:39:40', 'GLA', 'CTH', '09:20:20');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5051, 902, 8818, '2024-02-03 09:47:40', '2024-02-03 13:34:40', 'LDG', 'HPG', '03:47:21');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5060, 902, 7392, '2024-02-09 22:16:40', '2024-02-10 08:51:40', 'KGI', 'HPG', '10:35:29');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5070, 1902, 4257, '2023-12-09 07:27:40', '2023-12-09 15:07:40', 'QBI', 'THA', '07:40:51');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5084, 402, 118, '2023-12-18 08:20:40', '2023-12-18 13:42:40', 'HNO', 'DNA', '05:22:24');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5097, 1002, 756, '2024-03-01 07:18:40', '2024-03-01 14:20:40', 'NAN', 'HCM', '07:02:42');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5102, 1002, 8129, '2024-02-09 16:08:40', '2024-02-09 20:16:40', 'NAN', 'HCM', '04:08:29');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5113, 1402, 7460, '2023-12-22 04:24:40', '2023-12-22 08:22:40', 'LDG', 'NAN', '03:58:46');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5124, 1602, 5286, '2024-02-14 08:26:40', '2024-02-14 13:05:40', 'DBI', 'QBI', '04:39:21');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5134, 2002, 9258, '2024-02-15 08:08:40', '2024-02-15 16:50:40', 'BDI', 'TTH', '08:42:41');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5143, 1402, 8933, '2023-12-28 11:52:40', '2023-12-28 21:57:40', 'LDG', 'NAN', '10:05:18');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5158, 1202, 1241, '2024-01-26 23:23:40', '2024-01-27 08:39:40', 'TTH', 'KGI', '09:16:26');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5165, 302, 3037, '2024-01-19 01:35:40', '2024-01-19 04:25:40', 'DLA', 'CTH', '02:50:59');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5174, 1502, 7825, '2024-02-27 03:01:40', '2024-02-27 04:58:40', 'LDG', 'PYE', '01:57:01');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5184, 1302, 2333, '2024-02-28 22:50:40', '2024-02-29 04:11:40', 'DNA', 'LDG', '05:21:50');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5195, 1402, 1241, '2023-12-31 01:26:40', '2023-12-31 10:46:40', 'LDG', 'NAN', '09:20:54');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5207, 1102, 2274, '2024-02-10 08:29:40', '2024-02-10 17:42:40', 'HNO', 'KHA', '09:13:13');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5218, 1202, 8669, '2023-12-20 13:17:40', '2023-12-20 18:11:40', 'DBI', 'KGI', '04:54:24');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5224, 1702, 9661, '2024-01-16 00:06:40', '2024-01-16 05:02:40', 'GLA', 'QNA', '04:56:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5234, 2001, 5971, '2023-12-20 15:12:40', '2023-12-20 21:55:40', 'GLA', 'TTH', '06:43:52');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5240, 1302, 2467, '2024-02-29 23:23:40', '2024-03-01 00:54:40', 'HPG', 'LDG', '01:31:56');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5256, 1101, 454, '2023-12-18 05:15:40', '2023-12-18 13:32:40', 'HNO', 'KHA', '08:17:27');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5269, 1301, 3316, '2024-02-03 20:24:40', '2024-02-04 03:15:40', 'VTB', 'LDG', '06:51:17');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5279, 502, 2807, '2024-01-07 02:44:40', '2024-01-07 08:19:40', 'QBI', 'DLA', '05:35:38');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5281, 1901, 5286, '2023-12-22 09:16:40', '2023-12-22 12:29:40', 'KHA', 'THA', '03:13:50');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5297, 2002, 8933, '2024-03-01 13:03:40', '2024-03-01 21:29:40', 'THA', 'TTH', '08:26:49');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5309, 701, 1887, '2023-12-15 06:29:40', '2023-12-15 09:33:40', 'QBI', 'GLA', '03:04:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5315, 1, 2577, '2024-01-01 14:18:40', '2024-01-02 00:07:40', 'HCM', 'VTB', '09:49:47');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5329, 2001, 6112, '2024-02-20 17:50:40', '2024-02-20 22:53:40', 'VTB', 'TTH', '05:03:51');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5338, 1902, 2467, '2024-02-09 12:02:40', '2024-02-09 18:27:40', 'TTH', 'THA', '06:25:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5342, 1301, 2274, '2024-01-12 14:50:40', '2024-01-12 21:18:40', 'KGI', 'LDG', '06:28:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5358, 1401, 7700, '2023-12-06 02:37:40', '2023-12-06 11:30:40', 'HCM', 'NAN', '08:53:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5365, 601, 8933, '2024-01-23 21:53:40', '2024-01-24 08:07:40', 'VTB', 'DBI', '10:14:08');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5375, 1201, 1887, '2024-02-06 04:49:40', '2024-02-06 12:37:40', 'PYE', 'KGI', '07:48:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5382, 1202, 6269, '2024-01-29 12:24:40', '2024-01-29 14:17:40', 'NAN', 'KGI', '01:53:42');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5394, 902, 6269, '2024-01-10 10:57:40', '2024-01-10 16:22:40', 'NAN', 'HPG', '05:25:25');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5406, 1302, 8669, '2024-01-13 03:55:40', '2024-01-13 07:30:40', 'KHA', 'LDG', '03:35:05');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5416, 702, 341, '2023-12-26 09:11:40', '2023-12-26 14:47:40', 'NAN', 'GLA', '05:36:49');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5426, 1402, 894, '2023-12-17 15:39:40', '2023-12-17 20:04:40', 'HPG', 'NAN', '04:25:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5430, 1101, 9079, '2024-02-19 20:33:40', '2024-02-20 02:15:40', 'LDG', 'KHA', '05:42:33');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5444, 301, 3578, '2024-01-02 19:27:40', '2024-01-03 00:54:40', 'DLA', 'CTH', '05:27:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5453, 202, 3142, '2024-02-05 00:48:40', '2024-02-05 09:43:40', 'LDG', 'CMU', '08:55:24');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5461, 2002, 3205, '2024-01-25 17:28:40', '2024-01-26 02:22:40', 'BDI', 'TTH', '08:54:10');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5476, 1002, 5349, '2024-02-23 18:03:40', '2024-02-23 19:05:40', 'HNO', 'HCM', '01:02:13');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5485, 1, 454, '2024-01-20 04:26:40', '2024-01-20 06:53:40', 'DBI', 'VTB', '02:27');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5494, 1201, 10025, '2023-12-27 19:54:40', '2023-12-28 03:39:40', 'DNA', 'KGI', '07:45:25');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5502, 1701, 9661, '2023-12-05 05:52:40', '2023-12-05 15:35:40', 'BDI', 'QNA', '09:43:05');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5513, 701, 3142, '2024-01-07 15:36:40', '2024-01-08 00:06:40', 'HNO', 'GLA', '08:30:50');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5521, 701, 4577, '2023-12-18 08:22:40', '2023-12-18 18:56:40', 'HPG', 'GLA', '10:34:29');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5537, 1002, 6112, '2023-12-23 10:48:40', '2023-12-23 19:53:40', 'PYE', 'HCM', '09:05:08');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5546, 2001, 6556, '2024-02-07 09:07:40', '2024-02-07 18:50:40', 'QBI', 'TTH', '09:43:45');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5552, 1902, 3205, '2024-01-03 17:29:40', '2024-01-04 03:03:40', 'HPG', 'THA', '09:34:49');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5569, 1602, 2045, '2024-02-26 05:54:40', '2024-02-26 16:02:40', 'QNH', 'QBI', '10:08:47');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5578, 1001, 5085, '2024-02-24 03:33:40', '2024-02-24 12:26:40', 'CTH', 'HCM', '08:53:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5588, 202, 5174, '2024-03-01 03:40:40', '2024-03-01 09:32:40', 'KHA', 'CMU', '05:52:04');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5599, 501, 8077, '2023-12-04 10:18:40', '2023-12-04 13:24:40', 'LDG', 'DLA', '03:06:36');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5600, 401, 341, '2024-02-26 17:38:40', '2024-02-26 19:40:40', 'CMU', 'DNA', '02:02:33');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5616, 2002, 529, '2024-02-15 16:58:40', '2024-02-16 02:05:40', 'PYE', 'TTH', '09:07:06');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5629, 1501, 1632, '2024-02-29 08:10:40', '2024-02-29 14:45:40', 'KHA', 'PYE', '06:35:08');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5639, 1502, 9079, '2023-12-08 09:33:40', '2023-12-08 14:28:40', 'DBI', 'PYE', '04:55:05');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5642, 1902, 9801, '2024-02-29 13:58:40', '2024-02-29 22:39:40', 'DLA', 'THA', '08:41:54');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5654, 601, 9661, '2024-02-17 02:14:40', '2024-02-17 10:57:40', 'TTH', 'DBI', '08:43:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5663, 501, 3316, '2024-02-21 13:52:40', '2024-02-21 18:19:40', 'TTH', 'DLA', '04:27:45');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5675, 1902, 5349, '2024-01-01 02:08:40', '2024-01-01 06:15:40', 'KGI', 'THA', '04:07:50');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5685, 701, 1710, '2023-12-31 22:01:40', '2024-01-01 01:35:40', 'DLA', 'GLA', '03:34:38');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5691, 1802, 6631, '2024-02-08 06:33:40', '2024-02-08 12:50:40', 'CTH', 'QNH', '06:17:02');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5705, 1001, 3869, '2024-01-05 18:17:40', '2024-01-05 23:01:40', 'CTH', 'HCM', '04:44:49');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5718, 1201, 1999, '2024-01-10 18:27:40', '2024-01-10 23:46:40', 'DBI', 'KGI', '05:19:09');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5728, 102, 9946, '2024-02-24 12:43:40', '2024-02-24 16:57:40', 'DBI', 'BDI', '04:14:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5737, 301, 6999, '2024-02-15 16:14:40', '2024-02-15 21:07:40', 'QNH', 'CTH', '04:53:19');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5745, 1502, 3316, '2023-12-27 14:10:40', '2023-12-27 17:42:40', 'LDG', 'PYE', '03:32:32');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5753, 701, 5349, '2024-02-10 17:02:40', '2024-02-11 03:40:40', 'QNA', 'GLA', '10:38:04');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5766, 802, 676, '2024-02-06 09:30:40', '2024-02-06 11:37:40', 'KHA', 'HNO', '02:07:32');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5774, 1301, 3142, '2024-01-14 03:36:40', '2024-01-14 09:54:40', 'QNA', 'LDG', '06:18:53');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5784, 1202, 8669, '2024-02-23 14:13:40', '2024-02-23 16:58:40', 'CTH', 'KGI', '02:45:46');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5798, 1, 3316, '2024-01-26 07:16:40', '2024-01-26 09:38:40', 'QBI', 'VTB', '02:22:12');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5802, 402, 7460, '2024-02-06 00:45:40', '2024-02-06 10:55:40', 'TTH', 'DNA', '10:10:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5816, 1301, 3142, '2024-01-06 11:10:40', '2024-01-06 20:11:40', 'NAN', 'LDG', '09:01:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5826, 1801, 2045, '2024-02-11 14:59:40', '2024-02-11 16:26:40', 'LDG', 'QNH', '01:27:44');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5837, 1502, 4342, '2023-12-05 11:54:40', '2023-12-05 21:56:40', 'GLA', 'PYE', '10:02:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5842, 1501, 1031, '2024-02-24 01:12:40', '2024-02-24 11:09:40', 'HCM', 'PYE', '09:57:54');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5857, 1902, 6315, '2024-01-30 09:09:40', '2024-01-30 14:56:40', 'KGI', 'THA', '05:47:18');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5867, 1502, 6894, '2024-01-21 10:24:40', '2024-01-21 11:34:40', 'TTH', 'PYE', '01:10:02');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5871, 2002, 676, '2023-12-02 21:18:40', '2023-12-03 07:43:40', 'LDG', 'TTH', '10:25:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5882, 301, 9258, '2023-12-01 16:49:40', '2023-12-01 20:34:40', 'GLA', 'CTH', '03:45:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5894, 1901, 5635, '2023-12-28 07:48:40', '2023-12-28 10:22:40', 'LDG', 'THA', '02:34:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5904, 2001, 9155, '2024-02-08 15:16:40', '2024-02-08 16:32:40', 'DLA', 'TTH', '01:16:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5915, 1202, 3423, '2023-12-10 05:54:40', '2023-12-10 09:17:40', 'VTB', 'KGI', '03:23:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5921, 1301, 2467, '2024-02-28 01:17:40', '2024-02-28 06:06:40', 'DBI', 'LDG', '04:49:13');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5937, 1102, 8077, '2024-02-11 10:14:40', '2024-02-11 15:08:40', 'HNO', 'KHA', '04:54:52');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5947, 1602, 9763, '2024-02-06 13:41:40', '2024-02-06 15:06:40', 'DNA', 'QBI', '01:25');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5957, 1401, 7950, '2023-12-02 02:01:40', '2023-12-02 08:40:40', 'DNA', 'NAN', '06:39:09');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5961, 601, 6767, '2023-12-26 06:16:40', '2023-12-26 15:03:40', 'CMU', 'DBI', '08:47:17');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5971, 1202, 3316, '2024-01-02 14:37:40', '2024-01-02 22:10:40', 'QBI', 'KGI', '07:33:31');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5980, 2001, 8507, '2024-01-10 03:07:40', '2024-01-10 09:14:40', 'HCM', 'TTH', '06:07:08');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (5993, 602, 7700, '2023-12-02 07:34:40', '2023-12-02 10:55:40', 'TTH', 'DBI', '03:21:03');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6006, 1501, 5286, '2023-12-07 16:06:40', '2023-12-07 20:13:40', 'HCM', 'PYE', '04:07:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6017, 1802, 4406, '2024-01-19 10:40:40', '2024-01-19 16:59:40', 'DLA', 'QNH', '06:19:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6027, 1502, 1109, '2024-02-03 18:36:40', '2024-02-03 21:51:40', 'KHA', 'PYE', '03:15:32');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6038, 401, 2467, '2024-02-07 22:01:40', '2024-02-08 02:11:40', 'HCM', 'DNA', '04:10:19');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6047, 1101, 3316, '2024-01-16 18:29:40', '2024-01-17 00:00:40', 'NAN', 'KHA', '05:31:46');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6050, 1101, 8201, '2024-01-07 18:36:40', '2024-01-08 04:54:40', 'GLA', 'KHA', '10:18:24');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6067, 1801, 7825, '2024-01-20 00:58:40', '2024-01-20 05:52:40', 'NAN', 'QNH', '04:54:53');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6078, 301, 9258, '2024-02-03 10:51:40', '2024-02-03 15:39:40', 'DNA', 'CTH', '04:48:19');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6084, 601, 894, '2024-02-18 18:04:40', '2024-02-18 19:26:40', 'LDG', 'DBI', '01:22:17');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6095, 1702, 2730, '2024-02-20 23:49:40', '2024-02-21 03:32:40', 'HCM', 'QNA', '03:43');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6101, 1902, 6767, '2024-01-30 08:02:40', '2024-01-30 14:18:40', 'GLA', 'THA', '06:16:04');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6111, 1102, 2274, '2023-12-08 13:24:40', '2023-12-08 21:01:40', 'DBI', 'KHA', '07:37:18');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6128, 1501, 1489, '2024-02-22 14:56:40', '2024-02-22 17:24:40', 'NAN', 'PYE', '02:28:03');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6131, 1202, 2577, '2024-02-13 14:36:40', '2024-02-13 21:55:40', 'DNA', 'KGI', '07:19:43');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6144, 1301, 6400, '2024-02-25 12:33:40', '2024-02-25 20:39:40', 'QNA', 'LDG', '08:06:45');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6150, 1702, 2467, '2024-01-23 19:45:40', '2024-01-24 05:53:40', 'HCM', 'QNA', '10:08:37');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6160, 202, 4406, '2023-12-04 20:17:40', '2023-12-04 21:30:40', 'TTH', 'CMU', '01:13:18');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6179, 601, 7950, '2023-12-28 02:27:40', '2023-12-28 11:14:40', 'GLA', 'DBI', '08:47:59');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6181, 802, 9661, '2024-01-28 14:40:40', '2024-01-29 00:16:40', 'HPG', 'HNO', '09:36:25');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6191, 902, 2467, '2024-02-24 03:42:40', '2024-02-24 11:10:40', 'HNO', 'HPG', '07:28:33');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6202, 301, 7116, '2024-01-07 01:28:40', '2024-01-07 05:31:40', 'KGI', 'CTH', '04:03:03');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6210, 902, 9801, '2024-01-19 18:23:40', '2024-01-19 20:47:40', 'CMU', 'HPG', '02:24:51');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6227, 1001, 261, '2024-01-27 04:24:40', '2024-01-27 12:18:40', 'LDG', 'HCM', '07:54:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6231, 1001, 2045, '2023-12-16 03:41:40', '2023-12-16 11:15:40', 'THA', 'HCM', '07:34:25');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6244, 102, 4607, '2024-02-09 16:36:40', '2024-02-09 23:09:40', 'NAN', 'BDI', '06:33:04');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6259, 1001, 6631, '2024-01-15 08:23:40', '2024-01-15 09:50:40', 'DNA', 'HCM', '01:27:38');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6267, 301, 2577, '2024-01-17 09:48:40', '2024-01-17 18:48:40', 'HCM', 'CTH', '09:00:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6275, 602, 1241, '2024-02-03 13:48:40', '2024-02-03 22:55:40', 'GLA', 'DBI', '09:07:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6285, 1001, 8432, '2024-02-16 21:34:40', '2024-02-17 08:13:40', 'QNH', 'HCM', '10:39:03');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6296, 1302, 2045, '2024-01-01 23:15:40', '2024-01-02 09:34:40', 'DLA', 'LDG', '10:19:39');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6304, 801, 1489, '2024-01-11 13:52:40', '2024-01-11 19:03:40', 'DLA', 'HNO', '05:11:56');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6317, 1701, 4577, '2024-01-03 09:17:40', '2024-01-03 10:33:40', 'BDI', 'QNA', '01:16:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6320, 1701, 8722, '2024-01-29 02:31:40', '2024-01-29 09:21:40', 'CMU', 'QNA', '06:50:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6335, 801, 5085, '2024-02-08 04:52:40', '2024-02-08 13:01:40', 'BDI', 'HNO', '08:09:24');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6340, 1702, 2807, '2024-01-25 19:40:40', '2024-01-26 01:19:40', 'CMU', 'QNA', '05:39:16');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6359, 502, 976, '2024-01-11 20:59:40', '2024-01-12 03:01:40', 'BDI', 'DLA', '06:02:37');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6365, 1802, 118, '2024-01-07 02:22:40', '2024-01-07 05:57:40', 'DLA', 'QNH', '03:35:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6375, 302, 9079, '2024-02-14 01:43:40', '2024-02-14 03:55:40', 'DNA', 'CTH', '02:12:53');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6383, 1201, 2990, '2023-12-23 01:42:40', '2023-12-23 10:28:40', 'QNH', 'KGI', '08:46:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6391, 1202, 5349, '2023-12-23 20:42:40', '2023-12-24 01:07:40', 'QBI', 'KGI', '04:25:44');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6404, 1101, 1241, '2024-01-22 08:27:40', '2024-01-22 10:01:40', 'THA', 'KHA', '01:34:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6413, 1101, 756, '2023-12-20 15:56:40', '2023-12-20 21:34:40', 'HCM', 'KHA', '05:38:14');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6428, 601, 1109, '2024-01-24 07:02:40', '2024-01-24 08:14:40', 'HCM', 'DBI', '01:12:25');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6438, 1702, 8818, '2024-01-16 04:14:40', '2024-01-16 12:11:40', 'VTB', 'QNA', '07:57:15');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6447, 402, 7825, '2023-12-13 09:11:40', '2023-12-13 12:15:40', 'NAN', 'DNA', '03:04:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6458, 202, 6112, '2023-12-31 04:41:40', '2023-12-31 06:55:40', 'CTH', 'CMU', '02:14:51');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6464, 1602, 6631, '2023-12-22 12:47:40', '2023-12-22 20:16:40', 'CTH', 'QBI', '07:29:29');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6473, 1301, 7600, '2024-01-08 02:45:40', '2024-01-08 13:44:40', 'QNH', 'LDG', '10:59:52');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6485, 1901, 9258, '2024-02-11 03:23:40', '2024-02-11 13:28:40', 'KHA', 'THA', '10:05:52');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6498, 1601, 8818, '2024-02-01 07:49:40', '2024-02-01 15:02:40', 'QNA', 'QBI', '07:13:05');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6501, 801, 3423, '2024-02-25 08:36:40', '2024-02-25 19:29:40', 'QNA', 'HNO', '10:53:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6517, 101, 5174, '2023-12-28 14:35:40', '2023-12-28 18:54:40', 'CTH', 'BDI', '04:19:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6522, 1901, 4342, '2023-12-05 08:48:40', '2023-12-05 12:50:40', 'TTH', 'THA', '04:02:12');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6532, 1501, 7950, '2024-02-24 07:16:40', '2024-02-24 09:04:40', 'HNO', 'PYE', '01:48:51');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6540, 1801, 3622, '2023-12-03 03:13:40', '2023-12-03 07:11:40', 'DNA', 'QNH', '03:58:38');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6554, 301, 3622, '2024-02-29 10:27:40', '2024-02-29 20:09:40', 'DBI', 'CTH', '09:42:45');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6567, 602, 6112, '2024-01-06 05:01:40', '2024-01-06 13:54:40', 'HCM', 'DBI', '08:53:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6577, 601, 8333, '2024-01-15 22:36:40', '2024-01-16 07:54:40', 'DLA', 'DBI', '09:18:31');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6580, 202, 5286, '2024-01-12 10:37:40', '2024-01-12 12:44:40', 'BDI', 'CMU', '02:07:16');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6599, 1902, 7600, '2023-12-30 03:33:40', '2023-12-30 10:26:40', 'GLA', 'THA', '06:53:36');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6602, 702, 6999, '2023-12-10 14:20:40', '2023-12-11 01:04:40', 'HPG', 'GLA', '10:44:53');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6616, 1301, 10025, '2024-02-23 15:06:40', '2024-02-23 17:04:40', 'QBI', 'LDG', '01:58:58');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6625, 802, 6631, '2023-12-21 09:20:40', '2023-12-21 10:21:40', 'GLA', 'HNO', '01:01:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6635, 1101, 4607, '2024-02-18 18:32:40', '2024-02-18 21:35:40', 'DLA', 'KHA', '03:03:08');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6641, 1402, 5971, '2023-12-29 23:11:40', '2023-12-30 07:53:40', 'CTH', 'NAN', '08:42:25');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6657, 2001, 454, '2023-12-10 17:06:40', '2023-12-10 18:25:40', 'DBI', 'TTH', '01:19:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6662, 1301, 8507, '2023-12-26 22:50:40', '2023-12-27 02:51:40', 'NAN', 'LDG', '04:01:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6676, 902, 6112, '2023-12-23 02:32:40', '2023-12-23 11:56:40', 'QNA', 'HPG', '09:24:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6683, 802, 8333, '2024-03-01 00:50:40', '2024-03-01 10:04:40', 'DNA', 'HNO', '09:14:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6698, 502, 3142, '2023-12-19 02:44:40', '2023-12-19 11:48:40', 'DNA', 'DLA', '09:04:19');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6709, 801, 9570, '2024-01-20 06:54:40', '2024-01-20 08:43:40', 'TTH', 'HNO', '01:49:01');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6710, 502, 7825, '2024-01-17 19:19:40', '2024-01-18 03:09:40', 'QBI', 'DLA', '07:50:41');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6723, 1102, 7825, '2023-12-26 22:55:40', '2023-12-27 05:45:40', 'NAN', 'KHA', '06:50:54');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6731, 201, 6894, '2024-02-18 20:25:40', '2024-02-18 23:51:40', 'HCM', 'CMU', '03:26:48');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6749, 1302, 1031, '2024-01-12 07:51:40', '2024-01-12 15:07:40', 'DLA', 'LDG', '07:16:58');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6751, 902, 4342, '2023-12-14 13:33:40', '2023-12-14 15:44:40', 'DNA', 'HPG', '02:11:58');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6766, 1102, 5971, '2024-02-23 02:36:40', '2024-02-23 05:17:40', 'CMU', 'KHA', '02:41:48');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6776, 1302, 8077, '2023-12-24 21:54:40', '2023-12-25 06:58:40', 'DNA', 'LDG', '09:04:03');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6780, 901, 4719, '2024-01-22 13:38:40', '2024-01-22 15:57:40', 'GLA', 'HPG', '02:19:08');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6796, 1102, 4994, '2024-02-08 21:08:40', '2024-02-09 04:41:40', 'GLA', 'KHA', '07:33:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6802, 1701, 2730, '2024-01-30 16:50:40', '2024-01-30 23:55:40', 'KGI', 'QNA', '07:05:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6816, 802, 4577, '2024-01-15 02:47:40', '2024-01-15 09:19:40', 'KHA', 'HNO', '06:32:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6827, 1302, 7392, '2024-02-16 05:18:40', '2024-02-16 15:36:40', 'CMU', 'LDG', '10:18:50');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6836, 102, 2045, '2023-12-12 03:42:40', '2023-12-12 10:59:40', 'CTH', 'BDI', '07:17:20');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6844, 201, 2199, '2024-02-20 16:04:40', '2024-02-20 20:09:40', 'THA', 'CMU', '04:05:01');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6857, 1201, 7003, '2023-12-18 02:40:40', '2023-12-18 06:48:40', 'HNO', 'KGI', '04:08:17');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6865, 1202, 9946, '2023-12-07 07:31:40', '2023-12-07 11:18:40', 'BDI', 'KGI', '03:47:37');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6876, 1202, 5085, '2024-02-25 20:37:40', '2024-02-26 02:23:40', 'QBI', 'KGI', '05:46:34');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6886, 102, 7003, '2023-12-03 02:23:40', '2023-12-03 08:18:40', 'QNH', 'BDI', '05:55:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6892, 1001, 7950, '2024-01-05 14:29:40', '2024-01-06 00:30:40', 'VTB', 'HCM', '10:01:09');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6907, 1601, 3622, '2024-02-20 04:01:40', '2024-02-20 13:58:40', 'GLA', 'QBI', '09:57:02');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6910, 102, 5085, '2024-01-03 21:22:40', '2024-01-04 00:37:40', 'DNA', 'BDI', '03:15:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6926, 1801, 4607, '2024-01-29 03:18:40', '2024-01-29 07:25:40', 'VTB', 'QNH', '04:07:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6932, 101, 1541, '2023-12-17 01:52:40', '2023-12-17 06:34:40', 'DBI', 'BDI', '04:42:42');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6945, 1901, 1632, '2024-02-09 21:23:40', '2024-02-10 00:33:40', 'QNA', 'THA', '03:10:18');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6951, 1202, 2274, '2024-01-15 08:33:40', '2024-01-15 11:50:40', 'BDI', 'KGI', '03:17:33');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6960, 1002, 8077, '2024-01-24 03:26:40', '2024-01-24 07:48:40', 'LDG', 'HCM', '04:22:25');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6971, 802, 7950, '2023-12-26 11:25:40', '2023-12-26 13:10:40', 'NAN', 'HNO', '01:45:46');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6989, 2, 3715, '2023-12-03 05:03:40', '2023-12-03 12:05:40', 'TTH', 'VTB', '07:02:34');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (6992, 1401, 4063, '2024-01-05 09:05:40', '2024-01-05 17:48:40', 'DNA', 'NAN', '08:43');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7006, 1601, 4342, '2024-01-20 18:51:40', '2024-01-20 23:42:40', 'KGI', 'QBI', '04:51:21');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7013, 1001, 4063, '2024-01-03 00:58:40', '2024-01-03 02:17:40', 'DBI', 'HCM', '01:19:51');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7020, 1402, 1999, '2024-02-20 06:16:40', '2024-02-20 14:59:40', 'DLA', 'NAN', '08:43:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7039, 1201, 5482, '2024-02-16 01:06:40', '2024-02-16 03:09:40', 'HCM', 'KGI', '02:03:44');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7042, 1002, 341, '2024-02-24 03:32:40', '2024-02-24 11:05:40', 'CTH', 'HCM', '07:33:18');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7050, 902, 8333, '2023-12-03 07:19:40', '2023-12-03 14:27:40', 'QBI', 'HPG', '07:08:47');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7065, 302, 454, '2024-02-17 21:44:40', '2024-02-18 06:19:40', 'DBI', 'CTH', '08:35:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7075, 1501, 7460, '2023-12-14 00:13:40', '2023-12-14 07:19:40', 'HNO', 'PYE', '07:06:31');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7084, 2001, 9155, '2024-02-15 23:32:40', '2024-02-16 03:58:40', 'QNA', 'TTH', '04:26:59');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7096, 1202, 1109, '2024-01-31 12:14:40', '2024-01-31 20:29:40', 'DLA', 'KGI', '08:15:08');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7104, 801, 8129, '2024-02-19 10:46:40', '2024-02-19 18:13:40', 'DBI', 'HNO', '07:27:19');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7114, 1302, 9079, '2024-01-01 23:25:40', '2024-01-02 04:27:40', 'QBI', 'LDG', '05:02:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7125, 502, 8933, '2023-12-16 11:03:40', '2023-12-16 13:51:40', 'KGI', 'DLA', '02:48:14');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7138, 1402, 1031, '2023-12-21 10:58:40', '2023-12-21 12:57:40', 'GLA', 'NAN', '01:59:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7147, 202, 8432, '2023-12-23 22:08:40', '2023-12-24 04:30:40', 'NAN', 'CMU', '06:22:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7159, 302, 1999, '2024-01-13 22:00:40', '2024-01-14 02:00:40', 'BDI', 'CTH', '04:00:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7165, 202, 3869, '2024-01-25 23:24:40', '2024-01-26 01:19:40', 'NAN', 'CMU', '01:55:34');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7171, 1802, 8669, '2023-12-09 17:01:40', '2023-12-09 21:54:40', 'CTH', 'QNH', '04:53:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7184, 1501, 3205, '2023-12-09 23:04:40', '2023-12-10 05:25:40', 'KGI', 'PYE', '06:21:42');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7197, 1802, 5635, '2024-01-17 15:50:40', '2024-01-18 01:03:40', 'QBI', 'QNH', '09:13:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7207, 801, 4577, '2024-02-11 16:27:40', '2024-02-12 02:38:40', 'QBI', 'HNO', '10:11:41');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7211, 1302, 6556, '2024-01-14 16:07:40', '2024-01-15 01:29:40', 'DBI', 'LDG', '09:22:43');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7222, 1601, 8432, '2024-02-27 10:20:40', '2024-02-27 15:37:40', 'VTB', 'QBI', '05:17:24');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7234, 102, 3869, '2024-02-26 06:13:40', '2024-02-26 12:36:40', 'PYE', 'BDI', '06:23:52');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7249, 1802, 4854, '2024-01-06 18:53:40', '2024-01-07 00:34:40', 'GLA', 'QNH', '05:41:31');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7254, 1402, 3968, '2024-01-09 02:47:40', '2024-01-09 09:41:40', 'PYE', 'NAN', '06:54:17');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7267, 402, 2045, '2024-01-06 21:40:40', '2024-01-07 00:06:40', 'VTB', 'DNA', '02:26:19');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7276, 401, 4854, '2024-01-07 12:13:40', '2024-01-07 20:20:40', 'QBI', 'DNA', '08:07:54');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7289, 2002, 4607, '2024-02-09 01:01:40', '2024-02-09 02:43:40', 'THA', 'TTH', '01:42:13');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7290, 1301, 1241, '2023-12-23 16:26:40', '2023-12-23 21:16:40', 'QBI', 'LDG', '04:50:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7306, 1501, 1887, '2023-12-11 11:08:40', '2023-12-11 13:01:40', 'TTH', 'PYE', '01:53:16');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7315, 102, 3869, '2024-01-05 23:05:40', '2024-01-06 00:28:40', 'DBI', 'BDI', '01:23:36');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7320, 1902, 8818, '2024-02-08 09:49:40', '2024-02-08 17:53:40', 'PYE', 'THA', '08:04:43');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7330, 1402, 4406, '2024-02-04 12:58:40', '2024-02-04 21:54:40', 'HCM', 'NAN', '08:56:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7343, 701, 2730, '2024-02-12 00:19:40', '2024-02-12 07:04:40', 'QNA', 'GLA', '06:45:36');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7357, 801, 261, '2024-01-17 23:20:40', '2024-01-18 03:32:40', 'NAN', 'HNO', '04:12:20');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7361, 1702, 9801, '2023-12-02 17:05:40', '2023-12-02 22:11:40', 'NAN', 'QNA', '05:06:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7379, 1101, 6003, '2024-01-24 12:25:40', '2024-01-24 21:47:40', 'KGI', 'KHA', '09:22:13');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7380, 2001, 8432, '2023-12-10 15:36:40', '2023-12-10 19:36:40', 'QNA', 'TTH', '04:00:59');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7393, 1102, 5286, '2023-12-15 02:55:40', '2023-12-15 11:03:40', 'BDI', 'KHA', '08:08:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7406, 601, 9327, '2024-01-19 02:15:40', '2024-01-19 04:48:40', 'DLA', 'DBI', '02:33:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7416, 401, 4406, '2024-02-11 10:27:40', '2024-02-11 14:14:40', 'HPG', 'DNA', '03:47:09');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7428, 1101, 7392, '2023-12-10 07:23:40', '2023-12-10 08:23:40', 'DBI', 'KHA', '01:00:08');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7430, 1402, 1327, '2024-01-04 10:32:40', '2024-01-04 19:25:40', 'TTH', 'NAN', '08:53:45');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7444, 202, 118, '2024-02-27 12:16:40', '2024-02-27 21:30:40', 'TTH', 'CMU', '09:14:54');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7453, 102, 2990, '2024-01-05 15:12:40', '2024-01-06 01:51:40', 'HCM', 'BDI', '10:39:33');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7467, 402, 3205, '2024-01-06 10:22:40', '2024-01-06 21:07:40', 'QNH', 'DNA', '10:45:51');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7474, 402, 118, '2024-02-12 05:16:40', '2024-02-12 06:17:40', 'QNA', 'DNA', '01:01:13');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7481, 2, 6269, '2023-12-02 00:34:40', '2023-12-02 10:46:40', 'LDG', 'VTB', '10:12:03');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7497, 1302, 5749, '2024-01-13 21:52:40', '2024-01-14 01:31:40', 'HNO', 'LDG', '03:39:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7507, 1002, 3423, '2024-02-16 01:23:40', '2024-02-16 05:58:40', 'QNA', 'HCM', '04:35:09');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7514, 902, 6999, '2024-01-30 00:42:40', '2024-01-30 06:16:40', 'THA', 'HPG', '05:34:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7526, 902, 7600, '2024-02-28 03:08:40', '2024-02-28 09:20:40', 'VTB', 'HPG', '06:12:50');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7532, 1001, 1489, '2023-12-11 03:27:40', '2023-12-11 11:59:40', 'DLA', 'HCM', '08:32:21');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7543, 1102, 9946, '2024-01-25 02:59:40', '2024-01-25 10:04:40', 'CMU', 'KHA', '07:05:34');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7552, 1501, 2730, '2024-01-05 14:30:40', '2024-01-05 20:11:40', 'KHA', 'PYE', '05:41:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7561, 1301, 3142, '2023-12-01 17:36:40', '2023-12-02 04:18:40', 'QNH', 'LDG', '10:42:49');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7573, 801, 5749, '2023-12-18 19:09:40', '2023-12-18 20:32:40', 'TTH', 'HNO', '01:23:34');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7586, 1802, 6999, '2023-12-30 13:53:40', '2023-12-30 20:20:40', 'QNA', 'QNH', '06:27:34');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7594, 2001, 2577, '2023-12-12 15:22:40', '2023-12-12 20:45:40', 'KGI', 'TTH', '05:23:49');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7603, 602, 8933, '2024-01-02 05:21:40', '2024-01-02 13:53:40', 'GLA', 'DBI', '08:32:43');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7610, 202, 9946, '2024-02-20 17:25:40', '2024-02-20 21:06:40', 'DNA', 'CMU', '03:41:50');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7629, 401, 9570, '2024-02-05 01:58:40', '2024-02-05 08:41:40', 'TTH', 'DNA', '06:43:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7634, 1202, 6315, '2024-02-12 06:23:40', '2024-02-12 08:19:40', 'CMU', 'KGI', '01:56:43');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7647, 702, 1541, '2023-12-26 09:50:40', '2023-12-26 13:02:40', 'HPG', 'GLA', '03:12:54');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7654, 302, 1031, '2023-12-12 08:55:40', '2023-12-12 16:57:40', 'PYE', 'CTH', '08:02:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7661, 2001, 2807, '2024-01-18 14:07:40', '2024-01-18 17:28:40', 'DBI', 'TTH', '03:21:41');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7677, 701, 4607, '2024-01-08 17:32:40', '2024-01-08 22:53:40', 'PYE', 'GLA', '05:21:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7687, 1901, 4406, '2023-12-25 04:42:40', '2023-12-25 13:44:40', 'GLA', 'THA', '09:02:53');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7695, 2, 7700, '2023-12-28 15:33:40', '2023-12-28 19:35:40', 'HCM', 'VTB', '04:02:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7701, 102, 2577, '2023-12-29 17:53:40', '2023-12-30 01:08:40', 'HPG', 'BDI', '07:15:47');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7714, 201, 4180, '2023-12-06 14:09:40', '2023-12-06 23:13:40', 'QNA', 'CMU', '09:04:03');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7725, 101, 9414, '2024-01-27 01:39:40', '2024-01-27 07:50:40', 'GLA', 'BDI', '06:11:38');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7730, 1002, 7003, '2024-02-14 04:12:40', '2024-02-14 11:26:40', 'LDG', 'HCM', '07:14:53');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7749, 1602, 1887, '2024-02-11 17:14:40', '2024-02-12 00:17:40', 'DBI', 'QBI', '07:03:33');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7758, 402, 756, '2024-02-04 18:38:40', '2024-02-05 04:33:40', 'QNA', 'DNA', '09:55:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7767, 1901, 2730, '2024-01-19 20:03:40', '2024-01-20 02:15:40', 'KGI', 'THA', '06:12:14');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7772, 202, 9801, '2024-01-07 19:22:40', '2024-01-07 20:40:40', 'HNO', 'CMU', '01:18:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7780, 1901, 2199, '2024-01-07 20:59:40', '2024-01-08 02:48:40', 'DLA', 'THA', '05:49:56');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7794, 1801, 8933, '2024-02-24 07:25:40', '2024-02-24 10:16:40', 'PYE', 'QNH', '02:51:41');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7809, 101, 9079, '2024-01-16 18:57:40', '2024-01-17 02:27:40', 'HCM', 'BDI', '07:30:21');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7812, 1301, 8818, '2024-02-29 00:46:40', '2024-02-29 08:11:40', 'THA', 'LDG', '07:25:26');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7829, 602, 2730, '2024-02-21 01:36:40', '2024-02-21 05:56:40', 'KGI', 'DBI', '04:20:06');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7831, 1901, 5482, '2024-01-18 10:54:40', '2024-01-18 17:09:40', 'BDI', 'THA', '06:15:15');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7844, 1702, 2274, '2024-02-01 14:48:40', '2024-02-01 23:27:40', 'CMU', 'QNA', '08:39:45');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7851, 1102, 976, '2023-12-29 11:14:40', '2023-12-29 17:40:40', 'DBI', 'KHA', '06:26:16');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7863, 1101, 7570, '2024-01-28 17:54:40', '2024-01-29 01:03:40', 'QBI', 'KHA', '07:09:33');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7877, 501, 10025, '2024-01-31 23:03:40', '2024-02-01 04:25:40', 'KGI', 'DLA', '05:22:34');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7882, 1801, 9258, '2024-01-27 07:09:40', '2024-01-27 16:23:40', 'DBI', 'QNH', '09:14:38');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7898, 701, 2602, '2023-12-22 16:59:40', '2023-12-23 00:52:40', 'HNO', 'GLA', '07:53:29');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7909, 301, 9763, '2024-02-03 07:01:40', '2024-02-03 12:57:40', 'HCM', 'CTH', '05:56:03');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7916, 501, 6269, '2024-02-05 13:57:40', '2024-02-05 15:35:40', 'HCM', 'DLA', '01:38:15');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7922, 901, 2467, '2024-02-21 12:29:40', '2024-02-21 22:42:40', 'NAN', 'HPG', '10:13:42');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7933, 901, 5349, '2024-02-09 19:30:40', '2024-02-10 03:52:40', 'LDG', 'HPG', '08:22:12');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7940, 1002, 7116, '2024-01-08 15:15:40', '2024-01-08 16:37:40', 'CMU', 'HCM', '01:22:24');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7958, 1901, 8933, '2024-02-02 12:56:40', '2024-02-02 23:30:40', 'KHA', 'THA', '10:34:17');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7962, 1602, 454, '2023-12-12 00:48:40', '2023-12-12 05:33:40', 'TTH', 'QBI', '04:45:33');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7978, 2002, 7950, '2024-01-27 07:02:40', '2024-01-27 16:23:40', 'NAN', 'TTH', '09:21:34');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7986, 1002, 5635, '2023-12-04 07:40:40', '2023-12-04 14:22:40', 'CMU', 'HCM', '06:42:53');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (7994, 1602, 676, '2023-12-24 09:10:40', '2023-12-24 19:54:40', 'LDG', 'QBI', '10:44:20');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8003, 901, 4994, '2024-01-15 20:16:40', '2024-01-15 21:50:40', 'VTB', 'HPG', '01:34:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8019, 1001, 6767, '2024-01-22 04:47:40', '2024-01-22 09:43:40', 'LDG', 'HCM', '04:56:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8029, 1201, 9763, '2024-02-24 22:46:40', '2024-02-25 03:10:40', 'HCM', 'KGI', '04:24:31');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8037, 602, 2730, '2023-12-20 09:24:40', '2023-12-20 13:06:40', 'QNH', 'DBI', '03:42:48');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8043, 1501, 8333, '2024-01-15 21:53:40', '2024-01-16 02:29:40', 'HNO', 'PYE', '04:36:43');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8053, 901, 7950, '2024-01-26 19:16:40', '2024-01-27 05:07:40', 'DBI', 'HPG', '09:51:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8066, 1, 3715, '2024-02-14 21:40:40', '2024-02-15 01:35:40', 'DBI', 'VTB', '03:55:56');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8072, 1801, 261, '2024-02-07 03:22:40', '2024-02-07 10:03:40', 'LDG', 'QNH', '06:41:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8086, 1201, 7460, '2024-01-06 11:41:40', '2024-01-06 18:45:40', 'DNA', 'KGI', '07:04:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8094, 2001, 9946, '2024-01-30 18:31:40', '2024-01-30 22:29:40', 'KHA', 'TTH', '03:58:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8106, 1101, 454, '2023-12-29 03:01:40', '2023-12-29 10:37:40', 'TTH', 'KHA', '07:36:47');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8114, 401, 6112, '2024-01-07 21:37:40', '2024-01-08 01:29:40', 'PYE', 'DNA', '03:52:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8120, 501, 9155, '2023-12-24 01:02:40', '2023-12-24 09:43:40', 'BDI', 'DLA', '08:41:41');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8136, 1902, 2467, '2024-02-28 22:00:40', '2024-02-29 05:44:40', 'KHA', 'THA', '07:44:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8146, 702, 6400, '2024-02-13 10:44:40', '2024-02-13 21:33:40', 'TTH', 'GLA', '10:49:48');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8153, 702, 9258, '2024-02-16 16:22:40', '2024-02-16 22:47:40', 'DBI', 'GLA', '06:25:49');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8165, 801, 9414, '2024-01-30 18:33:40', '2024-01-31 01:48:40', 'DNA', 'HNO', '07:15');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8174, 501, 6556, '2023-12-26 21:01:40', '2023-12-27 04:56:40', 'NAN', 'DLA', '07:55:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8183, 201, 6315, '2024-01-12 22:26:40', '2024-01-13 01:41:40', 'BDI', 'CMU', '03:15:56');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8196, 702, 8129, '2023-12-26 10:17:40', '2023-12-26 14:31:40', 'VTB', 'GLA', '04:14:15');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8202, 1802, 8077, '2023-12-24 02:00:40', '2023-12-24 10:30:40', 'DBI', 'QNH', '08:30:15');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8212, 1701, 5286, '2024-02-10 01:33:40', '2024-02-10 10:14:40', 'VTB', 'QNA', '08:41:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8223, 1501, 9570, '2023-12-16 04:59:40', '2023-12-16 11:44:40', 'CTH', 'PYE', '06:45:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8238, 401, 9155, '2024-01-15 17:19:40', '2024-01-15 20:29:40', 'PYE', 'DNA', '03:10:13');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8247, 1102, 6999, '2023-12-04 04:01:40', '2023-12-04 11:10:40', 'KGI', 'KHA', '07:09:48');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8253, 402, 1031, '2023-12-24 08:21:40', '2023-12-24 13:35:40', 'QNH', 'DNA', '05:14:49');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8263, 902, 3869, '2024-01-12 01:58:40', '2024-01-12 04:21:40', 'VTB', 'HPG', '02:23:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8276, 1601, 6767, '2024-01-19 12:34:40', '2024-01-19 20:52:40', 'QNA', 'QBI', '08:18:42');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8286, 1201, 1999, '2023-12-02 19:43:40', '2023-12-03 01:40:40', 'QNA', 'KGI', '05:57:45');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8291, 1802, 6894, '2024-02-17 15:15:40', '2024-02-18 01:52:40', 'PYE', 'QNH', '10:37:10');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8306, 1101, 1632, '2023-12-07 05:29:40', '2023-12-07 11:29:40', 'HCM', 'KHA', '06:00:05');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8316, 101, 1710, '2024-01-23 16:10:40', '2024-01-23 22:17:40', 'CMU', 'BDI', '06:07:29');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8326, 202, 3037, '2024-01-06 21:08:40', '2024-01-07 06:58:40', 'QNH', 'CMU', '09:50');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8330, 502, 2730, '2024-01-04 20:55:40', '2024-01-04 22:29:40', 'HPG', 'DLA', '01:34:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8341, 702, 7600, '2023-12-20 22:25:40', '2023-12-21 01:49:40', 'VTB', 'GLA', '03:24:18');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8353, 1902, 1999, '2024-01-24 22:04:40', '2024-01-25 03:49:40', 'GLA', 'THA', '05:45:06');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8369, 2, 2577, '2024-02-20 12:52:40', '2024-02-20 21:51:40', 'THA', 'VTB', '08:59:38');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8375, 1002, 1327, '2024-01-03 09:30:40', '2024-01-03 13:59:40', 'DBI', 'HCM', '04:29');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8382, 902, 1541, '2024-01-28 01:48:40', '2024-01-28 08:59:40', 'HNO', 'HPG', '07:11:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8392, 402, 4854, '2024-01-04 23:53:40', '2024-01-05 05:27:40', 'QNA', 'DNA', '05:34:10');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8404, 401, 976, '2024-02-21 11:00:40', '2024-02-21 18:32:40', 'LDG', 'DNA', '07:32:39');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8413, 1, 9258, '2023-12-09 14:56:40', '2023-12-09 20:35:40', 'CMU', 'VTB', '05:39:09');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8420, 1601, 5174, '2024-02-20 08:09:40', '2024-02-20 12:34:40', 'QNA', 'QBI', '04:25:39');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8432, 102, 8669, '2024-02-21 17:48:40', '2024-02-21 22:57:40', 'THA', 'BDI', '05:09:17');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8447, 1601, 5635, '2024-02-27 13:56:40', '2024-02-27 21:29:40', 'DNA', 'QBI', '07:33:19');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8453, 702, 9946, '2023-12-15 14:22:40', '2023-12-15 18:10:40', 'QNH', 'GLA', '03:48:44');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8462, 1701, 2045, '2024-01-13 18:39:40', '2024-01-14 01:01:40', 'QBI', 'QNA', '06:22:52');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8479, 502, 5174, '2024-01-10 01:46:40', '2024-01-10 02:52:40', 'CMU', 'DLA', '01:06:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8482, 1502, 1887, '2024-01-29 00:04:40', '2024-01-29 05:57:40', 'THA', 'PYE', '05:53:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8499, 1301, 3142, '2023-12-12 18:09:40', '2023-12-12 21:44:40', 'THA', 'LDG', '03:35:52');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8507, 201, 454, '2023-12-10 00:59:40', '2023-12-10 10:12:40', 'BDI', 'CMU', '09:13:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8515, 2, 7600, '2023-12-30 05:28:40', '2023-12-30 11:33:40', 'TTH', 'VTB', '06:05:20');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8521, 1801, 9258, '2024-02-04 17:46:40', '2024-02-04 22:57:40', 'LDG', 'QNH', '05:11:26');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8534, 1102, 2199, '2024-02-02 22:40:40', '2024-02-03 00:10:40', 'QBI', 'KHA', '01:30:15');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8548, 1702, 3037, '2023-12-29 01:51:40', '2023-12-29 03:49:40', 'BDI', 'QNA', '01:58:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8551, 1302, 2807, '2023-12-04 15:59:40', '2023-12-04 22:42:40', 'TTH', 'LDG', '06:43:58');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8564, 1002, 6003, '2024-02-09 19:09:40', '2024-02-10 02:03:40', 'HNO', 'HCM', '06:54:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8574, 1102, 6767, '2023-12-23 07:39:40', '2023-12-23 17:55:40', 'HNO', 'KHA', '10:16:58');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8586, 601, 4719, '2024-02-22 15:44:40', '2024-02-23 00:50:40', 'TTH', 'DBI', '09:06:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8593, 1302, 756, '2024-02-11 23:44:40', '2024-02-12 07:48:40', 'QNA', 'LDG', '08:04:39');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8609, 501, 9327, '2024-01-21 21:06:40', '2024-01-22 06:19:40', 'VTB', 'DLA', '09:13:46');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8616, 1301, 2199, '2024-01-29 17:35:40', '2024-01-29 19:40:40', 'KHA', 'LDG', '02:05:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8625, 1102, 118, '2024-01-11 07:05:40', '2024-01-11 15:50:40', 'HPG', 'KHA', '08:45:42');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8637, 902, 2467, '2023-12-25 00:59:40', '2023-12-25 03:22:40', 'QNA', 'HPG', '02:23:59');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8645, 1702, 7116, '2024-02-14 04:06:40', '2024-02-14 11:06:40', 'KHA', 'QNA', '07:00:41');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8653, 1102, 9258, '2024-02-28 21:42:40', '2024-02-29 06:59:40', 'GLA', 'KHA', '09:17:27');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8661, 202, 1241, '2024-02-17 13:36:40', '2024-02-17 19:50:40', 'DLA', 'CMU', '06:14:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8679, 1, 3037, '2024-02-12 03:47:40', '2024-02-12 06:50:40', 'TTH', 'VTB', '03:03:17');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8681, 1901, 8818, '2024-01-29 10:50:40', '2024-01-29 13:26:40', 'TTH', 'THA', '02:36:36');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8698, 601, 3423, '2023-12-24 01:11:40', '2023-12-24 05:23:40', 'QBI', 'DBI', '04:12:25');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8708, 1102, 341, '2023-12-14 09:52:40', '2023-12-14 20:46:40', 'THA', 'KHA', '10:54:46');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8719, 1502, 4607, '2024-01-10 03:11:40', '2024-01-10 11:35:40', 'HPG', 'PYE', '08:24:27');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8726, 1, 7460, '2023-12-19 06:38:40', '2023-12-19 12:14:40', 'QNH', 'VTB', '05:36:32');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8731, 202, 2807, '2024-02-17 12:51:40', '2024-02-17 22:07:40', 'GLA', 'CMU', '09:16:23');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8741, 1101, 1031, '2024-02-10 02:30:40', '2024-02-10 09:40:40', 'QBI', 'KHA', '07:10:09');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8751, 1801, 7392, '2024-01-30 19:08:40', '2024-01-30 23:21:40', 'HPG', 'QNH', '04:13:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8763, 1402, 4994, '2023-12-08 15:38:40', '2023-12-08 23:54:40', 'DBI', 'NAN', '08:16:48');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8777, 201, 4994, '2024-02-24 15:28:40', '2024-02-24 23:47:40', 'BDI', 'CMU', '08:19:25');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8787, 1502, 6003, '2024-01-15 04:54:40', '2024-01-15 14:03:40', 'THA', 'PYE', '09:09:09');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8792, 1001, 8129, '2024-01-03 07:51:40', '2024-01-03 16:57:40', 'KGI', 'HCM', '09:06:46');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8805, 1002, 2807, '2024-02-18 13:18:40', '2024-02-18 21:46:40', 'DBI', 'HCM', '08:28:58');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8812, 101, 341, '2023-12-22 05:22:40', '2023-12-22 09:29:40', 'DLA', 'BDI', '04:07:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8823, 1001, 3037, '2024-02-15 14:30:40', '2024-02-15 22:39:40', 'VTB', 'HCM', '08:09:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8831, 1702, 4063, '2023-12-31 09:08:40', '2023-12-31 12:55:40', 'HNO', 'QNA', '03:47:37');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8846, 502, 9258, '2024-01-01 11:26:40', '2024-01-01 18:50:40', 'HPG', 'DLA', '07:24:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8850, 302, 976, '2024-01-12 12:25:40', '2024-01-12 17:45:40', 'KGI', 'CTH', '05:20:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8864, 802, 4257, '2024-02-05 11:12:40', '2024-02-05 21:49:40', 'KGI', 'HNO', '10:37:47');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8876, 1502, 9946, '2024-02-26 14:25:40', '2024-02-26 20:00:40', 'DNA', 'PYE', '05:35:42');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8884, 1002, 7950, '2024-02-11 07:21:40', '2024-02-11 13:11:40', 'HPG', 'HCM', '05:50:37');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8891, 1302, 2199, '2023-12-30 17:07:40', '2023-12-30 19:05:40', 'DLA', 'LDG', '01:58:15');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8908, 601, 4607, '2024-02-03 17:02:40', '2024-02-03 23:49:40', 'THA', 'DBI', '06:47:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8911, 602, 676, '2023-12-17 01:50:40', '2023-12-17 05:39:40', 'KHA', 'DBI', '03:49:15');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8929, 1802, 4406, '2023-12-05 05:51:40', '2023-12-05 07:16:40', 'CTH', 'QNH', '01:25:45');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8935, 1101, 1710, '2023-12-05 12:57:40', '2023-12-05 20:50:40', 'CTH', 'KHA', '07:53:54');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8946, 2, 7700, '2024-01-11 18:02:40', '2024-01-11 20:14:40', 'NAN', 'VTB', '02:12:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8955, 1101, 3715, '2024-01-15 16:11:40', '2024-01-15 18:35:40', 'GLA', 'KHA', '02:24:37');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8967, 1901, 1241, '2024-02-25 08:00:40', '2024-02-25 10:32:40', 'TTH', 'THA', '02:32:50');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8978, 1302, 3037, '2024-01-19 07:09:40', '2024-01-19 10:32:40', 'HCM', 'LDG', '03:23:24');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8986, 1801, 2807, '2024-01-15 15:07:40', '2024-01-15 22:58:40', 'HNO', 'QNH', '07:51:56');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (8998, 1701, 4854, '2023-12-18 19:34:40', '2023-12-18 23:38:40', 'HPG', 'QNA', '04:04:58');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9001, 1402, 341, '2024-01-29 15:49:40', '2024-01-29 18:38:40', 'HCM', 'NAN', '02:49:23');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9019, 401, 1999, '2024-02-12 02:30:40', '2024-02-12 09:21:40', 'THA', 'DNA', '06:51:59');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9020, 1401, 9763, '2024-02-04 17:11:40', '2024-02-04 22:51:40', 'DBI', 'NAN', '05:40:03');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9036, 1802, 2990, '2023-12-22 10:18:40', '2023-12-22 15:29:40', 'GLA', 'QNH', '05:11:37');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9044, 701, 1489, '2023-12-19 15:53:40', '2023-12-19 22:44:40', 'THA', 'GLA', '06:51:08');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9057, 1902, 3968, '2023-12-21 15:02:40', '2023-12-21 22:49:40', 'DBI', 'THA', '07:47:47');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9062, 1901, 529, '2023-12-07 20:31:40', '2023-12-08 01:09:40', 'QBI', 'THA', '04:38:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9076, 1302, 1541, '2024-02-15 17:19:40', '2024-02-15 22:16:40', 'DBI', 'LDG', '04:57:04');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9084, 1602, 7950, '2024-01-10 15:30:40', '2024-01-11 00:49:40', 'DLA', 'QBI', '09:19:19');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9090, 1402, 5174, '2024-02-25 04:48:40', '2024-02-25 09:22:40', 'DLA', 'NAN', '04:34:07');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9106, 2001, 8933, '2024-01-26 09:44:40', '2024-01-26 13:45:40', 'LDG', 'TTH', '04:01:02');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9113, 1002, 9763, '2024-02-03 01:35:40', '2024-02-03 07:47:40', 'GLA', 'HCM', '06:12:01');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9129, 2001, 7570, '2023-12-30 02:57:40', '2023-12-30 06:32:40', 'LDG', 'TTH', '03:35:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9136, 801, 3037, '2023-12-29 12:30:40', '2023-12-29 17:14:40', 'KGI', 'HNO', '04:44');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9149, 1602, 5816, '2024-02-16 02:18:40', '2024-02-16 06:09:40', 'DNA', 'QBI', '03:51:17');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9159, 1601, 8669, '2023-12-28 03:28:40', '2023-12-28 08:26:40', 'QNH', 'QBI', '04:58:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9164, 102, 4406, '2024-01-20 22:34:40', '2024-01-21 01:54:40', 'GLA', 'BDI', '03:20:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9179, 301, 2807, '2024-02-20 11:47:40', '2024-02-20 18:23:40', 'HPG', 'CTH', '06:36:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9180, 1601, 2199, '2023-12-26 10:34:40', '2023-12-26 16:01:40', 'THA', 'QBI', '05:27:09');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9190, 402, 1999, '2024-01-08 17:31:40', '2024-01-08 20:05:40', 'NAN', 'DNA', '02:34:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9200, 202, 8432, '2024-01-28 03:57:40', '2024-01-28 07:43:40', 'HNO', 'CMU', '03:46:39');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9217, 801, 6400, '2023-12-07 23:44:40', '2023-12-08 04:48:40', 'LDG', 'HNO', '05:04:54');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9221, 602, 5816, '2024-02-14 05:51:40', '2024-02-14 12:39:40', 'HNO', 'DBI', '06:48:24');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9231, 1101, 6999, '2023-12-05 19:01:40', '2023-12-05 21:16:40', 'LDG', 'KHA', '02:15:47');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9243, 1802, 9763, '2023-12-08 20:05:40', '2023-12-09 00:46:40', 'BDI', 'QNH', '04:41:36');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9257, 1202, 4719, '2024-01-31 23:57:40', '2024-02-01 09:45:40', 'DLA', 'KGI', '09:48:29');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9268, 1202, 756, '2024-02-13 14:12:40', '2024-02-13 15:38:40', 'PYE', 'KGI', '01:26:27');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9274, 602, 676, '2024-02-28 21:48:40', '2024-02-29 03:01:40', 'PYE', 'DBI', '05:13:03');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9285, 301, 4854, '2024-02-14 13:48:40', '2024-02-14 21:26:40', 'DLA', 'CTH', '07:38:23');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9292, 502, 6894, '2024-03-01 08:39:40', '2024-03-01 18:39:40', 'TTH', 'DLA', '10:00:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9304, 901, 2577, '2024-02-26 13:43:40', '2024-02-26 21:37:40', 'KHA', 'HPG', '07:54:56');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9318, 1201, 5749, '2024-01-31 11:11:40', '2024-01-31 19:21:40', 'BDI', 'KGI', '08:10:36');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9324, 601, 9258, '2024-01-09 11:46:40', '2024-01-09 22:17:40', 'KGI', 'DBI', '10:31:51');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9336, 1102, 7825, '2024-01-13 22:58:40', '2024-01-14 04:56:40', 'PYE', 'KHA', '05:58:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9345, 602, 2467, '2024-02-08 05:41:40', '2024-02-08 15:58:40', 'DNA', 'DBI', '10:17:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9352, 2002, 9079, '2023-12-14 21:05:40', '2023-12-15 00:20:40', 'DBI', 'TTH', '03:15:31');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9366, 1602, 7570, '2023-12-06 17:35:40', '2023-12-06 21:49:40', 'BDI', 'QBI', '04:14:08');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9375, 1602, 3968, '2023-12-30 22:37:40', '2023-12-31 06:38:40', 'GLA', 'QBI', '08:01:47');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9388, 1802, 8722, '2024-02-22 18:40:40', '2024-02-23 05:27:40', 'GLA', 'QNH', '10:47:01');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9396, 101, 341, '2024-02-25 20:06:40', '2024-02-26 05:38:40', 'GLA', 'BDI', '09:32:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9409, 602, 8507, '2024-02-08 09:51:40', '2024-02-08 20:04:40', 'HPG', 'DBI', '10:13:10');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9419, 402, 7570, '2023-12-22 07:10:40', '2023-12-22 14:02:40', 'CTH', 'DNA', '06:52:48');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9424, 1102, 1109, '2024-02-15 04:40:40', '2024-02-15 11:00:40', 'HPG', 'KHA', '06:20:34');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9434, 1402, 3968, '2024-01-03 12:58:40', '2024-01-03 16:08:40', 'BDI', 'NAN', '03:10:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9446, 1901, 9155, '2023-12-06 10:12:40', '2023-12-06 16:30:40', 'CMU', 'THA', '06:18:59');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9459, 1501, 1710, '2024-01-09 06:31:40', '2024-01-09 12:25:40', 'DBI', 'PYE', '05:54:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9468, 401, 7003, '2023-12-28 15:17:40', '2023-12-28 20:25:40', 'DBI', 'DNA', '05:08:17');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9472, 202, 4257, '2024-02-26 21:45:40', '2024-02-27 01:38:40', 'QBI', 'CMU', '03:53:32');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9485, 302, 9801, '2024-01-10 12:16:40', '2024-01-10 14:44:40', 'QNA', 'CTH', '02:28:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9493, 602, 3869, '2023-12-23 09:25:40', '2023-12-23 12:15:40', 'NAN', 'DBI', '02:50:40');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9507, 1802, 1999, '2024-02-22 09:57:40', '2024-02-22 14:15:40', 'THA', 'QNH', '04:18:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9511, 1302, 6999, '2023-12-04 09:58:40', '2023-12-04 19:17:40', 'CMU', 'LDG', '09:19:05');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9526, 1901, 8201, '2024-01-10 20:29:40', '2024-01-10 21:31:40', 'LDG', 'THA', '01:02:30');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9530, 402, 8077, '2024-02-21 19:35:40', '2024-02-22 04:16:40', 'KGI', 'DNA', '08:41:29');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9547, 201, 3316, '2024-02-26 06:28:40', '2024-02-26 17:14:40', 'KGI', 'CMU', '10:46:16');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9554, 1202, 2274, '2024-01-01 16:29:40', '2024-01-02 00:37:40', 'NAN', 'KGI', '08:08:11');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9568, 1901, 7600, '2024-02-25 13:06:40', '2024-02-25 14:20:40', 'NAN', 'THA', '01:14:05');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9576, 1, 3037, '2023-12-06 06:14:40', '2023-12-06 15:20:40', 'THA', 'VTB', '09:06:54');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9589, 1402, 9258, '2024-01-06 17:53:40', '2024-01-06 23:33:40', 'LDG', 'NAN', '05:40:13');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9592, 1902, 9763, '2024-01-21 01:23:40', '2024-01-21 06:35:40', 'CTH', 'THA', '05:12:42');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9602, 1701, 118, '2024-01-24 19:47:40', '2024-01-24 20:57:40', 'HPG', 'QNA', '01:10:23');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9610, 402, 8333, '2024-02-06 20:58:40', '2024-02-07 04:37:40', 'NAN', 'DNA', '07:39:46');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9623, 101, 6556, '2024-01-10 16:06:40', '2024-01-10 17:11:40', 'TTH', 'BDI', '01:05:47');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9633, 801, 3316, '2023-12-08 11:44:40', '2023-12-08 19:16:40', 'VTB', 'HNO', '07:32:29');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9644, 1802, 3715, '2024-01-29 08:58:40', '2024-01-29 12:27:40', 'QNA', 'QNH', '03:29:01');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9653, 402, 4854, '2023-12-31 01:54:40', '2023-12-31 06:28:40', 'DLA', 'DNA', '04:34:13');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9663, 401, 261, '2024-01-05 03:28:40', '2024-01-05 12:39:40', 'QNH', 'DNA', '09:11:19');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9676, 1502, 4719, '2024-02-24 22:46:40', '2024-02-25 02:01:40', 'BDI', 'PYE', '03:15:59');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9680, 2002, 8201, '2024-02-02 20:40:40', '2024-02-03 01:25:40', 'LDG', 'TTH', '04:45:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9690, 602, 1710, '2024-02-19 21:31:40', '2024-02-20 00:16:40', 'QNH', 'DBI', '02:45:44');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9700, 1401, 2602, '2024-02-18 07:34:40', '2024-02-18 15:26:40', 'CTH', 'NAN', '07:52:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9718, 2, 8818, '2024-01-03 06:55:40', '2024-01-03 08:30:40', 'LDG', 'VTB', '01:35:28');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9722, 1501, 6269, '2023-12-06 07:11:40', '2023-12-06 14:11:40', 'KHA', 'PYE', '07:00:51');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9734, 2002, 8722, '2024-01-23 02:52:40', '2024-01-23 08:00:40', 'HNO', 'TTH', '05:08:15');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9743, 1802, 4406, '2024-02-15 03:00:40', '2024-02-15 09:09:40', 'BDI', 'QNH', '06:09:29');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9751, 902, 3869, '2024-02-26 19:13:40', '2024-02-27 02:14:40', 'DNA', 'HPG', '07:01:46');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9760, 1, 6556, '2024-02-14 04:20:40', '2024-02-14 11:30:40', 'DLA', 'VTB', '07:10:55');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9775, 1302, 2274, '2023-12-16 11:58:40', '2023-12-16 20:04:40', 'HNO', 'LDG', '08:06');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9783, 601, 3869, '2023-12-02 02:07:40', '2023-12-02 06:18:40', 'LDG', 'DBI', '04:11:17');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9795, 1701, 9327, '2024-01-15 06:05:40', '2024-01-15 12:40:40', 'KHA', 'QNA', '06:35:16');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9808, 102, 5749, '2023-12-23 03:48:40', '2023-12-23 10:06:40', 'QBI', 'BDI', '06:18:06');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9812, 702, 4719, '2024-02-14 03:59:40', '2024-02-14 05:26:40', 'VTB', 'GLA', '01:27:56');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9824, 2, 4994, '2024-02-03 19:33:40', '2024-02-04 01:34:40', 'HPG', 'VTB', '06:01:14');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9833, 602, 6894, '2024-02-15 13:45:40', '2024-02-16 00:05:40', 'HPG', 'DBI', '10:20:35');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9845, 2002, 5749, '2024-01-02 05:35:40', '2024-01-02 10:06:40', 'DBI', 'TTH', '04:31:41');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9855, 1602, 7950, '2023-12-12 07:13:40', '2023-12-12 13:57:40', 'PYE', 'QBI', '06:44:38');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9868, 1, 4854, '2024-01-13 05:11:40', '2024-01-13 08:08:40', 'HNO', 'VTB', '02:57:21');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9876, 801, 8432, '2024-01-18 07:23:40', '2024-01-18 09:40:40', 'GLA', 'HNO', '02:17:36');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9884, 702, 4994, '2024-01-15 16:05:40', '2024-01-15 18:47:40', 'QBI', 'GLA', '02:42:05');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9894, 1101, 3205, '2024-02-29 05:28:40', '2024-02-29 08:06:40', 'THA', 'KHA', '02:38:10');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9901, 1901, 9661, '2024-01-12 00:17:40', '2024-01-12 05:38:40', 'BDI', 'THA', '05:21:48');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9916, 1701, 5971, '2023-12-26 21:53:40', '2023-12-27 06:22:40', 'TTH', 'QNA', '08:29:18');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9929, 1602, 9258, '2024-01-23 16:50:40', '2024-01-24 02:05:40', 'HNO', 'QBI', '09:15:26');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9933, 1101, 454, '2024-01-19 07:21:40', '2024-01-19 11:33:40', 'KGI', 'KHA', '04:12:16');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9941, 1802, 8669, '2024-01-10 11:08:40', '2024-01-10 14:00:40', 'TTH', 'QNH', '02:52:09');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9954, 1402, 2577, '2023-12-21 02:35:40', '2023-12-21 08:05:40', 'LDG', 'NAN', '05:30:57');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9964, 1402, 3715, '2024-02-20 09:09:40', '2024-02-20 11:51:40', 'LDG', 'NAN', '02:42:39');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9976, 1202, 4994, '2024-01-07 18:51:40', '2024-01-07 21:53:40', 'HNO', 'KGI', '03:02:14');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9984, 1901, 6400, '2024-01-02 17:16:40', '2024-01-02 19:50:40', 'PYE', 'THA', '02:34:22');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (9997, 601, 6269, '2023-12-14 16:10:40', '2023-12-15 01:06:40', 'CMU', 'DBI', '08:56:41');
+
+INSERT INTO flight(ma_chuyen_bay, ma_duong_bay, ma_may_bay, ngay_den, ngay_di, ma_diem_den, ma_diem_di, gio_bay)
+VALUES (10003, 102, 7950, '2023-12-25 17:21:40', '2023-12-25 18:29:40', 'KHA', 'BDI', '01:08:07');
 
