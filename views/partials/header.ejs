@@ -13,17 +13,20 @@
             <div class="nav-sitetop">
                 <% if (typeof isLoggedIn !== 'undefined') { %>
                     <% if (isLoggedIn) { %>
-                        <a href="/user-page" class="linkToUser onHover">Xin Chào: <%= user.ten_khach_hang %> </a>
-                        <a href="/logout" class="logout onHover">Đăng Xuất</a>
+                        <a href="/user-page" class="linkToUser onHover <%= user.ma_khach_hang %> ahref">Xin Chào: <%= user.ten_khach_hang %> </a>
+                        <a href="/logout" class="logout onHover ahref">Đăng Xuất</a>
+                        <!-- <script>
+                            document.querySelector(".linkToUser").id = user.ma_khach_hang;
+                        </script> -->
                     <% } %>
                 <% } else { %>
-                    <a href="login" class="linkTologin onHover">Đăng nhập</a>
-                    <a href="register" class="linkRegister onHover">Đăng ký</a>
+                    <a href="login" class="linkTologin onHover ahref">Đăng nhập</a>
+                    <a href="register" class="linkRegister onHover ahref">Đăng ký</a>
                 <% } %>
             </div>
 
             <div class="booking-ticket">
-                <a href="filter-ticket" class="linkToFilterTicket">Đặt vé ngay</a>
+                <a href="filter-ticket?airportDepart=0&airportArrive=0&dateDepartBegin=&dateDepartEnd=&numOfChildren=0&numOfAdult=1" class="linkToFilterTicket">Đặt vé ngay</a>
             </div>
         </div>
     </div>

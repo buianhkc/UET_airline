@@ -17,37 +17,40 @@
           <div class = "main-content">
             <div class="sticky-inner-wrapper">
               <div class="wrapper-body">
-                <div class="indicator-item">
-                  <img src="/public/img/booking-page/airplane.png" class="indicator-item-icon">
-                  <div class="indicator-item-title">
-                    <p class="indicator-item-title1">SGN -> HAN</p>
-                    <p class="indicator-item-title2">xem lại chuyến đi</p>
+                <div class="infoFlight">
+                  <div class="indicator-item">
+                    <img src="/public/img/booking-page/plane.png" class="indicator-item-icon">
+                    <div class="indicator-item-title">
+                      <p>HCM -> HNO</p>
+                    </div>
+                  </div>
+                  <div class="indicator-item">
+                    <img src="/public/img/booking-page/traveler-with-a-suitcase.png" class="indicator-item-icon">
+                    <div class="indicator-item-title">
+                      <p>Người lớn: 1</p>
+                      <p>Trẻ em: 0</p>
+                    </div>
                   </div>
                 </div>
+                
                 <div class="indicator-edit-button">
-                  <a href="selected_ticket.html">
                     <div class="wrapper-button" > 
-                      <a style="--clr: #7808d0" class="button" href="/html/selected_ticket.html">
-                        <span class="button__icon-wrapper">
-                            <svg width="10" class="button__icon-svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 15">
-                                <path fill="currentColor" d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"></path>
-                            </svg>
-                            <!-- <svg class="button__icon-svg  button__icon-svg--copy" xmlns="http://www.w3.org/2000/svg" width="10" fill="none" viewBox="0 0 14 15">
-                                <path fill="currentColor" d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"></path>
-                            </svg> -->
-                        </span>
-                        Thay đổi
-                    </a>
+                      <a href="filter-ticket?airportDepart=0&airportArrive=0&dateDepartBegin=&dateDepartEnd=&numOfChildren=0&numOfAdult=1">
+                        <button class="buttonChange" >
+                          <svg class="svgIcon" viewBox="0 0 20 20">
+                                      <path d="M18.125,15.804l-4.038-4.037c0.675-1.079,1.012-2.308,1.01-3.534C15.089,4.62,12.199,1.75,8.584,1.75C4.815,1.75,1.982,4.726,2,8.286c0.021,3.577,2.908,6.549,6.578,6.549c1.241,0,2.417-0.347,3.44-0.985l4.032,4.026c0.167,0.166,0.43,0.166,0.596,0l1.479-1.478C18.292,16.234,18.292,15.968,18.125,15.804 M8.578,13.99c-3.198,0-5.716-2.593-5.733-5.71c-0.017-3.084,2.438-5.686,5.74-5.686c3.197,0,5.625,2.493,5.64,5.624C14.242,11.548,11.621,13.99,8.578,13.99 M16.349,16.981l-3.637-3.635c0.131-0.11,0.721-0.695,0.876-0.884l3.642,3.639L16.349,16.981z"></path>
+                                    </svg>
+                        </button>
+                      </a>
                   </div>
-                  </a>
                 </div>
               </div>
             </div>
 
-            <div class="view-title">
+            <!-- <div class="view-title">
               <p class="title-wrapper">Chọn chuyến bay</p>
               <p class="view-subtitle">Chọn chuyến bay TP. Hồ Chí Minh đến TP. Hà Nội</p>
-            </div>
+            </div> -->
             <div class="left-side-panel">
               <div class="dxp-panel">
                 <div class="inside-panel">
@@ -98,11 +101,11 @@
                         <li data-sort="asc">Giá vé tăng dần</li>
                       </ul>
                     </div>     
-                    <script>
+                    <!-- <script>
                       document.addEventListener('DOMContentLoaded', function () {
                         initializeDropdown();
                       });
-                    </script>
+                    </script> -->
                   </div>
                   <div class="offer-labels">
                     <div class="offer-label economy">Phổ thông</div>
@@ -112,245 +115,12 @@
 
                 <div class="upper-row">
                   <div class="panel-content">
-                    <div class="ticket">
-                    <div class="part-left">
-                      <div class="flight-offer-details">
-                        <div class="route-date-time">
-                          <div class="time-airport">
-                            <div class="time">15 Thg 11, 06:30
-                            </div>
-                            <div class="airport">
-                              HAN (Hà Nội)
-                            </div>
-                          </div>
-                          <div class="icon-arrow">
-                            <img src="/public/img/user/aircraft.png">
-                          </div>
-                          <div class="time-airport">
-                            <div class="time">15 Thg 11, 06:30
-                            </div>
-                            <div class="airport">
-                              HAN (Hà Nội)
-                            </div>
-                          </div>
-                        </div>
+                </div>
+              </div>
 
-                        <div class="duration-stop">
-                          1 tiếng 30 phút
-                        </div>
-                      </div>
+              </div>
 
-                      <div class="plane-details">
-                        <div class="details" style="display: inline-block;">
-                          <div style="display: flex; align-items: center;">
-                            <img src="/public/img/user/VN.png" style="width: 20px; height:20px; display: inline-block; align-self: center;">
-                            <p class="flight-code" style="display: inline-block; margin-left: 5px;">UET 283749</p>
-                          </div>
-                          <p class="plane-name" style="font-weight: bold;">ATA 3632</p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="part-right">
-                      <div class="price-content-wrapper">
-                        <button class="buy-ticket-btn economy">
-                            <div class="ticket-adult">
-                              <label style="font-size: 15px;">Người lớn</label>
-                              <p style="font-size: 20px;">1.000.000VND</p>
-                            </div>
-
-                            <div class="ticket-chilren">
-                              <label style="font-size: 15px;">Trẻ em</label>
-                              <p style="font-size: 20px;">500.000VND</p>
-                            </div>
-                            
-                            <div class="quantity-remain">
-                              <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
-                            </div>
-                          </button>
-                          </div>
-
-                          <div class="price-content-wrapper">
-                            <button class="buy-ticket-btn business">
-                                <div class="ticket-adult">
-                                  <label style="font-size: 15px;">Người lớn</label>
-                                  <p style="font-size: 20px;">2.000.000VND</p>
-                                </div>
-
-                                <div class="ticket-chilren">
-                                  <label style="font-size: 15px;">Trẻ em</label>
-                                  <p style="font-size: 20px;">1.000.000VND</p>
-                                </div>
-                                
-                                <div class="quantity-remain">
-                                  <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
-                                </div>
-                              </button>
-                          </div>
-                  </div>
-
-                    </div>
-            
-                    <div class="ticket">
-                      <div class="part-left">
-                        <div class="flight-offer-details">
-                          <div class="route-date-time">
-                            <div class="time-airport">
-                              <div class="time">15 Thg 11, 06:30
-                              </div>
-                              <div class="airport">
-                                HAN (Hà Nội)
-                              </div>
-                            </div>
-                            <div class="icon-arrow">
-                              <img src="/public/img/user/aircraft.png">
-                            </div>
-                            <div class="time-airport">
-                              <div class="time">15 Thg 11, 06:30
-                              </div>
-                              <div class="airport">
-                                HAN (Hà Nội)
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="duration-stop">
-                            1 tiếng 30 phút
-                          </div>
-                        </div>
-
-                        <div class="plane-details">
-                          <div class="details" style="display: inline-block;">
-                            <div style="display: flex; align-items: center;">
-                              <img src="/public/img/user/VN.png" style="width: 20px; height:20px; display: inline-block; align-self: center;">
-                              <p class="flight-code" style="display: inline-block; margin-left: 5px;">UET 283749</p>
-                            </div>
-                            <p class="plane-name" style="font-weight: bold;">ATA 3632</p>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="part-right">
-                        <div class="price-content-wrapper">
-                          <button class="buy-ticket-btn economy">
-                              <div class="ticket-adult">
-                                <label style="font-size: 15px;">Người lớn</label>
-                                <p style="font-size: 20px;">1.000.000VND</p>
-                              </div>
-
-                              <div class="ticket-chilren">
-                                <label style="font-size: 15px;">Trẻ em</label>
-                                <p style="font-size: 20px;">500.000VND</p>
-                              </div>
-                              
-                              <div class="quantity-remain">
-                                <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
-                              </div>
-                            </button>
-                            </div>
-
-                            <div class="price-content-wrapper">
-                              <button class="buy-ticket-btn business">
-                                  <div class="ticket-adult">
-                                    <label style="font-size: 15px;">Người lớn</label>
-                                    <p style="font-size: 20px;">2.000.000VND</p>
-                                  </div>
-
-                                  <div class="ticket-chilren">
-                                    <label style="font-size: 15px;">Trẻ em</label>
-                                    <p style="font-size: 20px;">1.000.000VND</p>
-                                  </div>
-                                  
-                                  <div class="quantity-remain">
-                                    <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
-                                  </div>
-                                </button>
-                            </div>
-                    </div>
-
-                    </div>
-
-                    <div class="ticket">
-                      <div class="part-left">
-                        <div class="flight-offer-details">
-                          <div class="route-date-time">
-                            <div class="time-airport">
-                              <div class="time">15 Thg 11, 06:30
-                              </div>
-                              <div class="airport">
-                                HAN (Hà Nội)
-                              </div>
-                            </div>
-                            <div class="icon-arrow">
-                              <img src="/public/img/user/aircraft.png">
-                            </div>
-                            <div class="time-airport">
-                              <div class="time">15 Thg 11, 06:30
-                              </div>
-                              <div class="airport">
-                                HAN (Hà Nội)
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="duration-stop">
-                            1 tiếng 30 phút
-                          </div>
-                        </div>
-
-                        <div class="plane-details">
-                          <div class="details" style="display: inline-block;">
-                            <div style="display: flex; align-items: center;">
-                              <img src="/public/img/user/VN.png" style="width: 20px; height:20px; display: inline-block; align-self: center;">
-                              <p class="flight-code" style="display: inline-block; margin-left: 5px;">UET 283749</p>
-                            </div>
-                            <p class="plane-name" style="font-weight: bold;">ATA 3632</p>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="part-right">
-                        <div class="price-content-wrapper">
-                          <button class="buy-ticket-btn economy">
-                              <div class="ticket-adult">
-                                <label style="font-size: 15px;">Người lớn</label>
-                                <p style="font-size: 20px;">1.000.000VND</p>
-                              </div>
-
-                              <div class="ticket-chilren">
-                                <label style="font-size: 15px;">Trẻ em</label>
-                                <p style="font-size: 20px;">500.000VND</p>
-                              </div>
-                              
-                              <div class="quantity-remain">
-                                <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
-                              </div>
-                            </button>
-                            </div>
-
-                            <div class="price-content-wrapper">
-                              <button class="buy-ticket-btn business">
-                                  <div class="ticket-adult">
-                                    <label style="font-size: 15px;">Người lớn</label>
-                                    <p style="font-size: 20px;">2.000.000VND</p>
-                                  </div>
-
-                                  <div class="ticket-chilren">
-                                    <label style="font-size: 15px;">Trẻ em</label>
-                                    <p style="font-size: 20px;">1.000.000VND</p>
-                                  </div>
-                                  
-                                  <div class="quantity-remain">
-                                    <p style="text-align: left; margin-left: 5px;">Còn 56 ghế</p>
-                                  </div>
-                                </button>
-                            </div>
-                    </div>
-                    </div>
-          </div>
-        </div>
-
-        <script src="/public/js/testBookingPage.js"></script>
+        <script src="/public/js/BookingPage.js"></script>
         <!-- Footer -->      
         <%- include('../partials/footer') %>
     </body>

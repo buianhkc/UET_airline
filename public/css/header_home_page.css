@@ -54,7 +54,7 @@
     align-self: center;
 }
 
-.nav-open a{
+.nav-open > a{
     text-decoration: none;
     text-transform: uppercase;
 }

@@ -1,3 +1,5 @@
+const db = require("../database/server");
+
 class BookingPageController {
     // [GET] /user-page
     index(req, res) {
@@ -6,6 +8,23 @@ class BookingPageController {
         } else {
             res.redirect('/login');
         }
+    }
+
+    book(req, res) {
+        console.log(req.body);
+
+        var {ma_ve, ma_khach_hang, order_date, so_luong_nguoi_lon, so_luong_tre_em, trang_thai} = req.body;
+
+        var sql = `INSERT orders(ma_ve, ma_khach_hang, order_date, so_luong_nguoi_lon, so_luong_tre_em, trang_thai)
+                    VALUES (${ma_ve}, ${ma_khach_hang}, '${order_date}', ${so_luong_nguoi_lon}, ${so_luong_tre_em}, '${trang_thai}');`;
+        
+        db.execute(sql)
+        .then((result) => {
+            res.json(true)
+        })
+        .catch(err => {
+            console.log(err);
+        })
     }
 };
 

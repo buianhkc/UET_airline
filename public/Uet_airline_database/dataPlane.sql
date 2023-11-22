@@ -1,300 +1,300 @@
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (133, 'ATA0', 236, 32, 268);
+VALUES (175, 'ATA0', 265, 42, 307);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (247, 'ATA1', 236, 44, 280);
+VALUES (215, 'ATA1', 208, 41, 249);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (381, 'ATA2', 214, 40, 254);
+VALUES (323, 'ATA2', 205, 44, 249);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (406, 'ATA3', 207, 48, 255);
+VALUES (492, 'ATA3', 274, 41, 315);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (568, 'ATA4', 287, 49, 336);
+VALUES (537, 'ATA4', 218, 35, 253);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (607, 'ATA5', 215, 45, 260);
+VALUES (620, 'ATA5', 274, 31, 305);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (740, 'ATA6', 299, 37, 336);
+VALUES (713, 'ATA6', 274, 39, 313);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (804, 'ATA7', 215, 49, 264);
+VALUES (807, 'ATA7', 295, 49, 344);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (979, 'ATA8', 248, 32, 280);
+VALUES (961, 'ATA8', 227, 33, 260);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (1033, 'ATA9', 236, 49, 285);
+VALUES (1012, 'ATA9', 274, 46, 320);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (1155, 'ATA10', 227, 38, 265);
+VALUES (1148, 'ATA10', 205, 34, 239);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (1201, 'ATA11', 286, 47, 333);
+VALUES (1225, 'ATA11', 232, 31, 263);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (1312, 'ATA12', 243, 41, 284);
+VALUES (1325, 'ATA12', 232, 48, 280);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (1408, 'ATA13', 260, 34, 294);
+VALUES (1459, 'ATA13', 224, 41, 265);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (1567, 'ATA14', 244, 47, 291);
+VALUES (1584, 'ATA14', 276, 47, 323);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (1631, 'ATA15', 279, 49, 328);
+VALUES (1631, 'ATA15', 244, 47, 291);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (1795, 'ATA16', 297, 49, 346);
+VALUES (1735, 'ATA16', 279, 47, 326);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (1839, 'ATA17', 293, 39, 332);
+VALUES (1877, 'ATA17', 247, 46, 293);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (1977, 'ATA18', 238, 30, 268);
+VALUES (1922, 'ATA18', 226, 39, 265);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (2046, 'ATA19', 268, 30, 298);
+VALUES (2058, 'ATA19', 282, 39, 321);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (2164, 'ATA20', 271, 31, 302);
+VALUES (2166, 'ATA20', 211, 42, 253);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (2298, 'ATA21', 261, 44, 305);
+VALUES (2238, 'ATA21', 250, 44, 294);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (2392, 'ATA22', 292, 37, 329);
+VALUES (2326, 'ATA22', 219, 33, 252);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (2428, 'ATA23', 294, 45, 339);
+VALUES (2478, 'ATA23', 230, 35, 265);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (2517, 'ATA24', 268, 31, 299);
+VALUES (2595, 'ATA24', 293, 35, 328);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (2685, 'ATA25', 296, 49, 345);
+VALUES (2685, 'ATA25', 227, 47, 274);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (2756, 'ATA26', 295, 36, 331);
+VALUES (2728, 'ATA26', 277, 47, 324);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (2880, 'ATA27', 232, 44, 276);
+VALUES (2843, 'ATA27', 211, 39, 250);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (2912, 'ATA28', 209, 43, 252);
+VALUES (2963, 'ATA28', 262, 33, 295);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (3087, 'ATA29', 248, 48, 296);
+VALUES (3015, 'ATA29', 256, 40, 296);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (3136, 'ATA30', 287, 47, 334);
+VALUES (3141, 'ATA30', 292, 35, 327);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (3285, 'ATA31', 254, 38, 292);
+VALUES (3287, 'ATA31', 215, 30, 245);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (3389, 'ATA32', 204, 41, 245);
+VALUES (3363, 'ATA32', 276, 43, 319);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (3407, 'ATA33', 247, 33, 280);
+VALUES (3471, 'ATA33', 279, 40, 319);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (3542, 'ATA34', 206, 39, 245);
+VALUES (3547, 'ATA34', 220, 43, 263);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (3608, 'ATA35', 236, 32, 268);
+VALUES (3643, 'ATA35', 261, 44, 305);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (3783, 'ATA36', 225, 33, 258);
+VALUES (3773, 'ATA36', 296, 30, 326);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (3864, 'ATA37', 251, 33, 284);
+VALUES (3885, 'ATA37', 224, 41, 265);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (3986, 'ATA38', 273, 44, 317);
+VALUES (3945, 'ATA38', 276, 35, 311);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (4065, 'ATA39', 284, 38, 322);
+VALUES (4006, 'ATA39', 214, 40, 254);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (4174, 'ATA40', 244, 39, 283);
+VALUES (4123, 'ATA40', 228, 36, 264);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (4220, 'ATA41', 279, 35, 314);
+VALUES (4288, 'ATA41', 234, 39, 273);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (4313, 'ATA42', 232, 37, 269);
+VALUES (4380, 'ATA42', 208, 36, 244);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (4434, 'ATA43', 275, 45, 320);
+VALUES (4473, 'ATA43', 201, 37, 238);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (4589, 'ATA44', 272, 40, 312);
+VALUES (4510, 'ATA44', 252, 32, 284);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (4610, 'ATA45', 247, 45, 292);
+VALUES (4697, 'ATA45', 217, 31, 248);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (4743, 'ATA46', 275, 36, 311);
+VALUES (4745, 'ATA46', 283, 34, 317);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (4809, 'ATA47', 299, 47, 346);
+VALUES (4862, 'ATA47', 237, 38, 275);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (4931, 'ATA48', 255, 30, 285);
+VALUES (4988, 'ATA48', 239, 43, 282);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (5067, 'ATA49', 224, 36, 260);
+VALUES (5094, 'ATA49', 271, 40, 311);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (5166, 'ATA50', 267, 33, 300);
+VALUES (5189, 'ATA50', 219, 42, 261);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (5204, 'ATA51', 290, 49, 339);
+VALUES (5242, 'ATA51', 289, 39, 328);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (5345, 'ATA52', 229, 44, 273);
+VALUES (5393, 'ATA52', 234, 35, 269);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (5499, 'ATA53', 213, 33, 246);
+VALUES (5469, 'ATA53', 281, 32, 313);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (5507, 'ATA54', 216, 41, 257);
+VALUES (5540, 'ATA54', 218, 43, 261);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (5628, 'ATA55', 292, 48, 340);
+VALUES (5672, 'ATA55', 221, 31, 252);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (5737, 'ATA56', 298, 44, 342);
+VALUES (5787, 'ATA56', 220, 47, 267);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (5895, 'ATA57', 255, 46, 301);
+VALUES (5825, 'ATA57', 201, 35, 236);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (5930, 'ATA58', 258, 49, 307);
+VALUES (5943, 'ATA58', 224, 46, 270);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (6016, 'ATA59', 271, 41, 312);
+VALUES (6064, 'ATA59', 251, 42, 293);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (6199, 'ATA60', 273, 31, 304);
+VALUES (6164, 'ATA60', 294, 30, 324);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (6250, 'ATA61', 295, 43, 338);
+VALUES (6227, 'ATA61', 228, 33, 261);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (6334, 'ATA62', 234, 41, 275);
+VALUES (6371, 'ATA62', 241, 38, 279);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (6469, 'ATA63', 208, 40, 248);
+VALUES (6457, 'ATA63', 238, 38, 276);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (6529, 'ATA64', 271, 45, 316);
+VALUES (6515, 'ATA64', 260, 33, 293);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (6695, 'ATA65', 202, 45, 247);
+VALUES (6657, 'ATA65', 254, 49, 303);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (6756, 'ATA66', 236, 41, 277);
+VALUES (6710, 'ATA66', 250, 36, 286);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (6827, 'ATA67', 255, 47, 302);
+VALUES (6842, 'ATA67', 278, 40, 318);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (6904, 'ATA68', 264, 30, 294);
+VALUES (6900, 'ATA68', 244, 36, 280);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (7085, 'ATA69', 256, 36, 292);
+VALUES (7042, 'ATA69', 268, 32, 300);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (7120, 'ATA70', 273, 41, 314);
+VALUES (7168, 'ATA70', 279, 40, 319);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (7289, 'ATA71', 217, 39, 256);
+VALUES (7288, 'ATA71', 245, 36, 281);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (7383, 'ATA72', 265, 40, 305);
+VALUES (7375, 'ATA72', 260, 48, 308);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (7494, 'ATA73', 239, 44, 283);
+VALUES (7437, 'ATA73', 222, 35, 257);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (7534, 'ATA74', 251, 49, 300);
+VALUES (7545, 'ATA74', 218, 45, 263);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (7675, 'ATA75', 234, 39, 273);
+VALUES (7631, 'ATA75', 222, 38, 260);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (7724, 'ATA76', 249, 46, 295);
+VALUES (7779, 'ATA76', 263, 35, 298);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (7872, 'ATA77', 255, 40, 295);
+VALUES (7808, 'ATA77', 208, 49, 257);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (7982, 'ATA78', 268, 42, 310);
+VALUES (7950, 'ATA78', 294, 45, 339);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (8066, 'ATA79', 214, 46, 260);
+VALUES (8088, 'ATA79', 216, 34, 250);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (8157, 'ATA80', 299, 37, 336);
+VALUES (8194, 'ATA80', 256, 45, 301);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (8291, 'ATA81', 286, 46, 332);
+VALUES (8276, 'ATA81', 227, 44, 271);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (8342, 'ATA82', 241, 32, 273);
+VALUES (8356, 'ATA82', 275, 48, 323);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (8482, 'ATA83', 205, 44, 249);
+VALUES (8434, 'ATA83', 230, 41, 271);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (8550, 'ATA84', 213, 32, 245);
+VALUES (8597, 'ATA84', 253, 33, 286);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (8691, 'ATA85', 263, 49, 312);
+VALUES (8690, 'ATA85', 233, 35, 268);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (8743, 'ATA86', 262, 36, 298);
+VALUES (8777, 'ATA86', 235, 44, 279);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (8835, 'ATA87', 287, 44, 331);
+VALUES (8840, 'ATA87', 262, 49, 311);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (8981, 'ATA88', 222, 36, 258);
+VALUES (8912, 'ATA88', 270, 40, 310);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (9071, 'ATA89', 265, 46, 311);
+VALUES (9000, 'ATA89', 212, 41, 253);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (9132, 'ATA90', 279, 49, 328);
+VALUES (9142, 'ATA90', 250, 46, 296);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (9211, 'ATA91', 228, 34, 262);
+VALUES (9207, 'ATA91', 261, 43, 304);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (9375, 'ATA92', 230, 44, 274);
+VALUES (9331, 'ATA92', 241, 41, 282);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (9429, 'ATA93', 231, 35, 266);
+VALUES (9452, 'ATA93', 261, 35, 296);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (9565, 'ATA94', 203, 46, 249);
+VALUES (9569, 'ATA94', 215, 33, 248);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (9627, 'ATA95', 238, 45, 283);
+VALUES (9601, 'ATA95', 239, 31, 270);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (9733, 'ATA96', 211, 47, 258);
+VALUES (9758, 'ATA96', 233, 36, 269);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (9839, 'ATA97', 221, 48, 269);
+VALUES (9821, 'ATA97', 261, 34, 295);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (9907, 'ATA98', 272, 38, 310);
+VALUES (9952, 'ATA98', 296, 47, 343);
 
 INSERT INTO plane(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (10093, 'ATA99', 283, 39, 322);
+VALUES (10047, 'ATA99', 264, 49, 313);
 

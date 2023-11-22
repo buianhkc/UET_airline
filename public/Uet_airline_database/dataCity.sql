@@ -29,7 +29,7 @@ INSERT INTO city(ma_thanh_pho, ten_thanh_pho, linkImg)
 VALUES ('HPG', 'Hải Phòng', '/public/Uet_airline_database/imgCity/Hai_Phong.webp');
 
 INSERT INTO city(ma_thanh_pho, ten_thanh_pho, linkImg)
-VALUES ('HCM', 'Thành phố Hồ Chí Minh', '/public/Uet_airline_database/imgCity/Ho-Chi-Minh-City-SGN.avif');
+VALUES ('HCM', 'Thành phố Hồ Chí Minh', '/public/Uet_airline_database/imgCity/hcm.jpg');
 
 INSERT INTO city(ma_thanh_pho, ten_thanh_pho, linkImg)
 VALUES ('KHA', 'Khánh Hòa', '/public/Uet_airline_database/imgCity/khanh_hoa.jpg');
