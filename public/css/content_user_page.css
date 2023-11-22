@@ -126,7 +126,7 @@ label {
     margin-left: 10px;
     margin-right: 10px;
     padding: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -156,7 +156,13 @@ label {
 .flight-offer-details .type-ticket {
     font-size: 18px;
     font-weight: bold;
-    color: rgb(2, 113, 186);
+}
+
+.flight-offer-details .type-ticket.economyType {
+    color: #017586;
+}
+.flight-offer-details .type-ticket.bussinessType {
+    color: #E6B441;
 }
 
 .route-date-time .time-airport {
@@ -200,17 +206,26 @@ label {
 }
 
 .part-right .customer-order-details {
-    background-color: #F4F9F5;
     border: solid;
-    border-color: #005F6E;
     border-radius: 5px;
     border-width: 1px;
     padding: 10px;
-    color: #005F6E;
     font-weight: bold;
     margin-left: 10px;
     width: 65%;
     font-size: 18px;
+}
+
+.customer-order-details.economyType {
+    background-color: #017586;
+    border-color: #E6B441;
+    color: white;
+}
+
+.customer-order-details.bussinessType {
+    background-color: #E6B441;
+    border-color: #005F6E;
+    color: black;
 }
 
 .part-right .process-ticket {
@@ -231,22 +246,16 @@ label {
     transition: 0.5s;
 }
 
-.part-right .process-ticket .pay-ticket.unpaid {
-    background-color: rgb(36, 213, 36);
-    transition: 0.5s;
-}
-
-.part-right .process-ticket .unpaid:hover {
-    background-color: rgb(0, 255, 0);
-}
-
 .part-right .process-ticket .paid {
     background-color: rgba(156, 156, 156, 0.673);
+    width: 150px;
+    border-radius: 5px;
 }
 
 .ticket .part-right .price-content-wrapper {
     width: 50%;
     margin: 10px 10px;
+    padding: 15px 20px;
 }
 
 .part-right .price-content-wrapper .buy-ticket-btn {
