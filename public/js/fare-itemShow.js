@@ -82,7 +82,7 @@ function showMoreFares() {
         var month = dateDepart.getMonth() + 1; // Tháng bắt đầu từ 0
         var year = dateDepart.getFullYear();
 
-        var formattedDate = day + '/' + month + '/' + year;
+        var formattedDate = 'Ngày ' + day + ' Tháng ' + month + ' Năm ' + year;
 
         fareListE.innerHTML += `
             <div class="fare-item" >
