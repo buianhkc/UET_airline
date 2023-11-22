@@ -1,5 +1,3 @@
-
-// Lấy thông tin lọc từ URL
 var urlParams = new URLSearchParams(window.location.search);
 
 var airportDepart = urlParams.get('airportDepart');
@@ -10,6 +8,8 @@ var numOfAdult = parseInt(urlParams.get('numOfAdult'));
 var numOfChildren = parseInt(urlParams.get('numOfChildren'));
 var totalSeat = numOfAdult + numOfChildren;
 
+function initTicket() {
+    // Lấy thông tin lọc từ URL
 var apiGetData = '/filter-ticket/getdata'
     + "?airportDepart=" + encodeURIComponent(airportDepart)
     + "&airportArrive=" + encodeURIComponent(airportArrive)
@@ -160,6 +160,9 @@ fetch(apiGetData)
         }
         return true;
     })
+}
+
+initTicket();
 
 // Sticky Bar
 window.onscroll = function () { makeSticky() };
@@ -180,13 +183,13 @@ function initInfoFlight() {
 
     infoFlight.innerHTML = `<div class="indicator-item">
     <img src="/public/img/booking-page/plane.png" class="indicator-item-icon">
-    <div class="indicator-item-title">
+    <div class="${airportDepart} ${airportArrive} indicator-item-title travel">
     <p>${airportDepart} -> ${airportArrive}</p>
     </div>
     </div>
     <div class="indicator-item">
     <img src="/public/img/booking-page/traveler-with-a-suitcase.png" class="indicator-item-icon">
-    <div class="indicator-item-title">
+    <div class="${numOfAdult} ${numOfChildren} indicator-item-title human">
     <p>Người lớn: ${numOfAdult}</p>
     <p>Trẻ em: ${numOfChildren}</p>
     </div>
@@ -235,6 +238,30 @@ function buyTicket(element) {
     } else {
         alert("Bạn đã hủy đặt vé");
     }
+}
+
+function goToFilterTicket() {
+    var ItemTitleTravelE = document.querySelector('.indicator-item-title.travel');
+    var ItemTitleHumanE = document.querySelector('.indicator-item-title.travel');
+    // Lấy thông tin từ form
+    var airportDepart = ItemTitleTravelE.classList[0];
+    var airportArrive = ItemTitleTravelE.classList[1];
+    var dateDepartBegin = "";
+    var dateDepartEnd = "";
+    var numOfChildren = parseInt(ItemTitleHumanE.classList[0]);
+    var numOfAdult = parseInt(ItemTitleHumanE.classList[1]);
+
+    // Tạo URL với tham số truyền đi
+    var url = "/filter-ticket" 
+              + "?airportDepart=" + encodeURIComponent(airportDepart)
+              + "&airportArrive=" + encodeURIComponent(airportArrive)
+              + "&dateDepartBegin=" + encodeURIComponent(dateDepartBegin)
+              + "&dateDepartEnd=" + encodeURIComponent(dateDepartEnd)
+              + "&numOfChildren=" + encodeURIComponent(numOfChildren)
+              + "&numOfAdult=" + encodeURIComponent(numOfAdult);
+
+    // Chuyển hướng đến trang hiển thị vé với tham số
+    window.location.href = url;
 }
 
 

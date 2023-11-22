@@ -60,7 +60,7 @@ class FilterTicketController {
             + qSoluongGhe
             + qTuNgay
             + qDenNgay
-            + `ORDER BY ngay_di ASC, ma_chuyen_bay ASC`
+            + `ORDER BY DATE(ngay_di) ASC, ma_ve ASC, loai_ve ASC`
 
         console.log(sql);
         
