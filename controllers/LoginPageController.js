@@ -12,7 +12,7 @@ class LoginPageController {
         // console.log(req.body);
 
         const { useraccount, password, item } = req.body;
-        var sql = `SELECT * FROM customer WHERE email = \'${useraccount}\' or ten_dang_nhap = \'${useraccount}\'`;
+        var sql = `SELECT * FROM customers WHERE email = \'${useraccount}\' or ten_dang_nhap = \'${useraccount}\'`;
 
         // console.log(sql);
 
