@@ -1,7 +1,7 @@
 const db = require("../database/server");
 
 function addUserToDataBase(user) {
-    var sql = `INSERT INTO customer(ten_khach_hang, sdt, dia_chi, gioi_tinh, ten_dang_nhap, mat_khau, email)
+    var sql = `INSERT INTO customers(ten_khach_hang, sdt, dia_chi, gioi_tinh, ten_dang_nhap, mat_khau, email)
     VALUES (\'${user.name}\', \'${user.phonenumber}\', \'${user.address}\', \'${user.gender}\', \'${user.username}\', \'${user.password}\', \'${user.email}\');`
     db.execute(sql)
         .then(function(result) {
@@ -26,7 +26,7 @@ class RegisterPageController {
         const {username, password, passwordconfirm, name, email, phonenumber, address, gender } = req.body;
         const userData = req.body;
 
-        db.query(`SELECT ten_dang_nhap, email FROM customer WHERE email = \'${email}\' or ten_dang_nhap = \'${username}\'`)
+        db.query(`SELECT ten_dang_nhap, email FROM customers WHERE email = \'${email}\' or ten_dang_nhap = \'${username}\'`)
             .then(function(result) {
                 var data = result[0];
 

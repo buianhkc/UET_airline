@@ -46,14 +46,14 @@ class FilterTicketController {
             gia_ve_tre_em,
             so_luong_con,
             ma_diem_di,
-            (SELECT ten_thanh_pho FROM city WHERE f.ma_diem_di = ma_thanh_pho) as ten_diem_di,
+            (SELECT ten_thanh_pho FROM citys WHERE f.ma_diem_di = ma_thanh_pho) as ten_diem_di,
              ma_diem_den,
-            (SELECT ten_thanh_pho FROM city WHERE f.ma_diem_den = ma_thanh_pho) as ten_diem_den,
+            (SELECT ten_thanh_pho FROM citys WHERE f.ma_diem_den = ma_thanh_pho) as ten_diem_den,
             ma_chuyen_bay,
             ten_may_bay
-            FROM ticket
-            INNER JOIN flight as f USING(ma_chuyen_bay)
-            INNER JOIN plane as p USING(ma_may_bay)
+            FROM tickets
+            INNER JOIN flights as f USING(ma_chuyen_bay)
+            INNER JOIN planes as p USING(ma_may_bay)
             WHERE 1 = 1\n`
             + qMaDiemDi
             + qMaDiemDen
