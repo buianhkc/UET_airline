@@ -3,22 +3,13 @@ DROP DATABASE UET_Airline;
 CREATE DATABASE UET_Airline;
 USE UET_Airline;
 
-CREATE TABLE city (	
+CREATE TABLE citys (	
 	ma_thanh_pho VARCHAR(3) NOT NULL PRIMARY KEY,
     ten_thanh_pho NVARCHAR(30) NOT NULL,
     linkImg VARCHAR(500)
 );
 
-CREATE TABLE airline (	
-	ma_duong_bay INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
-    vi_tri VARCHAR(10) NOT NULL,
-    ma_thanh_pho VARCHAR(3) NOT NULL,
-    chieu_dai DECIMAL(20, 2) DEFAULT 1000,
-    chieu_rong DECIMAL(20, 2) DEFAULT 100,
-    trang_thai VARCHAR(10) NOT NULL DEFAULT 'good'
-);
-
-CREATE TABLE plane (	
+CREATE TABLE planes (	
 	ma_may_bay INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     ten_may_bay VARCHAR(30) NOT NULL,
     kich_thuoc DECIMAL(20, 2),
@@ -27,10 +18,9 @@ CREATE TABLE plane (
     tong_so_ghe INT NOT NULL
 );
 
-CREATE TABLE flight (	
+CREATE TABLE flights (	
 	ma_chuyen_bay INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
 	ma_may_bay INT NOT NULL,
-    ma_duong_bay INT NOT NULL,
     ngay_di DATETIME NOT NULL,
     ngay_den DATETIME NOT NULL,
     ma_diem_den VARCHAR(3) NOT NULL,
@@ -39,7 +29,7 @@ CREATE TABLE flight (
     ghi_chu TEXT
 );
 
-CREATE TABLE ticket (	
+CREATE TABLE tickets (	
 	ma_ve INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
 	ma_chuyen_bay INT NOT NULL,
     loai_ve VARCHAR(20) NOT NULL,
@@ -59,7 +49,7 @@ CREATE TABLE orders (
     trang_thai VARCHAR(10)
 );
 
-CREATE TABLE customer (	
+CREATE TABLE customers (	
 	ma_khach_hang INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     ten_khach_hang NVARCHAR(30) NOT NULL,
     sdt VARCHAR(20),
@@ -81,21 +71,50 @@ CREATE TABLE transactions (
     amount DECIMAL(20, 2) NOT NULL
 );
 
+CREATE TABLE seat_details (
+	ma_chuyen_bay INT NOT NULL,
+    ma_ghe INT NOT NULL,
+    loai_ghe VARCHAR(20),
+    trang_thai VARCHAR(20)
+);
+
+CREATE TABLE order_seats (
+	order_number INT NOT NULL,
+	ma_chuyen_bay INT NOT NULL,
+    ma_ghe INT NOT NULL
+);
+
+CREATE TABLE passengers (
+	order_number INT NOT NULL,
+    ma_hanh_khach INT NOT NULL,
+    ten NVARCHAR(100),
+    gioi_tinh NVARCHAR(10),
+    do_tuoi NVARCHAR(10),
+    ngay_sinh DATE
+);
+
 ALTER TABLE transactions
-	ADD CONSTRAINT fk_transactions_customer FOREIGN KEY (ma_khach_hang) REFERENCES customer(ma_khach_hang) ON UPDATE CASCADE ON DELETE RESTRICT;
+	ADD CONSTRAINT fk_transactions_customers FOREIGN KEY (ma_khach_hang) REFERENCES customers(ma_khach_hang) ON UPDATE CASCADE ON DELETE RESTRICT;
     
 ALTER TABLE orders
-	ADD CONSTRAINT fk_orders_customer FOREIGN KEY (ma_khach_hang) REFERENCES customer(ma_khach_hang) ON UPDATE CASCADE ON DELETE RESTRICT;
+	ADD CONSTRAINT fk_orders_customers FOREIGN KEY (ma_khach_hang) REFERENCES customers(ma_khach_hang) ON UPDATE CASCADE ON DELETE RESTRICT;
 ALTER TABLE orders
-	ADD CONSTRAINT fk_orders_ticket FOREIGN KEY (ma_ve) REFERENCES ticket(ma_ve) ON UPDATE CASCADE ON DELETE RESTRICT;
+	ADD CONSTRAINT fk_orders_tickets FOREIGN KEY (ma_ve) REFERENCES tickets(ma_ve) ON UPDATE CASCADE ON DELETE RESTRICT;
     
-ALTER TABLE ticket
-	ADD CONSTRAINT fk_ticket_flight FOREIGN KEY (ma_chuyen_bay) REFERENCES flight(ma_chuyen_bay) ON UPDATE CASCADE ON DELETE RESTRICT;
+ALTER TABLE tickets
+	ADD CONSTRAINT fk_tickets_flights FOREIGN KEY (ma_chuyen_bay) REFERENCES flights(ma_chuyen_bay) ON UPDATE CASCADE ON DELETE RESTRICT;
     
-ALTER TABLE flight
-	ADD CONSTRAINT fk_flight_plane FOREIGN KEY (ma_may_bay) REFERENCES plane(ma_may_bay) ON UPDATE CASCADE ON DELETE RESTRICT;
-ALTER TABLE flight
-	ADD CONSTRAINT fk_flight_airline FOREIGN KEY (ma_duong_bay) REFERENCES airline(ma_duong_bay) ON UPDATE CASCADE ON DELETE RESTRICT;
+ALTER TABLE flights
+	ADD CONSTRAINT fk_flights_planes FOREIGN KEY (ma_may_bay) REFERENCES planes(ma_may_bay) ON UPDATE CASCADE ON DELETE RESTRICT;
+    
+ALTER TABLE passengers
+    ADD CONSTRAINT fk_passengers_orders FOREIGN KEY (order_number) REFERENCES orders(order_number) ON UPDATE CASCADE ON DELETE RESTRICT;
+    
+ALTER TABLE order_seats
+    ADD CONSTRAINT fk_seat_orders FOREIGN KEY (order_number) REFERENCES orders(order_number) ON UPDATE CASCADE ON DELETE RESTRICT;
+    
+ALTER TABLE seat_details
+    ADD CONSTRAINT fk_seatdetail_flight FOREIGN KEY (ma_chuyen_bay) REFERENCES flights(ma_chuyen_bay) ON UPDATE CASCADE ON DELETE RESTRICT;
     
 SET FOREIGN_KEY_CHECKS = 0;
 SET SQL_SAFE_UPDATES = 0;
