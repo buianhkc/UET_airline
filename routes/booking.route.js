@@ -5,5 +5,6 @@ const bookingPageController = require('../controllers/BookingPageController');
 
 router.get('/', bookingPageController.index);
 router.post('/book-ticket', bookingPageController.book);
+router.post('/getOrderNumber', bookingPageController.getOrderNumber);
 
 module.exports = router;

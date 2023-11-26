@@ -12,13 +12,13 @@ function submitFilterForm(event) {
     var numOfAdult = parseInt(numOfAdult);
 
     // Tạo URL với tham số truyền đi
-    var url = "/booking-page" 
-              + "?airportDepart=" + encodeURIComponent(airportDepart)
-              + "&airportArrive=" + encodeURIComponent(airportArrive)
-              + "&dateDepartBegin=" + encodeURIComponent(dateDepartBegin)
-              + "&dateDepartEnd=" + encodeURIComponent(dateDepartEnd)
-              + "&numOfChildren=" + encodeURIComponent(numOfChildren)
-              + "&numOfAdult=" + encodeURIComponent(numOfAdult);
+    var url = "/booking-page"
+        + "?airportDepart=" + encodeURIComponent(airportDepart)
+        + "&airportArrive=" + encodeURIComponent(airportArrive)
+        + "&dateDepartBegin=" + encodeURIComponent(dateDepartBegin)
+        + "&dateDepartEnd=" + encodeURIComponent(dateDepartEnd)
+        + "&numOfAdult=" + encodeURIComponent(numOfAdult)
+        + "&numOfChildren=" + encodeURIComponent(numOfChildren)
 
     // Chuyển hướng đến trang hiển thị vé với tham số
     window.location.href = url;

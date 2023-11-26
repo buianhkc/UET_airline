@@ -4,7 +4,6 @@ class HomePageController {
     // [GET] /home-page
     index (req, res) {
         // console.log(req.session);
-
         res.render('./pages/home-page', {isLoggedIn:req.session.isLoggedIn, user: req.session.user});
     }
 

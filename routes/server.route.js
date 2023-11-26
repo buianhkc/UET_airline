@@ -4,6 +4,8 @@ const registerPageRouter = require('./register.route');
 const userPageRouter = require('./userpage.route');
 const filterTicketRouter = require('./filterticket.route');
 const bookingPageRouter = require('./booking.route');
+const infoPassengerRouter = require('./info-passenger.route');
+const seatOrderRouter = require('./seat-order.route');
 
 function route(app) {
 
@@ -35,6 +37,12 @@ function route(app) {
     app.use('/filter-ticket', filterTicketRouter);
 
     app.use('/booking-page', bookingPageRouter);
+
+    app.use('/info-passenger', infoPassengerRouter);
+
+    app.use('/info-passenger', infoPassengerRouter);
+
+    app.use('/seat-order', seatOrderRouter);
 
     app.use('/', homePageRouter);
 }

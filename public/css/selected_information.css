@@ -1,3 +1,8 @@
+.info-fill-container {
+  width: 60%;
+  margin: auto;
+}
+
 .data-translation {
   background-color: #f9f9f9;
   border: 2px solid #000;
@@ -168,3 +173,53 @@
 .select-choice button:hover .button-text {
   color: #fff;
  }
+
+ .button-switch-page {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+  width: 40%;
+}
+
+.vip-btn {
+  cursor: pointer;
+  font-weight: 700;
+  font-family: Helvetica, "sans-serif";
+  transition: all 0.2s;
+  padding: 10px 20px;
+  border-radius: 100px;
+  background: #cfef00;
+  border: 1px solid transparent;
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+}
+
+.vip-btn:hover {
+  background: #c4e201;
+}
+
+.vip-btn > svg {
+  width: 34px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.vip-btn.continue-btn:hover svg {
+  transform: translateX(5px);
+}
+
+.vip-btn.back-btn .back-icon {
+  transform: scaleX(-1);
+}
+
+.vip-btn.back-btn:hover .back-icon {
+  transform: translateX(-5px) scaleX(-1);
+}
+
+.vip-btn:active {
+  transform: scale(0.95);
+}
+
+.vip-btn span {
+  margin: 0px 10px;
+}

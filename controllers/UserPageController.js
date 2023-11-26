@@ -80,7 +80,7 @@ class UserPageController {
     }
 
     payTicket(req, res) {
-        console.log(req.body)
+        // console.log(req.body)
         var { ma_khach_hang, order_number } = req.body;
         var sql = `SELECT ma_ve, trang_thai, so_luong_nguoi_lon * gia_ve_nguoi_lon + so_luong_tre_em * gia_ve_tre_em as totalAmount
                     FROM orders
@@ -136,7 +136,7 @@ class UserPageController {
     }
 
     deleteTicket(req, res) {
-        console.log(req.body)
+        // console.log(req.body)
         var { ma_khach_hang, order_number } = req.body;
         var sql = `SELECT ma_ve, trang_thai, so_luong_nguoi_lon * gia_ve_nguoi_lon + so_luong_tre_em * gia_ve_tre_em as totalAmount
                     FROM orders
@@ -149,7 +149,7 @@ class UserPageController {
             })
             .then(result => {
                 var { ma_ve, trang_thai, totalAmount } = result;
-                console.log(result)
+                // console.log(result)
                 var q1 = `INSERT transactions(ma_khach_hang, order_number, loai_giao_dich, amount)
                             VALUES (${ma_khach_hang}, ${order_number}, 'return', ${totalAmount});`
 

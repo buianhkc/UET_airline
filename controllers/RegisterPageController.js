@@ -5,7 +5,7 @@ function addUserToDataBase(user) {
     VALUES (\'${user.name}\', \'${user.phonenumber}\', \'${user.address}\', \'${user.gender}\', \'${user.username}\', \'${user.password}\', \'${user.email}\');`
     db.execute(sql)
         .then(function(result) {
-            console.log(result);
+            // console.log(result);
             console.log("dang ky thanh cong");
         })
         .catch(err => {

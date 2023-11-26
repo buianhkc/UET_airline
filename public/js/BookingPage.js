@@ -10,71 +10,71 @@ var totalSeat = numOfAdult + numOfChildren;
 
 function initTicket() {
     // Lấy thông tin lọc từ URL
-var apiGetData = '/filter-ticket/getdata'
-    + "?airportDepart=" + encodeURIComponent(airportDepart)
-    + "&airportArrive=" + encodeURIComponent(airportArrive)
-    + "&dateDepartBegin=" + encodeURIComponent(dateDepartBegin)
-    + "&dateDepartEnd=" + encodeURIComponent(dateDepartEnd)
-    + "&totalSeat=" + encodeURIComponent(totalSeat);
+    var apiGetData = '/filter-ticket/getdata'
+        + "?airportDepart=" + encodeURIComponent(airportDepart)
+        + "&airportArrive=" + encodeURIComponent(airportArrive)
+        + "&dateDepartBegin=" + encodeURIComponent(dateDepartBegin)
+        + "&dateDepartEnd=" + encodeURIComponent(dateDepartEnd)
+        + "&totalSeat=" + encodeURIComponent(totalSeat);
 
-fetch(apiGetData)
-    .then((res) => {
-        return res.json();
-    })
-    .then((data) => {
-        console.log(data);
+    fetch(apiGetData)
+        .then((res) => {
+            return res.json();
+        })
+        .then((data) => {
+            console.log(data);
 
-        var panelContentE = document.querySelector('.panel-content');
-        // console.log(panelContentE);
-        
-        for (var i = 0; i < data.length;) {
-            var ticket1 = {};
-            var ticket2 = {};
-            if (data[i].loai_ve == 'pho_thong') {
-                ticket1 = data[i];
-                i++;
-            }
-            if (i < data.length && data[i].loai_ve == 'thuong_gia') {
-                ticket2 = data[i];
-                i++;
-            }
+            var panelContentE = document.querySelector('.panel-content');
+            // console.log(panelContentE);
 
-            // console.log(ticket1);
-            // console.log(ticket2);
+            for (var i = 0; i < data.length;) {
+                var ticket1 = {};
+                var ticket2 = {};
+                if (data[i].loai_ve == 'pho_thong') {
+                    ticket1 = data[i];
+                    i++;
+                }
+                if (i < data.length && data[i].loai_ve == 'thuong_gia') {
+                    ticket2 = data[i];
+                    i++;
+                }
 
-            var infoComonTicket = (ticket1.loai_ve) ? ticket1 : ticket2;
+                // console.log(ticket1);
+                // console.log(ticket2);
 
-            var date_depart = new Date(infoComonTicket.ngay_di);
+                var infoComonTicket = (ticket1.loai_ve) ? ticket1 : ticket2;
 
-            var day = date_depart.getDate();
-            var month = date_depart.getMonth() + 1; // Tháng bắt đầu từ 0
-            var year = date_depart.getFullYear();
-            var hours = date_depart.getHours();
-            var minutes = date_depart.getMinutes();
-            var seconds = date_depart.getSeconds();
+                var date_depart = new Date(infoComonTicket.ngay_di);
 
-            var formattedDateTimeDepart = `${day}/${month}/${year} ${hours}:${minutes}:${seconds}`;
+                var day = date_depart.getDate();
+                var month = date_depart.getMonth() + 1; // Tháng bắt đầu từ 0
+                var year = date_depart.getFullYear();
+                var hours = date_depart.getHours();
+                var minutes = date_depart.getMinutes();
+                var seconds = date_depart.getSeconds();
 
-            var date_arrive = new Date(infoComonTicket.ngay_den);
+                var formattedDateTimeDepart = `${day}/${month}/${year} ${hours}:${minutes}:${seconds}`;
 
-            day = date_arrive.getDate();
-            month = date_arrive.getMonth() + 1; // Tháng bắt đầu từ 0
-            year = date_arrive.getFullYear();
-            hours = date_arrive.getHours();
-            minutes = date_arrive.getMinutes();
-            seconds = date_arrive.getSeconds();
+                var date_arrive = new Date(infoComonTicket.ngay_den);
 
-            var formattedDateTimeArrive = `${day}/${month}/${year} ${hours}:${minutes}:${seconds}`;
+                day = date_arrive.getDate();
+                month = date_arrive.getMonth() + 1; // Tháng bắt đầu từ 0
+                year = date_arrive.getFullYear();
+                hours = date_arrive.getHours();
+                minutes = date_arrive.getMinutes();
+                seconds = date_arrive.getSeconds();
 
-            var time = infoComonTicket.gio_bay;
-            var timeArray = time.split(':');
+                var formattedDateTimeArrive = `${day}/${month}/${year} ${hours}:${minutes}:${seconds}`;
 
-            var hours = timeArray[0];
-            var minutes = timeArray[1];
+                var time = infoComonTicket.gio_bay;
+                var timeArray = time.split(':');
 
-            var formattedTime = `${hours} tiếng ${minutes} phút`;
+                var hours = timeArray[0];
+                var minutes = timeArray[1];
 
-            html = `<div class="ticket">
+                var formattedTime = `${hours} tiếng ${minutes} phút`;
+
+                html = `<div class="ticket">
             <div class="part-left">
             <div class="flight-offer-details">
                 <div class="route-date-time">
@@ -114,8 +114,8 @@ fetch(apiGetData)
             </div>
             <div class="part-right"> `;
 
-            html += (Object.keys(ticket1).length > 0)
-                ? `<div class="price-content-wrapper">
+                html += (Object.keys(ticket1).length > 0)
+                    ? `<div class="price-content-wrapper">
                     <button class="buy-ticket-btn economy ${ticket1.ma_ve}" onclick="buyTicket(this)">
                         <div class="ticket-adult">
                         <label style="font-size: 15px;">Người lớn</label>
@@ -133,8 +133,8 @@ fetch(apiGetData)
                     </button>
                 </div>` : ``;
 
-            html += (Object.keys(ticket2).length > 0)
-                ? `<div class="price-content-wrapper">
+                html += (Object.keys(ticket2).length > 0)
+                    ? `<div class="price-content-wrapper">
                     <button class="buy-ticket-btn business ${ticket2.ma_ve}" onclick="buyTicket(this)">
                         <div class="ticket-adult">
                         <label style="font-size: 15px;">Người lớn</label>
@@ -151,15 +151,15 @@ fetch(apiGetData)
                         </div>
                     </button>
                 </div>`
-                : ``;
+                    : ``;
 
-            html += `</div>
+                html += `</div>
             </div>` ;
 
-            panelContentE.innerHTML += html;
-        }
-        return true;
-    })
+                panelContentE.innerHTML += html;
+            }
+            return true;
+        })
 }
 
 initTicket();
@@ -214,7 +214,7 @@ function buyTicket(element) {
             so_luong_tre_em: numOfChildren,
             trang_thai: 'unpaid'
         };
-    
+
         // Tạo một yêu cầu fetch với phương thức POST
         fetch('/booking-page/book-ticket', {
             method: 'POST',
@@ -223,17 +223,18 @@ function buyTicket(element) {
             },
             body: JSON.stringify(data),
         })
-        .then(response => response.json())
-        .then(data => {
-            alert("Đặt vé thành công \nVào trang cá nhân để thanh toán");
-            console.log('Success:', data);
-            // Xử lý kết quả thành công nếu cần
-        })
-        .catch((error) => {
-            console.error('Error:', error);
-            // Xử lý lỗi nếu cần
-            alert("Có lỗi");
-        });
+            .then(response => response.json())
+            .then(data => {
+                alert("Đặt vé thành công \nBạn sẽ được chuyển hướng đến trang điền thông tin hành khách");
+                console.log('Success:', data);
+                // Xử lý kết quả thành công nếu cần
+                goToInfoPassenger();
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+                // Xử lý lỗi nếu cần
+                alert("Có lỗi");
+            });
 
     } else {
         alert("Bạn đã hủy đặt vé");
@@ -241,27 +242,46 @@ function buyTicket(element) {
 }
 
 function goToFilterTicket() {
-    var ItemTitleTravelE = document.querySelector('.indicator-item-title.travel');
-    var ItemTitleHumanE = document.querySelector('.indicator-item-title.travel');
-    // Lấy thông tin từ form
-    var airportDepart = ItemTitleTravelE.classList[0];
-    var airportArrive = ItemTitleTravelE.classList[1];
-    var dateDepartBegin = "";
-    var dateDepartEnd = "";
-    var numOfChildren = parseInt(ItemTitleHumanE.classList[0]);
-    var numOfAdult = parseInt(ItemTitleHumanE.classList[1]);
-
     // Tạo URL với tham số truyền đi
-    var url = "/filter-ticket" 
-              + "?airportDepart=" + encodeURIComponent(airportDepart)
-              + "&airportArrive=" + encodeURIComponent(airportArrive)
-              + "&dateDepartBegin=" + encodeURIComponent(dateDepartBegin)
-              + "&dateDepartEnd=" + encodeURIComponent(dateDepartEnd)
-              + "&numOfChildren=" + encodeURIComponent(numOfChildren)
-              + "&numOfAdult=" + encodeURIComponent(numOfAdult);
+    var url = "/filter-ticket"
+        + "?airportDepart=" + encodeURIComponent(airportDepart)
+        + "&airportArrive=" + encodeURIComponent(airportArrive)
+        + "&dateDepartBegin=" + encodeURIComponent(dateDepartBegin)
+        + "&dateDepartEnd=" + encodeURIComponent(dateDepartEnd)
+        + "&numOfChildren=" + encodeURIComponent(numOfChildren)
+        + "&numOfAdult=" + encodeURIComponent(numOfAdult);
 
     // Chuyển hướng đến trang hiển thị vé với tham số
     window.location.href = url;
+}
+
+function goToInfoPassenger() {
+    var data = {
+        ma_khach_hang: document.querySelector(".linkToUser").classList[2],
+    };
+    // Tạo một yêu cầu fetch với phương thức POST
+    fetch('/booking-page/getOrderNumber', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+    })
+        .then(response => response.json())
+        .then(data => {
+            var {order_number} = data; 
+            // Tạo URL với tham số truyền đi
+            var url = "/info-passenger"
+                + "?order_number=" + encodeURIComponent(order_number);
+
+            // Chuyển hướng đến trang hiển thị vé với tham số
+            window.location.href = url;
+        })
+        .catch((error) => {
+            console.error('Error:', error);
+            // Xử lý lỗi nếu cần
+            alert("Có lỗi");
+        });
 }
 
 
