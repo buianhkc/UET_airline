@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <%- include('../partials/head') %>
+
+    <link rel="stylesheet" href="/public/css/header_home_page.css" />
+    <link rel="stylesheet" href="/public/css/footer.css" />
+    <link rel="stylesheet" href="/public/css/seat_order.css" />
+  </head>
+  <body>
+    <!-- Header -->
+    <%- include('../partials/header') %>
+
+    <h1 style="text-align: center; margin: 30px 0">
+      Chọn ghế ngồi cho chuyến bay của bạn
+    </h1>
+
+    <!--Container-->
+    <div id="container">
+      <div class="seat-container">
+        <div class="row-seat-name-colomn-seat">
+          <div class="name-colomn">A</div>
+          <div class="name-colomn">B</div>
+          <div class="name-colomn">C</div>
+          <div class="blank-space"></div>
+          <div class="name-colomn">D</div>
+          <div class="name-colomn">E</div>
+          <div class="name-colomn">F</div>
+        </div>
+
+        <div class="business-class">
+          <div class="row-seat">
+            <div class="seat seat-bussiness">1A</div>
+            <div class="seat seat-bussiness">1B</div>
+            <div class="seat seat-bussiness">1C</div>
+            <div class="row-seat-number">1</div>
+            <div class="seat seat-bussiness">1D</div>
+            <div class="seat seat-bussiness">1E</div>
+            <div class="seat seat-bussiness">1F</div>
+          </div>
+
+          <div class="row-seat">
+            <div class="seat seat-bussiness"></div>
+            <div class="seat seat-bussiness"></div>
+            <div class="seat seat-bussiness"></div>
+            <div class="row-seat-number">2</div>
+            <div class="seat seat-bussiness occupied"></div>
+            <div class="seat seat-bussiness occupied"></div>
+            <div class="seat seat-bussiness"></div>
+          </div>
+        </div>
+
+        <div class="door">
+          <img
+            class="icon-door"
+            src="/public/img/seatorder/sign-out.png"
+            style="transform: scaleX(-1); /* Lật theo chiều ngang */"
+          />
+          <img class="icon-door" src="/public/img/seatorder/sign-out.png" />
+        </div>
+
+        <div class="economy-class">
+          <div class="row-seat">
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="row-seat-number">3</div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+          </div>
+
+          <div class="row-seat">
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="row-seat-number">4</div>
+            <div class="seat seat-economy occupied"></div>
+            <div class="seat seat-economy occupied"></div>
+            <div class="seat seat-economy"></div>
+          </div>
+
+          <div class="row-seat">
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="row-seat-number">4</div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+          </div>
+
+          <div class="row-seat">
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="row-seat-number">6</div>
+            <div class="seat seat-economy occupied"></div>
+            <div class="seat seat-economy occupied"></div>
+            <div class="seat seat-economy"></div>
+          </div>
+
+          <div class="row-seat">
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="row-seat-number">7</div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+          </div>
+
+          <div class="row-seat">
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="seat seat-economy"></div>
+            <div class="row-seat-number">8</div>
+            <div class="seat seat-economy occupied"></div>
+            <div class="seat seat-economy occupied"></div>
+            <div class="seat seat-economy"></div>
+          </div>
+        </div>
+
+        <div class="door">
+          <img
+            class="icon-door"
+            src="/public/img/seatorder/sign-out.png"
+            style="transform: scaleX(-1); /* Lật theo chiều ngang */"
+          />
+          <img class="icon-door" src="/public/img/seatorder/sign-out.png" />
+        </div>
+      </div>
+      <div class="note-container">
+        <ul class="showcase">
+          <li>
+            <div class="seat seat-bussiness"></div>
+            <small>Ghế thương gia còn trống</small>
+          </li>
+
+          <li>
+            <div class="seat seat-economy"></div>
+            <small>Ghế phổ thông còn trống</small>
+          </li>
+
+          <li>
+            <div class="seat selected"></div>
+            <small>Ghế bạn chọn</small>
+          </li>
+          <li>
+            <div class="seat occupied"></div>
+            <small>Ghế đã được đặt</small>
+          </li>
+        </ul>
+
+        <div class="info-flight">
+            <p style="font-size: 30px;">Chuyến bay từ Hà Nội đến HCM</p>
+            <p style="font-size: 20px;">Hạng ghế phổ thông</p>
+            <p>Giá vé dành cho người lớn : 23764987 VND</p>
+            <p>Số lượng người lớn : 1</p>
+            <p>Giá vé dành cho trẻ em : 3745099 VND</p>
+            <p>Số lượng trẻ em : 1</p>
+            <p style="font-size: 20px;">Tổng tiền : 304785904 VND</p>
+        </div>
+
+        <div class="number-of-select">
+            <p>Bạn còn 2 lần chọn ghế</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="button-switch-page">
+      <button class="vip-btn back-btn">
+        <svg
+          class="back-icon"
+          width="34"
+          height="34"
+          viewBox="0 0 74 74"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="37"
+            cy="37"
+            r="35.5"
+            stroke="black"
+            stroke-width="3"
+          ></circle>
+          <path
+            d="M25 35.5C24.1716 35.5 23.5 36.1716 23.5 37C23.5 37.8284 24.1716 38.5 25 38.5V35.5ZM49.0607 38.0607C49.6464 37.4749 49.6464 36.5251 49.0607 35.9393L39.5147 26.3934C38.9289 25.8076 37.9792 25.8076 37.3934 26.3934C36.8076 26.9792 36.8076 27.9289 37.3934 28.5147L45.8787 37L37.3934 45.4853C36.8076 46.0711 36.8076 47.0208 37.3934 47.6066C37.9792 48.1924 38.9289 48.1924 39.5147 47.6066L49.0607 38.0607ZM25 38.5L48 38.5V35.5L25 35.5V38.5Z"
+            fill="black"
+          ></path>
+        </svg>
+        <span>Back</span>
+      </button>
+
+      <button class="vip-btn continue-btn">
+        <span>Continue</span>
+        <svg
+          width="34"
+          height="34"
+          viewBox="0 0 74 74"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="37"
+            cy="37"
+            r="35.5"
+            stroke="black"
+            stroke-width="3"
+          ></circle>
+          <path
+            d="M25 35.5C24.1716 35.5 23.5 36.1716 23.5 37C23.5 37.8284 24.1716 38.5 25 38.5V35.5ZM49.0607 38.0607C49.6464 37.4749 49.6464 36.5251 49.0607 35.9393L39.5147 26.3934C38.9289 25.8076 37.9792 25.8076 37.3934 26.3934C36.8076 26.9792 36.8076 27.9289 37.3934 28.5147L45.8787 37L37.3934 45.4853C36.8076 46.0711 36.8076 47.0208 37.3934 47.6066C37.9792 48.1924 38.9289 48.1924 39.5147 47.6066L49.0607 38.0607ZM25 38.5L48 38.5V35.5L25 35.5V38.5Z"
+            fill="black"
+          ></path>
+        </svg>
+      </button>
+    </div>
+
+    <script src="/public/js/SeatOrder.js"></script>
+
+    <%- include('../partials/footer') %>
+  </body>
+</html>

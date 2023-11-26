@@ -10,7 +10,7 @@ class FilterTicketController {
     index(req, res) {
         if (req.session.isLoggedIn) {
             var query = req.query;
-            console.log(req.query);
+            // console.log(req.query);
             res.render('./pages/filter-ticket', { isLoggedIn: req.session.isLoggedIn, user: req.session.user, query });
         } else {
             res.redirect('/login');
@@ -62,7 +62,7 @@ class FilterTicketController {
             + qDenNgay
             + `ORDER BY DATE(ngay_di) ASC, ma_ve ASC, loai_ve ASC`
 
-        console.log(sql);
+        // console.log(sql);
         
         db.execute(sql)
             .then((result) => {
