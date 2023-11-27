@@ -2,6 +2,49 @@ var urlParams = new URLSearchParams(window.location.search);
 
 var order_number = urlParams.get('order_number');
 
+// Kiểm tra nếu người dùng đang ở trang điền thông tin
+if (window.location.pathname === '/info-passenger') {
+
+    window.removeEventListener('beforeunload', handleUnload());
+
+    window.addEventListener('beforeunload', handleUnload());
+}
+
+function handleUnload() {
+    // Thực hiện các hành động kiểm tra trước khi người dùng rời khỏi trang
+
+    var destinationURL = window.location.href;
+
+    // Kiểm tra xem người dùng đang chuyển đến trang nào
+    if (!(destinationURL.includes('/info-passenger') || destinationURL.includes('/seat-order'))) {
+        var confirmation = window.confirm("Xác nhận hủy đặt chuyến bay!!!");
+        if (confirmation) {
+            deleteUserDataFromDatabase();
+        }
+    }
+
+    // Không cần thiết hiện bất kỳ hành động nào nếu người dùng chuyển đến các trang khác
+}
+
+function deleteUserDataFromDatabase() {
+    var data = {
+        order_number: order_number
+    };
+
+    // Tạo một yêu cầu fetch với phương thức POST
+    fetch('/info-passenger/cancelOrder', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+    })
+        .then(response => response.json())
+        .catch(err => {
+            console.log(err);
+        })
+}
+
 var quantity = [];
 // var oj = quantity[0];
 function getQuantityPersonOrder() {
@@ -30,6 +73,7 @@ function getQuantityPersonOrder() {
 getQuantityPersonOrder();
 
 function backToBookingPage() {
+    window.removeEventListener('beforeunload', handleUnload());
 
     var data = {
         order_number: order_number
@@ -48,7 +92,7 @@ function backToBookingPage() {
             var body = {
                 order_number: order_number
             };
-            fetch('/info-passenger/backToBookingPage', {
+            fetch('/info-passenger/cancelOrder', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -58,6 +102,7 @@ function backToBookingPage() {
             return result;
         })
         .then(data => {
+
             var { ma_diem_di, ma_diem_den, so_luong_nguoi_lon, so_luong_tre_em } = data;
 
             // Tạo URL với tham số truyền đi
@@ -78,6 +123,8 @@ function backToBookingPage() {
 }
 
 function goToSeatOrder() {
+    window.removeEventListener('beforeunload', handleUnload());
+
     var data = {
         ma_khach_hang: document.querySelector(".linkToUser").classList[2],
     };
@@ -107,5 +154,5 @@ function goToSeatOrder() {
 }
 
 function initFormSubmitInfo() {
-   
+
 }
