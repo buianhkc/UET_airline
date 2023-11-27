@@ -94,27 +94,27 @@ CREATE TABLE passengers (
 );
 
 ALTER TABLE transactions
-	ADD CONSTRAINT fk_transactions_customers FOREIGN KEY (ma_khach_hang) REFERENCES customers(ma_khach_hang) ON UPDATE CASCADE ON DELETE RESTRICT;
+	ADD CONSTRAINT fk_transactions_customers FOREIGN KEY (ma_khach_hang) REFERENCES customers(ma_khach_hang) ON UPDATE CASCADE ON DELETE CASCADE;
     
 ALTER TABLE orders
-	ADD CONSTRAINT fk_orders_customers FOREIGN KEY (ma_khach_hang) REFERENCES customers(ma_khach_hang) ON UPDATE CASCADE ON DELETE RESTRICT;
+	ADD CONSTRAINT fk_orders_customers FOREIGN KEY (ma_khach_hang) REFERENCES customers(ma_khach_hang) ON UPDATE CASCADE ON DELETE CASCADE;
 ALTER TABLE orders
-	ADD CONSTRAINT fk_orders_tickets FOREIGN KEY (ma_ve) REFERENCES tickets(ma_ve) ON UPDATE CASCADE ON DELETE RESTRICT;
+	ADD CONSTRAINT fk_orders_tickets FOREIGN KEY (ma_ve) REFERENCES tickets(ma_ve) ON UPDATE CASCADE ON DELETE CASCADE;
     
 ALTER TABLE tickets
-	ADD CONSTRAINT fk_tickets_flights FOREIGN KEY (ma_chuyen_bay) REFERENCES flights(ma_chuyen_bay) ON UPDATE CASCADE ON DELETE RESTRICT;
+	ADD CONSTRAINT fk_tickets_flights FOREIGN KEY (ma_chuyen_bay) REFERENCES flights(ma_chuyen_bay) ON UPDATE CASCADE ON DELETE CASCADE;
     
 ALTER TABLE flights
-	ADD CONSTRAINT fk_flights_planes FOREIGN KEY (ma_may_bay) REFERENCES planes(ma_may_bay) ON UPDATE CASCADE ON DELETE RESTRICT;
+	ADD CONSTRAINT fk_flights_planes FOREIGN KEY (ma_may_bay) REFERENCES planes(ma_may_bay) ON UPDATE CASCADE ON DELETE CASCADE;
     
 ALTER TABLE passengers
-    ADD CONSTRAINT fk_passengers_orders FOREIGN KEY (order_number) REFERENCES orders(order_number) ON UPDATE CASCADE ON DELETE RESTRICT;
+    ADD CONSTRAINT fk_passengers_orders FOREIGN KEY (order_number) REFERENCES orders(order_number) ON UPDATE CASCADE ON DELETE CASCADE;
     
 ALTER TABLE order_seats
-    ADD CONSTRAINT fk_seat_orders FOREIGN KEY (order_number) REFERENCES orders(order_number) ON UPDATE CASCADE ON DELETE RESTRICT;
+    ADD CONSTRAINT fk_seat_orders FOREIGN KEY (order_number) REFERENCES orders(order_number) ON UPDATE CASCADE ON DELETE CASCADE;
     
 ALTER TABLE seat_details
-    ADD CONSTRAINT fk_seatdetail_flight FOREIGN KEY (ma_chuyen_bay) REFERENCES flights(ma_chuyen_bay) ON UPDATE CASCADE ON DELETE RESTRICT;
+    ADD CONSTRAINT fk_seatdetail_flight FOREIGN KEY (ma_chuyen_bay) REFERENCES flights(ma_chuyen_bay) ON UPDATE CASCADE ON DELETE CASCADE;
     
 SET FOREIGN_KEY_CHECKS = 0;
 SET SQL_SAFE_UPDATES = 0;
