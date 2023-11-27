@@ -5,30 +5,30 @@ const order_number = urlParams.get('order_number');
 const container = document.querySelector('.seat-container');
 const seats = document.querySelectorAll('.row .seat:not(.occupied)');
 
-populateUI();
+// populateUI();
 
-// Get data from localstorage and populate UI
-function populateUI() {
-  const selectedSeats = JSON.parse(localStorage.getItem('selectedSeats'));
+// // Get data from localstorage and populate UI
+// function populateUI() {
+//   const selectedSeats = JSON.parse(localStorage.getItem('selectedSeats'));
 
-  if (selectedSeats !== null && selectedSeats.length > 0) {
-    seats.forEach((seat, index) => {
-      if (selectedSeats.indexOf(index) > -1) {
-        seat.classList.add('selected');
-      }
-    });
-  }
-}
+//   if (selectedSeats !== null && selectedSeats.length > 0) {
+//     seats.forEach((seat, index) => {
+//       if (selectedSeats.indexOf(index) > -1) {
+//         seat.classList.add('selected');
+//       }
+//     });
+//   }
+// }
 
-// Seat click event
-container.addEventListener('click', e => {
-  if (
-    e.target.classList.contains('seat') &&
-    !e.target.classList.contains('occupied')
-  ) {
-    e.target.classList.toggle('selected');
-  }
-});
+// // Seat click event
+// container.addEventListener('click', e => {
+//   if (
+//     e.target.classList.contains('seat') &&
+//     !e.target.classList.contains('occupied')
+//   ) {
+//     e.target.classList.toggle('selected');
+//   }
+// });
 
 
 var Orderdetails = [];
@@ -111,6 +111,8 @@ function initFlightDetails() {
                           <p>Số lượng trẻ em : ${Orderdetails[0].so_luong_tre_em}</p>
                           <p style="font-size: 20px; font-weight: bold;">Tổng tiền : ${new Intl.NumberFormat(["ban", "id"]).format(Orderdetails[0].totalAmount)} VND</p>
                         </div>`
+
+  // infoFlightE.classList.add((Orderdetails[0].loai_ve == 'thuong_gia') ? 'flight-bussiness' : '');
 }
 
 function setNumberSeatSelection() {
@@ -159,25 +161,31 @@ function initSeat() {
   var html2 = ``;
   for (var i = 0; i < so_ghe_thuong_gia[0] / 6; ++i) {
     html1 += `<div class="row-seat">
-                  <div class="${i * 6 + 1} seat seat-bussiness ${(seatList[i * 6 + 0].trang_thai == 'filled') ? 'occupied' : ''}">${i + 1}A</div>
-                  <div class="${i * 6 + 2} seat seat-bussiness ${(seatList[i * 6 + 1].trang_thai == 'filled') ? 'occupied' : ''}">${i + 1}B</div>
-                  <div class="${i * 6 + 3} seat seat-bussiness ${(seatList[i * 6 + 2].trang_thai == 'filled') ? 'occupied' : ''}">${i + 1}C</div>
+                  <div class="${i * 6 + 1} seat seat-bussiness ${(seatList[i * 6 + 0].trang_thai == 'filled') ? 'occupied' : ''}" onclick="${(seatList[i * 6 + 0].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${i + 1}A</div>
+                  <div class="${i * 6 + 2} seat seat-bussiness ${(seatList[i * 6 + 1].trang_thai == 'filled') ? 'occupied' : ''}" onclick="${(seatList[i * 6 + 1].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${i + 1}B</div>
+                  <div class="${i * 6 + 3} seat seat-bussiness ${(seatList[i * 6 + 2].trang_thai == 'filled') ? 'occupied' : ''}" onclick="${(seatList[i * 6 + 2].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${i + 1}C</div>
                   <div class="row-seat-number">${i + 1}</div>
-                  <div class="${i * 6 + 4} seat seat-bussiness ${(seatList[i * 6 + 3].trang_thai == 'filled') ? 'occupied' : ''}">${i + 1}D</div>
-                  <div class="${i * 6 + 5} seat seat-bussiness ${(seatList[i * 6 + 4].trang_thai == 'filled') ? 'occupied' : ''}">${i + 1}E</div>
-                  <div class="${i * 6 + 6} seat seat-bussiness ${(seatList[i * 6 + 5].trang_thai == 'filled') ? 'occupied' : ''}">${i + 1}F</div>
+                  <div class="${i * 6 + 4} seat seat-bussiness ${(seatList[i * 6 + 3].trang_thai == 'filled') ? 'occupied' : ''}" onclick="${(seatList[i * 6 + 3].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${i + 1}D</div>
+                  <div class="${i * 6 + 5} seat seat-bussiness ${(seatList[i * 6 + 4].trang_thai == 'filled') ? 'occupied' : ''}" onclick="${(seatList[i * 6 + 4].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${i + 1}E</div>
+                  <div class="${i * 6 + 6} seat seat-bussiness ${(seatList[i * 6 + 5].trang_thai == 'filled') ? 'occupied' : ''}" onclick="${(seatList[i * 6 + 5].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${i + 1}F</div>
                 </div>`;
   }
 
   for (var i = 0; i < so_ghe_pho_thong[0] / 6; ++i) {
     html2 += `<div class="row-seat">
-                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 1} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 0].trang_thai == 'filled') ? 'occupied' : ''}">${so_ghe_thuong_gia[0] / 6 + i + 1}A</div>
-                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 2} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 1].trang_thai == 'filled') ? 'occupied' : ''}">${so_ghe_thuong_gia[0] / 6 + i + 1}B</div>
-                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 3} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 2].trang_thai == 'filled') ? 'occupied' : ''}">${so_ghe_thuong_gia[0] / 6 + i + 1}C</div>
+                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 1} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 0].trang_thai == 'filled') ? 'occupied' : ''}"
+                  onclick="${(seatList[so_ghe_thuong_gia[0] + i * 6 + 0].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${so_ghe_thuong_gia[0] / 6 + i + 1}A</div>
+                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 2} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 1].trang_thai == 'filled') ? 'occupied' : ''}"
+                  onclick="${(seatList[so_ghe_thuong_gia[0] + i * 6 + 1].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${so_ghe_thuong_gia[0] / 6 + i + 1}B</div>
+                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 3} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 2].trang_thai == 'filled') ? 'occupied' : ''}"
+                  onclick="${(seatList[so_ghe_thuong_gia[0] + i * 6 + 2].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${so_ghe_thuong_gia[0] / 6 + i + 1}C</div>
                   <div class="row-seat-number">${so_ghe_thuong_gia[0] / 6 + i + 1}</div>
-                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 4} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 3].trang_thai == 'filled') ? 'occupied' : ''}">${so_ghe_thuong_gia[0] / 6 + i + 1}D</div>
-                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 5} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 4].trang_thai == 'filled') ? 'occupied' : ''}">${so_ghe_thuong_gia[0] / 6 + i + 1}E</div>
-                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 6} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 5].trang_thai == 'filled') ? 'occupied' : ''}">${so_ghe_thuong_gia[0] / 6 + i + 1}F</div>
+                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 4} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 3].trang_thai == 'filled') ? 'occupied' : ''}"
+                  onclick="${(seatList[so_ghe_thuong_gia[0] + i * 6 + 3].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${so_ghe_thuong_gia[0] / 6 + i + 1}D</div>
+                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 5} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 4].trang_thai == 'filled') ? 'occupied' : ''}"
+                  onclick="${(seatList[so_ghe_thuong_gia[0] + i * 6 + 4].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${so_ghe_thuong_gia[0] / 6 + i + 1}E</div>
+                  <div class="${so_ghe_thuong_gia[0] + i * 6 + 6} seat seat-economy ${(seatList[so_ghe_thuong_gia[0] + i * 6 + 5].trang_thai == 'filled') ? 'occupied' : ''}"
+                  onclick="${(seatList[so_ghe_thuong_gia[0] + i * 6 + 5].trang_thai == 'filled') ? '#' : 'addSeat(this)'}" >${so_ghe_thuong_gia[0] / 6 + i + 1}F</div>
                 </div>`;
   }
 
@@ -187,3 +195,86 @@ function initSeat() {
 }
 
 getOrderDetails();
+
+function backToInfoPassenger() {
+  // Tạo URL với tham số truyền đi
+  var url = "/info-passenger"
+    + "?order_number=" + encodeURIComponent(order_number)
+
+  // Chuyển hướng đến trang hiển thị vé với tham số
+  window.location.href = url;
+}
+
+var listSelectedSeat = []
+
+function addSeat(element) {
+  if (element.classList.contains('selected')) {
+    // Xóa phần tử có giá trị cụ thể
+    var valueToRemove = element.classList[0];
+    listSelectedSeat = listSelectedSeat.filter(function (item) {
+      return item !== valueToRemove;
+    });
+
+    ++currentNumberSelection[0];
+  } else {
+    var typeSeat = (currentLoaiVe == 'pho_thong') ? 'seat-economy' : 'seat-bussiness';
+
+    if (!element.classList.contains(typeSeat)) {
+      alert('Vui lòng chọn đúng hạng ghế của mình!!!');
+      return;
+    }
+
+    if (currentNumberSelection[0] == 0) {
+      alert('Bạn đã hết lượt chọn ghế.\nVui lòng hủy ghế trước đó.');
+      return;
+    }
+    listSelectedSeat.push(element.classList[0]);
+    --currentNumberSelection[0];
+  }
+
+  setNumberSeatSelection();
+
+  console.log(listSelectedSeat);
+  element.classList.toggle('selected');
+}
+
+function addSeatOrder() {
+
+  if (currentNumberSelection > 0) {
+    alert('Vui lòng chọn ghế!!!');
+    return;
+  }
+
+  var confirmation = window.confirm("Xác nhận để hoàn tất thông tin chuyến bay của bạn.\nBạn sẽ được chuyển đến trang cá nhân để thanh toán.");
+  if (confirmation) {
+    var data = [];
+    for (var i = 0; i < listSelectedSeat.length; ++i) {
+      var seat = {
+        order_number: parseInt(order_number),
+        ma_chuyen_bay: currentMaChuyenBay[0],
+        ma_ghe: parseInt(listSelectedSeat[i])
+      }
+      data.push(seat);
+    }
+
+    // Tạo một yêu cầu fetch với phương thức POST
+    fetch('/seat-order/addSeatOrder', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(data),
+    })
+      .then(response => response.json())
+      .then(data => {
+        console.log('thêm ghế thành công')
+      })
+      .then(() => {
+        var url = "/user-page"
+          // + "?order_number=" + encodeURIComponent(order_number)
+
+        // Chuyển hướng đến trang hiển thị vé với tham số
+        window.location.href = url;
+      })
+  }
+}
