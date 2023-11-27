@@ -1,600 +1,600 @@
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (1, 'Đỗ Hữu Z', '092543637', 'Bạc Liêu', '4963296', 'Nữ', '1983-06-07', 'Đ1', 'abc123', 'Đỗ_Hữu_Z@gmail.com');
+VALUES (1, 'Trần Phong S', '099282374', 'Nam Định', '3400028', 'Nữ', '1968-07-22', 'T1', 'abc123', 'Trần_Phong_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (2, 'Phạm Văn B', '09617707', 'Đắk Nông', '9754932', 'Nữ', '1972-11-23', 'P2', 'abc123', 'Phạm_Văn_B@gmail.com');
+VALUES (2, 'Ngô Văn V', '093110231', 'Thanh Hóa', '2561500', 'Nữ', '1956-03-23', 'N2', 'abc123', 'Ngô_Văn_V@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (3, 'Võ Ngọc R', '092419789', 'Tây Ninh', '8813230', 'Nữ', '1977-06-13', 'V3', 'abc123', 'Võ_Ngọc_R@gmail.com');
+VALUES (3, 'Hồ Đăng X', '096885119', 'Điện Biên', '8359288', 'Nam', '1975-10-03', 'H3', 'abc123', 'Hồ_Đăng_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (4, 'Hoàng Quốc A', '096406531', 'Cà Mau', '7377801', 'Nam', '2003-04-04', 'H4', 'abc123', 'Hoàng_Quốc_A@gmail.com');
+VALUES (4, 'Hoàng Phúc M', '096960184', 'Hậu Giang', '1982134', 'Nam', '2001-05-25', 'H4', 'abc123', 'Hoàng_Phúc_M@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (5, 'Hoàng Quốc U', '098126224', 'Khánh Hòa', '5139848', 'Nữ', '1987-11-22', 'H5', 'abc123', 'Hoàng_Quốc_U@gmail.com');
+VALUES (5, 'Đỗ Phong T', '097312835', 'Bắc Kạn', '5440356', 'Nữ', '1998-08-04', 'Đ5', 'abc123', 'Đỗ_Phong_T@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (6, 'Hoàng Phong Y', '092557300', 'Cà Mau', '8904494', 'Nam', '1984-07-04', 'H6', 'abc123', 'Hoàng_Phong_Y@gmail.com');
+VALUES (6, 'Ngô Đăng Y', '098809982', 'Hà Nam', '7154751', 'Nam', '1986-09-14', 'N6', 'abc123', 'Ngô_Đăng_Y@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (7, 'Võ Hữu Z', '095879852', 'Thừa Thiên Huế', '6899675', 'Nam', '2000-01-29', 'V7', 'abc123', 'Võ_Hữu_Z@gmail.com');
+VALUES (7, 'Lý Ngọc X', '097403993', 'Đắk Nông', '8511969', 'Nam', '1972-09-13', 'L7', 'abc123', 'Lý_Ngọc_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (8, 'Lý Văn O', '094075223', 'Long An', '2915448', 'Nam', '1960-06-10', 'L8', 'abc123', 'Lý_Văn_O@gmail.com');
+VALUES (8, 'Phạm Quốc N', '095179427', 'Nghệ An', '3996518', 'Nam', '1978-06-18', 'P8', 'abc123', 'Phạm_Quốc_N@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (9, 'Phạm Ngọc E', '091051224', 'Phú Yên', '4605327', 'Nữ', '1983-06-03', 'P9', 'abc123', 'Phạm_Ngọc_E@gmail.com');
+VALUES (9, 'Ngô Đăng A', '095938639', 'Cần Thơ', '6899260', 'Nam', '1969-08-08', 'N9', 'abc123', 'Ngô_Đăng_A@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (10, 'Phan Phong U', '096273563', 'Quảng Nam', '8067913', 'Nữ', '1991-05-22', 'P10', 'abc123', 'Phan_Phong_U@gmail.com');
+VALUES (10, 'Đặng Văn G', '094863480', 'Quảng Trị', '7590671', 'Nữ', '1968-01-31', 'Đ10', 'abc123', 'Đặng_Văn_G@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (11, 'Lý Phúc V', '094751243', 'Hà Nội', '9012185', 'Nữ', '1956-02-10', 'L11', 'abc123', 'Lý_Phúc_V@gmail.com');
+VALUES (11, 'Hồ Đăng S', '09121047', 'Gia Lai', '6241010', 'Nữ', '1975-01-03', 'H11', 'abc123', 'Hồ_Đăng_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (12, 'Hoàng Ngọc T', '095059738', 'Quảng Ngãi', '1434600', 'Nữ', '1987-10-12', 'H12', 'abc123', 'Hoàng_Ngọc_T@gmail.com');
+VALUES (12, 'Phạm Phúc L', '098025392', 'Sóc Trăng', '8006626', 'Nữ', '1979-08-02', 'P12', 'abc123', 'Phạm_Phúc_L@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (13, 'Lê Ngọc P', '091556653', 'Thanh Hóa', '5622696', 'Nam', '1991-04-24', 'L13', 'abc123', 'Lê_Ngọc_P@gmail.com');
+VALUES (13, 'Võ Phong J', '094487088', 'Vĩnh Phúc', '6951220', 'Nam', '1998-10-02', 'V13', 'abc123', 'Võ_Phong_J@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (14, 'Hoàng Hữu Z', '098497676', 'Đắk Lắk', '4551830', 'Nữ', '1985-05-31', 'H14', 'abc123', 'Hoàng_Hữu_Z@gmail.com');
+VALUES (14, 'Huỳnh Phong X', '095472886', 'Lai Châu', '8233215', 'Nam', '1994-11-24', 'H14', 'abc123', 'Huỳnh_Phong_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (15, 'Phan Quốc V', '098124362', 'Ninh Bình', '8243732', 'Nữ', '1960-05-20', 'P15', 'abc123', 'Phan_Quốc_V@gmail.com');
+VALUES (15, 'Phan Quốc Z', '091583531', 'Bình Thuận', '3797241', 'Nam', '1980-01-19', 'P15', 'abc123', 'Phan_Quốc_Z@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (16, 'Đỗ Ngọc C', '094479486', 'Thừa Thiên Huế', '9573756', 'Nữ', '1974-02-14', 'Đ16', 'abc123', 'Đỗ_Ngọc_C@gmail.com');
+VALUES (16, 'Huỳnh Quốc E', '094696038', 'Hà Nội', '9421881', 'Nam', '1993-11-05', 'H16', 'abc123', 'Huỳnh_Quốc_E@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (17, 'Đỗ Phong W', '095501299', 'Ninh Bình', '8295292', 'Nữ', '1990-05-01', 'Đ17', 'abc123', 'Đỗ_Phong_W@gmail.com');
+VALUES (17, 'Đặng Phúc P', '092995022', 'Đắk Lắk', '4491523', 'Nam', '1981-06-01', 'Đ17', 'abc123', 'Đặng_Phúc_P@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (18, 'Lê Phúc F', '099427424', 'Đồng Tháp', '6923317', 'Nam', '2003-04-23', 'L18', 'abc123', 'Lê_Phúc_F@gmail.com');
+VALUES (18, 'Võ Hữu T', '099255322', 'Bình Định', '6302687', 'Nam', '1965-10-23', 'V18', 'abc123', 'Võ_Hữu_T@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (19, 'Trần Đăng B', '097555649', 'Hưng Yên', '7594261', 'Nam', '1968-04-20', 'T19', 'abc123', 'Trần_Đăng_B@gmail.com');
+VALUES (19, 'Lê Văn D', '092585511', 'Kiên Giang', '8641255', 'Nam', '1997-02-22', 'L19', 'abc123', 'Lê_Văn_D@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (20, 'Phạm Văn Z', '094597487', 'Cao Bằng', '1387269', 'Nữ', '1989-07-29', 'P20', 'abc123', 'Phạm_Văn_Z@gmail.com');
+VALUES (20, 'Lý Phong Q', '097180504', 'Quảng Bình', '7364517', 'Nữ', '1957-07-23', 'L20', 'abc123', 'Lý_Phong_Q@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (21, 'Dương Phong J', '094136954', 'Trà Vinh', '4924787', 'Nữ', '1984-10-07', 'D21', 'abc123', 'Dương_Phong_J@gmail.com');
+VALUES (21, 'Đặng Văn I', '091174394', 'Vĩnh Phúc', '909982', 'Nam', '1987-06-26', 'Đ21', 'abc123', 'Đặng_Văn_I@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (22, 'Đặng Phúc C', '099768873', 'Đà Nẵng', '5721753', 'Nam', '1960-06-26', 'Đ22', 'abc123', 'Đặng_Phúc_C@gmail.com');
+VALUES (22, 'Vũ Phong A', '092175879', 'Hải Dương', '181836', 'Nam', '1978-02-16', 'V22', 'abc123', 'Vũ_Phong_A@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (23, 'Huỳnh Quốc J', '09316687', 'Ninh Bình', '857274', 'Nữ', '2005-09-19', 'H23', 'abc123', 'Huỳnh_Quốc_J@gmail.com');
+VALUES (23, 'Bùi Ngọc Y', '093283658', 'Hậu Giang', '3817524', 'Nữ', '1989-04-07', 'B23', 'abc123', 'Bùi_Ngọc_Y@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (24, 'Lý Ngọc E', '098878962', 'Hà Nội', '9516506', 'Nam', '1973-01-31', 'L24', 'abc123', 'Lý_Ngọc_E@gmail.com');
+VALUES (24, 'Ngô Phong Q', '098624558', 'Quảng Nam', '2123930', 'Nữ', '1988-06-24', 'N24', 'abc123', 'Ngô_Phong_Q@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (25, 'Đỗ Phúc G', '092367589', 'Đắk Lắk', '990844', 'Nữ', '2000-07-15', 'Đ25', 'abc123', 'Đỗ_Phúc_G@gmail.com');
+VALUES (25, 'Phạm Phúc K', '092070850', 'Khánh Hòa', '6239281', 'Nữ', '1961-03-30', 'P25', 'abc123', 'Phạm_Phúc_K@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (26, 'Hồ Quốc Q', '098501306', 'Vĩnh Phúc', '6309972', 'Nam', '1971-12-20', 'H26', 'abc123', 'Hồ_Quốc_Q@gmail.com');
+VALUES (26, 'Bùi Đăng X', '097644336', 'Lào Cai', '598532', 'Nữ', '1974-07-22', 'B26', 'abc123', 'Bùi_Đăng_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (27, 'Đặng Quốc D', '097009147', 'Hà Nội', '5069522', 'Nam', '1987-04-13', 'Đ27', 'abc123', 'Đặng_Quốc_D@gmail.com');
+VALUES (27, 'Võ Quốc F', '098103680', 'Bình Định', '3363308', 'Nữ', '1999-05-23', 'V27', 'abc123', 'Võ_Quốc_F@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (28, 'Hoàng Đăng Z', '097964577', 'Tiền Giang', '3754194', 'Nữ', '1956-04-15', 'H28', 'abc123', 'Hoàng_Đăng_Z@gmail.com');
+VALUES (28, 'Đặng Phong J', '096769896', 'An Giang', '4960264', 'Nữ', '1992-01-11', 'Đ28', 'abc123', 'Đặng_Phong_J@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (29, 'Võ Hữu S', '092878279', 'Quảng Trị', '8260303', 'Nữ', '1966-05-08', 'V29', 'abc123', 'Võ_Hữu_S@gmail.com');
+VALUES (29, 'Đỗ Phong S', '091235599', 'Hòa Bình', '2623267', 'Nam', '1993-09-14', 'Đ29', 'abc123', 'Đỗ_Phong_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (30, 'Hồ Quốc Y', '099373244', 'Bình Thuận', '9997515', 'Nữ', '1987-01-25', 'H30', 'abc123', 'Hồ_Quốc_Y@gmail.com');
+VALUES (30, 'Vũ Hữu X', '09220875', 'Kiên Giang', '4255350', 'Nam', '1987-05-27', 'V30', 'abc123', 'Vũ_Hữu_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (31, 'Võ Ngọc U', '092178395', 'Thanh Hóa', '1281623', 'Nữ', '1963-12-25', 'V31', 'abc123', 'Võ_Ngọc_U@gmail.com');
+VALUES (31, 'Hoàng Phúc Q', '092507717', 'Bà Rịa – Vũng Tàu', '7947663', 'Nam', '1980-01-26', 'H31', 'abc123', 'Hoàng_Phúc_Q@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (32, 'Vũ Hữu Q', '096816191', 'Thừa Thiên Huế', '4384772', 'Nữ', '1994-08-24', 'V32', 'abc123', 'Vũ_Hữu_Q@gmail.com');
+VALUES (32, 'Trần Hữu L', '09162614', 'Bình Thuận', '1077559', 'Nam', '1991-02-26', 'T32', 'abc123', 'Trần_Hữu_L@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (33, 'Hồ Phong E', '096016683', 'Thừa Thiên Huế', '8033682', 'Nữ', '1968-08-14', 'H33', 'abc123', 'Hồ_Phong_E@gmail.com');
+VALUES (33, 'Phan Phúc F', '094730909', 'Hà Giang', '1550510', 'Nữ', '1971-09-27', 'P33', 'abc123', 'Phan_Phúc_F@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (34, 'Bùi Phong S', '096637359', 'Bình Thuận', '2068779', 'Nữ', '1989-10-14', 'B34', 'abc123', 'Bùi_Phong_S@gmail.com');
+VALUES (34, 'Bùi Hữu E', '091876127', 'Quảng Bình', '1976358', 'Nam', '1959-12-01', 'B34', 'abc123', 'Bùi_Hữu_E@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (35, 'Đặng Hữu B', '099058560', 'Thành phố Hồ Chí Minh', '2907413', 'Nam', '1986-10-31', 'Đ35', 'abc123', 'Đặng_Hữu_B@gmail.com');
+VALUES (35, 'Lý Phúc U', '096193017', 'Nam Định', '8435867', 'Nam', '1972-06-25', 'L35', 'abc123', 'Lý_Phúc_U@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (36, 'Lý Hữu A', '094792882', 'Cà Mau', '183555', 'Nữ', '1956-09-27', 'L36', 'abc123', 'Lý_Hữu_A@gmail.com');
+VALUES (36, 'Đặng Phong P', '097326151', 'Điện Biên', '9086767', 'Nữ', '1979-06-23', 'Đ36', 'abc123', 'Đặng_Phong_P@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (37, 'Hoàng Ngọc S', '097809915', 'Lai Châu', '5036831', 'Nữ', '1957-11-13', 'H37', 'abc123', 'Hoàng_Ngọc_S@gmail.com');
+VALUES (37, 'Đặng Đăng X', '091789533', 'Đà Nẵng', '3798420', 'Nam', '1989-01-24', 'Đ37', 'abc123', 'Đặng_Đăng_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (38, 'Trần Quốc L', '093032086', 'Gia Lai', '7848896', 'Nữ', '1988-02-26', 'T38', 'abc123', 'Trần_Quốc_L@gmail.com');
+VALUES (38, 'Hồ Quốc S', '092250846', 'Tiền Giang', '5941435', 'Nam', '2003-06-26', 'H38', 'abc123', 'Hồ_Quốc_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (39, 'Vũ Phúc I', '092081893', 'Thái Bình', '3409845', 'Nam', '1963-07-01', 'V39', 'abc123', 'Vũ_Phúc_I@gmail.com');
+VALUES (39, 'Hoàng Quốc Z', '099792191', 'Quảng Bình', '7574570', 'Nam', '1957-04-19', 'H39', 'abc123', 'Hoàng_Quốc_Z@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (40, 'Bùi Văn O', '092915103', 'Hà Nam', '3457517', 'Nam', '2000-06-14', 'B40', 'abc123', 'Bùi_Văn_O@gmail.com');
+VALUES (40, 'Phạm Văn W', '091594025', 'Quảng Bình', '2778948', 'Nam', '1965-03-15', 'P40', 'abc123', 'Phạm_Văn_W@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (41, 'Vũ Quốc Q', '09999591', 'Cần Thơ', '4965532', 'Nam', '1999-06-03', 'V41', 'abc123', 'Vũ_Quốc_Q@gmail.com');
+VALUES (41, 'Bùi Phong V', '09448382', 'Hậu Giang', '3533258', 'Nam', '1999-10-11', 'B41', 'abc123', 'Bùi_Phong_V@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (42, 'Hoàng Đăng F', '095517757', 'Cao Bằng', '440136', 'Nam', '1975-03-15', 'H42', 'abc123', 'Hoàng_Đăng_F@gmail.com');
+VALUES (42, 'Phan Văn B', '096860533', 'Quảng Ngãi', '3078425', 'Nữ', '1980-07-13', 'P42', 'abc123', 'Phan_Văn_B@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (43, 'Bùi Phong P', '093285220', 'Tây Ninh', '7581251', 'Nam', '1982-10-30', 'B43', 'abc123', 'Bùi_Phong_P@gmail.com');
+VALUES (43, 'Hoàng Đăng J', '094645372', 'Long An', '2492988', 'Nữ', '1962-07-25', 'H43', 'abc123', 'Hoàng_Đăng_J@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (44, 'Hồ Văn O', '095074745', 'Cao Bằng', '7010523', 'Nữ', '1965-09-25', 'H44', 'abc123', 'Hồ_Văn_O@gmail.com');
+VALUES (44, 'Ngô Phúc O', '096797669', 'Hải Phòng', '3528953', 'Nam', '1988-07-30', 'N44', 'abc123', 'Ngô_Phúc_O@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (45, 'Dương Quốc X', '096477882', 'Gia Lai', '1190871', 'Nam', '1992-02-17', 'D45', 'abc123', 'Dương_Quốc_X@gmail.com');
+VALUES (45, 'Hoàng Đăng E', '096976743', 'Quảng Ngãi', '511340', 'Nam', '1975-09-10', 'H45', 'abc123', 'Hoàng_Đăng_E@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (46, 'Huỳnh Văn E', '096775060', 'Bà Rịa – Vũng Tàu', '6261659', 'Nam', '1980-04-21', 'H46', 'abc123', 'Huỳnh_Văn_E@gmail.com');
+VALUES (46, 'Phan Quốc B', '099690314', 'Bình Phước', '4183433', 'Nam', '1969-05-15', 'P46', 'abc123', 'Phan_Quốc_B@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (47, 'Vũ Ngọc U', '091246292', 'Hải Phòng', '3175774', 'Nữ', '1986-08-02', 'V47', 'abc123', 'Vũ_Ngọc_U@gmail.com');
+VALUES (47, 'Phạm Văn F', '097714583', 'Đà Nẵng', '3215446', 'Nữ', '1973-08-26', 'P47', 'abc123', 'Phạm_Văn_F@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (48, 'Võ Quốc V', '092448948', 'Hà Tĩnh', '415805', 'Nữ', '1973-12-06', 'V48', 'abc123', 'Võ_Quốc_V@gmail.com');
+VALUES (48, 'Vũ Văn J', '091504684', 'Thái Nguyên', '4149925', 'Nam', '1998-06-11', 'V48', 'abc123', 'Vũ_Văn_J@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (49, 'Huỳnh Ngọc H', '095007378', 'Cao Bằng', '8633187', 'Nữ', '1981-09-08', 'H49', 'abc123', 'Huỳnh_Ngọc_H@gmail.com');
+VALUES (49, 'Vũ Phúc S', '092419376', 'Bắc Ninh', '6826752', 'Nữ', '1975-08-27', 'V49', 'abc123', 'Vũ_Phúc_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (50, 'Đỗ Ngọc P', '092973643', 'Tây Ninh', '7025423', 'Nam', '1999-02-05', 'Đ50', 'abc123', 'Đỗ_Ngọc_P@gmail.com');
+VALUES (50, 'Võ Phúc Y', '099125397', 'Tây Ninh', '839597', 'Nữ', '1963-03-13', 'V50', 'abc123', 'Võ_Phúc_Y@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (51, 'Hoàng Phong A', '093682868', 'Hải Phòng', '2151787', 'Nữ', '1992-01-08', 'H51', 'abc123', 'Hoàng_Phong_A@gmail.com');
+VALUES (51, 'Huỳnh Phong X', '096210634', 'Lai Châu', '4880589', 'Nam', '1956-03-22', 'H51', 'abc123', 'Huỳnh_Phong_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (52, 'Đỗ Phong C', '092875447', 'Ninh Bình', '5478506', 'Nam', '1985-03-17', 'Đ52', 'abc123', 'Đỗ_Phong_C@gmail.com');
+VALUES (52, 'Lê Phúc S', '092002821', 'Quảng Trị', '7518906', 'Nữ', '1962-01-23', 'L52', 'abc123', 'Lê_Phúc_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (53, 'Hoàng Văn K', '091607584', 'Quảng Ngãi', '5312411', 'Nam', '1961-08-28', 'H53', 'abc123', 'Hoàng_Văn_K@gmail.com');
+VALUES (53, 'Vũ Đăng C', '092074785', 'Bình Phước', '7150881', 'Nam', '1957-07-21', 'V53', 'abc123', 'Vũ_Đăng_C@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (54, 'Võ Văn C', '09818669', 'Đắk Lắk', '9281064', 'Nữ', '1985-10-11', 'V54', 'abc123', 'Võ_Văn_C@gmail.com');
+VALUES (54, 'Ngô Phong F', '098662405', 'Thành phố Hồ Chí Minh', '4704622', 'Nữ', '1979-06-23', 'N54', 'abc123', 'Ngô_Phong_F@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (55, 'Lê Quốc E', '097347324', 'Hà Tĩnh', '3282106', 'Nam', '1988-02-02', 'L55', 'abc123', 'Lê_Quốc_E@gmail.com');
+VALUES (55, 'Lê Quốc T', '099002851', 'Tuyên Quang', '3862568', 'Nữ', '1958-04-30', 'L55', 'abc123', 'Lê_Quốc_T@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (56, 'Dương Ngọc J', '099447292', 'Quảng Ngãi', '3271093', 'Nữ', '1997-10-20', 'D56', 'abc123', 'Dương_Ngọc_J@gmail.com');
+VALUES (56, 'Lê Đăng Q', '096724999', 'Hà Giang', '5793883', 'Nữ', '1998-05-22', 'L56', 'abc123', 'Lê_Đăng_Q@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (57, 'Phan Đăng F', '097490846', 'Kon Tum', '4582612', 'Nam', '1985-09-28', 'P57', 'abc123', 'Phan_Đăng_F@gmail.com');
+VALUES (57, 'Huỳnh Quốc T', '096228988', 'Vĩnh Long', '3909086', 'Nam', '1971-02-19', 'H57', 'abc123', 'Huỳnh_Quốc_T@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (58, 'Lý Văn X', '099383142', 'Long An', '5162553', 'Nữ', '2003-04-08', 'L58', 'abc123', 'Lý_Văn_X@gmail.com');
+VALUES (58, 'Đỗ Phong U', '096346906', 'Trà Vinh', '6237406', 'Nữ', '1970-07-08', 'Đ58', 'abc123', 'Đỗ_Phong_U@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (59, 'Vũ Phúc L', '091349605', 'Phú Yên', '389820', 'Nữ', '1968-06-26', 'V59', 'abc123', 'Vũ_Phúc_L@gmail.com');
+VALUES (59, 'Ngô Hữu D', '094381953', 'Tuyên Quang', '489520', 'Nữ', '1974-02-13', 'N59', 'abc123', 'Ngô_Hữu_D@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (60, 'Đỗ Ngọc O', '095084729', 'An Giang', '7624468', 'Nam', '1999-01-31', 'Đ60', 'abc123', 'Đỗ_Ngọc_O@gmail.com');
+VALUES (60, 'Huỳnh Hữu L', '097310680', 'Lâm Đồng', '8542574', 'Nam', '1990-06-02', 'H60', 'abc123', 'Huỳnh_Hữu_L@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (61, 'Đỗ Phúc M', '096930537', 'Vĩnh Phúc', '3558559', 'Nữ', '1987-10-20', 'Đ61', 'abc123', 'Đỗ_Phúc_M@gmail.com');
+VALUES (61, 'Phạm Văn W', '092965085', 'Ninh Thuận', '1339809', 'Nữ', '1986-07-06', 'P61', 'abc123', 'Phạm_Văn_W@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (62, 'Vũ Ngọc P', '094733803', 'Khánh Hòa', '469454', 'Nữ', '1978-07-04', 'V62', 'abc123', 'Vũ_Ngọc_P@gmail.com');
+VALUES (62, 'Phạm Đăng K', '099382462', 'Quảng Bình', '2434065', 'Nam', '1984-04-18', 'P62', 'abc123', 'Phạm_Đăng_K@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (63, 'Võ Văn Z', '092541337', 'Khánh Hòa', '2967541', 'Nữ', '1984-01-25', 'V63', 'abc123', 'Võ_Văn_Z@gmail.com');
+VALUES (63, 'Dương Phúc M', '096246403', 'Bắc Kạn', '3554642', 'Nam', '1980-06-06', 'D63', 'abc123', 'Dương_Phúc_M@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (64, 'Hồ Quốc G', '092342074', 'Sơn La', '2457572', 'Nữ', '1979-10-11', 'H64', 'abc123', 'Hồ_Quốc_G@gmail.com');
+VALUES (64, 'Bùi Phúc Q', '093998903', 'Lâm Đồng', '603267', 'Nữ', '1998-06-25', 'B64', 'abc123', 'Bùi_Phúc_Q@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (65, 'Lê Đăng T', '098944295', 'Bình Dương', '5742110', 'Nam', '2003-04-22', 'L65', 'abc123', 'Lê_Đăng_T@gmail.com');
+VALUES (65, 'Dương Đăng X', '096368952', 'Hậu Giang', '4881453', 'Nữ', '1960-09-02', 'D65', 'abc123', 'Dương_Đăng_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (66, 'Hồ Quốc Z', '097858430', 'Nam Định', '8715585', 'Nam', '1993-11-02', 'H66', 'abc123', 'Hồ_Quốc_Z@gmail.com');
+VALUES (66, 'Bùi Văn A', '092856483', 'Hà Nội', '5643671', 'Nữ', '1975-05-25', 'B66', 'abc123', 'Bùi_Văn_A@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (67, 'Hồ Phong Y', '094093910', 'Quảng Bình', '8437885', 'Nam', '2001-11-17', 'H67', 'abc123', 'Hồ_Phong_Y@gmail.com');
+VALUES (67, 'Võ Phúc T', '093282515', 'Thái Nguyên', '4315193', 'Nam', '1975-07-31', 'V67', 'abc123', 'Võ_Phúc_T@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (68, 'Dương Quốc Q', '09207381', 'Hậu Giang', '2828306', 'Nam', '2005-02-13', 'D68', 'abc123', 'Dương_Quốc_Q@gmail.com');
+VALUES (68, 'Phạm Ngọc H', '095548305', 'Nam Định', '2998032', 'Nam', '2004-08-13', 'P68', 'abc123', 'Phạm_Ngọc_H@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (69, 'Bùi Phong V', '096175150', 'Quảng Bình', '8356245', 'Nam', '1991-08-22', 'B69', 'abc123', 'Bùi_Phong_V@gmail.com');
+VALUES (69, 'Hoàng Phong L', '095951358', 'Hà Nội', '4832322', 'Nam', '1995-01-18', 'H69', 'abc123', 'Hoàng_Phong_L@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (70, 'Võ Phúc N', '098902335', 'Lai Châu', '2277897', 'Nữ', '2002-10-01', 'V70', 'abc123', 'Võ_Phúc_N@gmail.com');
+VALUES (70, 'Trần Đăng J', '094028227', 'Phú Yên', '8034012', 'Nam', '1959-10-30', 'T70', 'abc123', 'Trần_Đăng_J@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (71, 'Phan Phong E', '09903339', 'Quảng Trị', '7813008', 'Nam', '1973-08-16', 'P71', 'abc123', 'Phan_Phong_E@gmail.com');
+VALUES (71, 'Đặng Đăng W', '098208663', 'Lào Cai', '174712', 'Nữ', '1976-03-29', 'Đ71', 'abc123', 'Đặng_Đăng_W@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (72, 'Phan Phong M', '092152724', 'Quảng Ngãi', '2088579', 'Nam', '1974-06-12', 'P72', 'abc123', 'Phan_Phong_M@gmail.com');
+VALUES (72, 'Phan Quốc G', '096379420', 'Đắk Lắk', '2718614', 'Nam', '1972-09-14', 'P72', 'abc123', 'Phan_Quốc_G@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (73, 'Lê Hữu S', '095853330', 'Cà Mau', '7394551', 'Nam', '2000-11-18', 'L73', 'abc123', 'Lê_Hữu_S@gmail.com');
+VALUES (73, 'Bùi Ngọc I', '095606835', 'Phú Yên', '5728953', 'Nữ', '1996-02-06', 'B73', 'abc123', 'Bùi_Ngọc_I@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (74, 'Trần Văn P', '093221874', 'Tiền Giang', '4278395', 'Nữ', '1990-01-05', 'T74', 'abc123', 'Trần_Văn_P@gmail.com');
+VALUES (74, 'Huỳnh Phong E', '096124246', 'Tây Ninh', '8777689', 'Nam', '1980-08-29', 'H74', 'abc123', 'Huỳnh_Phong_E@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (75, 'Võ Văn L', '097954724', 'Lâm Đồng', '9010995', 'Nam', '2001-02-11', 'V75', 'abc123', 'Võ_Văn_L@gmail.com');
+VALUES (75, 'Đỗ Hữu I', '096653884', 'Quảng Ninh', '743780', 'Nữ', '1972-10-16', 'Đ75', 'abc123', 'Đỗ_Hữu_I@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (76, 'Hồ Quốc D', '092192897', 'Vĩnh Long', '26288', 'Nữ', '1972-01-19', 'H76', 'abc123', 'Hồ_Quốc_D@gmail.com');
+VALUES (76, 'Dương Phúc N', '096134593', 'Ninh Bình', '9705311', 'Nam', '1988-04-30', 'D76', 'abc123', 'Dương_Phúc_N@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (77, 'Ngô Đăng Q', '09221572', 'Đắk Nông', '5893977', 'Nam', '1958-05-13', 'N77', 'abc123', 'Ngô_Đăng_Q@gmail.com');
+VALUES (77, 'Bùi Văn S', '092929592', 'Cà Mau', '5388137', 'Nam', '2004-02-22', 'B77', 'abc123', 'Bùi_Văn_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (78, 'Trần Ngọc T', '097262796', 'Quảng Nam', '7331889', 'Nam', '1964-04-08', 'T78', 'abc123', 'Trần_Ngọc_T@gmail.com');
+VALUES (78, 'Hồ Phúc D', '098086580', 'Thừa Thiên Huế', '3528866', 'Nam', '1993-09-07', 'H78', 'abc123', 'Hồ_Phúc_D@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (79, 'Ngô Văn M', '09279113', 'Sơn La', '4586930', 'Nữ', '1994-03-10', 'N79', 'abc123', 'Ngô_Văn_M@gmail.com');
+VALUES (79, 'Võ Ngọc Y', '097741191', 'Bình Định', '1474638', 'Nữ', '1962-02-11', 'V79', 'abc123', 'Võ_Ngọc_Y@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (80, 'Đỗ Phong B', '098210350', 'Lào Cai', '9377063', 'Nữ', '2001-07-05', 'Đ80', 'abc123', 'Đỗ_Phong_B@gmail.com');
+VALUES (80, 'Phan Phúc E', '099350798', 'Thành phố Hồ Chí Minh', '1839168', 'Nữ', '1998-06-24', 'P80', 'abc123', 'Phan_Phúc_E@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (81, 'Hoàng Phong N', '096306745', 'Quảng Ngãi', '3438663', 'Nam', '1964-04-30', 'H81', 'abc123', 'Hoàng_Phong_N@gmail.com');
+VALUES (81, 'Đỗ Hữu H', '092206806', 'Quảng Ninh', '57958', 'Nam', '2005-03-24', 'Đ81', 'abc123', 'Đỗ_Hữu_H@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (82, 'Phan Ngọc O', '094771225', 'Long An', '7792415', 'Nữ', '1995-07-25', 'P82', 'abc123', 'Phan_Ngọc_O@gmail.com');
+VALUES (82, 'Trần Phong N', '099219035', 'Cần Thơ', '8260978', 'Nam', '1993-06-29', 'T82', 'abc123', 'Trần_Phong_N@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (83, 'Hồ Hữu O', '095635588', 'Phú Yên', '3136445', 'Nam', '1986-02-03', 'H83', 'abc123', 'Hồ_Hữu_O@gmail.com');
+VALUES (83, 'Trần Quốc B', '09945912', 'Bình Thuận', '2564964', 'Nam', '1959-02-26', 'T83', 'abc123', 'Trần_Quốc_B@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (84, 'Huỳnh Quốc O', '094304181', 'Hà Nội', '588557', 'Nữ', '1998-09-25', 'H84', 'abc123', 'Huỳnh_Quốc_O@gmail.com');
+VALUES (84, 'Phan Phong S', '095440691', 'Đồng Nai', '1267781', 'Nam', '1964-10-20', 'P84', 'abc123', 'Phan_Phong_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (85, 'Huỳnh Phúc Y', '097420600', 'Kon Tum', '7402666', 'Nữ', '1978-04-28', 'H85', 'abc123', 'Huỳnh_Phúc_Y@gmail.com');
+VALUES (85, 'Dương Ngọc K', '096909591', 'An Giang', '4623139', 'Nam', '1957-04-03', 'D85', 'abc123', 'Dương_Ngọc_K@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (86, 'Phạm Ngọc S', '096345100', 'Ninh Thuận', '6631122', 'Nam', '1999-10-30', 'P86', 'abc123', 'Phạm_Ngọc_S@gmail.com');
+VALUES (86, 'Lê Hữu X', '09176840', 'Khánh Hòa', '2035715', 'Nam', '1975-07-31', 'L86', 'abc123', 'Lê_Hữu_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (87, 'Hoàng Quốc I', '093551386', 'Hà Nội', '6129568', 'Nam', '1976-02-03', 'H87', 'abc123', 'Hoàng_Quốc_I@gmail.com');
+VALUES (87, 'Lê Ngọc O', '096299370', 'Thành phố Hồ Chí Minh', '3326132', 'Nữ', '2004-06-30', 'L87', 'abc123', 'Lê_Ngọc_O@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (88, 'Phan Quốc I', '096420976', 'Nam Định', '7220127', 'Nữ', '1992-10-30', 'P88', 'abc123', 'Phan_Quốc_I@gmail.com');
+VALUES (88, 'Đặng Quốc A', '091677200', 'Ninh Thuận', '7885041', 'Nữ', '1993-09-06', 'Đ88', 'abc123', 'Đặng_Quốc_A@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (89, 'Võ Văn M', '091272458', 'Hà Nam', '8939387', 'Nữ', '1961-06-22', 'V89', 'abc123', 'Võ_Văn_M@gmail.com');
+VALUES (89, 'Hồ Phong N', '091959', 'Sơn La', '9310039', 'Nam', '2002-09-05', 'H89', 'abc123', 'Hồ_Phong_N@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (90, 'Phan Văn O', '097833881', 'Tuyên Quang', '578434', 'Nữ', '1968-10-07', 'P90', 'abc123', 'Phan_Văn_O@gmail.com');
+VALUES (90, 'Bùi Văn S', '094244994', 'Đồng Tháp', '5773593', 'Nữ', '2003-03-31', 'B90', 'abc123', 'Bùi_Văn_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (91, 'Trần Phong Y', '096852853', 'Lai Châu', '4432686', 'Nữ', '1962-11-15', 'T91', 'abc123', 'Trần_Phong_Y@gmail.com');
+VALUES (91, 'Đỗ Văn E', '097508203', 'Bắc Ninh', '4711260', 'Nam', '1998-06-26', 'Đ91', 'abc123', 'Đỗ_Văn_E@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (92, 'Vũ Ngọc R', '098025330', 'Vĩnh Phúc', '6860695', 'Nam', '1971-12-26', 'V92', 'abc123', 'Vũ_Ngọc_R@gmail.com');
+VALUES (92, 'Dương Ngọc N', '094376970', 'Lâm Đồng', '8285109', 'Nam', '1989-09-21', 'D92', 'abc123', 'Dương_Ngọc_N@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (93, 'Phan Phong K', '092076650', 'Lào Cai', '9225513', 'Nữ', '1992-06-15', 'P93', 'abc123', 'Phan_Phong_K@gmail.com');
+VALUES (93, 'Dương Văn Y', '092888088', 'Bình Phước', '6836583', 'Nữ', '1991-03-21', 'D93', 'abc123', 'Dương_Văn_Y@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (94, 'Bùi Hữu F', '095594335', 'Phú Yên', '9663318', 'Nam', '1965-07-08', 'B94', 'abc123', 'Bùi_Hữu_F@gmail.com');
+VALUES (94, 'Trần Đăng E', '095350634', 'Hòa Bình', '6596424', 'Nam', '1962-08-20', 'T94', 'abc123', 'Trần_Đăng_E@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (95, 'Vũ Ngọc G', '094320073', 'Đắk Lắk', '1276423', 'Nam', '1959-01-11', 'V95', 'abc123', 'Vũ_Ngọc_G@gmail.com');
+VALUES (95, 'Đặng Đăng M', '0959656', 'Hòa Bình', '5198360', 'Nam', '1979-04-13', 'Đ95', 'abc123', 'Đặng_Đăng_M@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (96, 'Lê Phúc S', '095067853', 'Thái Bình', '4947616', 'Nữ', '2004-02-07', 'L96', 'abc123', 'Lê_Phúc_S@gmail.com');
+VALUES (96, 'Lý Văn V', '095977967', 'Đồng Nai', '1010957', 'Nữ', '1993-11-08', 'L96', 'abc123', 'Lý_Văn_V@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (97, 'Bùi Hữu O', '096537517', 'Phú Thọ', '3967293', 'Nữ', '1987-03-03', 'B97', 'abc123', 'Bùi_Hữu_O@gmail.com');
+VALUES (97, 'Lê Quốc L', '096318205', 'Hà Nam', '6452458', 'Nữ', '1965-09-30', 'L97', 'abc123', 'Lê_Quốc_L@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (98, 'Lê Quốc O', '099110210', 'Hà Nội', '9782454', 'Nữ', '1962-04-06', 'L98', 'abc123', 'Lê_Quốc_O@gmail.com');
+VALUES (98, 'Lý Phong E', '091754714', 'Thừa Thiên Huế', '9811998', 'Nam', '1960-09-15', 'L98', 'abc123', 'Lý_Phong_E@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (99, 'Huỳnh Quốc T', '095597947', 'Đồng Nai', '927258', 'Nam', '2005-05-18', 'H99', 'abc123', 'Huỳnh_Quốc_T@gmail.com');
+VALUES (99, 'Huỳnh Ngọc D', '098883141', 'Lâm Đồng', '7723900', 'Nam', '1969-02-07', 'H99', 'abc123', 'Huỳnh_Ngọc_D@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (100, 'Huỳnh Phong I', '092008469', 'Phú Yên', '1369352', 'Nam', '1992-02-09', 'H100', 'abc123', 'Huỳnh_Phong_I@gmail.com');
+VALUES (100, 'Đỗ Phúc B', '098206566', 'Bến Tre', '1417770', 'Nam', '1990-08-18', 'Đ100', 'abc123', 'Đỗ_Phúc_B@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (101, 'Vũ Quốc M', '096094792', 'Tuyên Quang', '6676952', 'Nam', '1968-04-12', 'V101', 'abc123', 'Vũ_Quốc_M@gmail.com');
+VALUES (101, 'Dương Ngọc Z', '099073407', 'Kiên Giang', '3814876', 'Nữ', '1983-04-25', 'D101', 'abc123', 'Dương_Ngọc_Z@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (102, 'Ngô Đăng Q', '093983618', 'Lạng Sơn', '1432121', 'Nam', '1956-11-29', 'N102', 'abc123', 'Ngô_Đăng_Q@gmail.com');
+VALUES (102, 'Phạm Đăng Z', '096868324', 'Bến Tre', '3111289', 'Nam', '2003-01-21', 'P102', 'abc123', 'Phạm_Đăng_Z@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (103, 'Phan Văn B', '091996572', 'Kiên Giang', '4820693', 'Nữ', '1959-07-15', 'P103', 'abc123', 'Phan_Văn_B@gmail.com');
+VALUES (103, 'Huỳnh Phúc M', '092638386', 'Yên Bái', '7862101', 'Nam', '1993-10-06', 'H103', 'abc123', 'Huỳnh_Phúc_M@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (104, 'Phan Văn T', '093152830', 'An Giang', '2234780', 'Nam', '2000-10-20', 'P104', 'abc123', 'Phan_Văn_T@gmail.com');
+VALUES (104, 'Huỳnh Đăng Y', '094029428', 'Bắc Giang', '1971537', 'Nam', '1997-03-19', 'H104', 'abc123', 'Huỳnh_Đăng_Y@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (105, 'Ngô Quốc V', '09312163', 'Tuyên Quang', '3727060', 'Nữ', '1987-06-24', 'N105', 'abc123', 'Ngô_Quốc_V@gmail.com');
+VALUES (105, 'Đỗ Ngọc Q', '092749719', 'Gia Lai', '8145222', 'Nam', '1983-09-17', 'Đ105', 'abc123', 'Đỗ_Ngọc_Q@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (106, 'Ngô Đăng J', '09805933', 'Vĩnh Phúc', '8235621', 'Nam', '1980-04-22', 'N106', 'abc123', 'Ngô_Đăng_J@gmail.com');
+VALUES (106, 'Hoàng Ngọc U', '091138950', 'Long An', '48501', 'Nam', '1993-06-10', 'H106', 'abc123', 'Hoàng_Ngọc_U@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (107, 'Bùi Đăng N', '099313703', 'Quảng Trị', '9413778', 'Nam', '1981-01-17', 'B107', 'abc123', 'Bùi_Đăng_N@gmail.com');
+VALUES (107, 'Huỳnh Văn M', '094200485', 'Bắc Kạn', '5945269', 'Nam', '1974-10-04', 'H107', 'abc123', 'Huỳnh_Văn_M@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (108, 'Võ Phong B', '096059650', 'Hưng Yên', '1691934', 'Nam', '1993-12-22', 'V108', 'abc123', 'Võ_Phong_B@gmail.com');
+VALUES (108, 'Vũ Phúc D', '093585475', 'Vĩnh Long', '6303125', 'Nam', '1994-06-12', 'V108', 'abc123', 'Vũ_Phúc_D@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (109, 'Hồ Ngọc B', '098791844', 'Đà Nẵng', '6690665', 'Nam', '1977-08-17', 'H109', 'abc123', 'Hồ_Ngọc_B@gmail.com');
+VALUES (109, 'Lý Ngọc H', '093461706', 'Thành phố Hồ Chí Minh', '611903', 'Nam', '1972-04-21', 'L109', 'abc123', 'Lý_Ngọc_H@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (110, 'Lý Văn A', '097916013', 'Bình Định', '1399049', 'Nam', '2004-07-18', 'L110', 'abc123', 'Lý_Văn_A@gmail.com');
+VALUES (110, 'Ngô Ngọc P', '091451998', 'Bà Rịa – Vũng Tàu', '2374255', 'Nam', '1974-01-21', 'N110', 'abc123', 'Ngô_Ngọc_P@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (111, 'Bùi Phong E', '091312127', 'Vĩnh Phúc', '2514807', 'Nam', '1961-09-19', 'B111', 'abc123', 'Bùi_Phong_E@gmail.com');
+VALUES (111, 'Trần Đăng N', '099412155', 'Đồng Tháp', '8320477', 'Nam', '1983-04-07', 'T111', 'abc123', 'Trần_Đăng_N@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (112, 'Ngô Hữu P', '096276780', 'Thành phố Hồ Chí Minh', '1178996', 'Nữ', '2000-03-08', 'N112', 'abc123', 'Ngô_Hữu_P@gmail.com');
+VALUES (112, 'Ngô Văn Z', '091793288', 'Hải Phòng', '7838165', 'Nam', '1968-06-10', 'N112', 'abc123', 'Ngô_Văn_Z@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (113, 'Đặng Ngọc R', '091497957', 'Trà Vinh', '9975014', 'Nam', '1957-05-29', 'Đ113', 'abc123', 'Đặng_Ngọc_R@gmail.com');
+VALUES (113, 'Lê Văn M', '093785960', 'Bắc Giang', '384696', 'Nam', '1969-06-08', 'L113', 'abc123', 'Lê_Văn_M@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (114, 'Đỗ Ngọc X', '098553574', 'Đồng Nai', '8728209', 'Nữ', '1985-08-04', 'Đ114', 'abc123', 'Đỗ_Ngọc_X@gmail.com');
+VALUES (114, 'Đỗ Quốc A', '096992887', 'Lai Châu', '3292253', 'Nam', '2005-10-14', 'Đ114', 'abc123', 'Đỗ_Quốc_A@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (115, 'Hồ Đăng D', '094984756', 'Phú Yên', '7348006', 'Nữ', '1974-07-25', 'H115', 'abc123', 'Hồ_Đăng_D@gmail.com');
+VALUES (115, 'Đặng Phong S', '098673523', 'Quảng Ninh', '5437919', 'Nam', '1962-10-14', 'Đ115', 'abc123', 'Đặng_Phong_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (116, 'Đỗ Quốc H', '095163821', 'Cà Mau', '5990357', 'Nữ', '1979-03-25', 'Đ116', 'abc123', 'Đỗ_Quốc_H@gmail.com');
+VALUES (116, 'Ngô Hữu Q', '097829222', 'Hòa Bình', '6323057', 'Nam', '2003-04-09', 'N116', 'abc123', 'Ngô_Hữu_Q@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (117, 'Võ Phúc J', '099871534', 'Thừa Thiên Huế', '4256652', 'Nam', '1996-03-28', 'V117', 'abc123', 'Võ_Phúc_J@gmail.com');
+VALUES (117, 'Đỗ Phong A', '09764764', 'Thành phố Hồ Chí Minh', '7305928', 'Nữ', '1972-02-09', 'Đ117', 'abc123', 'Đỗ_Phong_A@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (118, 'Võ Đăng V', '095415506', 'Vĩnh Long', '9339516', 'Nữ', '1978-04-23', 'V118', 'abc123', 'Võ_Đăng_V@gmail.com');
+VALUES (118, 'Phan Đăng W', '093015024', 'Quảng Bình', '6209696', 'Nữ', '1981-07-02', 'P118', 'abc123', 'Phan_Đăng_W@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (119, 'Huỳnh Văn R', '091240251', 'Kon Tum', '6111008', 'Nam', '2000-05-03', 'H119', 'abc123', 'Huỳnh_Văn_R@gmail.com');
+VALUES (119, 'Đỗ Phong W', '098439748', 'Điện Biên', '6966235', 'Nữ', '1986-11-10', 'Đ119', 'abc123', 'Đỗ_Phong_W@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (120, 'Dương Ngọc T', '095059104', 'Lai Châu', '1540548', 'Nữ', '2005-09-25', 'D120', 'abc123', 'Dương_Ngọc_T@gmail.com');
+VALUES (120, 'Bùi Phúc K', '099171570', 'Đồng Nai', '8067402', 'Nam', '1994-06-24', 'B120', 'abc123', 'Bùi_Phúc_K@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (121, 'Hồ Đăng I', '093619972', 'Bắc Kạn', '8725738', 'Nam', '1970-04-28', 'H121', 'abc123', 'Hồ_Đăng_I@gmail.com');
+VALUES (121, 'Ngô Văn V', '098290245', 'Kiên Giang', '2623782', 'Nam', '1991-08-09', 'N121', 'abc123', 'Ngô_Văn_V@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (122, 'Phạm Văn Z', '098122969', 'Thành phố Hồ Chí Minh', '7697667', 'Nữ', '1975-08-02', 'P122', 'abc123', 'Phạm_Văn_Z@gmail.com');
+VALUES (122, 'Phạm Quốc N', '096458977', 'Sơn La', '6051809', 'Nữ', '1988-04-21', 'P122', 'abc123', 'Phạm_Quốc_N@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (123, 'Hoàng Quốc M', '097141994', 'Hà Giang', '7282956', 'Nữ', '1999-06-17', 'H123', 'abc123', 'Hoàng_Quốc_M@gmail.com');
+VALUES (123, 'Võ Văn P', '092196790', 'Cao Bằng', '6630133', 'Nam', '2004-01-19', 'V123', 'abc123', 'Võ_Văn_P@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (124, 'Lý Phúc C', '098548845', 'Thanh Hóa', '4208861', 'Nữ', '1957-06-02', 'L124', 'abc123', 'Lý_Phúc_C@gmail.com');
+VALUES (124, 'Ngô Đăng V', '095406078', 'Đắk Nông', '8223178', 'Nam', '1968-12-14', 'N124', 'abc123', 'Ngô_Đăng_V@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (125, 'Ngô Phúc N', '09563719', 'Đắk Lắk', '7647368', 'Nam', '1968-01-21', 'N125', 'abc123', 'Ngô_Phúc_N@gmail.com');
+VALUES (125, 'Phạm Phúc A', '094689343', 'Lai Châu', '1733053', 'Nam', '2000-02-09', 'P125', 'abc123', 'Phạm_Phúc_A@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (126, 'Bùi Quốc M', '091607052', 'Đồng Nai', '3112913', 'Nữ', '1994-04-05', 'B126', 'abc123', 'Bùi_Quốc_M@gmail.com');
+VALUES (126, 'Hồ Quốc O', '099868160', 'Bình Phước', '2710753', 'Nữ', '1982-01-14', 'H126', 'abc123', 'Hồ_Quốc_O@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (127, 'Vũ Phúc D', '098333214', 'Hải Phòng', '3441006', 'Nam', '1975-09-25', 'V127', 'abc123', 'Vũ_Phúc_D@gmail.com');
+VALUES (127, 'Huỳnh Ngọc E', '092985644', 'Bến Tre', '1965603', 'Nam', '1991-07-20', 'H127', 'abc123', 'Huỳnh_Ngọc_E@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (128, 'Huỳnh Phong D', '091096279', 'Quảng Ngãi', '4147475', 'Nữ', '1972-05-26', 'H128', 'abc123', 'Huỳnh_Phong_D@gmail.com');
+VALUES (128, 'Đỗ Văn G', '099488119', 'Bình Phước', '5920974', 'Nam', '1996-07-08', 'Đ128', 'abc123', 'Đỗ_Văn_G@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (129, 'Đỗ Phúc P', '099423043', 'Đắk Lắk', '9247733', 'Nữ', '1985-02-23', 'Đ129', 'abc123', 'Đỗ_Phúc_P@gmail.com');
+VALUES (129, 'Ngô Văn W', '098829887', 'Trà Vinh', '5368662', 'Nam', '1966-10-23', 'N129', 'abc123', 'Ngô_Văn_W@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (130, 'Võ Ngọc I', '095920840', 'Ninh Bình', '3330735', 'Nữ', '1978-05-26', 'V130', 'abc123', 'Võ_Ngọc_I@gmail.com');
+VALUES (130, 'Đặng Quốc G', '092546334', 'Thanh Hóa', '8699253', 'Nam', '1970-02-18', 'Đ130', 'abc123', 'Đặng_Quốc_G@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (131, 'Phan Phong V', '092781082', 'Trà Vinh', '8843085', 'Nam', '1975-09-18', 'P131', 'abc123', 'Phan_Phong_V@gmail.com');
+VALUES (131, 'Lý Đăng L', '092045347', 'Đắk Lắk', '6688059', 'Nam', '1990-07-03', 'L131', 'abc123', 'Lý_Đăng_L@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (132, 'Huỳnh Văn K', '098788595', 'Bình Định', '9935888', 'Nam', '1984-03-22', 'H132', 'abc123', 'Huỳnh_Văn_K@gmail.com');
+VALUES (132, 'Hồ Hữu Z', '096656855', 'Long An', '5583589', 'Nam', '2003-11-13', 'H132', 'abc123', 'Hồ_Hữu_Z@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (133, 'Lê Văn G', '097927666', 'Quảng Trị', '7432916', 'Nữ', '1987-08-11', 'L133', 'abc123', 'Lê_Văn_G@gmail.com');
+VALUES (133, 'Vũ Ngọc F', '09568109', 'Đắk Nông', '8197241', 'Nữ', '1997-04-27', 'V133', 'abc123', 'Vũ_Ngọc_F@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (134, 'Trần Phúc K', '09485672', 'Hưng Yên', '3346746', 'Nam', '1970-01-25', 'T134', 'abc123', 'Trần_Phúc_K@gmail.com');
+VALUES (134, 'Huỳnh Văn Y', '09402243', 'Tuyên Quang', '5579248', 'Nữ', '2005-01-01', 'H134', 'abc123', 'Huỳnh_Văn_Y@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (135, 'Đặng Văn N', '099472592', 'Lào Cai', '8534688', 'Nữ', '1998-05-23', 'Đ135', 'abc123', 'Đặng_Văn_N@gmail.com');
+VALUES (135, 'Võ Đăng V', '09645072', 'Hà Nội', '5868697', 'Nam', '1995-10-29', 'V135', 'abc123', 'Võ_Đăng_V@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (136, 'Trần Phúc T', '095459482', 'Thừa Thiên Huế', '7464482', 'Nữ', '1987-04-20', 'T136', 'abc123', 'Trần_Phúc_T@gmail.com');
+VALUES (136, 'Hồ Phong F', '093696676', 'Bắc Ninh', '237315', 'Nữ', '1958-04-03', 'H136', 'abc123', 'Hồ_Phong_F@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (137, 'Hoàng Văn T', '091132086', 'Thừa Thiên Huế', '9348148', 'Nam', '1975-09-16', 'H137', 'abc123', 'Hoàng_Văn_T@gmail.com');
+VALUES (137, 'Lê Hữu B', '093857898', 'Quảng Nam', '6252100', 'Nam', '1977-08-26', 'L137', 'abc123', 'Lê_Hữu_B@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (138, 'Dương Đăng J', '098279428', 'Hà Nam', '3079616', 'Nam', '1991-12-28', 'D138', 'abc123', 'Dương_Đăng_J@gmail.com');
+VALUES (138, 'Hồ Hữu V', '098426697', 'Lâm Đồng', '6235883', 'Nam', '1985-12-27', 'H138', 'abc123', 'Hồ_Hữu_V@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (139, 'Hồ Đăng C', '098195036', 'Vĩnh Long', '3237534', 'Nam', '1977-07-26', 'H139', 'abc123', 'Hồ_Đăng_C@gmail.com');
+VALUES (139, 'Bùi Phong Z', '094675622', 'Bình Định', '6614402', 'Nam', '1973-04-18', 'B139', 'abc123', 'Bùi_Phong_Z@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (140, 'Ngô Ngọc G', '095945099', 'Đắk Nông', '7930021', 'Nữ', '1968-07-18', 'N140', 'abc123', 'Ngô_Ngọc_G@gmail.com');
+VALUES (140, 'Vũ Ngọc U', '093741253', 'Sóc Trăng', '5141209', 'Nữ', '1998-03-21', 'V140', 'abc123', 'Vũ_Ngọc_U@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (141, 'Dương Đăng E', '097319405', 'Vĩnh Phúc', '4285317', 'Nữ', '1987-06-04', 'D141', 'abc123', 'Dương_Đăng_E@gmail.com');
+VALUES (141, 'Lý Phong Q', '093342112', 'Gia Lai', '7156896', 'Nữ', '1966-01-17', 'L141', 'abc123', 'Lý_Phong_Q@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (142, 'Võ Đăng E', '097974628', 'Thái Nguyên', '34848', 'Nữ', '1971-08-31', 'V142', 'abc123', 'Võ_Đăng_E@gmail.com');
+VALUES (142, 'Lý Phúc M', '092247419', 'Vĩnh Phúc', '2567143', 'Nam', '1956-12-04', 'L142', 'abc123', 'Lý_Phúc_M@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (143, 'Bùi Ngọc X', '099033881', 'Cà Mau', '6777900', 'Nữ', '1974-10-21', 'B143', 'abc123', 'Bùi_Ngọc_X@gmail.com');
+VALUES (143, 'Đặng Hữu U', '094070635', 'Cần Thơ', '9446500', 'Nam', '1957-04-17', 'Đ143', 'abc123', 'Đặng_Hữu_U@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (144, 'Lê Văn F', '094731274', 'Đà Nẵng', '2325907', 'Nam', '1972-11-18', 'L144', 'abc123', 'Lê_Văn_F@gmail.com');
+VALUES (144, 'Ngô Văn X', '094315502', 'Đồng Tháp', '2554675', 'Nữ', '2004-12-08', 'N144', 'abc123', 'Ngô_Văn_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (145, 'Dương Phúc I', '091376469', 'Hậu Giang', '1946575', 'Nam', '2000-01-23', 'D145', 'abc123', 'Dương_Phúc_I@gmail.com');
+VALUES (145, 'Dương Phong K', '097746253', 'Cần Thơ', '9583305', 'Nam', '2000-07-22', 'D145', 'abc123', 'Dương_Phong_K@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (146, 'Trần Phong E', '094534194', 'Hà Nội', '5592211', 'Nam', '1960-02-15', 'T146', 'abc123', 'Trần_Phong_E@gmail.com');
+VALUES (146, 'Hoàng Quốc O', '097706950', 'Thành phố Hồ Chí Minh', '659457', 'Nữ', '1975-01-14', 'H146', 'abc123', 'Hoàng_Quốc_O@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (147, 'Lý Phúc U', '092720872', 'Lào Cai', '5312436', 'Nam', '2003-04-20', 'L147', 'abc123', 'Lý_Phúc_U@gmail.com');
+VALUES (147, 'Vũ Phúc G', '091627817', 'Tiền Giang', '8073682', 'Nam', '1989-01-30', 'V147', 'abc123', 'Vũ_Phúc_G@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (148, 'Dương Phong Z', '091749758', 'Tuyên Quang', '2309989', 'Nam', '1966-12-11', 'D148', 'abc123', 'Dương_Phong_Z@gmail.com');
+VALUES (148, 'Đỗ Phúc D', '098810772', 'Khánh Hòa', '963661', 'Nữ', '1973-08-16', 'Đ148', 'abc123', 'Đỗ_Phúc_D@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (149, 'Trần Phúc L', '098023132', 'Hưng Yên', '571822', 'Nam', '1956-05-13', 'T149', 'abc123', 'Trần_Phúc_L@gmail.com');
+VALUES (149, 'Dương Ngọc H', '095894833', 'Tuyên Quang', '888017', 'Nữ', '2002-01-04', 'D149', 'abc123', 'Dương_Ngọc_H@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (150, 'Lê Phúc A', '091272645', 'Yên Bái', '6049642', 'Nam', '1974-12-05', 'L150', 'abc123', 'Lê_Phúc_A@gmail.com');
+VALUES (150, 'Lý Đăng X', '099908953', 'Bắc Kạn', '8019570', 'Nam', '1965-06-02', 'L150', 'abc123', 'Lý_Đăng_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (151, 'Lý Quốc U', '095465166', 'Bắc Ninh', '109281', 'Nữ', '1970-04-22', 'L151', 'abc123', 'Lý_Quốc_U@gmail.com');
+VALUES (151, 'Bùi Phong D', '098300502', 'Lâm Đồng', '7754400', 'Nam', '2004-06-28', 'B151', 'abc123', 'Bùi_Phong_D@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (152, 'Đỗ Hữu C', '099581339', 'Cần Thơ', '9832759', 'Nữ', '1995-02-01', 'Đ152', 'abc123', 'Đỗ_Hữu_C@gmail.com');
+VALUES (152, 'Dương Ngọc U', '094088580', 'Phú Yên', '4585790', 'Nữ', '1993-10-29', 'D152', 'abc123', 'Dương_Ngọc_U@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (153, 'Đỗ Hữu Q', '099778459', 'Hà Nam', '7937900', 'Nữ', '1983-05-07', 'Đ153', 'abc123', 'Đỗ_Hữu_Q@gmail.com');
+VALUES (153, 'Bùi Ngọc J', '093670718', 'Sóc Trăng', '4374365', 'Nữ', '1957-02-27', 'B153', 'abc123', 'Bùi_Ngọc_J@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (154, 'Dương Hữu E', '098890575', 'Lai Châu', '2056425', 'Nam', '1983-06-17', 'D154', 'abc123', 'Dương_Hữu_E@gmail.com');
+VALUES (154, 'Đặng Quốc S', '095678204', 'Bắc Kạn', '9933007', 'Nữ', '2003-01-23', 'Đ154', 'abc123', 'Đặng_Quốc_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (155, 'Hoàng Hữu S', '094400308', 'Sóc Trăng', '8142285', 'Nam', '1977-11-04', 'H155', 'abc123', 'Hoàng_Hữu_S@gmail.com');
+VALUES (155, 'Huỳnh Đăng W', '094529874', 'Phú Thọ', '4944053', 'Nữ', '1975-06-16', 'H155', 'abc123', 'Huỳnh_Đăng_W@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (156, 'Lê Phong T', '098823620', 'Lai Châu', '408728', 'Nam', '1961-02-08', 'L156', 'abc123', 'Lê_Phong_T@gmail.com');
+VALUES (156, 'Phan Đăng N', '099408189', 'Gia Lai', '1474728', 'Nữ', '1984-02-17', 'P156', 'abc123', 'Phan_Đăng_N@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (157, 'Dương Ngọc W', '097046682', 'Bắc Giang', '737305', 'Nam', '1960-01-04', 'D157', 'abc123', 'Dương_Ngọc_W@gmail.com');
+VALUES (157, 'Phạm Đăng F', '092737793', 'Kiên Giang', '123902', 'Nam', '1988-12-19', 'P157', 'abc123', 'Phạm_Đăng_F@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (158, 'Đặng Quốc H', '099490204', 'Phú Thọ', '2568475', 'Nữ', '1963-02-26', 'Đ158', 'abc123', 'Đặng_Quốc_H@gmail.com');
+VALUES (158, 'Trần Ngọc G', '095879593', 'Sơn La', '4519431', 'Nam', '1964-04-08', 'T158', 'abc123', 'Trần_Ngọc_G@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (159, 'Đặng Quốc Q', '092279864', 'Bắc Ninh', '7256163', 'Nữ', '1963-07-17', 'Đ159', 'abc123', 'Đặng_Quốc_Q@gmail.com');
+VALUES (159, 'Hồ Đăng T', '099688146', 'Hà Tĩnh', '3422284', 'Nữ', '1975-11-06', 'H159', 'abc123', 'Hồ_Đăng_T@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (160, 'Võ Văn M', '09881296', 'Hải Phòng', '7413809', 'Nữ', '1967-04-06', 'V160', 'abc123', 'Võ_Văn_M@gmail.com');
+VALUES (160, 'Đỗ Đăng Z', '094373365', 'Bình Dương', '1044116', 'Nam', '2004-05-03', 'Đ160', 'abc123', 'Đỗ_Đăng_Z@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (161, 'Trần Phong Q', '09205717', 'Sóc Trăng', '344220', 'Nữ', '1991-10-31', 'T161', 'abc123', 'Trần_Phong_Q@gmail.com');
+VALUES (161, 'Võ Hữu O', '094347235', 'Kon Tum', '5843232', 'Nam', '1975-04-26', 'V161', 'abc123', 'Võ_Hữu_O@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (162, 'Dương Ngọc C', '096079813', 'Nghệ An', '1958520', 'Nam', '1967-10-21', 'D162', 'abc123', 'Dương_Ngọc_C@gmail.com');
+VALUES (162, 'Hồ Văn J', '096541448', 'Kiên Giang', '8555215', 'Nam', '1966-08-12', 'H162', 'abc123', 'Hồ_Văn_J@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (163, 'Vũ Phong V', '092554531', 'Đắk Nông', '5160371', 'Nam', '1999-11-07', 'V163', 'abc123', 'Vũ_Phong_V@gmail.com');
+VALUES (163, 'Lý Đăng J', '094203007', 'Vĩnh Long', '4595680', 'Nữ', '1956-08-11', 'L163', 'abc123', 'Lý_Đăng_J@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (164, 'Huỳnh Hữu Y', '099936717', 'An Giang', '7291510', 'Nữ', '1959-10-19', 'H164', 'abc123', 'Huỳnh_Hữu_Y@gmail.com');
+VALUES (164, 'Huỳnh Ngọc B', '096093594', 'Điện Biên', '4331364', 'Nữ', '1964-10-02', 'H164', 'abc123', 'Huỳnh_Ngọc_B@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (165, 'Đỗ Đăng E', '096081062', 'Long An', '5475704', 'Nữ', '1987-09-11', 'Đ165', 'abc123', 'Đỗ_Đăng_E@gmail.com');
+VALUES (165, 'Trần Ngọc B', '094047721', 'Tiền Giang', '6671419', 'Nam', '1990-11-10', 'T165', 'abc123', 'Trần_Ngọc_B@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (166, 'Trần Văn M', '09574898', 'Đồng Tháp', '1414008', 'Nữ', '1981-06-19', 'T166', 'abc123', 'Trần_Văn_M@gmail.com');
+VALUES (166, 'Phạm Ngọc J', '09228495', 'Lai Châu', '8633544', 'Nam', '1968-06-10', 'P166', 'abc123', 'Phạm_Ngọc_J@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (167, 'Đỗ Quốc J', '098463518', 'Hải Phòng', '4009539', 'Nữ', '1978-04-02', 'Đ167', 'abc123', 'Đỗ_Quốc_J@gmail.com');
+VALUES (167, 'Trần Phong Z', '091433666', 'Bắc Ninh', '2171209', 'Nữ', '1974-12-10', 'T167', 'abc123', 'Trần_Phong_Z@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (168, 'Phan Phong Q', '098358568', 'Kiên Giang', '8050754', 'Nam', '1983-10-21', 'P168', 'abc123', 'Phan_Phong_Q@gmail.com');
+VALUES (168, 'Đỗ Văn U', '098255106', 'Hải Dương', '2821625', 'Nữ', '1998-01-11', 'Đ168', 'abc123', 'Đỗ_Văn_U@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (169, 'Đỗ Phúc X', '093687872', 'Bắc Giang', '4755821', 'Nữ', '1968-02-06', 'Đ169', 'abc123', 'Đỗ_Phúc_X@gmail.com');
+VALUES (169, 'Huỳnh Phong B', '095619878', 'Bình Phước', '5393277', 'Nữ', '1972-03-07', 'H169', 'abc123', 'Huỳnh_Phong_B@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (170, 'Phạm Hữu Q', '095803832', 'Sơn La', '8255545', 'Nữ', '1968-02-13', 'P170', 'abc123', 'Phạm_Hữu_Q@gmail.com');
+VALUES (170, 'Bùi Đăng S', '091609758', 'Nghệ An', '4732343', 'Nữ', '1966-05-25', 'B170', 'abc123', 'Bùi_Đăng_S@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (171, 'Hồ Phúc G', '092273032', 'Đồng Tháp', '4828268', 'Nữ', '1996-04-23', 'H171', 'abc123', 'Hồ_Phúc_G@gmail.com');
+VALUES (171, 'Dương Ngọc F', '098868790', 'Cần Thơ', '3895690', 'Nữ', '1987-03-31', 'D171', 'abc123', 'Dương_Ngọc_F@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (172, 'Dương Phong U', '092306469', 'Nghệ An', '5938137', 'Nữ', '1983-11-21', 'D172', 'abc123', 'Dương_Phong_U@gmail.com');
+VALUES (172, 'Huỳnh Văn D', '097296989', 'Đắk Nông', '4152271', 'Nữ', '1972-07-05', 'H172', 'abc123', 'Huỳnh_Văn_D@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (173, 'Lê Quốc D', '096624049', 'Bạc Liêu', '4690540', 'Nữ', '1996-05-05', 'L173', 'abc123', 'Lê_Quốc_D@gmail.com');
+VALUES (173, 'Hoàng Ngọc X', '095055290', 'Bắc Ninh', '7003849', 'Nữ', '2000-03-19', 'H173', 'abc123', 'Hoàng_Ngọc_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (174, 'Trần Hữu D', '099525850', 'Bắc Ninh', '9308675', 'Nữ', '1990-04-17', 'T174', 'abc123', 'Trần_Hữu_D@gmail.com');
+VALUES (174, 'Phan Hữu B', '093666721', 'Khánh Hòa', '5760365', 'Nữ', '1981-01-29', 'P174', 'abc123', 'Phan_Hữu_B@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (175, 'Lê Phúc B', '093294663', 'Hải Dương', '8538085', 'Nam', '2002-07-23', 'L175', 'abc123', 'Lê_Phúc_B@gmail.com');
+VALUES (175, 'Hoàng Phong K', '09716654', 'Bắc Kạn', '5556622', 'Nữ', '1969-04-24', 'H175', 'abc123', 'Hoàng_Phong_K@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (176, 'Phan Quốc L', '096789311', 'Kiên Giang', '7667436', 'Nữ', '1965-08-31', 'P176', 'abc123', 'Phan_Quốc_L@gmail.com');
+VALUES (176, 'Đỗ Quốc E', '093387726', 'Ninh Bình', '5518161', 'Nam', '1979-03-19', 'Đ176', 'abc123', 'Đỗ_Quốc_E@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (177, 'Phạm Quốc X', '091997139', 'Trà Vinh', '1061221', 'Nam', '1972-11-09', 'P177', 'abc123', 'Phạm_Quốc_X@gmail.com');
+VALUES (177, 'Đỗ Phong C', '097900367', 'Thái Nguyên', '4069408', 'Nam', '2004-06-15', 'Đ177', 'abc123', 'Đỗ_Phong_C@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (178, 'Lý Hữu H', '09969192', 'Hải Dương', '6961823', 'Nam', '1957-04-20', 'L178', 'abc123', 'Lý_Hữu_H@gmail.com');
+VALUES (178, 'Hồ Hữu Q', '093487065', 'Hòa Bình', '9151734', 'Nam', '1960-10-23', 'H178', 'abc123', 'Hồ_Hữu_Q@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (179, 'Hồ Hữu O', '095816495', 'Vĩnh Long', '2844400', 'Nữ', '1969-05-10', 'H179', 'abc123', 'Hồ_Hữu_O@gmail.com');
+VALUES (179, 'Trần Phong I', '096457817', 'Vĩnh Phúc', '4939672', 'Nam', '1962-03-26', 'T179', 'abc123', 'Trần_Phong_I@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (180, 'Lý Quốc B', '091935143', 'Quảng Ngãi', '8089186', 'Nữ', '1990-05-05', 'L180', 'abc123', 'Lý_Quốc_B@gmail.com');
+VALUES (180, 'Đặng Phúc K', '096397454', 'Đắk Nông', '8098040', 'Nam', '1973-08-03', 'Đ180', 'abc123', 'Đặng_Phúc_K@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (181, 'Phạm Văn S', '098267849', 'Thanh Hóa', '4244481', 'Nam', '2000-01-29', 'P181', 'abc123', 'Phạm_Văn_S@gmail.com');
+VALUES (181, 'Lê Hữu K', '095785408', 'Đà Nẵng', '1830271', 'Nữ', '1996-11-06', 'L181', 'abc123', 'Lê_Hữu_K@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (182, 'Lý Phong G', '092897186', 'Bình Định', '9043199', 'Nữ', '1970-08-06', 'L182', 'abc123', 'Lý_Phong_G@gmail.com');
+VALUES (182, 'Võ Văn K', '099089283', 'Tây Ninh', '9079267', 'Nam', '2001-06-27', 'V182', 'abc123', 'Võ_Văn_K@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (183, 'Ngô Quốc E', '09579747', 'Hải Phòng', '6741248', 'Nam', '1996-06-27', 'N183', 'abc123', 'Ngô_Quốc_E@gmail.com');
+VALUES (183, 'Phạm Ngọc F', '092430632', 'Hòa Bình', '5938148', 'Nam', '1977-03-10', 'P183', 'abc123', 'Phạm_Ngọc_F@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (184, 'Hoàng Phúc T', '094730413', 'Kon Tum', '5683125', 'Nam', '1983-07-17', 'H184', 'abc123', 'Hoàng_Phúc_T@gmail.com');
+VALUES (184, 'Phan Phong X', '099561267', 'Bạc Liêu', '8322360', 'Nữ', '1960-07-07', 'P184', 'abc123', 'Phan_Phong_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (185, 'Đặng Văn B', '096893015', 'Lào Cai', '1466275', 'Nữ', '1963-03-21', 'Đ185', 'abc123', 'Đặng_Văn_B@gmail.com');
+VALUES (185, 'Huỳnh Hữu R', '09459141', 'Sơn La', '4490746', 'Nam', '1984-07-01', 'H185', 'abc123', 'Huỳnh_Hữu_R@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (186, 'Đỗ Văn Y', '094710100', 'Phú Yên', '6149496', 'Nam', '1989-03-04', 'Đ186', 'abc123', 'Đỗ_Văn_Y@gmail.com');
+VALUES (186, 'Hồ Phúc X', '091223494', 'Ninh Thuận', '356876', 'Nam', '1997-01-24', 'H186', 'abc123', 'Hồ_Phúc_X@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (187, 'Vũ Văn V', '095933756', 'Bình Thuận', '6891653', 'Nữ', '1979-06-29', 'V187', 'abc123', 'Vũ_Văn_V@gmail.com');
+VALUES (187, 'Phan Quốc W', '096019912', 'Thừa Thiên Huế', '5509751', 'Nam', '1974-10-12', 'P187', 'abc123', 'Phan_Quốc_W@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (188, 'Vũ Hữu Y', '092986385', 'Nam Định', '756331', 'Nữ', '1962-12-06', 'V188', 'abc123', 'Vũ_Hữu_Y@gmail.com');
+VALUES (188, 'Huỳnh Ngọc L', '096028870', 'Bình Dương', '4302850', 'Nữ', '1975-09-25', 'H188', 'abc123', 'Huỳnh_Ngọc_L@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (189, 'Ngô Hữu V', '095150813', 'Tây Ninh', '1497983', 'Nữ', '1993-04-15', 'N189', 'abc123', 'Ngô_Hữu_V@gmail.com');
+VALUES (189, 'Lê Đăng P', '096149081', 'Hà Nội', '6641532', 'Nam', '2004-02-27', 'L189', 'abc123', 'Lê_Đăng_P@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (190, 'Dương Hữu U', '094590581', 'Đắk Nông', '2559171', 'Nữ', '1967-04-28', 'D190', 'abc123', 'Dương_Hữu_U@gmail.com');
+VALUES (190, 'Đặng Hữu B', '096593765', 'Hà Nam', '7601381', 'Nam', '2003-05-21', 'Đ190', 'abc123', 'Đặng_Hữu_B@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (191, 'Hoàng Phúc S', '097302121', 'Quảng Ngãi', '2641401', 'Nam', '1970-10-26', 'H191', 'abc123', 'Hoàng_Phúc_S@gmail.com');
+VALUES (191, 'Phạm Phúc H', '094519051', 'Quảng Nam', '8675941', 'Nam', '1970-12-17', 'P191', 'abc123', 'Phạm_Phúc_H@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (192, 'Huỳnh Phúc J', '09790547', 'Ninh Bình', '3729864', 'Nữ', '1987-01-28', 'H192', 'abc123', 'Huỳnh_Phúc_J@gmail.com');
+VALUES (192, 'Huỳnh Phong Q', '095995896', 'Phú Yên', '8244137', 'Nữ', '1988-12-22', 'H192', 'abc123', 'Huỳnh_Phong_Q@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (193, 'Bùi Hữu J', '0931032', 'Quảng Ninh', '9802338', 'Nam', '1996-12-31', 'B193', 'abc123', 'Bùi_Hữu_J@gmail.com');
+VALUES (193, 'Huỳnh Phúc Q', '093568000', 'Trà Vinh', '6259866', 'Nữ', '1958-07-10', 'H193', 'abc123', 'Huỳnh_Phúc_Q@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (194, 'Đặng Hữu R', '091200476', 'Lai Châu', '9363142', 'Nữ', '1998-08-11', 'Đ194', 'abc123', 'Đặng_Hữu_R@gmail.com');
+VALUES (194, 'Lê Phúc T', '091447259', 'Bình Phước', '1724021', 'Nam', '1966-10-20', 'L194', 'abc123', 'Lê_Phúc_T@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (195, 'Lý Phúc B', '096092817', 'Đắk Lắk', '8924063', 'Nữ', '1994-03-29', 'L195', 'abc123', 'Lý_Phúc_B@gmail.com');
+VALUES (195, 'Vũ Hữu F', '093235919', 'Thái Nguyên', '9259213', 'Nam', '2000-07-26', 'V195', 'abc123', 'Vũ_Hữu_F@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (196, 'Huỳnh Đăng S', '097200803', 'Kiên Giang', '3396714', 'Nữ', '2001-03-06', 'H196', 'abc123', 'Huỳnh_Đăng_S@gmail.com');
+VALUES (196, 'Huỳnh Đăng G', '094612206', 'Phú Thọ', '8157736', 'Nữ', '2003-01-03', 'H196', 'abc123', 'Huỳnh_Đăng_G@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (197, 'Đặng Đăng H', '095573228', 'Phú Thọ', '4636985', 'Nữ', '1962-07-30', 'Đ197', 'abc123', 'Đặng_Đăng_H@gmail.com');
+VALUES (197, 'Hồ Văn U', '091386830', 'Bến Tre', '8232761', 'Nữ', '2002-05-31', 'H197', 'abc123', 'Hồ_Văn_U@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (198, 'Phan Ngọc K', '097936862', 'Quảng Nam', '945698', 'Nữ', '2004-02-23', 'P198', 'abc123', 'Phan_Ngọc_K@gmail.com');
+VALUES (198, 'Võ Văn V', '096975503', 'Bạc Liêu', '8322002', 'Nam', '1976-01-06', 'V198', 'abc123', 'Võ_Văn_V@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (199, 'Hồ Hữu H', '091685086', 'Điện Biên', '8815052', 'Nam', '1968-08-18', 'H199', 'abc123', 'Hồ_Hữu_H@gmail.com');
+VALUES (199, 'Lý Ngọc N', '099912853', 'Cà Mau', '6553598', 'Nữ', '1961-12-12', 'L199', 'abc123', 'Lý_Ngọc_N@gmail.com');
 
 INSERT INTO customers(ma_khach_hang, ten_khach_hang, sdt, dia_chi, cmnd, gioi_tinh, ngay_sinh, ten_dang_nhap, mat_khau, email)
-VALUES (200, 'Phạm Phúc K', '092440293', 'Điện Biên', '7533882', 'Nam', '1966-11-13', 'P200', 'abc123', 'Phạm_Phúc_K@gmail.com');
+VALUES (200, 'Bùi Phúc T', '093362473', 'Kiên Giang', '4698725', 'Nữ', '1989-05-04', 'B200', 'abc123', 'Bùi_Phúc_T@gmail.com');
 

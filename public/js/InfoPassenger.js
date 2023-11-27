@@ -3,7 +3,11 @@ var urlParams = new URLSearchParams(window.location.search);
 var order_number = urlParams.get('order_number');
 
 var quantity = [];
+<<<<<<< HEAD
 
+=======
+// var oj = quantity[0];
+>>>>>>> 782c73bed50da7cb72bd5b438dcb5bd6b8752855
 function getQuantityPersonOrder() {
     var data = {
         order_number: order_number
@@ -29,6 +33,7 @@ function getQuantityPersonOrder() {
 
 getQuantityPersonOrder();
 
+<<<<<<< HEAD
 function createInputElement(type, placeholder, minDate, maxDate) {
     var input = document.createElement('input');
     input.type = type;
@@ -83,6 +88,8 @@ function createChildForm(number) {
 createAdultForm(adultsQuantity); // Gọi hàm để tạo form cho người lớn
 createChildForm(childrenQuantity); // Gọi hàm để tạo form cho trẻ em
 
+=======
+>>>>>>> 782c73bed50da7cb72bd5b438dcb5bd6b8752855
 function backToBookingPage() {
 
     var data = {
@@ -160,3 +167,9 @@ function goToSeatOrder() {
         });
 }
 
+<<<<<<< HEAD
+=======
+function initFormSubmitInfo() {
+   
+}
+>>>>>>> 782c73bed50da7cb72bd5b438dcb5bd6b8752855

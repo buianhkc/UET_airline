@@ -1,1800 +1,1800 @@
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (11, 1, 'pho_thong', 36, 2204000, 1674000, null);
+VALUES (11, 1, 'pho_thong', 36, 2681000, 1875000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (12, 1, 'thuong_gia', 12, 3733000, 3090000, null);
+VALUES (12, 1, 'thuong_gia', 12, 6981000, 4798000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (21, 2, 'pho_thong', 36, 1384000, 204000, null);
+VALUES (21, 2, 'pho_thong', 36, 3642000, 1175000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (22, 2, 'thuong_gia', 12, 3264000, 2886000, null);
+VALUES (22, 2, 'thuong_gia', 12, 3898000, 3822000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (31, 3, 'pho_thong', 36, 3651000, 1677000, null);
+VALUES (31, 3, 'pho_thong', 36, 848000, 748000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (32, 3, 'thuong_gia', 12, 1459000, 788000, null);
+VALUES (32, 3, 'thuong_gia', 12, 3204000, 2292000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (41, 4, 'pho_thong', 36, 3524000, 1898000, null);
+VALUES (41, 4, 'pho_thong', 36, 3721000, 2265000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (42, 4, 'thuong_gia', 12, 582000, 14000, null);
+VALUES (42, 4, 'thuong_gia', 12, 3352000, 2900000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (51, 5, 'pho_thong', 36, 1877000, 1565000, null);
+VALUES (51, 5, 'pho_thong', 36, 860000, 142000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (52, 5, 'thuong_gia', 12, 2146000, 190000, null);
+VALUES (52, 5, 'thuong_gia', 12, 4389000, 2816000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (61, 6, 'pho_thong', 36, 2455000, 155000, null);
+VALUES (61, 6, 'pho_thong', 36, 3215000, 1770000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (62, 6, 'thuong_gia', 12, 3769000, 3392000, null);
+VALUES (62, 6, 'thuong_gia', 12, 2381000, 524000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (71, 7, 'pho_thong', 36, 2178000, 1628000, null);
+VALUES (71, 7, 'pho_thong', 36, 3158000, 1933000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (72, 7, 'thuong_gia', 12, 4640000, 4026000, null);
+VALUES (72, 7, 'thuong_gia', 12, 4351000, 4248000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (81, 8, 'pho_thong', 36, 2005000, 1839000, null);
+VALUES (81, 8, 'pho_thong', 36, 2211000, 1068000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (82, 8, 'thuong_gia', 12, 2966000, 2744000, null);
+VALUES (82, 8, 'thuong_gia', 12, 1805000, 616000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (91, 9, 'pho_thong', 36, 679000, 332000, null);
+VALUES (91, 9, 'pho_thong', 36, 2408000, 1715000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (92, 9, 'thuong_gia', 12, 5371000, 4096000, null);
+VALUES (92, 9, 'thuong_gia', 12, 3997000, 2340000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (101, 10, 'pho_thong', 36, 728000, 104000, null);
+VALUES (101, 10, 'pho_thong', 36, 2286000, 1947000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (102, 10, 'thuong_gia', 12, 3466000, 3074000, null);
+VALUES (102, 10, 'thuong_gia', 12, 3568000, 1866000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (111, 11, 'pho_thong', 36, 3332000, 1783000, null);
+VALUES (111, 11, 'pho_thong', 36, 2511000, 189000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (112, 11, 'thuong_gia', 12, 191000, 146000, null);
+VALUES (112, 11, 'thuong_gia', 12, 1127000, 420000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (121, 12, 'pho_thong', 36, 1610000, 826000, null);
+VALUES (121, 12, 'pho_thong', 36, 1764000, 1295000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (122, 12, 'thuong_gia', 12, 5236000, 4894000, null);
+VALUES (122, 12, 'thuong_gia', 12, 4916000, 2932000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (131, 13, 'pho_thong', 36, 3587000, 1692000, null);
+VALUES (131, 13, 'pho_thong', 36, 3737000, 1395000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (132, 13, 'thuong_gia', 12, 5534000, 3120000, null);
+VALUES (132, 13, 'thuong_gia', 12, 3064000, 2032000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (141, 14, 'pho_thong', 36, 2251000, 471000, null);
+VALUES (141, 14, 'pho_thong', 36, 3108000, 2123000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (142, 14, 'thuong_gia', 12, 2468000, 1750000, null);
+VALUES (142, 14, 'thuong_gia', 12, 2790000, 2022000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (151, 15, 'pho_thong', 36, 3552000, 1212000, null);
+VALUES (151, 15, 'pho_thong', 36, 3505000, 1468000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (152, 15, 'thuong_gia', 12, 5037000, 3458000, null);
+VALUES (152, 15, 'thuong_gia', 12, 1438000, 1324000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (161, 16, 'pho_thong', 36, 1776000, 1627000, null);
+VALUES (161, 16, 'pho_thong', 36, 2471000, 1781000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (162, 16, 'thuong_gia', 12, 2961000, 1964000, null);
+VALUES (162, 16, 'thuong_gia', 12, 2927000, 1954000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (171, 17, 'pho_thong', 36, 935000, 358000, null);
+VALUES (171, 17, 'pho_thong', 36, 1813000, 1611000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (172, 17, 'thuong_gia', 12, 4049000, 3698000, null);
+VALUES (172, 17, 'thuong_gia', 12, 5023000, 3660000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (181, 18, 'pho_thong', 36, 3064000, 2362000, null);
+VALUES (181, 18, 'pho_thong', 36, 3930000, 2362000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (182, 18, 'thuong_gia', 12, 4737000, 2888000, null);
+VALUES (182, 18, 'thuong_gia', 12, 621000, 228000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (191, 19, 'pho_thong', 36, 2573000, 929000, null);
+VALUES (191, 19, 'pho_thong', 36, 1583000, 432000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (192, 19, 'thuong_gia', 12, 5140000, 4952000, null);
+VALUES (192, 19, 'thuong_gia', 12, 6844000, 4484000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (201, 20, 'pho_thong', 36, 2366000, 174000, null);
+VALUES (201, 20, 'pho_thong', 36, 730000, 203000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (202, 20, 'thuong_gia', 12, 3025000, 1476000, null);
+VALUES (202, 20, 'thuong_gia', 12, 2736000, 2658000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (211, 21, 'pho_thong', 36, 2505000, 411000, null);
+VALUES (211, 21, 'pho_thong', 36, 3285000, 1234000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (212, 21, 'thuong_gia', 12, 5470000, 3888000, null);
+VALUES (212, 21, 'thuong_gia', 12, 3482000, 3034000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (221, 22, 'pho_thong', 36, 2924000, 458000, null);
+VALUES (221, 22, 'pho_thong', 36, 3092000, 1034000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (222, 22, 'thuong_gia', 12, 7238000, 4776000, null);
+VALUES (222, 22, 'thuong_gia', 12, 5689000, 3464000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (231, 23, 'pho_thong', 36, 796000, 789000, null);
+VALUES (231, 23, 'pho_thong', 36, 2238000, 1805000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (232, 23, 'thuong_gia', 12, 1470000, 586000, null);
+VALUES (232, 23, 'thuong_gia', 12, 5014000, 4060000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (241, 24, 'pho_thong', 36, 2361000, 711000, null);
+VALUES (241, 24, 'pho_thong', 36, 4102000, 2164000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (242, 24, 'thuong_gia', 12, 4735000, 2904000, null);
+VALUES (242, 24, 'thuong_gia', 12, 6891000, 4684000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (251, 25, 'pho_thong', 36, 3570000, 1935000, null);
+VALUES (251, 25, 'pho_thong', 36, 729000, 153000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (252, 25, 'thuong_gia', 12, 5381000, 3102000, null);
+VALUES (252, 25, 'thuong_gia', 12, 873000, 156000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (261, 26, 'pho_thong', 36, 357000, 116000, null);
+VALUES (261, 26, 'pho_thong', 36, 2065000, 707000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (262, 26, 'thuong_gia', 12, 1044000, 318000, null);
+VALUES (262, 26, 'thuong_gia', 12, 4929000, 3050000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (271, 27, 'pho_thong', 36, 2709000, 931000, null);
+VALUES (271, 27, 'pho_thong', 36, 3303000, 2052000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (272, 27, 'thuong_gia', 12, 4266000, 1800000, null);
+VALUES (272, 27, 'thuong_gia', 12, 5067000, 4802000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (281, 28, 'pho_thong', 36, 3454000, 2121000, null);
+VALUES (281, 28, 'pho_thong', 36, 4461000, 2202000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (282, 28, 'thuong_gia', 12, 4808000, 3576000, null);
+VALUES (282, 28, 'thuong_gia', 12, 4173000, 3344000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (291, 29, 'pho_thong', 36, 2627000, 1146000, null);
+VALUES (291, 29, 'pho_thong', 36, 2047000, 156000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (292, 29, 'thuong_gia', 12, 2565000, 376000, null);
+VALUES (292, 29, 'thuong_gia', 12, 3727000, 1660000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (301, 30, 'pho_thong', 36, 2769000, 281000, null);
+VALUES (301, 30, 'pho_thong', 36, 2610000, 2012000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (302, 30, 'thuong_gia', 12, 2476000, 464000, null);
+VALUES (302, 30, 'thuong_gia', 12, 5008000, 3544000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (311, 31, 'pho_thong', 36, 1642000, 780000, null);
+VALUES (311, 31, 'pho_thong', 36, 4545000, 2279000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (312, 31, 'thuong_gia', 12, 1735000, 1162000, null);
+VALUES (312, 31, 'thuong_gia', 12, 6233000, 4024000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (321, 32, 'pho_thong', 36, 2917000, 2344000, null);
+VALUES (321, 32, 'pho_thong', 36, 2628000, 232000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (322, 32, 'thuong_gia', 12, 2794000, 1208000, null);
+VALUES (322, 32, 'thuong_gia', 12, 3865000, 3790000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (331, 33, 'pho_thong', 36, 4193000, 2292000, null);
+VALUES (331, 33, 'pho_thong', 36, 2870000, 854000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (332, 33, 'thuong_gia', 12, 4947000, 4650000, null);
+VALUES (332, 33, 'thuong_gia', 12, 5901000, 4782000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (341, 34, 'pho_thong', 36, 4076000, 1906000, null);
+VALUES (341, 34, 'pho_thong', 36, 1913000, 1837000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (342, 34, 'thuong_gia', 12, 4295000, 2588000, null);
+VALUES (342, 34, 'thuong_gia', 12, 5451000, 3498000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (351, 35, 'pho_thong', 36, 2395000, 1711000, null);
+VALUES (351, 35, 'pho_thong', 36, 2513000, 1368000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (352, 35, 'thuong_gia', 12, 3599000, 2216000, null);
+VALUES (352, 35, 'thuong_gia', 12, 2080000, 1462000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (361, 36, 'pho_thong', 36, 1314000, 900000, null);
+VALUES (361, 36, 'pho_thong', 36, 1548000, 107000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (362, 36, 'thuong_gia', 12, 405000, 42000, null);
+VALUES (362, 36, 'thuong_gia', 12, 5212000, 3574000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (371, 37, 'pho_thong', 36, 1344000, 275000, null);
+VALUES (371, 37, 'pho_thong', 36, 3022000, 2440000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (372, 37, 'thuong_gia', 12, 3260000, 1816000, null);
+VALUES (372, 37, 'thuong_gia', 12, 5472000, 3400000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (381, 38, 'pho_thong', 36, 3616000, 2252000, null);
+VALUES (381, 38, 'pho_thong', 36, 865000, 334000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (382, 38, 'thuong_gia', 12, 3872000, 1416000, null);
+VALUES (382, 38, 'thuong_gia', 12, 5898000, 3926000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (391, 39, 'pho_thong', 36, 2049000, 142000, null);
+VALUES (391, 39, 'pho_thong', 36, 2336000, 1489000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (392, 39, 'thuong_gia', 12, 4430000, 3966000, null);
+VALUES (392, 39, 'thuong_gia', 12, 4472000, 3192000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (401, 40, 'pho_thong', 36, 1964000, 193000, null);
+VALUES (401, 40, 'pho_thong', 36, 1252000, 97000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (402, 40, 'thuong_gia', 12, 5051000, 3726000, null);
+VALUES (402, 40, 'thuong_gia', 12, 447000, 50000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (411, 41, 'pho_thong', 36, 1427000, 1057000, null);
+VALUES (411, 41, 'pho_thong', 36, 1889000, 262000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (412, 41, 'thuong_gia', 12, 5676000, 4498000, null);
+VALUES (412, 41, 'thuong_gia', 12, 5400000, 2938000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (421, 42, 'pho_thong', 36, 1288000, 1005000, null);
+VALUES (421, 42, 'pho_thong', 36, 4331000, 1839000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (422, 42, 'thuong_gia', 12, 2024000, 1240000, null);
+VALUES (422, 42, 'thuong_gia', 12, 1833000, 1584000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (431, 43, 'pho_thong', 36, 2991000, 920000, null);
+VALUES (431, 43, 'pho_thong', 36, 1921000, 1245000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (432, 43, 'thuong_gia', 12, 3407000, 1546000, null);
+VALUES (432, 43, 'thuong_gia', 12, 3282000, 2004000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (441, 44, 'pho_thong', 36, 2709000, 1848000, null);
+VALUES (441, 44, 'pho_thong', 36, 2618000, 691000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (442, 44, 'thuong_gia', 12, 4800000, 4412000, null);
+VALUES (442, 44, 'thuong_gia', 12, 1614000, 352000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (451, 45, 'pho_thong', 36, 2093000, 23000, null);
+VALUES (451, 45, 'pho_thong', 36, 3742000, 1766000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (452, 45, 'thuong_gia', 12, 3635000, 1870000, null);
+VALUES (452, 45, 'thuong_gia', 12, 2384000, 2116000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (461, 46, 'pho_thong', 36, 2677000, 2320000, null);
+VALUES (461, 46, 'pho_thong', 36, 1092000, 451000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (462, 46, 'thuong_gia', 12, 5726000, 4550000, null);
+VALUES (462, 46, 'thuong_gia', 12, 2407000, 368000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (471, 47, 'pho_thong', 36, 3443000, 1501000, null);
+VALUES (471, 47, 'pho_thong', 36, 2737000, 2340000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (472, 47, 'thuong_gia', 12, 1693000, 1024000, null);
+VALUES (472, 47, 'thuong_gia', 12, 4764000, 2886000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (481, 48, 'pho_thong', 36, 1877000, 12000, null);
+VALUES (481, 48, 'pho_thong', 36, 3194000, 781000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (482, 48, 'thuong_gia', 12, 3821000, 3732000, null);
+VALUES (482, 48, 'thuong_gia', 12, 3309000, 2880000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (491, 49, 'pho_thong', 36, 3589000, 1630000, null);
+VALUES (491, 49, 'pho_thong', 36, 2860000, 2022000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (492, 49, 'thuong_gia', 12, 3353000, 2944000, null);
+VALUES (492, 49, 'thuong_gia', 12, 2804000, 882000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (501, 50, 'pho_thong', 36, 1632000, 5000, null);
+VALUES (501, 50, 'pho_thong', 36, 2311000, 1612000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (502, 50, 'thuong_gia', 12, 4651000, 3340000, null);
+VALUES (502, 50, 'thuong_gia', 12, 969000, 456000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (511, 51, 'pho_thong', 36, 2046000, 539000, null);
+VALUES (511, 51, 'pho_thong', 36, 2667000, 1294000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (512, 51, 'thuong_gia', 12, 2825000, 2386000, null);
+VALUES (512, 51, 'thuong_gia', 12, 5839000, 3508000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (521, 52, 'pho_thong', 36, 4032000, 1630000, null);
+VALUES (521, 52, 'pho_thong', 36, 2097000, 1392000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (522, 52, 'thuong_gia', 12, 4248000, 2576000, null);
+VALUES (522, 52, 'thuong_gia', 12, 2851000, 554000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (531, 53, 'pho_thong', 36, 1953000, 1756000, null);
+VALUES (531, 53, 'pho_thong', 36, 4515000, 2154000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (532, 53, 'thuong_gia', 12, 4467000, 3120000, null);
+VALUES (532, 53, 'thuong_gia', 12, 1417000, 6000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (541, 54, 'pho_thong', 36, 1521000, 1179000, null);
+VALUES (541, 54, 'pho_thong', 36, 3673000, 1684000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (542, 54, 'thuong_gia', 12, 954000, 672000, null);
+VALUES (542, 54, 'thuong_gia', 12, 3214000, 1026000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (551, 55, 'pho_thong', 36, 1788000, 144000, null);
+VALUES (551, 55, 'pho_thong', 36, 2588000, 828000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (552, 55, 'thuong_gia', 12, 3539000, 1132000, null);
+VALUES (552, 55, 'thuong_gia', 12, 985000, 884000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (561, 56, 'pho_thong', 36, 2368000, 1859000, null);
+VALUES (561, 56, 'pho_thong', 36, 2248000, 1754000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (562, 56, 'thuong_gia', 12, 4825000, 2896000, null);
+VALUES (562, 56, 'thuong_gia', 12, 3720000, 2254000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (571, 57, 'pho_thong', 36, 4066000, 2334000, null);
+VALUES (571, 57, 'pho_thong', 36, 1652000, 629000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (572, 57, 'thuong_gia', 12, 6566000, 4962000, null);
+VALUES (572, 57, 'thuong_gia', 12, 5416000, 4142000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (581, 58, 'pho_thong', 36, 2667000, 1886000, null);
+VALUES (581, 58, 'pho_thong', 36, 2588000, 618000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (582, 58, 'thuong_gia', 12, 3551000, 1300000, null);
+VALUES (582, 58, 'thuong_gia', 12, 4740000, 3616000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (591, 59, 'pho_thong', 36, 2321000, 1677000, null);
+VALUES (591, 59, 'pho_thong', 36, 2163000, 1198000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (592, 59, 'thuong_gia', 12, 1711000, 68000, null);
+VALUES (592, 59, 'thuong_gia', 12, 2698000, 1576000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (601, 60, 'pho_thong', 36, 3354000, 899000, null);
+VALUES (601, 60, 'pho_thong', 36, 1946000, 629000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (602, 60, 'thuong_gia', 12, 978000, 916000, null);
+VALUES (602, 60, 'thuong_gia', 12, 2538000, 196000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (611, 61, 'pho_thong', 36, 1679000, 929000, null);
+VALUES (611, 61, 'pho_thong', 36, 824000, 474000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (612, 61, 'thuong_gia', 12, 1332000, 482000, null);
+VALUES (612, 61, 'thuong_gia', 12, 3308000, 1366000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (621, 62, 'pho_thong', 36, 2168000, 1242000, null);
+VALUES (621, 62, 'pho_thong', 36, 3095000, 961000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (622, 62, 'thuong_gia', 12, 2530000, 1416000, null);
+VALUES (622, 62, 'thuong_gia', 12, 6720000, 4498000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (631, 63, 'pho_thong', 36, 958000, 576000, null);
+VALUES (631, 63, 'pho_thong', 36, 4009000, 2351000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (632, 63, 'thuong_gia', 12, 5039000, 4176000, null);
+VALUES (632, 63, 'thuong_gia', 12, 5998000, 4144000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (641, 64, 'pho_thong', 36, 2984000, 1634000, null);
+VALUES (641, 64, 'pho_thong', 36, 1568000, 1458000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (642, 64, 'thuong_gia', 12, 2933000, 2480000, null);
+VALUES (642, 64, 'thuong_gia', 12, 4199000, 2196000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (651, 65, 'pho_thong', 36, 2890000, 1095000, null);
+VALUES (651, 65, 'pho_thong', 36, 2224000, 1132000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (652, 65, 'thuong_gia', 12, 4769000, 3384000, null);
+VALUES (652, 65, 'thuong_gia', 12, 4953000, 3480000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (661, 66, 'pho_thong', 36, 3600000, 1337000, null);
+VALUES (661, 66, 'pho_thong', 36, 2337000, 2044000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (662, 66, 'thuong_gia', 12, 6188000, 3812000, null);
+VALUES (662, 66, 'thuong_gia', 12, 2734000, 632000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (671, 67, 'pho_thong', 36, 1394000, 1344000, null);
+VALUES (671, 67, 'pho_thong', 36, 1728000, 930000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (672, 67, 'thuong_gia', 12, 3458000, 2698000, null);
+VALUES (672, 67, 'thuong_gia', 12, 4184000, 3690000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (681, 68, 'pho_thong', 36, 2737000, 636000, null);
+VALUES (681, 68, 'pho_thong', 36, 2367000, 466000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (682, 68, 'thuong_gia', 12, 2789000, 2438000, null);
+VALUES (682, 68, 'thuong_gia', 12, 4132000, 4034000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (691, 69, 'pho_thong', 36, 3180000, 2427000, null);
+VALUES (691, 69, 'pho_thong', 36, 2381000, 1778000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (692, 69, 'thuong_gia', 12, 3489000, 1060000, null);
+VALUES (692, 69, 'thuong_gia', 12, 3467000, 2602000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (701, 70, 'pho_thong', 36, 2829000, 741000, null);
+VALUES (701, 70, 'pho_thong', 36, 3770000, 1346000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (702, 70, 'thuong_gia', 12, 2614000, 1046000, null);
+VALUES (702, 70, 'thuong_gia', 12, 1689000, 54000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (711, 71, 'pho_thong', 36, 2941000, 1935000, null);
+VALUES (711, 71, 'pho_thong', 36, 3469000, 1763000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (712, 71, 'thuong_gia', 12, 5088000, 3762000, null);
+VALUES (712, 71, 'thuong_gia', 12, 5044000, 4692000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (721, 72, 'pho_thong', 36, 2104000, 658000, null);
+VALUES (721, 72, 'pho_thong', 36, 677000, 57000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (722, 72, 'thuong_gia', 12, 3402000, 1272000, null);
+VALUES (722, 72, 'thuong_gia', 12, 3581000, 3378000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (731, 73, 'pho_thong', 36, 4488000, 2385000, null);
+VALUES (731, 73, 'pho_thong', 36, 1828000, 1038000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (732, 73, 'thuong_gia', 12, 3292000, 2284000, null);
+VALUES (732, 73, 'thuong_gia', 12, 1606000, 834000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (741, 74, 'pho_thong', 36, 2399000, 66000, null);
+VALUES (741, 74, 'pho_thong', 36, 967000, 632000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (742, 74, 'thuong_gia', 12, 2037000, 384000, null);
+VALUES (742, 74, 'thuong_gia', 12, 6142000, 3778000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (751, 75, 'pho_thong', 36, 4328000, 2431000, null);
+VALUES (751, 75, 'pho_thong', 36, 3993000, 1595000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (752, 75, 'thuong_gia', 12, 5029000, 3240000, null);
+VALUES (752, 75, 'thuong_gia', 12, 5997000, 4496000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (761, 76, 'pho_thong', 36, 3290000, 919000, null);
+VALUES (761, 76, 'pho_thong', 36, 1987000, 383000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (762, 76, 'thuong_gia', 12, 3753000, 3392000, null);
+VALUES (762, 76, 'thuong_gia', 12, 3150000, 3010000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (771, 77, 'pho_thong', 36, 1933000, 61000, null);
+VALUES (771, 77, 'pho_thong', 36, 1355000, 1209000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (772, 77, 'thuong_gia', 12, 5279000, 2910000, null);
+VALUES (772, 77, 'thuong_gia', 12, 2047000, 1012000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (781, 78, 'pho_thong', 36, 3261000, 1192000, null);
+VALUES (781, 78, 'pho_thong', 36, 2180000, 105000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (782, 78, 'thuong_gia', 12, 3109000, 616000, null);
+VALUES (782, 78, 'thuong_gia', 12, 4716000, 2570000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (791, 79, 'pho_thong', 36, 2346000, 981000, null);
+VALUES (791, 79, 'pho_thong', 36, 1916000, 953000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (792, 79, 'thuong_gia', 12, 3012000, 632000, null);
+VALUES (792, 79, 'thuong_gia', 12, 3615000, 1148000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (801, 80, 'pho_thong', 36, 2439000, 2072000, null);
+VALUES (801, 80, 'pho_thong', 36, 694000, 163000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (802, 80, 'thuong_gia', 12, 4878000, 2772000, null);
+VALUES (802, 80, 'thuong_gia', 12, 4200000, 2276000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (811, 81, 'pho_thong', 36, 1645000, 209000, null);
+VALUES (811, 81, 'pho_thong', 36, 1622000, 656000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (812, 81, 'thuong_gia', 12, 3960000, 3012000, null);
+VALUES (812, 81, 'thuong_gia', 12, 2939000, 2826000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (821, 82, 'pho_thong', 36, 3774000, 2358000, null);
+VALUES (821, 82, 'pho_thong', 36, 2016000, 1924000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (822, 82, 'thuong_gia', 12, 3100000, 2010000, null);
+VALUES (822, 82, 'thuong_gia', 12, 4124000, 3148000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (831, 83, 'pho_thong', 36, 1901000, 654000, null);
+VALUES (831, 83, 'pho_thong', 36, 2609000, 668000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (832, 83, 'thuong_gia', 12, 2961000, 1158000, null);
+VALUES (832, 83, 'thuong_gia', 12, 2268000, 450000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (841, 84, 'pho_thong', 36, 2993000, 882000, null);
+VALUES (841, 84, 'pho_thong', 36, 2506000, 897000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (842, 84, 'thuong_gia', 12, 4813000, 2886000, null);
+VALUES (842, 84, 'thuong_gia', 12, 2144000, 2016000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (851, 85, 'pho_thong', 36, 1850000, 1469000, null);
+VALUES (851, 85, 'pho_thong', 36, 2251000, 1229000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (852, 85, 'thuong_gia', 12, 1326000, 246000, null);
+VALUES (852, 85, 'thuong_gia', 12, 6937000, 4852000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (861, 86, 'pho_thong', 36, 2257000, 1976000, null);
+VALUES (861, 86, 'pho_thong', 36, 394000, 70000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (862, 86, 'thuong_gia', 12, 3920000, 2008000, null);
+VALUES (862, 86, 'thuong_gia', 12, 5795000, 4690000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (871, 87, 'pho_thong', 36, 2738000, 1429000, null);
+VALUES (871, 87, 'pho_thong', 36, 926000, 174000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (872, 87, 'thuong_gia', 12, 6776000, 4396000, null);
+VALUES (872, 87, 'thuong_gia', 12, 3550000, 3394000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (881, 88, 'pho_thong', 36, 541000, 286000, null);
+VALUES (881, 88, 'pho_thong', 36, 2787000, 1792000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (882, 88, 'thuong_gia', 12, 5375000, 4100000, null);
+VALUES (882, 88, 'thuong_gia', 12, 4961000, 4416000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (891, 89, 'pho_thong', 36, 3136000, 850000, null);
+VALUES (891, 89, 'pho_thong', 36, 2690000, 645000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (892, 89, 'thuong_gia', 12, 2655000, 424000, null);
+VALUES (892, 89, 'thuong_gia', 12, 6284000, 4248000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (901, 90, 'pho_thong', 36, 3044000, 2123000, null);
+VALUES (901, 90, 'pho_thong', 36, 2646000, 1676000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (902, 90, 'thuong_gia', 12, 2705000, 434000, null);
+VALUES (902, 90, 'thuong_gia', 12, 3858000, 2714000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (911, 91, 'pho_thong', 36, 4412000, 2212000, null);
+VALUES (911, 91, 'pho_thong', 36, 1728000, 363000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (912, 91, 'thuong_gia', 12, 1578000, 1098000, null);
+VALUES (912, 91, 'thuong_gia', 12, 2514000, 1382000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (921, 92, 'pho_thong', 36, 2260000, 1091000, null);
+VALUES (921, 92, 'pho_thong', 36, 2830000, 794000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (922, 92, 'thuong_gia', 12, 5474000, 2976000, null);
+VALUES (922, 92, 'thuong_gia', 12, 2196000, 494000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (931, 93, 'pho_thong', 36, 2570000, 2154000, null);
+VALUES (931, 93, 'pho_thong', 36, 943000, 414000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (932, 93, 'thuong_gia', 12, 4237000, 2550000, null);
+VALUES (932, 93, 'thuong_gia', 12, 3423000, 2158000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (941, 94, 'pho_thong', 36, 2267000, 799000, null);
+VALUES (941, 94, 'pho_thong', 36, 917000, 539000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (942, 94, 'thuong_gia', 12, 5120000, 4306000, null);
+VALUES (942, 94, 'thuong_gia', 12, 5685000, 3670000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (951, 95, 'pho_thong', 36, 2275000, 869000, null);
+VALUES (951, 95, 'pho_thong', 36, 2396000, 1883000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (952, 95, 'thuong_gia', 12, 1526000, 1056000, null);
+VALUES (952, 95, 'thuong_gia', 12, 3624000, 2890000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (961, 96, 'pho_thong', 36, 2809000, 2235000, null);
+VALUES (961, 96, 'pho_thong', 36, 2348000, 302000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (962, 96, 'thuong_gia', 12, 5019000, 4152000, null);
+VALUES (962, 96, 'thuong_gia', 12, 6570000, 4210000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (971, 97, 'pho_thong', 36, 2566000, 1649000, null);
+VALUES (971, 97, 'pho_thong', 36, 2478000, 506000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (972, 97, 'thuong_gia', 12, 2512000, 1782000, null);
+VALUES (972, 97, 'thuong_gia', 12, 5968000, 4094000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (981, 98, 'pho_thong', 36, 885000, 193000, null);
+VALUES (981, 98, 'pho_thong', 36, 3232000, 1685000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (982, 98, 'thuong_gia', 12, 3874000, 3532000, null);
+VALUES (982, 98, 'thuong_gia', 12, 5558000, 4854000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (991, 99, 'pho_thong', 36, 1039000, 905000, null);
+VALUES (991, 99, 'pho_thong', 36, 2774000, 381000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (992, 99, 'thuong_gia', 12, 2173000, 1130000, null);
+VALUES (992, 99, 'thuong_gia', 12, 3675000, 1448000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1001, 100, 'pho_thong', 36, 2267000, 2120000, null);
+VALUES (1001, 100, 'pho_thong', 36, 2664000, 1703000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1002, 100, 'thuong_gia', 12, 2892000, 1752000, null);
+VALUES (1002, 100, 'thuong_gia', 12, 4672000, 3374000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1011, 101, 'pho_thong', 36, 4207000, 2437000, null);
+VALUES (1011, 101, 'pho_thong', 36, 387000, 85000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1012, 101, 'thuong_gia', 12, 1110000, 130000, null);
+VALUES (1012, 101, 'thuong_gia', 12, 1759000, 836000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1021, 102, 'pho_thong', 36, 3638000, 1259000, null);
+VALUES (1021, 102, 'pho_thong', 36, 2890000, 1465000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1022, 102, 'thuong_gia', 12, 1833000, 64000, null);
+VALUES (1022, 102, 'thuong_gia', 12, 1368000, 450000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1031, 103, 'pho_thong', 36, 3681000, 1525000, null);
+VALUES (1031, 103, 'pho_thong', 36, 1765000, 847000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1032, 103, 'thuong_gia', 12, 4723000, 3828000, null);
+VALUES (1032, 103, 'thuong_gia', 12, 3364000, 1136000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1041, 104, 'pho_thong', 36, 3001000, 1694000, null);
+VALUES (1041, 104, 'pho_thong', 36, 1388000, 1051000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1042, 104, 'thuong_gia', 12, 4278000, 3490000, null);
+VALUES (1042, 104, 'thuong_gia', 12, 5130000, 3864000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1051, 105, 'pho_thong', 36, 3395000, 2060000, null);
+VALUES (1051, 105, 'pho_thong', 36, 4136000, 1771000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1052, 105, 'thuong_gia', 12, 1516000, 818000, null);
+VALUES (1052, 105, 'thuong_gia', 12, 4066000, 1602000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1061, 106, 'pho_thong', 36, 1452000, 611000, null);
+VALUES (1061, 106, 'pho_thong', 36, 2046000, 782000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1062, 106, 'thuong_gia', 12, 6011000, 4320000, null);
+VALUES (1062, 106, 'thuong_gia', 12, 1181000, 830000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1071, 107, 'pho_thong', 36, 2279000, 969000, null);
+VALUES (1071, 107, 'pho_thong', 36, 3497000, 1304000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1072, 107, 'thuong_gia', 12, 4414000, 3036000, null);
+VALUES (1072, 107, 'thuong_gia', 12, 3515000, 1964000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1081, 108, 'pho_thong', 36, 1027000, 541000, null);
+VALUES (1081, 108, 'pho_thong', 36, 3082000, 1284000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1082, 108, 'thuong_gia', 12, 2080000, 1918000, null);
+VALUES (1082, 108, 'thuong_gia', 12, 6987000, 4832000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1091, 109, 'pho_thong', 36, 2035000, 1052000, null);
+VALUES (1091, 109, 'pho_thong', 36, 2967000, 2494000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1092, 109, 'thuong_gia', 12, 5060000, 3596000, null);
+VALUES (1092, 109, 'thuong_gia', 12, 3928000, 2540000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1101, 110, 'pho_thong', 36, 3495000, 1291000, null);
+VALUES (1101, 110, 'pho_thong', 36, 4640000, 2194000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1102, 110, 'thuong_gia', 12, 5536000, 3920000, null);
+VALUES (1102, 110, 'thuong_gia', 12, 5828000, 3416000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1111, 111, 'pho_thong', 36, 3515000, 1098000, null);
+VALUES (1111, 111, 'pho_thong', 36, 2282000, 1752000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1112, 111, 'thuong_gia', 12, 6628000, 4782000, null);
+VALUES (1112, 111, 'thuong_gia', 12, 3852000, 3778000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1121, 112, 'pho_thong', 36, 1258000, 397000, null);
+VALUES (1121, 112, 'pho_thong', 36, 4160000, 2044000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1122, 112, 'thuong_gia', 12, 3956000, 3480000, null);
+VALUES (1122, 112, 'thuong_gia', 12, 5394000, 3874000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1131, 113, 'pho_thong', 36, 2651000, 725000, null);
+VALUES (1131, 113, 'pho_thong', 36, 3771000, 2143000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1132, 113, 'thuong_gia', 12, 5772000, 4494000, null);
+VALUES (1132, 113, 'thuong_gia', 12, 5953000, 4812000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1141, 114, 'pho_thong', 36, 3880000, 2160000, null);
+VALUES (1141, 114, 'pho_thong', 36, 2546000, 2242000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1142, 114, 'thuong_gia', 12, 1142000, 1060000, null);
+VALUES (1142, 114, 'thuong_gia', 12, 5592000, 4722000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1151, 115, 'pho_thong', 36, 2942000, 1870000, null);
+VALUES (1151, 115, 'pho_thong', 36, 4314000, 2363000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1152, 115, 'thuong_gia', 12, 3713000, 2158000, null);
+VALUES (1152, 115, 'thuong_gia', 12, 4136000, 3656000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1161, 116, 'pho_thong', 36, 2223000, 1111000, null);
+VALUES (1161, 116, 'pho_thong', 36, 1574000, 1262000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1162, 116, 'thuong_gia', 12, 3475000, 2344000, null);
+VALUES (1162, 116, 'thuong_gia', 12, 3645000, 2392000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1171, 117, 'pho_thong', 36, 3607000, 1643000, null);
+VALUES (1171, 117, 'pho_thong', 36, 2027000, 1847000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1172, 117, 'thuong_gia', 12, 5511000, 4750000, null);
+VALUES (1172, 117, 'thuong_gia', 12, 3299000, 2792000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1181, 118, 'pho_thong', 36, 1742000, 1226000, null);
+VALUES (1181, 118, 'pho_thong', 36, 2578000, 986000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1182, 118, 'thuong_gia', 12, 3044000, 1074000, null);
+VALUES (1182, 118, 'thuong_gia', 12, 5913000, 4388000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1191, 119, 'pho_thong', 36, 3269000, 2450000, null);
+VALUES (1191, 119, 'pho_thong', 36, 2791000, 573000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1192, 119, 'thuong_gia', 12, 4864000, 4758000, null);
+VALUES (1192, 119, 'thuong_gia', 12, 4251000, 2852000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1201, 120, 'pho_thong', 36, 4619000, 2216000, null);
+VALUES (1201, 120, 'pho_thong', 36, 998000, 799000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1202, 120, 'thuong_gia', 12, 3161000, 2148000, null);
+VALUES (1202, 120, 'thuong_gia', 12, 4889000, 2596000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1211, 121, 'pho_thong', 36, 3345000, 2330000, null);
+VALUES (1211, 121, 'pho_thong', 36, 3110000, 1826000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1212, 121, 'thuong_gia', 12, 7159000, 4922000, null);
+VALUES (1212, 121, 'thuong_gia', 12, 4409000, 4156000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1221, 122, 'pho_thong', 36, 2167000, 1395000, null);
+VALUES (1221, 122, 'pho_thong', 36, 3254000, 1361000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1222, 122, 'thuong_gia', 12, 3462000, 986000, null);
+VALUES (1222, 122, 'thuong_gia', 12, 3925000, 3324000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1231, 123, 'pho_thong', 36, 3223000, 1316000, null);
+VALUES (1231, 123, 'pho_thong', 36, 4433000, 2344000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1232, 123, 'thuong_gia', 12, 5801000, 4276000, null);
+VALUES (1232, 123, 'thuong_gia', 12, 1841000, 790000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1241, 124, 'pho_thong', 36, 1795000, 1378000, null);
+VALUES (1241, 124, 'pho_thong', 36, 4066000, 1573000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1242, 124, 'thuong_gia', 12, 1652000, 128000, null);
+VALUES (1242, 124, 'thuong_gia', 12, 6284000, 3860000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1251, 125, 'pho_thong', 36, 3327000, 912000, null);
+VALUES (1251, 125, 'pho_thong', 36, 2551000, 1893000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1252, 125, 'thuong_gia', 12, 3547000, 1422000, null);
+VALUES (1252, 125, 'thuong_gia', 12, 5978000, 4898000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1261, 126, 'pho_thong', 36, 1701000, 225000, null);
+VALUES (1261, 126, 'pho_thong', 36, 3938000, 1581000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1262, 126, 'thuong_gia', 12, 4440000, 3134000, null);
+VALUES (1262, 126, 'thuong_gia', 12, 4506000, 4288000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1271, 127, 'pho_thong', 36, 2283000, 879000, null);
+VALUES (1271, 127, 'pho_thong', 36, 1568000, 957000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1272, 127, 'thuong_gia', 12, 4330000, 4100000, null);
+VALUES (1272, 127, 'thuong_gia', 12, 5324000, 4680000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1281, 128, 'pho_thong', 36, 4045000, 1640000, null);
+VALUES (1281, 128, 'pho_thong', 36, 2888000, 1701000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1282, 128, 'thuong_gia', 12, 6544000, 4296000, null);
+VALUES (1282, 128, 'thuong_gia', 12, 2698000, 2412000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1291, 129, 'pho_thong', 36, 565000, 485000, null);
+VALUES (1291, 129, 'pho_thong', 36, 2577000, 812000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1292, 129, 'thuong_gia', 12, 4157000, 3970000, null);
+VALUES (1292, 129, 'thuong_gia', 12, 5998000, 3550000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1301, 130, 'pho_thong', 36, 933000, 910000, null);
+VALUES (1301, 130, 'pho_thong', 36, 2744000, 1947000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1302, 130, 'thuong_gia', 12, 948000, 140000, null);
+VALUES (1302, 130, 'thuong_gia', 12, 6393000, 4486000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1311, 131, 'pho_thong', 36, 324000, 223000, null);
+VALUES (1311, 131, 'pho_thong', 36, 2765000, 2385000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1312, 131, 'thuong_gia', 12, 2290000, 2064000, null);
+VALUES (1312, 131, 'thuong_gia', 12, 7115000, 4702000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1321, 132, 'pho_thong', 36, 4777000, 2476000, null);
+VALUES (1321, 132, 'pho_thong', 36, 3900000, 1853000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1322, 132, 'thuong_gia', 12, 1373000, 618000, null);
+VALUES (1322, 132, 'thuong_gia', 12, 6479000, 4570000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1331, 133, 'pho_thong', 36, 4454000, 2168000, null);
+VALUES (1331, 133, 'pho_thong', 36, 3498000, 1332000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1332, 133, 'thuong_gia', 12, 6012000, 3716000, null);
+VALUES (1332, 133, 'thuong_gia', 12, 2560000, 118000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1341, 134, 'pho_thong', 36, 2867000, 2325000, null);
+VALUES (1341, 134, 'pho_thong', 36, 872000, 554000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1342, 134, 'thuong_gia', 12, 6184000, 3824000, null);
+VALUES (1342, 134, 'thuong_gia', 12, 3297000, 1046000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1351, 135, 'pho_thong', 36, 2465000, 222000, null);
+VALUES (1351, 135, 'pho_thong', 36, 3685000, 1860000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1352, 135, 'thuong_gia', 12, 3708000, 1688000, null);
+VALUES (1352, 135, 'thuong_gia', 12, 1177000, 906000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1361, 136, 'pho_thong', 36, 453000, 320000, null);
+VALUES (1361, 136, 'pho_thong', 36, 1750000, 74000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1362, 136, 'thuong_gia', 12, 4525000, 3344000, null);
+VALUES (1362, 136, 'thuong_gia', 12, 6612000, 4962000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1371, 137, 'pho_thong', 36, 1269000, 376000, null);
+VALUES (1371, 137, 'pho_thong', 36, 2270000, 854000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1372, 137, 'thuong_gia', 12, 4555000, 3030000, null);
+VALUES (1372, 137, 'thuong_gia', 12, 3526000, 1526000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1381, 138, 'pho_thong', 36, 2063000, 1606000, null);
+VALUES (1381, 138, 'pho_thong', 36, 2211000, 479000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1382, 138, 'thuong_gia', 12, 2785000, 1826000, null);
+VALUES (1382, 138, 'thuong_gia', 12, 1818000, 1436000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1391, 139, 'pho_thong', 36, 3162000, 904000, null);
+VALUES (1391, 139, 'pho_thong', 36, 3621000, 1901000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1392, 139, 'thuong_gia', 12, 5934000, 3572000, null);
+VALUES (1392, 139, 'thuong_gia', 12, 5945000, 4214000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1401, 140, 'pho_thong', 36, 2389000, 2350000, null);
+VALUES (1401, 140, 'pho_thong', 36, 2801000, 1538000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1402, 140, 'thuong_gia', 12, 4813000, 2958000, null);
+VALUES (1402, 140, 'thuong_gia', 12, 2575000, 2494000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1411, 141, 'pho_thong', 36, 1054000, 524000, null);
+VALUES (1411, 141, 'pho_thong', 36, 1808000, 802000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1412, 141, 'thuong_gia', 12, 4657000, 4188000, null);
+VALUES (1412, 141, 'thuong_gia', 12, 4055000, 1604000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1421, 142, 'pho_thong', 36, 3301000, 857000, null);
+VALUES (1421, 142, 'pho_thong', 36, 3393000, 1715000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1422, 142, 'thuong_gia', 12, 3157000, 2050000, null);
+VALUES (1422, 142, 'thuong_gia', 12, 2362000, 2194000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1431, 143, 'pho_thong', 36, 2344000, 1558000, null);
+VALUES (1431, 143, 'pho_thong', 36, 1911000, 203000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1432, 143, 'thuong_gia', 12, 4802000, 4764000, null);
+VALUES (1432, 143, 'thuong_gia', 12, 496000, 186000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1441, 144, 'pho_thong', 36, 2249000, 415000, null);
+VALUES (1441, 144, 'pho_thong', 36, 3950000, 1740000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1442, 144, 'thuong_gia', 12, 2769000, 2414000, null);
+VALUES (1442, 144, 'thuong_gia', 12, 4936000, 2972000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1451, 145, 'pho_thong', 36, 2768000, 2447000, null);
+VALUES (1451, 145, 'pho_thong', 36, 3363000, 899000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1452, 145, 'thuong_gia', 12, 1338000, 480000, null);
+VALUES (1452, 145, 'thuong_gia', 12, 5754000, 4862000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1461, 146, 'pho_thong', 36, 2218000, 198000, null);
+VALUES (1461, 146, 'pho_thong', 36, 3154000, 1679000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1462, 146, 'thuong_gia', 12, 1343000, 1172000, null);
+VALUES (1462, 146, 'thuong_gia', 12, 1083000, 530000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1471, 147, 'pho_thong', 36, 2628000, 2214000, null);
+VALUES (1471, 147, 'pho_thong', 36, 2188000, 1391000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1472, 147, 'thuong_gia', 12, 1865000, 276000, null);
+VALUES (1472, 147, 'thuong_gia', 12, 1276000, 462000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1481, 148, 'pho_thong', 36, 1890000, 162000, null);
+VALUES (1481, 148, 'pho_thong', 36, 3815000, 2318000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1482, 148, 'thuong_gia', 12, 3603000, 3588000, null);
+VALUES (1482, 148, 'thuong_gia', 12, 4265000, 3654000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1491, 149, 'pho_thong', 36, 2392000, 998000, null);
+VALUES (1491, 149, 'pho_thong', 36, 562000, 184000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1492, 149, 'thuong_gia', 12, 6564000, 4452000, null);
+VALUES (1492, 149, 'thuong_gia', 12, 5748000, 4622000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1501, 150, 'pho_thong', 36, 4159000, 2490000, null);
+VALUES (1501, 150, 'pho_thong', 36, 3654000, 1295000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1502, 150, 'thuong_gia', 12, 5901000, 4840000, null);
+VALUES (1502, 150, 'thuong_gia', 12, 5322000, 4666000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1511, 151, 'pho_thong', 36, 2920000, 738000, null);
+VALUES (1511, 151, 'pho_thong', 36, 3647000, 2278000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1512, 151, 'thuong_gia', 12, 3483000, 2070000, null);
+VALUES (1512, 151, 'thuong_gia', 12, 3499000, 3006000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1521, 152, 'pho_thong', 36, 1857000, 991000, null);
+VALUES (1521, 152, 'pho_thong', 36, 2038000, 1802000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1522, 152, 'thuong_gia', 12, 2154000, 2146000, null);
+VALUES (1522, 152, 'thuong_gia', 12, 1669000, 1150000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1531, 153, 'pho_thong', 36, 2398000, 856000, null);
+VALUES (1531, 153, 'pho_thong', 36, 2403000, 2206000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1532, 153, 'thuong_gia', 12, 5467000, 4312000, null);
+VALUES (1532, 153, 'thuong_gia', 12, 3189000, 2250000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1541, 154, 'pho_thong', 36, 1240000, 721000, null);
+VALUES (1541, 154, 'pho_thong', 36, 2642000, 1754000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1542, 154, 'thuong_gia', 12, 4978000, 3310000, null);
+VALUES (1542, 154, 'thuong_gia', 12, 6805000, 4978000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1551, 155, 'pho_thong', 36, 2421000, 413000, null);
+VALUES (1551, 155, 'pho_thong', 36, 2300000, 892000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1552, 155, 'thuong_gia', 12, 3551000, 2172000, null);
+VALUES (1552, 155, 'thuong_gia', 12, 5786000, 3596000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1561, 156, 'pho_thong', 36, 1674000, 630000, null);
+VALUES (1561, 156, 'pho_thong', 36, 3709000, 1687000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1562, 156, 'thuong_gia', 12, 2030000, 248000, null);
+VALUES (1562, 156, 'thuong_gia', 12, 1208000, 394000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1571, 157, 'pho_thong', 36, 2257000, 760000, null);
+VALUES (1571, 157, 'pho_thong', 36, 3806000, 2482000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1572, 157, 'thuong_gia', 12, 2098000, 710000, null);
+VALUES (1572, 157, 'thuong_gia', 12, 2708000, 528000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1581, 158, 'pho_thong', 36, 3826000, 2128000, null);
+VALUES (1581, 158, 'pho_thong', 36, 1588000, 176000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1582, 158, 'thuong_gia', 12, 4280000, 2638000, null);
+VALUES (1582, 158, 'thuong_gia', 12, 6331000, 4312000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1591, 159, 'pho_thong', 36, 2855000, 1014000, null);
+VALUES (1591, 159, 'pho_thong', 36, 1398000, 168000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1592, 159, 'thuong_gia', 12, 3456000, 2772000, null);
+VALUES (1592, 159, 'thuong_gia', 12, 3386000, 2158000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1601, 160, 'pho_thong', 36, 1266000, 1236000, null);
+VALUES (1601, 160, 'pho_thong', 36, 2194000, 1408000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1602, 160, 'thuong_gia', 12, 3001000, 2768000, null);
+VALUES (1602, 160, 'thuong_gia', 12, 3844000, 3682000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1611, 161, 'pho_thong', 36, 890000, 453000, null);
+VALUES (1611, 161, 'pho_thong', 36, 3528000, 1918000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1612, 161, 'thuong_gia', 12, 4306000, 2428000, null);
+VALUES (1612, 161, 'thuong_gia', 12, 1144000, 466000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1621, 162, 'pho_thong', 36, 1424000, 1277000, null);
+VALUES (1621, 162, 'pho_thong', 36, 1193000, 550000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1622, 162, 'thuong_gia', 12, 2882000, 2670000, null);
+VALUES (1622, 162, 'thuong_gia', 12, 2958000, 2026000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1631, 163, 'pho_thong', 36, 2944000, 1986000, null);
+VALUES (1631, 163, 'pho_thong', 36, 1487000, 304000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1632, 163, 'thuong_gia', 12, 4705000, 2418000, null);
+VALUES (1632, 163, 'thuong_gia', 12, 4813000, 3898000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1641, 164, 'pho_thong', 36, 4126000, 2045000, null);
+VALUES (1641, 164, 'pho_thong', 36, 2352000, 1354000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1642, 164, 'thuong_gia', 12, 5106000, 3980000, null);
+VALUES (1642, 164, 'thuong_gia', 12, 6871000, 4952000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1651, 165, 'pho_thong', 36, 3246000, 1785000, null);
+VALUES (1651, 165, 'pho_thong', 36, 528000, 519000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1652, 165, 'thuong_gia', 12, 1627000, 696000, null);
+VALUES (1652, 165, 'thuong_gia', 12, 3230000, 2022000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1661, 166, 'pho_thong', 36, 4206000, 2445000, null);
+VALUES (1661, 166, 'pho_thong', 36, 4390000, 1911000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1662, 166, 'thuong_gia', 12, 6333000, 4464000, null);
+VALUES (1662, 166, 'thuong_gia', 12, 2649000, 2626000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1671, 167, 'pho_thong', 36, 2947000, 1991000, null);
+VALUES (1671, 167, 'pho_thong', 36, 4279000, 1929000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1672, 167, 'thuong_gia', 12, 4141000, 3700000, null);
+VALUES (1672, 167, 'thuong_gia', 12, 3514000, 1354000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1681, 168, 'pho_thong', 36, 4076000, 1727000, null);
+VALUES (1681, 168, 'pho_thong', 36, 2421000, 1243000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1682, 168, 'thuong_gia', 12, 4791000, 2886000, null);
+VALUES (1682, 168, 'thuong_gia', 12, 2228000, 792000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1691, 169, 'pho_thong', 36, 1921000, 1039000, null);
+VALUES (1691, 169, 'pho_thong', 36, 3590000, 1332000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1692, 169, 'thuong_gia', 12, 4469000, 3132000, null);
+VALUES (1692, 169, 'thuong_gia', 12, 1373000, 584000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1701, 170, 'pho_thong', 36, 2669000, 2273000, null);
+VALUES (1701, 170, 'pho_thong', 36, 3238000, 1378000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1702, 170, 'thuong_gia', 12, 3246000, 876000, null);
+VALUES (1702, 170, 'thuong_gia', 12, 3188000, 1084000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1711, 171, 'pho_thong', 36, 3268000, 2179000, null);
+VALUES (1711, 171, 'pho_thong', 36, 810000, 356000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1712, 171, 'thuong_gia', 12, 5921000, 4030000, null);
+VALUES (1712, 171, 'thuong_gia', 12, 5600000, 4774000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1721, 172, 'pho_thong', 36, 3734000, 1727000, null);
+VALUES (1721, 172, 'pho_thong', 36, 4076000, 1757000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1722, 172, 'thuong_gia', 12, 2755000, 1600000, null);
+VALUES (1722, 172, 'thuong_gia', 12, 1423000, 892000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1731, 173, 'pho_thong', 36, 970000, 150000, null);
+VALUES (1731, 173, 'pho_thong', 36, 304000, 216000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1732, 173, 'thuong_gia', 12, 4795000, 4572000, null);
+VALUES (1732, 173, 'thuong_gia', 12, 3946000, 2170000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1741, 174, 'pho_thong', 36, 4124000, 1774000, null);
+VALUES (1741, 174, 'pho_thong', 36, 2343000, 284000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1742, 174, 'thuong_gia', 12, 1067000, 438000, null);
+VALUES (1742, 174, 'thuong_gia', 12, 4015000, 3156000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1751, 175, 'pho_thong', 36, 2461000, 1187000, null);
+VALUES (1751, 175, 'pho_thong', 36, 3056000, 1778000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1752, 175, 'thuong_gia', 12, 3885000, 2382000, null);
+VALUES (1752, 175, 'thuong_gia', 12, 6556000, 4490000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1761, 176, 'pho_thong', 36, 4041000, 2498000, null);
+VALUES (1761, 176, 'pho_thong', 36, 1430000, 497000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1762, 176, 'thuong_gia', 12, 2631000, 2522000, null);
+VALUES (1762, 176, 'thuong_gia', 12, 4189000, 1894000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1771, 177, 'pho_thong', 36, 363000, 146000, null);
+VALUES (1771, 177, 'pho_thong', 36, 191000, 114000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1772, 177, 'thuong_gia', 12, 5306000, 3274000, null);
+VALUES (1772, 177, 'thuong_gia', 12, 3466000, 1680000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1781, 178, 'pho_thong', 36, 3524000, 2415000, null);
+VALUES (1781, 178, 'pho_thong', 36, 2685000, 2245000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1782, 178, 'thuong_gia', 12, 991000, 774000, null);
+VALUES (1782, 178, 'thuong_gia', 12, 1586000, 324000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1791, 179, 'pho_thong', 36, 1162000, 500000, null);
+VALUES (1791, 179, 'pho_thong', 36, 1985000, 461000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1792, 179, 'thuong_gia', 12, 2288000, 1136000, null);
+VALUES (1792, 179, 'thuong_gia', 12, 1675000, 158000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1801, 180, 'pho_thong', 36, 448000, 151000, null);
+VALUES (1801, 180, 'pho_thong', 36, 3484000, 1422000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1802, 180, 'thuong_gia', 12, 1366000, 1164000, null);
+VALUES (1802, 180, 'thuong_gia', 12, 4875000, 4860000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1811, 181, 'pho_thong', 36, 3214000, 735000, null);
+VALUES (1811, 181, 'pho_thong', 36, 3098000, 1684000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1812, 181, 'thuong_gia', 12, 3556000, 2226000, null);
+VALUES (1812, 181, 'thuong_gia', 12, 5347000, 4692000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1821, 182, 'pho_thong', 36, 2360000, 1625000, null);
+VALUES (1821, 182, 'pho_thong', 36, 1001000, 165000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1822, 182, 'thuong_gia', 12, 6430000, 4168000, null);
+VALUES (1822, 182, 'thuong_gia', 12, 2629000, 156000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1831, 183, 'pho_thong', 36, 2237000, 1907000, null);
+VALUES (1831, 183, 'pho_thong', 36, 3721000, 1540000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1832, 183, 'thuong_gia', 12, 4759000, 3374000, null);
+VALUES (1832, 183, 'thuong_gia', 12, 4397000, 3052000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1841, 184, 'pho_thong', 36, 2624000, 1675000, null);
+VALUES (1841, 184, 'pho_thong', 36, 777000, 64000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1842, 184, 'thuong_gia', 12, 4220000, 2890000, null);
+VALUES (1842, 184, 'thuong_gia', 12, 4930000, 2826000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1851, 185, 'pho_thong', 36, 1730000, 597000, null);
+VALUES (1851, 185, 'pho_thong', 36, 2627000, 209000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1852, 185, 'thuong_gia', 12, 1804000, 1592000, null);
+VALUES (1852, 185, 'thuong_gia', 12, 4819000, 4582000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1861, 186, 'pho_thong', 36, 3084000, 1179000, null);
+VALUES (1861, 186, 'pho_thong', 36, 3591000, 2267000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1862, 186, 'thuong_gia', 12, 6297000, 4054000, null);
+VALUES (1862, 186, 'thuong_gia', 12, 4667000, 4230000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1871, 187, 'pho_thong', 36, 3694000, 1931000, null);
+VALUES (1871, 187, 'pho_thong', 36, 4287000, 2198000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1872, 187, 'thuong_gia', 12, 3194000, 2264000, null);
+VALUES (1872, 187, 'thuong_gia', 12, 6064000, 3790000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1881, 188, 'pho_thong', 36, 797000, 18000, null);
+VALUES (1881, 188, 'pho_thong', 36, 3269000, 2442000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1882, 188, 'thuong_gia', 12, 3987000, 2932000, null);
+VALUES (1882, 188, 'thuong_gia', 12, 1730000, 1156000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1891, 189, 'pho_thong', 36, 1537000, 1077000, null);
+VALUES (1891, 189, 'pho_thong', 36, 3228000, 1891000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1892, 189, 'thuong_gia', 12, 5238000, 4502000, null);
+VALUES (1892, 189, 'thuong_gia', 12, 3991000, 3026000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1901, 190, 'pho_thong', 36, 318000, 66000, null);
+VALUES (1901, 190, 'pho_thong', 36, 2210000, 402000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1902, 190, 'thuong_gia', 12, 3717000, 2500000, null);
+VALUES (1902, 190, 'thuong_gia', 12, 2434000, 1910000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1911, 191, 'pho_thong', 36, 2146000, 1230000, null);
+VALUES (1911, 191, 'pho_thong', 36, 4610000, 2113000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1912, 191, 'thuong_gia', 12, 2709000, 396000, null);
+VALUES (1912, 191, 'thuong_gia', 12, 4996000, 4158000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1921, 192, 'pho_thong', 36, 3056000, 912000, null);
+VALUES (1921, 192, 'pho_thong', 36, 2703000, 1221000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1922, 192, 'thuong_gia', 12, 1072000, 412000, null);
+VALUES (1922, 192, 'thuong_gia', 12, 5874000, 4660000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1931, 193, 'pho_thong', 36, 2798000, 1582000, null);
+VALUES (1931, 193, 'pho_thong', 36, 741000, 704000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1932, 193, 'thuong_gia', 12, 5643000, 4714000, null);
+VALUES (1932, 193, 'thuong_gia', 12, 5377000, 3116000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1941, 194, 'pho_thong', 36, 3798000, 1543000, null);
+VALUES (1941, 194, 'pho_thong', 36, 3413000, 1980000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1942, 194, 'thuong_gia', 12, 207000, 2000, null);
+VALUES (1942, 194, 'thuong_gia', 12, 5782000, 4598000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1951, 195, 'pho_thong', 36, 886000, 100000, null);
+VALUES (1951, 195, 'pho_thong', 36, 3746000, 2183000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1952, 195, 'thuong_gia', 12, 5620000, 3196000, null);
+VALUES (1952, 195, 'thuong_gia', 12, 4644000, 2916000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1961, 196, 'pho_thong', 36, 1764000, 1498000, null);
+VALUES (1961, 196, 'pho_thong', 36, 1466000, 789000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1962, 196, 'thuong_gia', 12, 5370000, 3302000, null);
+VALUES (1962, 196, 'thuong_gia', 12, 3411000, 1670000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1971, 197, 'pho_thong', 36, 2804000, 617000, null);
+VALUES (1971, 197, 'pho_thong', 36, 2483000, 154000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1972, 197, 'thuong_gia', 12, 1900000, 866000, null);
+VALUES (1972, 197, 'thuong_gia', 12, 2614000, 658000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1981, 198, 'pho_thong', 36, 4319000, 2229000, null);
+VALUES (1981, 198, 'pho_thong', 36, 1486000, 5000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1982, 198, 'thuong_gia', 12, 2171000, 128000, null);
+VALUES (1982, 198, 'thuong_gia', 12, 1487000, 1288000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1991, 199, 'pho_thong', 36, 2837000, 1811000, null);
+VALUES (1991, 199, 'pho_thong', 36, 2038000, 1179000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1992, 199, 'thuong_gia', 12, 1793000, 1774000, null);
+VALUES (1992, 199, 'thuong_gia', 12, 2507000, 1762000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2001, 200, 'pho_thong', 36, 3390000, 1381000, null);
+VALUES (2001, 200, 'pho_thong', 36, 1203000, 1031000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2002, 200, 'thuong_gia', 12, 2714000, 2462000, null);
+VALUES (2002, 200, 'thuong_gia', 12, 3933000, 1600000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2011, 201, 'pho_thong', 36, 3434000, 2023000, null);
+VALUES (2011, 201, 'pho_thong', 36, 4190000, 2382000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2012, 201, 'thuong_gia', 12, 5641000, 3342000, null);
+VALUES (2012, 201, 'thuong_gia', 12, 940000, 396000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2021, 202, 'pho_thong', 36, 2626000, 1699000, null);
+VALUES (2021, 202, 'pho_thong', 36, 1376000, 1333000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2022, 202, 'thuong_gia', 12, 3524000, 2850000, null);
+VALUES (2022, 202, 'thuong_gia', 12, 3256000, 2506000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2031, 203, 'pho_thong', 36, 2451000, 1170000, null);
+VALUES (2031, 203, 'pho_thong', 36, 2117000, 572000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2032, 203, 'thuong_gia', 12, 2136000, 1864000, null);
+VALUES (2032, 203, 'thuong_gia', 12, 5813000, 3850000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2041, 204, 'pho_thong', 36, 4905000, 2409000, null);
+VALUES (2041, 204, 'pho_thong', 36, 705000, 247000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2042, 204, 'thuong_gia', 12, 5662000, 4252000, null);
+VALUES (2042, 204, 'thuong_gia', 12, 4688000, 3616000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2051, 205, 'pho_thong', 36, 3177000, 1605000, null);
+VALUES (2051, 205, 'pho_thong', 36, 2406000, 197000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2052, 205, 'thuong_gia', 12, 2194000, 978000, null);
+VALUES (2052, 205, 'thuong_gia', 12, 1922000, 220000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2061, 206, 'pho_thong', 36, 2516000, 1675000, null);
+VALUES (2061, 206, 'pho_thong', 36, 1727000, 1371000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2062, 206, 'thuong_gia', 12, 2510000, 1578000, null);
+VALUES (2062, 206, 'thuong_gia', 12, 1153000, 998000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2071, 207, 'pho_thong', 36, 1823000, 1287000, null);
+VALUES (2071, 207, 'pho_thong', 36, 1993000, 939000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2072, 207, 'thuong_gia', 12, 3763000, 1672000, null);
+VALUES (2072, 207, 'thuong_gia', 12, 4357000, 3486000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2081, 208, 'pho_thong', 36, 3570000, 1576000, null);
+VALUES (2081, 208, 'pho_thong', 36, 1321000, 728000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2082, 208, 'thuong_gia', 12, 2650000, 2356000, null);
+VALUES (2082, 208, 'thuong_gia', 12, 2921000, 464000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2091, 209, 'pho_thong', 36, 4610000, 2453000, null);
+VALUES (2091, 209, 'pho_thong', 36, 2120000, 730000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2092, 209, 'thuong_gia', 12, 1376000, 1112000, null);
+VALUES (2092, 209, 'thuong_gia', 12, 3746000, 2610000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2101, 210, 'pho_thong', 36, 3097000, 2020000, null);
+VALUES (2101, 210, 'pho_thong', 36, 1925000, 1586000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2102, 210, 'thuong_gia', 12, 293000, 258000, null);
+VALUES (2102, 210, 'thuong_gia', 12, 5951000, 3728000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2111, 211, 'pho_thong', 36, 2587000, 2190000, null);
+VALUES (2111, 211, 'pho_thong', 36, 3149000, 1454000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2112, 211, 'thuong_gia', 12, 4883000, 2806000, null);
+VALUES (2112, 211, 'thuong_gia', 12, 2806000, 1962000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2121, 212, 'pho_thong', 36, 3234000, 2076000, null);
+VALUES (2121, 212, 'pho_thong', 36, 1922000, 1188000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2122, 212, 'thuong_gia', 12, 1458000, 762000, null);
+VALUES (2122, 212, 'thuong_gia', 12, 2874000, 2618000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2131, 213, 'pho_thong', 36, 2026000, 400000, null);
+VALUES (2131, 213, 'pho_thong', 36, 744000, 42000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2132, 213, 'thuong_gia', 12, 4540000, 2716000, null);
+VALUES (2132, 213, 'thuong_gia', 12, 5299000, 3860000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2141, 214, 'pho_thong', 36, 1459000, 1393000, null);
+VALUES (2141, 214, 'pho_thong', 36, 3289000, 1800000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2142, 214, 'thuong_gia', 12, 3145000, 3040000, null);
+VALUES (2142, 214, 'thuong_gia', 12, 3378000, 1048000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2151, 215, 'pho_thong', 36, 1367000, 515000, null);
+VALUES (2151, 215, 'pho_thong', 36, 2850000, 2099000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2152, 215, 'thuong_gia', 12, 6726000, 4628000, null);
+VALUES (2152, 215, 'thuong_gia', 12, 1572000, 608000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2161, 216, 'pho_thong', 36, 1497000, 667000, null);
+VALUES (2161, 216, 'pho_thong', 36, 1660000, 828000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2162, 216, 'thuong_gia', 12, 2332000, 1090000, null);
+VALUES (2162, 216, 'thuong_gia', 12, 5847000, 4238000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2171, 217, 'pho_thong', 36, 2603000, 1674000, null);
+VALUES (2171, 217, 'pho_thong', 36, 3251000, 1138000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2172, 217, 'thuong_gia', 12, 3692000, 3628000, null);
+VALUES (2172, 217, 'thuong_gia', 12, 4116000, 2844000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2181, 218, 'pho_thong', 36, 3234000, 1015000, null);
+VALUES (2181, 218, 'pho_thong', 36, 3282000, 2380000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2182, 218, 'thuong_gia', 12, 2059000, 382000, null);
+VALUES (2182, 218, 'thuong_gia', 12, 2554000, 118000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2191, 219, 'pho_thong', 36, 338000, 159000, null);
+VALUES (2191, 219, 'pho_thong', 36, 3628000, 1373000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2192, 219, 'thuong_gia', 12, 4242000, 3658000, null);
+VALUES (2192, 219, 'thuong_gia', 12, 4838000, 3538000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2201, 220, 'pho_thong', 36, 846000, 121000, null);
+VALUES (2201, 220, 'pho_thong', 36, 2553000, 459000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2202, 220, 'thuong_gia', 12, 5461000, 3710000, null);
+VALUES (2202, 220, 'thuong_gia', 12, 6042000, 3630000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2211, 221, 'pho_thong', 36, 801000, 424000, null);
+VALUES (2211, 221, 'pho_thong', 36, 2042000, 957000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2212, 221, 'thuong_gia', 12, 5297000, 4098000, null);
+VALUES (2212, 221, 'thuong_gia', 12, 2680000, 2376000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2221, 222, 'pho_thong', 36, 2262000, 654000, null);
+VALUES (2221, 222, 'pho_thong', 36, 2899000, 2056000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2222, 222, 'thuong_gia', 12, 2834000, 1578000, null);
+VALUES (2222, 222, 'thuong_gia', 12, 2285000, 916000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2231, 223, 'pho_thong', 36, 3188000, 1893000, null);
+VALUES (2231, 223, 'pho_thong', 36, 1617000, 367000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2232, 223, 'thuong_gia', 12, 1673000, 898000, null);
+VALUES (2232, 223, 'thuong_gia', 12, 6078000, 3684000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2241, 224, 'pho_thong', 36, 3102000, 1164000, null);
+VALUES (2241, 224, 'pho_thong', 36, 2628000, 1725000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2242, 224, 'thuong_gia', 12, 4350000, 3296000, null);
+VALUES (2242, 224, 'thuong_gia', 12, 4346000, 2216000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2251, 225, 'pho_thong', 36, 4398000, 1944000, null);
+VALUES (2251, 225, 'pho_thong', 36, 1372000, 47000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2252, 225, 'thuong_gia', 12, 873000, 174000, null);
+VALUES (2252, 225, 'thuong_gia', 12, 4381000, 2412000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2261, 226, 'pho_thong', 36, 1861000, 1529000, null);
+VALUES (2261, 226, 'pho_thong', 36, 1098000, 223000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2262, 226, 'thuong_gia', 12, 1730000, 90000, null);
+VALUES (2262, 226, 'thuong_gia', 12, 5804000, 4442000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2271, 227, 'pho_thong', 36, 3021000, 549000, null);
+VALUES (2271, 227, 'pho_thong', 36, 4210000, 2238000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2272, 227, 'thuong_gia', 12, 3498000, 1210000, null);
+VALUES (2272, 227, 'thuong_gia', 12, 3381000, 2048000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2281, 228, 'pho_thong', 36, 2813000, 1438000, null);
+VALUES (2281, 228, 'pho_thong', 36, 1687000, 1112000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2282, 228, 'thuong_gia', 12, 1056000, 788000, null);
+VALUES (2282, 228, 'thuong_gia', 12, 3992000, 2170000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2291, 229, 'pho_thong', 36, 1832000, 514000, null);
+VALUES (2291, 229, 'pho_thong', 36, 2410000, 1742000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2292, 229, 'thuong_gia', 12, 3232000, 1650000, null);
+VALUES (2292, 229, 'thuong_gia', 12, 2361000, 634000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2301, 230, 'pho_thong', 36, 3920000, 1493000, null);
+VALUES (2301, 230, 'pho_thong', 36, 1420000, 711000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2302, 230, 'thuong_gia', 12, 6013000, 4190000, null);
+VALUES (2302, 230, 'thuong_gia', 12, 6346000, 3924000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2311, 231, 'pho_thong', 36, 2492000, 1532000, null);
+VALUES (2311, 231, 'pho_thong', 36, 3728000, 1710000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2312, 231, 'thuong_gia', 12, 572000, 94000, null);
+VALUES (2312, 231, 'thuong_gia', 12, 3736000, 1326000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2321, 232, 'pho_thong', 36, 3921000, 2138000, null);
+VALUES (2321, 232, 'pho_thong', 36, 2886000, 1005000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2322, 232, 'thuong_gia', 12, 6140000, 4944000, null);
+VALUES (2322, 232, 'thuong_gia', 12, 6519000, 4236000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2331, 233, 'pho_thong', 36, 1771000, 1434000, null);
+VALUES (2331, 233, 'pho_thong', 36, 1248000, 800000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2332, 233, 'thuong_gia', 12, 1714000, 598000, null);
+VALUES (2332, 233, 'thuong_gia', 12, 3857000, 2214000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2341, 234, 'pho_thong', 36, 3292000, 940000, null);
+VALUES (2341, 234, 'pho_thong', 36, 2198000, 2133000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2342, 234, 'thuong_gia', 12, 3200000, 1756000, null);
+VALUES (2342, 234, 'thuong_gia', 12, 2915000, 1164000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2351, 235, 'pho_thong', 36, 2727000, 1546000, null);
+VALUES (2351, 235, 'pho_thong', 36, 2541000, 2366000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2352, 235, 'thuong_gia', 12, 5709000, 4512000, null);
+VALUES (2352, 235, 'thuong_gia', 12, 2271000, 1296000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2361, 236, 'pho_thong', 36, 2821000, 1097000, null);
+VALUES (2361, 236, 'pho_thong', 36, 2207000, 751000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2362, 236, 'thuong_gia', 12, 2959000, 2874000, null);
+VALUES (2362, 236, 'thuong_gia', 12, 5745000, 3410000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2371, 237, 'pho_thong', 36, 4577000, 2426000, null);
+VALUES (2371, 237, 'pho_thong', 36, 3447000, 2077000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2372, 237, 'thuong_gia', 12, 4021000, 2696000, null);
+VALUES (2372, 237, 'thuong_gia', 12, 1954000, 1738000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2381, 238, 'pho_thong', 36, 1243000, 1056000, null);
+VALUES (2381, 238, 'pho_thong', 36, 2958000, 534000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2382, 238, 'thuong_gia', 12, 4579000, 4246000, null);
+VALUES (2382, 238, 'thuong_gia', 12, 2375000, 1314000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2391, 239, 'pho_thong', 36, 3809000, 1501000, null);
+VALUES (2391, 239, 'pho_thong', 36, 1367000, 126000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2392, 239, 'thuong_gia', 12, 2317000, 620000, null);
+VALUES (2392, 239, 'thuong_gia', 12, 6873000, 4622000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2401, 240, 'pho_thong', 36, 2173000, 1743000, null);
+VALUES (2401, 240, 'pho_thong', 36, 1538000, 1245000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2402, 240, 'thuong_gia', 12, 446000, 298000, null);
+VALUES (2402, 240, 'thuong_gia', 12, 1880000, 1472000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2411, 241, 'pho_thong', 36, 1574000, 216000, null);
+VALUES (2411, 241, 'pho_thong', 36, 2433000, 430000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2412, 241, 'thuong_gia', 12, 6751000, 4880000, null);
+VALUES (2412, 241, 'thuong_gia', 12, 3627000, 1614000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2421, 242, 'pho_thong', 36, 2893000, 1597000, null);
+VALUES (2421, 242, 'pho_thong', 36, 937000, 712000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2422, 242, 'thuong_gia', 12, 3081000, 1196000, null);
+VALUES (2422, 242, 'thuong_gia', 12, 963000, 704000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2431, 243, 'pho_thong', 36, 879000, 255000, null);
+VALUES (2431, 243, 'pho_thong', 36, 3658000, 1913000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2432, 243, 'thuong_gia', 12, 4038000, 2520000, null);
+VALUES (2432, 243, 'thuong_gia', 12, 5449000, 2982000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2441, 244, 'pho_thong', 36, 1058000, 427000, null);
+VALUES (2441, 244, 'pho_thong', 36, 2393000, 2221000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2442, 244, 'thuong_gia', 12, 5275000, 3412000, null);
+VALUES (2442, 244, 'thuong_gia', 12, 2287000, 1574000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2451, 245, 'pho_thong', 36, 1808000, 1238000, null);
+VALUES (2451, 245, 'pho_thong', 36, 2822000, 1193000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2452, 245, 'thuong_gia', 12, 6007000, 4058000, null);
+VALUES (2452, 245, 'thuong_gia', 12, 4782000, 2476000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2461, 246, 'pho_thong', 36, 2427000, 1068000, null);
+VALUES (2461, 246, 'pho_thong', 36, 2826000, 678000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2462, 246, 'thuong_gia', 12, 4838000, 2772000, null);
+VALUES (2462, 246, 'thuong_gia', 12, 5118000, 3552000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2471, 247, 'pho_thong', 36, 1150000, 920000, null);
+VALUES (2471, 247, 'pho_thong', 36, 2820000, 1666000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2472, 247, 'thuong_gia', 12, 2771000, 2418000, null);
+VALUES (2472, 247, 'thuong_gia', 12, 5007000, 4682000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2481, 248, 'pho_thong', 36, 847000, 306000, null);
+VALUES (2481, 248, 'pho_thong', 36, 3535000, 2043000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2482, 248, 'thuong_gia', 12, 1258000, 582000, null);
+VALUES (2482, 248, 'thuong_gia', 12, 2221000, 1334000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2491, 249, 'pho_thong', 36, 2196000, 1015000, null);
+VALUES (2491, 249, 'pho_thong', 36, 3499000, 1154000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2492, 249, 'thuong_gia', 12, 3888000, 2862000, null);
+VALUES (2492, 249, 'thuong_gia', 12, 2348000, 2332000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2501, 250, 'pho_thong', 36, 1024000, 250000, null);
+VALUES (2501, 250, 'pho_thong', 36, 3140000, 1876000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2502, 250, 'thuong_gia', 12, 5709000, 4198000, null);
+VALUES (2502, 250, 'thuong_gia', 12, 5971000, 4640000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2511, 251, 'pho_thong', 36, 3359000, 2110000, null);
+VALUES (2511, 251, 'pho_thong', 36, 2673000, 1435000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2512, 251, 'thuong_gia', 12, 4305000, 3802000, null);
+VALUES (2512, 251, 'thuong_gia', 12, 3532000, 1134000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2521, 252, 'pho_thong', 36, 2375000, 539000, null);
+VALUES (2521, 252, 'pho_thong', 36, 2001000, 409000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2522, 252, 'thuong_gia', 12, 5663000, 3274000, null);
+VALUES (2522, 252, 'thuong_gia', 12, 3344000, 2188000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2531, 253, 'pho_thong', 36, 3243000, 2403000, null);
+VALUES (2531, 253, 'pho_thong', 36, 1520000, 625000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2532, 253, 'thuong_gia', 12, 6020000, 4710000, null);
+VALUES (2532, 253, 'thuong_gia', 12, 2937000, 2544000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2541, 254, 'pho_thong', 36, 1247000, 670000, null);
+VALUES (2541, 254, 'pho_thong', 36, 1847000, 892000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2542, 254, 'thuong_gia', 12, 3409000, 2116000, null);
+VALUES (2542, 254, 'thuong_gia', 12, 3640000, 1310000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2551, 255, 'pho_thong', 36, 2479000, 2135000, null);
+VALUES (2551, 255, 'pho_thong', 36, 2876000, 976000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2552, 255, 'thuong_gia', 12, 2643000, 508000, null);
+VALUES (2552, 255, 'thuong_gia', 12, 2607000, 864000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2561, 256, 'pho_thong', 36, 1289000, 212000, null);
+VALUES (2561, 256, 'pho_thong', 36, 802000, 21000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2562, 256, 'thuong_gia', 12, 4021000, 1912000, null);
+VALUES (2562, 256, 'thuong_gia', 12, 4592000, 3928000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2571, 257, 'pho_thong', 36, 1239000, 1007000, null);
+VALUES (2571, 257, 'pho_thong', 36, 1671000, 308000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2572, 257, 'thuong_gia', 12, 2185000, 1664000, null);
+VALUES (2572, 257, 'thuong_gia', 12, 6863000, 4854000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2581, 258, 'pho_thong', 36, 370000, 235000, null);
+VALUES (2581, 258, 'pho_thong', 36, 2643000, 1500000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2582, 258, 'thuong_gia', 12, 5235000, 4180000, null);
+VALUES (2582, 258, 'thuong_gia', 12, 4429000, 4362000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2591, 259, 'pho_thong', 36, 3703000, 2253000, null);
+VALUES (2591, 259, 'pho_thong', 36, 4754000, 2336000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2592, 259, 'thuong_gia', 12, 1019000, 798000, null);
+VALUES (2592, 259, 'thuong_gia', 12, 3023000, 964000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2601, 260, 'pho_thong', 36, 2172000, 2019000, null);
+VALUES (2601, 260, 'pho_thong', 36, 2812000, 1388000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2602, 260, 'thuong_gia', 12, 4378000, 3610000, null);
+VALUES (2602, 260, 'thuong_gia', 12, 6903000, 4652000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2611, 261, 'pho_thong', 36, 4114000, 1708000, null);
+VALUES (2611, 261, 'pho_thong', 36, 2743000, 2269000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2612, 261, 'thuong_gia', 12, 6446000, 4830000, null);
+VALUES (2612, 261, 'thuong_gia', 12, 757000, 28000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2621, 262, 'pho_thong', 36, 1382000, 1373000, null);
+VALUES (2621, 262, 'pho_thong', 36, 2010000, 1542000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2622, 262, 'thuong_gia', 12, 5798000, 4460000, null);
+VALUES (2622, 262, 'thuong_gia', 12, 5812000, 3682000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2631, 263, 'pho_thong', 36, 1012000, 738000, null);
+VALUES (2631, 263, 'pho_thong', 36, 1743000, 1588000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2632, 263, 'thuong_gia', 12, 1957000, 1828000, null);
+VALUES (2632, 263, 'thuong_gia', 12, 2544000, 2112000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2641, 264, 'pho_thong', 36, 3289000, 1350000, null);
+VALUES (2641, 264, 'pho_thong', 36, 1588000, 555000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2642, 264, 'thuong_gia', 12, 6320000, 4942000, null);
+VALUES (2642, 264, 'thuong_gia', 12, 2689000, 2614000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2651, 265, 'pho_thong', 36, 1857000, 866000, null);
+VALUES (2651, 265, 'pho_thong', 36, 2870000, 2486000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2652, 265, 'thuong_gia', 12, 5055000, 3282000, null);
+VALUES (2652, 265, 'thuong_gia', 12, 6364000, 4874000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2661, 266, 'pho_thong', 36, 1633000, 138000, null);
+VALUES (2661, 266, 'pho_thong', 36, 2940000, 2236000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2662, 266, 'thuong_gia', 12, 3503000, 3444000, null);
+VALUES (2662, 266, 'thuong_gia', 12, 1047000, 708000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2671, 267, 'pho_thong', 36, 1866000, 129000, null);
+VALUES (2671, 267, 'pho_thong', 36, 2376000, 455000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2672, 267, 'thuong_gia', 12, 3094000, 1114000, null);
+VALUES (2672, 267, 'thuong_gia', 12, 6849000, 4594000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2681, 268, 'pho_thong', 36, 2569000, 2065000, null);
+VALUES (2681, 268, 'pho_thong', 36, 1162000, 179000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2682, 268, 'thuong_gia', 12, 4436000, 4190000, null);
+VALUES (2682, 268, 'thuong_gia', 12, 2761000, 2644000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2691, 269, 'pho_thong', 36, 3677000, 1872000, null);
+VALUES (2691, 269, 'pho_thong', 36, 2476000, 534000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2692, 269, 'thuong_gia', 12, 4845000, 3796000, null);
+VALUES (2692, 269, 'thuong_gia', 12, 2473000, 660000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2701, 270, 'pho_thong', 36, 2868000, 384000, null);
+VALUES (2701, 270, 'pho_thong', 36, 971000, 658000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2702, 270, 'thuong_gia', 12, 3914000, 2708000, null);
+VALUES (2702, 270, 'thuong_gia', 12, 2106000, 1080000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2711, 271, 'pho_thong', 36, 811000, 666000, null);
+VALUES (2711, 271, 'pho_thong', 36, 2527000, 1234000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2712, 271, 'thuong_gia', 12, 4874000, 2882000, null);
+VALUES (2712, 271, 'thuong_gia', 12, 4043000, 3954000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2721, 272, 'pho_thong', 36, 1681000, 868000, null);
+VALUES (2721, 272, 'pho_thong', 36, 3041000, 2496000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2722, 272, 'thuong_gia', 12, 5336000, 3766000, null);
+VALUES (2722, 272, 'thuong_gia', 12, 2870000, 1144000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2731, 273, 'pho_thong', 36, 2813000, 2364000, null);
+VALUES (2731, 273, 'pho_thong', 36, 2178000, 122000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2732, 273, 'thuong_gia', 12, 6597000, 4840000, null);
+VALUES (2732, 273, 'thuong_gia', 12, 3836000, 2236000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2741, 274, 'pho_thong', 36, 2618000, 213000, null);
+VALUES (2741, 274, 'pho_thong', 36, 3913000, 1741000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2742, 274, 'thuong_gia', 12, 2520000, 564000, null);
+VALUES (2742, 274, 'thuong_gia', 12, 3926000, 2026000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2751, 275, 'pho_thong', 36, 1042000, 1032000, null);
+VALUES (2751, 275, 'pho_thong', 36, 2368000, 1527000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2752, 275, 'thuong_gia', 12, 5578000, 3394000, null);
+VALUES (2752, 275, 'thuong_gia', 12, 2525000, 1188000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2761, 276, 'pho_thong', 36, 1304000, 296000, null);
+VALUES (2761, 276, 'pho_thong', 36, 2437000, 854000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2762, 276, 'thuong_gia', 12, 6642000, 4724000, null);
+VALUES (2762, 276, 'thuong_gia', 12, 6321000, 4856000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2771, 277, 'pho_thong', 36, 3671000, 2056000, null);
+VALUES (2771, 277, 'pho_thong', 36, 4211000, 2295000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2772, 277, 'thuong_gia', 12, 4840000, 4602000, null);
+VALUES (2772, 277, 'thuong_gia', 12, 5273000, 3340000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2781, 278, 'pho_thong', 36, 3185000, 1050000, null);
+VALUES (2781, 278, 'pho_thong', 36, 2902000, 1783000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2782, 278, 'thuong_gia', 12, 1273000, 1230000, null);
+VALUES (2782, 278, 'thuong_gia', 12, 2487000, 370000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2791, 279, 'pho_thong', 36, 1716000, 644000, null);
+VALUES (2791, 279, 'pho_thong', 36, 2216000, 906000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2792, 279, 'thuong_gia', 12, 1088000, 678000, null);
+VALUES (2792, 279, 'thuong_gia', 12, 3860000, 3640000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2801, 280, 'pho_thong', 36, 1943000, 985000, null);
+VALUES (2801, 280, 'pho_thong', 36, 4501000, 2102000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2802, 280, 'thuong_gia', 12, 3279000, 1552000, null);
+VALUES (2802, 280, 'thuong_gia', 12, 6055000, 4866000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2811, 281, 'pho_thong', 36, 2206000, 720000, null);
+VALUES (2811, 281, 'pho_thong', 36, 2194000, 1264000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2812, 281, 'thuong_gia', 12, 4853000, 4040000, null);
+VALUES (2812, 281, 'thuong_gia', 12, 6062000, 4920000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2821, 282, 'pho_thong', 36, 695000, 296000, null);
+VALUES (2821, 282, 'pho_thong', 36, 1173000, 1072000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2822, 282, 'thuong_gia', 12, 2695000, 1362000, null);
+VALUES (2822, 282, 'thuong_gia', 12, 3451000, 3216000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2831, 283, 'pho_thong', 36, 2563000, 878000, null);
+VALUES (2831, 283, 'pho_thong', 36, 2742000, 2294000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2832, 283, 'thuong_gia', 12, 1051000, 212000, null);
+VALUES (2832, 283, 'thuong_gia', 12, 4169000, 3978000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2841, 284, 'pho_thong', 36, 3406000, 1998000, null);
+VALUES (2841, 284, 'pho_thong', 36, 2539000, 249000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2842, 284, 'thuong_gia', 12, 3267000, 1686000, null);
+VALUES (2842, 284, 'thuong_gia', 12, 3923000, 3568000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2851, 285, 'pho_thong', 36, 1707000, 1519000, null);
+VALUES (2851, 285, 'pho_thong', 36, 2826000, 931000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2852, 285, 'thuong_gia', 12, 4537000, 2196000, null);
+VALUES (2852, 285, 'thuong_gia', 12, 6552000, 4440000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2861, 286, 'pho_thong', 36, 2961000, 1671000, null);
+VALUES (2861, 286, 'pho_thong', 36, 3189000, 1355000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2862, 286, 'thuong_gia', 12, 4628000, 3968000, null);
+VALUES (2862, 286, 'thuong_gia', 12, 5107000, 4678000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2871, 287, 'pho_thong', 36, 1080000, 714000, null);
+VALUES (2871, 287, 'pho_thong', 36, 3722000, 1435000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2872, 287, 'thuong_gia', 12, 5087000, 4484000, null);
+VALUES (2872, 287, 'thuong_gia', 12, 1952000, 932000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2881, 288, 'pho_thong', 36, 2294000, 1102000, null);
+VALUES (2881, 288, 'pho_thong', 36, 4019000, 2459000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2882, 288, 'thuong_gia', 12, 2088000, 414000, null);
+VALUES (2882, 288, 'thuong_gia', 12, 4284000, 3536000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2891, 289, 'pho_thong', 36, 2409000, 498000, null);
+VALUES (2891, 289, 'pho_thong', 36, 1818000, 811000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2892, 289, 'thuong_gia', 12, 3207000, 2276000, null);
+VALUES (2892, 289, 'thuong_gia', 12, 900000, 520000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2901, 290, 'pho_thong', 36, 1128000, 450000, null);
+VALUES (2901, 290, 'pho_thong', 36, 2996000, 2005000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2902, 290, 'thuong_gia', 12, 3189000, 1032000, null);
+VALUES (2902, 290, 'thuong_gia', 12, 3625000, 3214000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2911, 291, 'pho_thong', 36, 1359000, 432000, null);
+VALUES (2911, 291, 'pho_thong', 36, 1802000, 983000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2912, 291, 'thuong_gia', 12, 2021000, 536000, null);
+VALUES (2912, 291, 'thuong_gia', 12, 2121000, 1680000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2921, 292, 'pho_thong', 36, 603000, 46000, null);
+VALUES (2921, 292, 'pho_thong', 36, 3832000, 1526000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2922, 292, 'thuong_gia', 12, 4069000, 3116000, null);
+VALUES (2922, 292, 'thuong_gia', 12, 5922000, 3548000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2931, 293, 'pho_thong', 36, 2107000, 1171000, null);
+VALUES (2931, 293, 'pho_thong', 36, 2640000, 684000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2932, 293, 'thuong_gia', 12, 3720000, 3248000, null);
+VALUES (2932, 293, 'thuong_gia', 12, 4054000, 3358000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2941, 294, 'pho_thong', 36, 3822000, 1433000, null);
+VALUES (2941, 294, 'pho_thong', 36, 1977000, 1887000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2942, 294, 'thuong_gia', 12, 3297000, 2418000, null);
+VALUES (2942, 294, 'thuong_gia', 12, 595000, 436000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2951, 295, 'pho_thong', 36, 2330000, 103000, null);
+VALUES (2951, 295, 'pho_thong', 36, 1446000, 1326000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2952, 295, 'thuong_gia', 12, 1972000, 856000, null);
+VALUES (2952, 295, 'thuong_gia', 12, 2865000, 2026000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2961, 296, 'pho_thong', 36, 2306000, 476000, null);
+VALUES (2961, 296, 'pho_thong', 36, 3102000, 2135000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2962, 296, 'thuong_gia', 12, 3611000, 3020000, null);
+VALUES (2962, 296, 'thuong_gia', 12, 5640000, 3190000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2971, 297, 'pho_thong', 36, 3677000, 1261000, null);
+VALUES (2971, 297, 'pho_thong', 36, 2933000, 1426000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2972, 297, 'thuong_gia', 12, 3703000, 2932000, null);
+VALUES (2972, 297, 'thuong_gia', 12, 3143000, 2772000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2981, 298, 'pho_thong', 36, 1305000, 623000, null);
+VALUES (2981, 298, 'pho_thong', 36, 2346000, 2004000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2982, 298, 'thuong_gia', 12, 5526000, 4838000, null);
+VALUES (2982, 298, 'thuong_gia', 12, 4615000, 3450000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2991, 299, 'pho_thong', 36, 1981000, 250000, null);
+VALUES (2991, 299, 'pho_thong', 36, 2048000, 936000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2992, 299, 'thuong_gia', 12, 5532000, 4238000, null);
+VALUES (2992, 299, 'thuong_gia', 12, 3926000, 1808000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (3001, 300, 'pho_thong', 36, 3504000, 1770000, null);
+VALUES (3001, 300, 'pho_thong', 36, 3054000, 1344000, null);
 
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (3002, 300, 'thuong_gia', 12, 5953000, 3906000, null);
+VALUES (3002, 300, 'thuong_gia', 12, 3786000, 3786000, null);
 

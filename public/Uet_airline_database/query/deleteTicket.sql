@@ -14,3 +14,6 @@ WHERE ma_ve = 304903;
 
 DELETE FROM passengers
 WHERE order_number = 9435;
+
+DELETE FROM orders
+WHERE ma_khach_hang = 201;
