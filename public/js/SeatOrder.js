@@ -2,34 +2,48 @@ const urlParams = new URLSearchParams(window.location.search);
 
 const order_number = urlParams.get('order_number');
 
-const container = document.querySelector('.seat-container');
-const seats = document.querySelectorAll('.row .seat:not(.occupied)');
+// Kiểm tra nếu người dùng đang ở trang điền thông tin
+if (window.location.pathname === '/seat-order') {
 
-// populateUI();
+  window.removeEventListener('beforeunload', handleUnload());
 
-// // Get data from localstorage and populate UI
-// function populateUI() {
-//   const selectedSeats = JSON.parse(localStorage.getItem('selectedSeats'));
+  window.addEventListener('beforeunload', handleUnload());
+}
 
-//   if (selectedSeats !== null && selectedSeats.length > 0) {
-//     seats.forEach((seat, index) => {
-//       if (selectedSeats.indexOf(index) > -1) {
-//         seat.classList.add('selected');
-//       }
-//     });
-//   }
-// }
+function handleUnload() {
+  // Thực hiện các hành động kiểm tra trước khi người dùng rời khỏi trang
 
-// // Seat click event
-// container.addEventListener('click', e => {
-//   if (
-//     e.target.classList.contains('seat') &&
-//     !e.target.classList.contains('occupied')
-//   ) {
-//     e.target.classList.toggle('selected');
-//   }
-// });
+  var destinationURL = window.location.href;
 
+  // Kiểm tra xem người dùng đang chuyển đến trang nào
+  if (!(destinationURL.includes('/info-passenger') || destinationURL.includes('/seat-order'))) {
+    var confirmation = window.confirm("Xác nhận hủy đặt chuyến bay!!!");
+    if (confirmation) {
+      deleteUserDataFromDatabase();
+    }
+  }
+
+  // Không cần thiết hiện bất kỳ hành động nào nếu người dùng chuyển đến các trang khác
+}
+
+function deleteUserDataFromDatabase() {
+  var data = {
+    order_number: order_number
+  };
+
+  // Tạo một yêu cầu fetch với phương thức POST
+  fetch('/seat-order/cancelOrder', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(data),
+  })
+    .then(response => response.json())
+    .catch(err => {
+      console.log(err);
+    })
+}
 
 var Orderdetails = [];
 var currentNumberSelection = [];
@@ -197,6 +211,7 @@ function initSeat() {
 getOrderDetails();
 
 function backToInfoPassenger() {
+  window.removeEventListener('beforeunload', handleUnload());
   // Tạo URL với tham số truyền đi
   var url = "/info-passenger"
     + "?order_number=" + encodeURIComponent(order_number)
@@ -239,7 +254,6 @@ function addSeat(element) {
 }
 
 function addSeatOrder() {
-
   if (currentNumberSelection > 0) {
     alert('Vui lòng chọn ghế!!!');
     return;
@@ -247,7 +261,9 @@ function addSeatOrder() {
 
   var confirmation = window.confirm("Xác nhận để hoàn tất thông tin chuyến bay của bạn.\nBạn sẽ được chuyển đến trang cá nhân để thanh toán.");
   if (confirmation) {
+
     var data = [];
+
     for (var i = 0; i < listSelectedSeat.length; ++i) {
       var seat = {
         order_number: parseInt(order_number),
@@ -270,8 +286,15 @@ function addSeatOrder() {
         console.log('thêm ghế thành công')
       })
       .then(() => {
+        window.removeEventListener('beforeunload', handleUnload());
         var url = "/user-page"
-          // + "?order_number=" + encodeURIComponent(order_number)
+        // + "?order_number=" + encodeURIComponent(order_number)
+
+        // Chuyển hướng đến trang hiển thị vé với tham số
+        window.location.href = url;
+
+        var url = "/seat-order"
+        + "?order_number=" + encodeURIComponent(order_number)
 
         // Chuyển hướng đến trang hiển thị vé với tham số
         window.location.href = url;
