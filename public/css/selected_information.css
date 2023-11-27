@@ -46,7 +46,40 @@
   font-size: 14px;
 }
 
-.information_customer {
+.information_customer_adult {
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.information_customer_adult h3 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.information_customer_adult p {
+  margin-bottom: 10px;
+}
+
+.information_customer_adult .required {
+  color: red;
+}
+
+.information_customer_adult .input-group {
+  margin-bottom: 10px;
+}
+
+.information_customer_adult .input-group .form-control {
+  width: 100%;
+}
+
+.information_customer_adult .input-group .form-control:focus {
+  border-color: #000;
+  box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.25);
+}
+
+.information_customer_child {
   background-color: #fff;
   border: 1px solid #d9d9d9;
   padding: 10px;
