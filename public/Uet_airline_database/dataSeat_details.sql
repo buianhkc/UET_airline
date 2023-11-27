@@ -125,6 +125,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (1, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (1, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (1, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (1, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (1, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (1, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (1, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (2, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -249,6 +267,24 @@ VALUES (2, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (2, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (2, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (2, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (2, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (2, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (2, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (2, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (3, 1, 'thuong_gia', 'empty');
@@ -377,6 +413,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (3, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (3, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (3, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (3, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (3, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (3, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (3, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (4, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -501,6 +555,24 @@ VALUES (4, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (4, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (4, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (4, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (4, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (4, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (4, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (4, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (5, 1, 'thuong_gia', 'empty');
@@ -629,6 +701,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (5, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (5, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (5, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (5, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (5, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (5, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (5, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (6, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -753,6 +843,24 @@ VALUES (6, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (6, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (6, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (6, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (6, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (6, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (6, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (6, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (7, 1, 'thuong_gia', 'empty');
@@ -881,6 +989,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (7, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (7, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (7, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (7, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (7, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (7, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (7, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (8, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -1005,6 +1131,24 @@ VALUES (8, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (8, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (8, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (8, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (8, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (8, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (8, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (8, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (9, 1, 'thuong_gia', 'empty');
@@ -1133,6 +1277,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (9, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (9, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (9, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (9, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (9, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (9, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (9, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (10, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -1257,6 +1419,24 @@ VALUES (10, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (10, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (10, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (10, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (10, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (10, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (10, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (10, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (11, 1, 'thuong_gia', 'empty');
@@ -1385,6 +1565,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (11, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (11, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (11, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (11, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (11, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (11, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (11, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (12, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -1509,6 +1707,24 @@ VALUES (12, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (12, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (12, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (12, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (12, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (12, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (12, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (12, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (13, 1, 'thuong_gia', 'empty');
@@ -1637,6 +1853,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (13, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (13, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (13, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (13, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (13, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (13, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (13, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (14, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -1761,6 +1995,24 @@ VALUES (14, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (14, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (14, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (14, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (14, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (14, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (14, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (14, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (15, 1, 'thuong_gia', 'empty');
@@ -1889,6 +2141,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (15, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (15, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (15, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (15, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (15, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (15, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (15, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (16, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -2013,6 +2283,24 @@ VALUES (16, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (16, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (16, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (16, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (16, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (16, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (16, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (16, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (17, 1, 'thuong_gia', 'empty');
@@ -2141,6 +2429,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (17, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (17, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (17, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (17, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (17, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (17, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (17, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (18, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -2265,6 +2571,24 @@ VALUES (18, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (18, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (18, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (18, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (18, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (18, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (18, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (18, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (19, 1, 'thuong_gia', 'empty');
@@ -2393,6 +2717,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (19, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (19, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (19, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (19, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (19, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (19, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (19, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (20, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -2517,6 +2859,24 @@ VALUES (20, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (20, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (20, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (20, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (20, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (20, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (20, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (20, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (21, 1, 'thuong_gia', 'empty');
@@ -2645,6 +3005,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (21, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (21, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (21, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (21, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (21, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (21, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (21, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (22, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -2769,6 +3147,24 @@ VALUES (22, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (22, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (22, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (22, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (22, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (22, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (22, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (22, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (23, 1, 'thuong_gia', 'empty');
@@ -2897,6 +3293,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (23, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (23, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (23, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (23, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (23, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (23, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (23, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (24, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -3021,6 +3435,24 @@ VALUES (24, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (24, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (24, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (24, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (24, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (24, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (24, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (24, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (25, 1, 'thuong_gia', 'empty');
@@ -3149,6 +3581,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (25, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (25, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (25, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (25, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (25, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (25, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (25, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (26, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -3273,6 +3723,24 @@ VALUES (26, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (26, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (26, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (26, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (26, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (26, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (26, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (26, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (27, 1, 'thuong_gia', 'empty');
@@ -3401,6 +3869,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (27, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (27, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (27, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (27, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (27, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (27, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (27, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (28, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -3525,6 +4011,24 @@ VALUES (28, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (28, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (28, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (28, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (28, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (28, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (28, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (28, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (29, 1, 'thuong_gia', 'empty');
@@ -3653,6 +4157,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (29, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (29, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (29, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (29, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (29, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (29, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (29, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (30, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -3777,6 +4299,24 @@ VALUES (30, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (30, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (30, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (30, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (30, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (30, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (30, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (30, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (31, 1, 'thuong_gia', 'empty');
@@ -3905,6 +4445,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (31, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (31, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (31, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (31, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (31, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (31, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (31, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (32, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -4029,6 +4587,24 @@ VALUES (32, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (32, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (32, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (32, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (32, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (32, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (32, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (32, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (33, 1, 'thuong_gia', 'empty');
@@ -4157,6 +4733,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (33, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (33, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (33, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (33, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (33, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (33, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (33, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (34, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -4281,6 +4875,24 @@ VALUES (34, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (34, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (34, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (34, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (34, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (34, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (34, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (34, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (35, 1, 'thuong_gia', 'empty');
@@ -4409,6 +5021,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (35, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (35, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (35, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (35, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (35, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (35, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (35, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (36, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -4533,6 +5163,24 @@ VALUES (36, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (36, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (36, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (36, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (36, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (36, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (36, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (36, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (37, 1, 'thuong_gia', 'empty');
@@ -4661,6 +5309,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (37, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (37, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (37, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (37, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (37, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (37, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (37, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (38, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -4785,6 +5451,24 @@ VALUES (38, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (38, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (38, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (38, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (38, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (38, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (38, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (38, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (39, 1, 'thuong_gia', 'empty');
@@ -4913,6 +5597,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (39, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (39, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (39, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (39, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (39, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (39, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (39, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (40, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -5037,6 +5739,24 @@ VALUES (40, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (40, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (40, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (40, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (40, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (40, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (40, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (40, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (41, 1, 'thuong_gia', 'empty');
@@ -5165,6 +5885,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (41, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (41, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (41, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (41, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (41, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (41, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (41, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (42, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -5289,6 +6027,24 @@ VALUES (42, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (42, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (42, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (42, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (42, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (42, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (42, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (42, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (43, 1, 'thuong_gia', 'empty');
@@ -5417,6 +6173,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (43, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (43, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (43, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (43, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (43, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (43, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (43, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (44, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -5541,6 +6315,24 @@ VALUES (44, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (44, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (44, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (44, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (44, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (44, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (44, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (44, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (45, 1, 'thuong_gia', 'empty');
@@ -5669,6 +6461,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (45, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (45, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (45, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (45, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (45, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (45, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (45, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (46, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -5793,6 +6603,24 @@ VALUES (46, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (46, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (46, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (46, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (46, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (46, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (46, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (46, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (47, 1, 'thuong_gia', 'empty');
@@ -5921,6 +6749,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (47, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (47, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (47, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (47, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (47, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (47, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (47, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (48, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -6045,6 +6891,24 @@ VALUES (48, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (48, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (48, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (48, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (48, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (48, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (48, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (48, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (49, 1, 'thuong_gia', 'empty');
@@ -6173,6 +7037,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (49, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (49, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (49, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (49, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (49, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (49, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (49, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (50, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -6297,6 +7179,24 @@ VALUES (50, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (50, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (50, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (50, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (50, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (50, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (50, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (50, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (51, 1, 'thuong_gia', 'empty');
@@ -6425,6 +7325,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (51, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (51, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (51, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (51, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (51, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (51, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (51, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (52, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -6549,6 +7467,24 @@ VALUES (52, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (52, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (52, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (52, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (52, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (52, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (52, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (52, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (53, 1, 'thuong_gia', 'empty');
@@ -6677,6 +7613,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (53, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (53, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (53, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (53, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (53, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (53, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (53, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (54, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -6801,6 +7755,24 @@ VALUES (54, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (54, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (54, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (54, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (54, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (54, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (54, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (54, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (55, 1, 'thuong_gia', 'empty');
@@ -6929,6 +7901,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (55, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (55, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (55, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (55, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (55, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (55, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (55, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (56, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -7053,6 +8043,24 @@ VALUES (56, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (56, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (56, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (56, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (56, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (56, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (56, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (56, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (57, 1, 'thuong_gia', 'empty');
@@ -7181,6 +8189,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (57, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (57, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (57, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (57, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (57, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (57, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (57, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (58, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -7305,6 +8331,24 @@ VALUES (58, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (58, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (58, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (58, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (58, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (58, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (58, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (58, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (59, 1, 'thuong_gia', 'empty');
@@ -7433,6 +8477,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (59, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (59, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (59, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (59, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (59, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (59, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (59, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (60, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -7557,6 +8619,24 @@ VALUES (60, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (60, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (60, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (60, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (60, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (60, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (60, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (60, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (61, 1, 'thuong_gia', 'empty');
@@ -7685,6 +8765,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (61, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (61, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (61, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (61, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (61, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (61, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (61, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (62, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -7809,6 +8907,24 @@ VALUES (62, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (62, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (62, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (62, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (62, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (62, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (62, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (62, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (63, 1, 'thuong_gia', 'empty');
@@ -7937,6 +9053,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (63, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (63, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (63, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (63, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (63, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (63, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (63, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (64, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -8061,6 +9195,24 @@ VALUES (64, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (64, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (64, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (64, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (64, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (64, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (64, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (64, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (65, 1, 'thuong_gia', 'empty');
@@ -8189,6 +9341,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (65, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (65, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (65, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (65, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (65, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (65, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (65, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (66, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -8313,6 +9483,24 @@ VALUES (66, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (66, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (66, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (66, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (66, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (66, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (66, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (66, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (67, 1, 'thuong_gia', 'empty');
@@ -8441,6 +9629,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (67, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (67, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (67, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (67, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (67, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (67, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (67, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (68, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -8565,6 +9771,24 @@ VALUES (68, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (68, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (68, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (68, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (68, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (68, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (68, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (68, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (69, 1, 'thuong_gia', 'empty');
@@ -8693,6 +9917,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (69, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (69, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (69, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (69, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (69, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (69, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (69, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (70, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -8817,6 +10059,24 @@ VALUES (70, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (70, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (70, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (70, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (70, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (70, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (70, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (70, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (71, 1, 'thuong_gia', 'empty');
@@ -8945,6 +10205,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (71, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (71, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (71, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (71, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (71, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (71, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (71, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (72, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -9069,6 +10347,24 @@ VALUES (72, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (72, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (72, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (72, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (72, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (72, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (72, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (72, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (73, 1, 'thuong_gia', 'empty');
@@ -9197,6 +10493,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (73, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (73, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (73, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (73, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (73, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (73, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (73, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (74, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -9321,6 +10635,24 @@ VALUES (74, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (74, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (74, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (74, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (74, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (74, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (74, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (74, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (75, 1, 'thuong_gia', 'empty');
@@ -9449,6 +10781,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (75, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (75, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (75, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (75, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (75, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (75, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (75, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (76, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -9573,6 +10923,24 @@ VALUES (76, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (76, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (76, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (76, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (76, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (76, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (76, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (76, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (77, 1, 'thuong_gia', 'empty');
@@ -9701,6 +11069,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (77, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (77, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (77, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (77, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (77, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (77, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (77, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (78, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -9825,6 +11211,24 @@ VALUES (78, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (78, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (78, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (78, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (78, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (78, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (78, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (78, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (79, 1, 'thuong_gia', 'empty');
@@ -9953,6 +11357,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (79, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (79, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (79, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (79, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (79, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (79, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (79, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (80, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -10077,6 +11499,24 @@ VALUES (80, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (80, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (80, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (80, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (80, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (80, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (80, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (80, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (81, 1, 'thuong_gia', 'empty');
@@ -10205,6 +11645,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (81, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (81, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (81, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (81, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (81, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (81, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (81, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (82, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -10329,6 +11787,24 @@ VALUES (82, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (82, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (82, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (82, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (82, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (82, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (82, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (82, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (83, 1, 'thuong_gia', 'empty');
@@ -10457,6 +11933,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (83, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (83, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (83, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (83, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (83, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (83, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (83, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (84, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -10581,6 +12075,24 @@ VALUES (84, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (84, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (84, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (84, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (84, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (84, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (84, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (84, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (85, 1, 'thuong_gia', 'empty');
@@ -10709,6 +12221,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (85, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (85, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (85, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (85, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (85, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (85, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (85, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (86, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -10833,6 +12363,24 @@ VALUES (86, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (86, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (86, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (86, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (86, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (86, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (86, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (86, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (87, 1, 'thuong_gia', 'empty');
@@ -10961,6 +12509,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (87, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (87, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (87, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (87, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (87, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (87, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (87, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (88, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -11085,6 +12651,24 @@ VALUES (88, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (88, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (88, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (88, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (88, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (88, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (88, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (88, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (89, 1, 'thuong_gia', 'empty');
@@ -11213,6 +12797,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (89, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (89, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (89, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (89, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (89, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (89, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (89, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (90, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -11337,6 +12939,24 @@ VALUES (90, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (90, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (90, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (90, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (90, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (90, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (90, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (90, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (91, 1, 'thuong_gia', 'empty');
@@ -11465,6 +13085,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (91, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (91, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (91, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (91, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (91, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (91, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (91, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (92, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -11589,6 +13227,24 @@ VALUES (92, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (92, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (92, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (92, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (92, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (92, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (92, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (92, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (93, 1, 'thuong_gia', 'empty');
@@ -11717,6 +13373,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (93, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (93, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (93, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (93, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (93, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (93, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (93, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (94, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -11841,6 +13515,24 @@ VALUES (94, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (94, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (94, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (94, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (94, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (94, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (94, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (94, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (95, 1, 'thuong_gia', 'empty');
@@ -11969,6 +13661,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (95, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (95, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (95, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (95, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (95, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (95, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (95, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (96, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -12093,6 +13803,24 @@ VALUES (96, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (96, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (96, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (96, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (96, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (96, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (96, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (96, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (97, 1, 'thuong_gia', 'empty');
@@ -12221,6 +13949,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (97, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (97, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (97, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (97, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (97, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (97, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (97, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (98, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -12345,6 +14091,24 @@ VALUES (98, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (98, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (98, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (98, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (98, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (98, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (98, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (98, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (99, 1, 'thuong_gia', 'empty');
@@ -12473,6 +14237,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (99, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (99, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (99, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (99, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (99, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (99, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (99, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (100, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -12597,6 +14379,24 @@ VALUES (100, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (100, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (100, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (100, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (100, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (100, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (100, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (100, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (101, 1, 'thuong_gia', 'empty');
@@ -12725,6 +14525,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (101, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (101, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (101, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (101, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (101, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (101, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (101, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (102, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -12849,6 +14667,24 @@ VALUES (102, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (102, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (102, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (102, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (102, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (102, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (102, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (102, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (103, 1, 'thuong_gia', 'empty');
@@ -12977,6 +14813,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (103, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (103, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (103, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (103, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (103, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (103, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (103, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (104, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -13101,6 +14955,24 @@ VALUES (104, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (104, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (104, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (104, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (104, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (104, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (104, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (104, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (105, 1, 'thuong_gia', 'empty');
@@ -13229,6 +15101,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (105, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (105, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (105, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (105, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (105, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (105, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (105, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (106, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -13353,6 +15243,24 @@ VALUES (106, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (106, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (106, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (106, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (106, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (106, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (106, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (106, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (107, 1, 'thuong_gia', 'empty');
@@ -13481,6 +15389,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (107, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (107, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (107, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (107, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (107, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (107, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (107, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (108, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -13605,6 +15531,24 @@ VALUES (108, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (108, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (108, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (108, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (108, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (108, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (108, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (108, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (109, 1, 'thuong_gia', 'empty');
@@ -13733,6 +15677,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (109, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (109, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (109, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (109, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (109, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (109, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (109, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (110, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -13857,6 +15819,24 @@ VALUES (110, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (110, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (110, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (110, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (110, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (110, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (110, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (110, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (111, 1, 'thuong_gia', 'empty');
@@ -13985,6 +15965,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (111, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (111, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (111, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (111, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (111, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (111, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (111, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (112, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -14109,6 +16107,24 @@ VALUES (112, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (112, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (112, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (112, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (112, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (112, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (112, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (112, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (113, 1, 'thuong_gia', 'empty');
@@ -14237,6 +16253,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (113, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (113, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (113, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (113, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (113, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (113, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (113, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (114, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -14361,6 +16395,24 @@ VALUES (114, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (114, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (114, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (114, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (114, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (114, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (114, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (114, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (115, 1, 'thuong_gia', 'empty');
@@ -14489,6 +16541,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (115, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (115, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (115, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (115, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (115, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (115, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (115, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (116, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -14613,6 +16683,24 @@ VALUES (116, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (116, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (116, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (116, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (116, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (116, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (116, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (116, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (117, 1, 'thuong_gia', 'empty');
@@ -14741,6 +16829,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (117, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (117, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (117, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (117, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (117, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (117, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (117, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (118, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -14865,6 +16971,24 @@ VALUES (118, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (118, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (118, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (118, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (118, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (118, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (118, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (118, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (119, 1, 'thuong_gia', 'empty');
@@ -14993,6 +17117,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (119, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (119, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (119, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (119, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (119, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (119, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (119, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (120, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -15117,6 +17259,24 @@ VALUES (120, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (120, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (120, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (120, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (120, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (120, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (120, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (120, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (121, 1, 'thuong_gia', 'empty');
@@ -15245,6 +17405,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (121, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (121, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (121, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (121, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (121, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (121, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (121, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (122, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -15369,6 +17547,24 @@ VALUES (122, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (122, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (122, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (122, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (122, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (122, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (122, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (122, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (123, 1, 'thuong_gia', 'empty');
@@ -15497,6 +17693,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (123, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (123, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (123, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (123, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (123, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (123, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (123, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (124, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -15621,6 +17835,24 @@ VALUES (124, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (124, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (124, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (124, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (124, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (124, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (124, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (124, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (125, 1, 'thuong_gia', 'empty');
@@ -15749,6 +17981,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (125, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (125, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (125, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (125, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (125, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (125, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (125, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (126, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -15873,6 +18123,24 @@ VALUES (126, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (126, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (126, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (126, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (126, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (126, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (126, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (126, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (127, 1, 'thuong_gia', 'empty');
@@ -16001,6 +18269,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (127, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (127, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (127, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (127, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (127, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (127, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (127, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (128, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -16125,6 +18411,24 @@ VALUES (128, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (128, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (128, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (128, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (128, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (128, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (128, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (128, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (129, 1, 'thuong_gia', 'empty');
@@ -16253,6 +18557,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (129, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (129, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (129, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (129, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (129, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (129, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (129, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (130, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -16377,6 +18699,24 @@ VALUES (130, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (130, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (130, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (130, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (130, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (130, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (130, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (130, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (131, 1, 'thuong_gia', 'empty');
@@ -16505,6 +18845,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (131, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (131, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (131, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (131, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (131, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (131, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (131, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (132, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -16629,6 +18987,24 @@ VALUES (132, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (132, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (132, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (132, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (132, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (132, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (132, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (132, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (133, 1, 'thuong_gia', 'empty');
@@ -16757,6 +19133,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (133, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (133, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (133, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (133, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (133, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (133, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (133, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (134, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -16881,6 +19275,24 @@ VALUES (134, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (134, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (134, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (134, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (134, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (134, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (134, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (134, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (135, 1, 'thuong_gia', 'empty');
@@ -17009,6 +19421,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (135, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (135, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (135, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (135, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (135, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (135, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (135, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (136, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -17133,6 +19563,24 @@ VALUES (136, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (136, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (136, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (136, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (136, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (136, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (136, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (136, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (137, 1, 'thuong_gia', 'empty');
@@ -17261,6 +19709,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (137, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (137, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (137, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (137, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (137, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (137, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (137, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (138, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -17385,6 +19851,24 @@ VALUES (138, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (138, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (138, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (138, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (138, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (138, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (138, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (138, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (139, 1, 'thuong_gia', 'empty');
@@ -17513,6 +19997,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (139, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (139, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (139, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (139, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (139, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (139, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (139, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (140, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -17637,6 +20139,24 @@ VALUES (140, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (140, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (140, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (140, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (140, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (140, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (140, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (140, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (141, 1, 'thuong_gia', 'empty');
@@ -17765,6 +20285,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (141, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (141, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (141, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (141, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (141, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (141, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (141, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (142, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -17889,6 +20427,24 @@ VALUES (142, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (142, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (142, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (142, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (142, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (142, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (142, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (142, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (143, 1, 'thuong_gia', 'empty');
@@ -18017,6 +20573,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (143, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (143, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (143, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (143, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (143, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (143, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (143, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (144, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -18141,6 +20715,24 @@ VALUES (144, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (144, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (144, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (144, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (144, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (144, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (144, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (144, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (145, 1, 'thuong_gia', 'empty');
@@ -18269,6 +20861,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (145, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (145, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (145, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (145, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (145, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (145, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (145, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (146, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -18393,6 +21003,24 @@ VALUES (146, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (146, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (146, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (146, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (146, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (146, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (146, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (146, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (147, 1, 'thuong_gia', 'empty');
@@ -18521,6 +21149,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (147, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (147, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (147, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (147, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (147, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (147, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (147, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (148, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -18645,6 +21291,24 @@ VALUES (148, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (148, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (148, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (148, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (148, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (148, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (148, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (148, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (149, 1, 'thuong_gia', 'empty');
@@ -18773,6 +21437,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (149, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (149, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (149, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (149, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (149, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (149, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (149, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (150, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -18897,6 +21579,24 @@ VALUES (150, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (150, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (150, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (150, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (150, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (150, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (150, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (150, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (151, 1, 'thuong_gia', 'empty');
@@ -19025,6 +21725,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (151, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (151, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (151, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (151, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (151, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (151, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (151, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (152, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -19149,6 +21867,24 @@ VALUES (152, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (152, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (152, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (152, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (152, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (152, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (152, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (152, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (153, 1, 'thuong_gia', 'empty');
@@ -19277,6 +22013,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (153, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (153, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (153, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (153, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (153, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (153, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (153, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (154, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -19401,6 +22155,24 @@ VALUES (154, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (154, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (154, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (154, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (154, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (154, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (154, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (154, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (155, 1, 'thuong_gia', 'empty');
@@ -19529,6 +22301,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (155, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (155, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (155, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (155, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (155, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (155, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (155, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (156, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -19653,6 +22443,24 @@ VALUES (156, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (156, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (156, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (156, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (156, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (156, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (156, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (156, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (157, 1, 'thuong_gia', 'empty');
@@ -19781,6 +22589,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (157, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (157, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (157, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (157, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (157, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (157, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (157, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (158, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -19905,6 +22731,24 @@ VALUES (158, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (158, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (158, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (158, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (158, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (158, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (158, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (158, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (159, 1, 'thuong_gia', 'empty');
@@ -20033,6 +22877,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (159, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (159, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (159, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (159, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (159, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (159, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (159, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (160, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -20157,6 +23019,24 @@ VALUES (160, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (160, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (160, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (160, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (160, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (160, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (160, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (160, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (161, 1, 'thuong_gia', 'empty');
@@ -20285,6 +23165,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (161, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (161, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (161, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (161, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (161, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (161, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (161, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (162, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -20409,6 +23307,24 @@ VALUES (162, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (162, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (162, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (162, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (162, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (162, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (162, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (162, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (163, 1, 'thuong_gia', 'empty');
@@ -20537,6 +23453,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (163, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (163, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (163, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (163, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (163, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (163, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (163, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (164, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -20661,6 +23595,24 @@ VALUES (164, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (164, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (164, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (164, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (164, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (164, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (164, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (164, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (165, 1, 'thuong_gia', 'empty');
@@ -20789,6 +23741,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (165, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (165, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (165, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (165, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (165, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (165, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (165, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (166, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -20913,6 +23883,24 @@ VALUES (166, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (166, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (166, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (166, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (166, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (166, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (166, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (166, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (167, 1, 'thuong_gia', 'empty');
@@ -21041,6 +24029,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (167, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (167, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (167, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (167, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (167, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (167, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (167, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (168, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -21165,6 +24171,24 @@ VALUES (168, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (168, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (168, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (168, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (168, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (168, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (168, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (168, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (169, 1, 'thuong_gia', 'empty');
@@ -21293,6 +24317,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (169, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (169, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (169, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (169, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (169, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (169, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (169, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (170, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -21417,6 +24459,24 @@ VALUES (170, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (170, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (170, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (170, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (170, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (170, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (170, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (170, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (171, 1, 'thuong_gia', 'empty');
@@ -21545,6 +24605,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (171, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (171, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (171, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (171, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (171, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (171, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (171, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (172, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -21669,6 +24747,24 @@ VALUES (172, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (172, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (172, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (172, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (172, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (172, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (172, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (172, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (173, 1, 'thuong_gia', 'empty');
@@ -21797,6 +24893,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (173, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (173, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (173, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (173, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (173, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (173, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (173, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (174, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -21921,6 +25035,24 @@ VALUES (174, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (174, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (174, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (174, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (174, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (174, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (174, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (174, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (175, 1, 'thuong_gia', 'empty');
@@ -22049,6 +25181,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (175, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (175, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (175, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (175, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (175, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (175, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (175, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (176, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -22173,6 +25323,24 @@ VALUES (176, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (176, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (176, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (176, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (176, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (176, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (176, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (176, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (177, 1, 'thuong_gia', 'empty');
@@ -22301,6 +25469,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (177, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (177, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (177, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (177, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (177, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (177, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (177, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (178, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -22425,6 +25611,24 @@ VALUES (178, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (178, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (178, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (178, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (178, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (178, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (178, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (178, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (179, 1, 'thuong_gia', 'empty');
@@ -22553,6 +25757,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (179, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (179, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (179, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (179, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (179, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (179, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (179, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (180, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -22677,6 +25899,24 @@ VALUES (180, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (180, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (180, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (180, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (180, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (180, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (180, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (180, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (181, 1, 'thuong_gia', 'empty');
@@ -22805,6 +26045,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (181, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (181, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (181, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (181, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (181, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (181, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (181, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (182, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -22929,6 +26187,24 @@ VALUES (182, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (182, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (182, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (182, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (182, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (182, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (182, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (182, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (183, 1, 'thuong_gia', 'empty');
@@ -23057,6 +26333,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (183, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (183, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (183, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (183, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (183, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (183, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (183, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (184, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -23181,6 +26475,24 @@ VALUES (184, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (184, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (184, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (184, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (184, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (184, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (184, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (184, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (185, 1, 'thuong_gia', 'empty');
@@ -23309,6 +26621,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (185, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (185, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (185, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (185, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (185, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (185, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (185, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (186, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -23433,6 +26763,24 @@ VALUES (186, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (186, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (186, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (186, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (186, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (186, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (186, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (186, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (187, 1, 'thuong_gia', 'empty');
@@ -23561,6 +26909,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (187, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (187, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (187, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (187, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (187, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (187, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (187, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (188, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -23685,6 +27051,24 @@ VALUES (188, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (188, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (188, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (188, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (188, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (188, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (188, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (188, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (189, 1, 'thuong_gia', 'empty');
@@ -23813,6 +27197,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (189, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (189, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (189, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (189, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (189, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (189, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (189, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (190, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -23937,6 +27339,24 @@ VALUES (190, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (190, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (190, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (190, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (190, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (190, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (190, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (190, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (191, 1, 'thuong_gia', 'empty');
@@ -24065,6 +27485,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (191, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (191, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (191, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (191, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (191, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (191, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (191, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (192, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -24189,6 +27627,24 @@ VALUES (192, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (192, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (192, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (192, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (192, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (192, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (192, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (192, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (193, 1, 'thuong_gia', 'empty');
@@ -24317,6 +27773,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (193, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (193, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (193, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (193, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (193, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (193, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (193, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (194, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -24441,6 +27915,24 @@ VALUES (194, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (194, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (194, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (194, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (194, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (194, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (194, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (194, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (195, 1, 'thuong_gia', 'empty');
@@ -24569,6 +28061,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (195, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (195, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (195, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (195, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (195, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (195, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (195, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (196, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -24693,6 +28203,24 @@ VALUES (196, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (196, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (196, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (196, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (196, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (196, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (196, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (196, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (197, 1, 'thuong_gia', 'empty');
@@ -24821,6 +28349,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (197, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (197, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (197, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (197, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (197, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (197, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (197, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (198, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -24945,6 +28491,24 @@ VALUES (198, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (198, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (198, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (198, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (198, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (198, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (198, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (198, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (199, 1, 'thuong_gia', 'empty');
@@ -25073,6 +28637,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (199, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (199, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (199, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (199, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (199, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (199, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (199, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (200, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -25197,6 +28779,24 @@ VALUES (200, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (200, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (200, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (200, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (200, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (200, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (200, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (200, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (201, 1, 'thuong_gia', 'empty');
@@ -25325,6 +28925,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (201, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (201, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (201, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (201, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (201, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (201, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (201, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (202, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -25449,6 +29067,24 @@ VALUES (202, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (202, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (202, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (202, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (202, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (202, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (202, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (202, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (203, 1, 'thuong_gia', 'empty');
@@ -25577,6 +29213,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (203, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (203, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (203, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (203, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (203, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (203, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (203, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (204, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -25701,6 +29355,24 @@ VALUES (204, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (204, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (204, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (204, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (204, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (204, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (204, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (204, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (205, 1, 'thuong_gia', 'empty');
@@ -25829,6 +29501,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (205, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (205, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (205, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (205, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (205, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (205, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (205, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (206, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -25953,6 +29643,24 @@ VALUES (206, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (206, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (206, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (206, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (206, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (206, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (206, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (206, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (207, 1, 'thuong_gia', 'empty');
@@ -26081,6 +29789,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (207, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (207, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (207, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (207, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (207, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (207, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (207, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (208, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -26205,6 +29931,24 @@ VALUES (208, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (208, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (208, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (208, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (208, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (208, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (208, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (208, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (209, 1, 'thuong_gia', 'empty');
@@ -26333,6 +30077,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (209, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (209, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (209, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (209, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (209, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (209, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (209, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (210, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -26457,6 +30219,24 @@ VALUES (210, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (210, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (210, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (210, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (210, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (210, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (210, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (210, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (211, 1, 'thuong_gia', 'empty');
@@ -26585,6 +30365,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (211, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (211, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (211, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (211, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (211, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (211, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (211, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (212, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -26709,6 +30507,24 @@ VALUES (212, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (212, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (212, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (212, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (212, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (212, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (212, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (212, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (213, 1, 'thuong_gia', 'empty');
@@ -26837,6 +30653,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (213, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (213, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (213, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (213, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (213, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (213, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (213, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (214, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -26961,6 +30795,24 @@ VALUES (214, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (214, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (214, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (214, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (214, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (214, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (214, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (214, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (215, 1, 'thuong_gia', 'empty');
@@ -27089,6 +30941,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (215, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (215, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (215, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (215, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (215, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (215, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (215, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (216, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -27213,6 +31083,24 @@ VALUES (216, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (216, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (216, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (216, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (216, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (216, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (216, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (216, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (217, 1, 'thuong_gia', 'empty');
@@ -27341,6 +31229,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (217, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (217, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (217, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (217, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (217, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (217, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (217, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (218, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -27465,6 +31371,24 @@ VALUES (218, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (218, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (218, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (218, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (218, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (218, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (218, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (218, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (219, 1, 'thuong_gia', 'empty');
@@ -27593,6 +31517,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (219, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (219, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (219, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (219, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (219, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (219, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (219, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (220, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -27717,6 +31659,24 @@ VALUES (220, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (220, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (220, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (220, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (220, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (220, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (220, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (220, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (221, 1, 'thuong_gia', 'empty');
@@ -27845,6 +31805,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (221, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (221, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (221, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (221, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (221, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (221, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (221, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (222, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -27969,6 +31947,24 @@ VALUES (222, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (222, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (222, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (222, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (222, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (222, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (222, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (222, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (223, 1, 'thuong_gia', 'empty');
@@ -28097,6 +32093,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (223, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (223, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (223, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (223, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (223, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (223, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (223, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (224, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -28221,6 +32235,24 @@ VALUES (224, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (224, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (224, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (224, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (224, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (224, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (224, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (224, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (225, 1, 'thuong_gia', 'empty');
@@ -28349,6 +32381,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (225, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (225, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (225, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (225, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (225, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (225, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (225, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (226, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -28473,6 +32523,24 @@ VALUES (226, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (226, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (226, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (226, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (226, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (226, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (226, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (226, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (227, 1, 'thuong_gia', 'empty');
@@ -28601,6 +32669,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (227, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (227, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (227, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (227, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (227, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (227, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (227, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (228, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -28725,6 +32811,24 @@ VALUES (228, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (228, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (228, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (228, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (228, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (228, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (228, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (228, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (229, 1, 'thuong_gia', 'empty');
@@ -28853,6 +32957,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (229, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (229, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (229, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (229, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (229, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (229, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (229, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (230, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -28977,6 +33099,24 @@ VALUES (230, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (230, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (230, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (230, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (230, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (230, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (230, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (230, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (231, 1, 'thuong_gia', 'empty');
@@ -29105,6 +33245,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (231, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (231, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (231, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (231, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (231, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (231, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (231, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (232, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -29229,6 +33387,24 @@ VALUES (232, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (232, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (232, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (232, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (232, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (232, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (232, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (232, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (233, 1, 'thuong_gia', 'empty');
@@ -29357,6 +33533,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (233, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (233, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (233, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (233, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (233, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (233, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (233, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (234, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -29481,6 +33675,24 @@ VALUES (234, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (234, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (234, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (234, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (234, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (234, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (234, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (234, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (235, 1, 'thuong_gia', 'empty');
@@ -29609,6 +33821,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (235, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (235, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (235, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (235, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (235, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (235, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (235, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (236, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -29733,6 +33963,24 @@ VALUES (236, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (236, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (236, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (236, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (236, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (236, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (236, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (236, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (237, 1, 'thuong_gia', 'empty');
@@ -29861,6 +34109,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (237, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (237, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (237, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (237, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (237, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (237, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (237, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (238, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -29985,6 +34251,24 @@ VALUES (238, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (238, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (238, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (238, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (238, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (238, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (238, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (238, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (239, 1, 'thuong_gia', 'empty');
@@ -30113,6 +34397,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (239, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (239, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (239, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (239, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (239, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (239, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (239, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (240, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -30237,6 +34539,24 @@ VALUES (240, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (240, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (240, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (240, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (240, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (240, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (240, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (240, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (241, 1, 'thuong_gia', 'empty');
@@ -30365,6 +34685,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (241, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (241, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (241, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (241, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (241, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (241, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (241, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (242, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -30489,6 +34827,24 @@ VALUES (242, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (242, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (242, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (242, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (242, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (242, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (242, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (242, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (243, 1, 'thuong_gia', 'empty');
@@ -30617,6 +34973,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (243, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (243, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (243, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (243, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (243, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (243, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (243, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (244, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -30741,6 +35115,24 @@ VALUES (244, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (244, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (244, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (244, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (244, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (244, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (244, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (244, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (245, 1, 'thuong_gia', 'empty');
@@ -30869,6 +35261,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (245, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (245, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (245, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (245, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (245, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (245, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (245, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (246, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -30993,6 +35403,24 @@ VALUES (246, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (246, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (246, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (246, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (246, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (246, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (246, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (246, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (247, 1, 'thuong_gia', 'empty');
@@ -31121,6 +35549,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (247, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (247, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (247, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (247, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (247, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (247, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (247, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (248, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -31245,6 +35691,24 @@ VALUES (248, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (248, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (248, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (248, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (248, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (248, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (248, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (248, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (249, 1, 'thuong_gia', 'empty');
@@ -31373,6 +35837,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (249, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (249, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (249, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (249, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (249, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (249, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (249, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (250, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -31497,6 +35979,24 @@ VALUES (250, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (250, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (250, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (250, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (250, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (250, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (250, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (250, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (251, 1, 'thuong_gia', 'empty');
@@ -31625,6 +36125,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (251, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (251, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (251, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (251, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (251, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (251, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (251, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (252, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -31749,6 +36267,24 @@ VALUES (252, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (252, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (252, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (252, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (252, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (252, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (252, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (252, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (253, 1, 'thuong_gia', 'empty');
@@ -31877,6 +36413,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (253, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (253, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (253, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (253, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (253, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (253, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (253, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (254, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -32001,6 +36555,24 @@ VALUES (254, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (254, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (254, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (254, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (254, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (254, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (254, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (254, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (255, 1, 'thuong_gia', 'empty');
@@ -32129,6 +36701,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (255, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (255, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (255, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (255, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (255, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (255, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (255, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (256, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -32253,6 +36843,24 @@ VALUES (256, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (256, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (256, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (256, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (256, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (256, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (256, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (256, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (257, 1, 'thuong_gia', 'empty');
@@ -32381,6 +36989,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (257, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (257, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (257, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (257, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (257, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (257, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (257, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (258, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -32505,6 +37131,24 @@ VALUES (258, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (258, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (258, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (258, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (258, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (258, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (258, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (258, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (259, 1, 'thuong_gia', 'empty');
@@ -32633,6 +37277,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (259, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (259, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (259, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (259, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (259, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (259, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (259, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (260, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -32757,6 +37419,24 @@ VALUES (260, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (260, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (260, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (260, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (260, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (260, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (260, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (260, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (261, 1, 'thuong_gia', 'empty');
@@ -32885,6 +37565,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (261, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (261, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (261, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (261, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (261, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (261, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (261, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (262, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -33009,6 +37707,24 @@ VALUES (262, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (262, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (262, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (262, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (262, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (262, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (262, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (262, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (263, 1, 'thuong_gia', 'empty');
@@ -33137,6 +37853,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (263, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (263, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (263, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (263, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (263, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (263, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (263, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (264, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -33261,6 +37995,24 @@ VALUES (264, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (264, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (264, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (264, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (264, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (264, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (264, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (264, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (265, 1, 'thuong_gia', 'empty');
@@ -33389,6 +38141,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (265, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (265, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (265, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (265, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (265, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (265, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (265, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (266, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -33513,6 +38283,24 @@ VALUES (266, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (266, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (266, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (266, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (266, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (266, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (266, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (266, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (267, 1, 'thuong_gia', 'empty');
@@ -33641,6 +38429,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (267, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (267, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (267, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (267, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (267, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (267, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (267, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (268, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -33765,6 +38571,24 @@ VALUES (268, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (268, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (268, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (268, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (268, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (268, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (268, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (268, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (269, 1, 'thuong_gia', 'empty');
@@ -33893,6 +38717,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (269, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (269, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (269, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (269, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (269, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (269, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (269, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (270, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -34017,6 +38859,24 @@ VALUES (270, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (270, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (270, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (270, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (270, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (270, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (270, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (270, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (271, 1, 'thuong_gia', 'empty');
@@ -34145,6 +39005,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (271, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (271, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (271, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (271, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (271, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (271, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (271, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (272, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -34269,6 +39147,24 @@ VALUES (272, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (272, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (272, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (272, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (272, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (272, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (272, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (272, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (273, 1, 'thuong_gia', 'empty');
@@ -34397,6 +39293,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (273, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (273, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (273, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (273, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (273, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (273, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (273, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (274, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -34521,6 +39435,24 @@ VALUES (274, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (274, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (274, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (274, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (274, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (274, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (274, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (274, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (275, 1, 'thuong_gia', 'empty');
@@ -34649,6 +39581,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (275, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (275, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (275, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (275, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (275, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (275, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (275, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (276, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -34773,6 +39723,24 @@ VALUES (276, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (276, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (276, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (276, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (276, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (276, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (276, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (276, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (277, 1, 'thuong_gia', 'empty');
@@ -34901,6 +39869,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (277, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (277, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (277, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (277, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (277, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (277, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (277, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (278, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -35025,6 +40011,24 @@ VALUES (278, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (278, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (278, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (278, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (278, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (278, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (278, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (278, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (279, 1, 'thuong_gia', 'empty');
@@ -35153,6 +40157,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (279, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (279, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (279, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (279, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (279, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (279, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (279, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (280, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -35277,6 +40299,24 @@ VALUES (280, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (280, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (280, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (280, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (280, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (280, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (280, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (280, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (281, 1, 'thuong_gia', 'empty');
@@ -35405,6 +40445,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (281, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (281, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (281, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (281, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (281, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (281, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (281, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (282, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -35529,6 +40587,24 @@ VALUES (282, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (282, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (282, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (282, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (282, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (282, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (282, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (282, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (283, 1, 'thuong_gia', 'empty');
@@ -35657,6 +40733,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (283, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (283, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (283, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (283, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (283, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (283, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (283, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (284, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -35781,6 +40875,24 @@ VALUES (284, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (284, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (284, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (284, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (284, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (284, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (284, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (284, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (285, 1, 'thuong_gia', 'empty');
@@ -35909,6 +41021,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (285, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (285, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (285, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (285, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (285, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (285, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (285, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (286, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -36033,6 +41163,24 @@ VALUES (286, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (286, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (286, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (286, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (286, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (286, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (286, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (286, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (287, 1, 'thuong_gia', 'empty');
@@ -36161,6 +41309,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (287, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (287, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (287, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (287, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (287, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (287, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (287, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (288, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -36285,6 +41451,24 @@ VALUES (288, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (288, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (288, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (288, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (288, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (288, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (288, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (288, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (289, 1, 'thuong_gia', 'empty');
@@ -36413,6 +41597,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (289, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (289, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (289, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (289, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (289, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (289, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (289, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (290, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -36537,6 +41739,24 @@ VALUES (290, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (290, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (290, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (290, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (290, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (290, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (290, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (290, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (291, 1, 'thuong_gia', 'empty');
@@ -36665,6 +41885,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (291, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (291, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (291, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (291, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (291, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (291, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (291, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (292, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -36789,6 +42027,24 @@ VALUES (292, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (292, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (292, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (292, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (292, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (292, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (292, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (292, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (293, 1, 'thuong_gia', 'empty');
@@ -36917,6 +42173,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (293, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (293, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (293, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (293, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (293, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (293, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (293, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (294, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -37041,6 +42315,24 @@ VALUES (294, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (294, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (294, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (294, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (294, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (294, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (294, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (294, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (295, 1, 'thuong_gia', 'empty');
@@ -37169,6 +42461,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (295, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (295, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (295, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (295, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (295, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (295, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (295, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (296, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -37293,6 +42603,24 @@ VALUES (296, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (296, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (296, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (296, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (296, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (296, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (296, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (296, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (297, 1, 'thuong_gia', 'empty');
@@ -37421,6 +42749,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (297, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (297, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (297, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (297, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (297, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (297, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (297, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (298, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -37545,6 +42891,24 @@ VALUES (298, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (298, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (298, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (298, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (298, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (298, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (298, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (298, 48, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (299, 1, 'thuong_gia', 'empty');
@@ -37673,6 +43037,24 @@ INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (299, 42, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (299, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (299, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (299, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (299, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (299, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (299, 48, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (300, 1, 'thuong_gia', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
@@ -37797,4 +43179,22 @@ VALUES (300, 41, 'pho_thong', 'empty');
 
 INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
 VALUES (300, 42, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (300, 43, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (300, 44, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (300, 45, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (300, 46, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (300, 47, 'pho_thong', 'empty');
+
+INSERT INTO seat_details(ma_chuyen_bay, ma_ghe, loai_ghe, trang_thai)
+VALUES (300, 48, 'pho_thong', 'empty');
 

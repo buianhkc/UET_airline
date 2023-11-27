@@ -1,12057 +1,11907 @@
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1857, 1, 1);
+VALUES (12, 1, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1857, 1, 2);
+VALUES (12, 1, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1857, 1, 3);
+VALUES (12, 1, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (116, 1, 13);
+VALUES (11, 1, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (116, 1, 14);
+VALUES (11, 1, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (756, 1, 15);
+VALUES (11, 1, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (756, 1, 16);
+VALUES (11, 1, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (802, 1, 17);
+VALUES (11, 1, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (802, 1, 18);
+VALUES (11, 1, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (802, 1, 19);
+VALUES (22, 2, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1141, 1, 20);
+VALUES (22, 2, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (98, 2, 13);
+VALUES (22, 2, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (132, 2, 14);
+VALUES (21, 2, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (257, 2, 15);
+VALUES (21, 2, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (257, 2, 16);
+VALUES (21, 2, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (476, 2, 17);
+VALUES (21, 2, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (556, 2, 18);
+VALUES (21, 2, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (556, 2, 19);
+VALUES (32, 3, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (556, 2, 20);
+VALUES (31, 3, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (797, 2, 21);
+VALUES (31, 3, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (797, 2, 22);
+VALUES (31, 3, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1337, 2, 23);
+VALUES (31, 3, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1533, 2, 24);
+VALUES (31, 3, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1533, 2, 25);
+VALUES (31, 3, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1533, 2, 26);
+VALUES (31, 3, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1729, 2, 27);
+VALUES (31, 3, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1729, 2, 28);
+VALUES (31, 3, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1282, 3, 1);
+VALUES (31, 3, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1282, 3, 2);
+VALUES (31, 3, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1418, 3, 3);
+VALUES (31, 3, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (316, 3, 13);
+VALUES (31, 3, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (316, 3, 14);
+VALUES (31, 3, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (316, 3, 15);
+VALUES (31, 3, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (671, 3, 16);
+VALUES (31, 3, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (761, 3, 17);
+VALUES (31, 3, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (761, 3, 18);
+VALUES (31, 3, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (761, 3, 19);
+VALUES (31, 3, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (891, 3, 20);
+VALUES (31, 3, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1405, 3, 21);
+VALUES (31, 3, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1405, 3, 22);
+VALUES (42, 4, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1610, 3, 23);
+VALUES (42, 4, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1610, 3, 24);
+VALUES (42, 4, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1610, 3, 25);
+VALUES (42, 4, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1274, 4, 13);
+VALUES (42, 4, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1274, 4, 14);
+VALUES (41, 4, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1710, 4, 15);
+VALUES (41, 4, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1710, 4, 16);
+VALUES (41, 4, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (267, 5, 1);
+VALUES (41, 4, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (267, 5, 2);
+VALUES (41, 4, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (267, 5, 3);
+VALUES (41, 4, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1121, 5, 4);
+VALUES (41, 4, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1121, 5, 5);
+VALUES (41, 4, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1876, 5, 6);
+VALUES (41, 4, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1876, 5, 7);
+VALUES (52, 5, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (6, 5, 13);
+VALUES (52, 5, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (6, 5, 14);
+VALUES (52, 5, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (6, 5, 15);
+VALUES (51, 5, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (88, 5, 16);
+VALUES (51, 5, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (796, 5, 17);
+VALUES (51, 5, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (796, 5, 18);
+VALUES (51, 5, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1033, 5, 19);
+VALUES (51, 5, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1033, 5, 20);
+VALUES (51, 5, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1208, 5, 21);
+VALUES (51, 5, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1253, 5, 22);
+VALUES (51, 5, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1253, 5, 23);
+VALUES (51, 5, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1017, 6, 1);
+VALUES (51, 5, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1805, 6, 2);
+VALUES (51, 5, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (179, 6, 13);
+VALUES (51, 5, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (179, 6, 14);
+VALUES (51, 5, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (179, 6, 15);
+VALUES (51, 5, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (507, 6, 16);
+VALUES (51, 5, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (507, 6, 17);
+VALUES (51, 5, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (507, 6, 18);
+VALUES (51, 5, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (572, 6, 19);
+VALUES (51, 5, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (572, 6, 20);
+VALUES (62, 6, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (572, 6, 21);
+VALUES (62, 6, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (736, 6, 22);
+VALUES (61, 6, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (736, 6, 23);
+VALUES (61, 6, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (736, 6, 24);
+VALUES (61, 6, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (739, 6, 25);
+VALUES (61, 6, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1166, 6, 26);
+VALUES (61, 6, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1166, 6, 27);
+VALUES (61, 6, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1251, 6, 28);
+VALUES (61, 6, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1251, 6, 29);
+VALUES (61, 6, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1306, 6, 30);
+VALUES (72, 7, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1306, 6, 31);
+VALUES (72, 7, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1953, 6, 32);
+VALUES (72, 7, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1953, 6, 33);
+VALUES (72, 7, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (444, 7, 13);
+VALUES (71, 7, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (444, 7, 14);
+VALUES (71, 7, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (655, 7, 15);
+VALUES (71, 7, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (655, 7, 16);
+VALUES (71, 7, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (753, 7, 17);
+VALUES (71, 7, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (753, 7, 18);
+VALUES (71, 7, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1002, 7, 19);
+VALUES (71, 7, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1002, 7, 20);
+VALUES (71, 7, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1126, 7, 21);
+VALUES (71, 7, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1126, 7, 22);
+VALUES (71, 7, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1126, 7, 23);
+VALUES (71, 7, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1520, 7, 24);
+VALUES (71, 7, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (652, 8, 1);
+VALUES (71, 7, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1603, 8, 13);
+VALUES (71, 7, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (484, 9, 1);
+VALUES (71, 7, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (484, 9, 2);
+VALUES (81, 8, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (484, 9, 3);
+VALUES (81, 8, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (878, 9, 4);
+VALUES (81, 8, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (942, 9, 5);
+VALUES (81, 8, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (942, 9, 6);
+VALUES (81, 8, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (942, 9, 7);
+VALUES (81, 8, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1098, 9, 13);
+VALUES (81, 8, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1098, 9, 14);
+VALUES (81, 8, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1098, 9, 15);
+VALUES (81, 8, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1321, 9, 16);
+VALUES (81, 8, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1321, 9, 17);
+VALUES (81, 8, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1321, 9, 18);
+VALUES (81, 8, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1336, 9, 19);
+VALUES (81, 8, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1336, 9, 20);
+VALUES (81, 8, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1635, 9, 21);
+VALUES (81, 8, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (984, 10, 13);
+VALUES (81, 8, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (984, 10, 14);
+VALUES (81, 8, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (984, 10, 15);
+VALUES (92, 9, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1259, 10, 16);
+VALUES (92, 9, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1259, 10, 17);
+VALUES (92, 9, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1395, 10, 18);
+VALUES (92, 9, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1395, 10, 19);
+VALUES (91, 9, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1395, 10, 20);
+VALUES (91, 9, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1727, 10, 21);
+VALUES (91, 9, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1727, 10, 22);
+VALUES (91, 9, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1727, 10, 23);
+VALUES (91, 9, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1875, 10, 24);
+VALUES (91, 9, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1875, 10, 25);
+VALUES (91, 9, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1894, 10, 26);
+VALUES (91, 9, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1894, 10, 27);
+VALUES (91, 9, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1894, 10, 28);
+VALUES (102, 10, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1979, 10, 29);
+VALUES (102, 10, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1979, 10, 30);
+VALUES (102, 10, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1979, 10, 31);
+VALUES (102, 10, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1840, 11, 1);
+VALUES (101, 10, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1840, 11, 2);
+VALUES (101, 10, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1840, 11, 3);
+VALUES (101, 10, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (898, 11, 13);
+VALUES (101, 10, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (898, 11, 14);
+VALUES (101, 10, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1191, 11, 15);
+VALUES (101, 10, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1191, 11, 16);
+VALUES (101, 10, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1517, 11, 17);
+VALUES (101, 10, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1517, 11, 18);
+VALUES (112, 11, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1517, 11, 19);
+VALUES (112, 11, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (157, 12, 1);
+VALUES (111, 11, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (760, 12, 2);
+VALUES (111, 11, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (760, 12, 3);
+VALUES (111, 11, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (760, 12, 4);
+VALUES (111, 11, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (679, 12, 13);
+VALUES (111, 11, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (679, 12, 14);
+VALUES (111, 11, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1186, 12, 15);
+VALUES (111, 11, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1186, 12, 16);
+VALUES (111, 11, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1186, 12, 17);
+VALUES (111, 11, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1409, 12, 18);
+VALUES (111, 11, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1536, 12, 19);
+VALUES (111, 11, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1536, 12, 20);
+VALUES (111, 11, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1536, 12, 21);
+VALUES (111, 11, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1658, 12, 22);
+VALUES (111, 11, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1771, 12, 23);
+VALUES (121, 12, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1771, 12, 24);
+VALUES (121, 12, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1771, 12, 25);
+VALUES (121, 12, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1942, 12, 26);
+VALUES (121, 12, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1942, 12, 27);
+VALUES (121, 12, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (778, 13, 1);
+VALUES (121, 12, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (778, 13, 2);
+VALUES (121, 12, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (778, 13, 3);
+VALUES (121, 12, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1749, 13, 4);
+VALUES (121, 12, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1749, 13, 5);
+VALUES (121, 12, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1749, 13, 6);
+VALUES (121, 12, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (111, 13, 13);
+VALUES (121, 12, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (111, 13, 14);
+VALUES (131, 13, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (196, 13, 15);
+VALUES (131, 13, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (196, 13, 16);
+VALUES (131, 13, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (234, 13, 17);
+VALUES (131, 13, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (323, 13, 18);
+VALUES (131, 13, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (323, 13, 19);
+VALUES (131, 13, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (323, 13, 20);
+VALUES (131, 13, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (817, 13, 21);
+VALUES (142, 14, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (817, 13, 22);
+VALUES (142, 14, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (817, 13, 23);
+VALUES (142, 14, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1064, 13, 24);
+VALUES (142, 14, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1455, 14, 1);
+VALUES (142, 14, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1455, 14, 2);
+VALUES (141, 14, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1455, 14, 3);
+VALUES (141, 14, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (356, 14, 13);
+VALUES (141, 14, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (356, 14, 14);
+VALUES (141, 14, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (733, 14, 15);
+VALUES (141, 14, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (793, 14, 16);
+VALUES (141, 14, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (793, 14, 17);
+VALUES (141, 14, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (793, 14, 18);
+VALUES (141, 14, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (937, 14, 19);
+VALUES (141, 14, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1067, 14, 20);
+VALUES (152, 15, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1357, 14, 21);
+VALUES (152, 15, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1357, 14, 22);
+VALUES (152, 15, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1498, 14, 23);
+VALUES (151, 15, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1681, 15, 1);
+VALUES (151, 15, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1681, 15, 2);
+VALUES (151, 15, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1707, 15, 3);
+VALUES (151, 15, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1707, 15, 4);
+VALUES (151, 15, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1707, 15, 5);
+VALUES (151, 15, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (126, 15, 13);
+VALUES (151, 15, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (144, 15, 14);
+VALUES (151, 15, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (416, 15, 15);
+VALUES (151, 15, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (416, 15, 16);
+VALUES (161, 16, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (416, 15, 17);
+VALUES (161, 16, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1163, 15, 18);
+VALUES (161, 16, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1163, 15, 19);
+VALUES (161, 16, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1163, 15, 20);
+VALUES (161, 16, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1844, 15, 21);
+VALUES (161, 16, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1960, 15, 22);
+VALUES (161, 16, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (95, 16, 1);
+VALUES (161, 16, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (95, 16, 2);
+VALUES (161, 16, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (481, 16, 13);
+VALUES (172, 17, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (481, 16, 14);
+VALUES (171, 17, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (625, 16, 15);
+VALUES (171, 17, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (625, 16, 16);
+VALUES (171, 17, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (625, 16, 17);
+VALUES (171, 17, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (790, 16, 18);
+VALUES (171, 17, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (790, 16, 19);
+VALUES (171, 17, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (790, 16, 20);
+VALUES (171, 17, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1782, 16, 21);
+VALUES (171, 17, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1782, 16, 22);
+VALUES (182, 18, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1782, 16, 23);
+VALUES (182, 18, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1855, 16, 24);
+VALUES (182, 18, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1855, 16, 25);
+VALUES (182, 18, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1855, 16, 26);
+VALUES (182, 18, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (318, 17, 1);
+VALUES (181, 18, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (318, 17, 2);
+VALUES (181, 18, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1515, 17, 3);
+VALUES (181, 18, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1515, 17, 4);
+VALUES (181, 18, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (805, 17, 13);
+VALUES (181, 18, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (805, 17, 14);
+VALUES (181, 18, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1010, 17, 15);
+VALUES (181, 18, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1010, 17, 16);
+VALUES (181, 18, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1010, 17, 17);
+VALUES (181, 18, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1372, 17, 18);
+VALUES (181, 18, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1372, 17, 19);
+VALUES (181, 18, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1372, 17, 20);
+VALUES (181, 18, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1385, 17, 21);
+VALUES (181, 18, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1385, 17, 22);
+VALUES (192, 19, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1385, 17, 23);
+VALUES (192, 19, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1590, 17, 24);
+VALUES (191, 19, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1607, 17, 25);
+VALUES (191, 19, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1139, 18, 13);
+VALUES (191, 19, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1139, 18, 14);
+VALUES (191, 19, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1328, 18, 15);
+VALUES (191, 19, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1328, 18, 16);
+VALUES (191, 19, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1328, 18, 17);
+VALUES (191, 19, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1716, 18, 18);
+VALUES (191, 19, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1799, 18, 19);
+VALUES (191, 19, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1799, 18, 20);
+VALUES (191, 19, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1799, 18, 21);
+VALUES (191, 19, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (133, 19, 13);
+VALUES (191, 19, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (133, 19, 14);
+VALUES (191, 19, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (214, 19, 15);
+VALUES (191, 19, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (214, 19, 16);
+VALUES (191, 19, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (214, 19, 17);
+VALUES (191, 19, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (443, 19, 18);
+VALUES (191, 19, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (443, 19, 19);
+VALUES (191, 19, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (443, 19, 20);
+VALUES (191, 19, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (700, 19, 21);
+VALUES (191, 19, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (700, 19, 22);
+VALUES (191, 19, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1324, 19, 23);
+VALUES (191, 19, 34);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1324, 19, 24);
+VALUES (201, 20, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1324, 19, 25);
+VALUES (201, 20, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (313, 20, 1);
+VALUES (201, 20, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (313, 20, 2);
+VALUES (201, 20, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (313, 20, 3);
+VALUES (201, 20, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1413, 20, 4);
+VALUES (201, 20, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1413, 20, 5);
+VALUES (201, 20, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1834, 20, 6);
+VALUES (201, 20, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1834, 20, 7);
+VALUES (201, 20, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (342, 20, 13);
+VALUES (201, 20, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (342, 20, 14);
+VALUES (201, 20, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (342, 20, 15);
+VALUES (201, 20, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (881, 20, 16);
+VALUES (201, 20, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (881, 20, 17);
+VALUES (201, 20, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (881, 20, 18);
+VALUES (201, 20, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (910, 20, 19);
+VALUES (211, 21, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (910, 20, 20);
+VALUES (211, 21, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1096, 20, 21);
+VALUES (211, 21, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1096, 20, 22);
+VALUES (211, 21, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1333, 20, 23);
+VALUES (211, 21, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1333, 20, 24);
+VALUES (211, 21, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1484, 20, 25);
+VALUES (211, 21, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1484, 20, 26);
+VALUES (211, 21, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1600, 20, 27);
+VALUES (211, 21, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1600, 20, 28);
+VALUES (211, 21, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (469, 21, 1);
+VALUES (211, 21, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (469, 21, 2);
+VALUES (211, 21, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1841, 21, 3);
+VALUES (211, 21, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (346, 21, 13);
+VALUES (222, 22, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (346, 21, 14);
+VALUES (221, 22, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1420, 21, 15);
+VALUES (221, 22, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1420, 21, 16);
+VALUES (221, 22, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1627, 21, 17);
+VALUES (231, 23, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1627, 21, 18);
+VALUES (231, 23, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1829, 21, 19);
+VALUES (231, 23, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1829, 21, 20);
+VALUES (231, 23, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1715, 22, 13);
+VALUES (242, 24, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1715, 22, 14);
+VALUES (242, 24, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1849, 23, 1);
+VALUES (241, 24, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1849, 23, 2);
+VALUES (241, 24, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1849, 23, 3);
+VALUES (241, 24, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (278, 23, 13);
+VALUES (241, 24, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (278, 23, 14);
+VALUES (241, 24, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (278, 23, 15);
+VALUES (241, 24, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1842, 23, 16);
+VALUES (241, 24, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1842, 23, 17);
+VALUES (241, 24, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1988, 23, 18);
+VALUES (241, 24, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (5, 24, 13);
+VALUES (241, 24, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (5, 24, 14);
+VALUES (241, 24, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (272, 24, 15);
+VALUES (241, 24, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (272, 24, 16);
+VALUES (241, 24, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (331, 24, 17);
+VALUES (241, 24, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (331, 24, 18);
+VALUES (252, 25, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (406, 24, 19);
+VALUES (252, 25, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (406, 24, 20);
+VALUES (251, 25, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (479, 24, 21);
+VALUES (251, 25, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (479, 24, 22);
+VALUES (251, 25, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (492, 24, 23);
+VALUES (251, 25, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (492, 24, 24);
+VALUES (251, 25, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (766, 24, 25);
+VALUES (251, 25, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (766, 24, 26);
+VALUES (251, 25, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (858, 24, 27);
+VALUES (251, 25, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (858, 24, 28);
+VALUES (251, 25, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1944, 24, 29);
+VALUES (251, 25, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1944, 24, 30);
+VALUES (251, 25, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1134, 25, 1);
+VALUES (251, 25, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1134, 25, 2);
+VALUES (261, 26, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1275, 25, 3);
+VALUES (261, 26, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1275, 25, 4);
+VALUES (261, 26, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (15, 25, 13);
+VALUES (261, 26, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (15, 25, 14);
+VALUES (261, 26, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (253, 25, 15);
+VALUES (261, 26, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (253, 25, 16);
+VALUES (261, 26, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (310, 25, 17);
+VALUES (261, 26, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (310, 25, 18);
+VALUES (261, 26, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (310, 25, 19);
+VALUES (261, 26, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1133, 25, 20);
+VALUES (261, 26, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1133, 25, 21);
+VALUES (261, 26, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1133, 25, 22);
+VALUES (272, 27, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1436, 25, 23);
+VALUES (272, 27, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1436, 25, 24);
+VALUES (271, 27, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1465, 25, 25);
+VALUES (271, 27, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1465, 25, 26);
+VALUES (271, 27, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1886, 25, 27);
+VALUES (271, 27, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1886, 25, 28);
+VALUES (271, 27, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (352, 26, 13);
+VALUES (271, 27, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (352, 26, 14);
+VALUES (271, 27, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (909, 26, 15);
+VALUES (271, 27, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1007, 26, 16);
+VALUES (282, 28, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1007, 26, 17);
+VALUES (282, 28, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1095, 27, 13);
+VALUES (281, 28, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1095, 27, 14);
+VALUES (281, 28, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (300, 28, 13);
+VALUES (281, 28, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (836, 28, 14);
+VALUES (281, 28, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (836, 28, 15);
+VALUES (281, 28, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1107, 28, 16);
+VALUES (281, 28, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1404, 28, 17);
+VALUES (281, 28, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1696, 28, 18);
+VALUES (281, 28, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (577, 29, 1);
+VALUES (281, 28, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (577, 29, 2);
+VALUES (281, 28, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (577, 29, 3);
+VALUES (281, 28, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (142, 29, 13);
+VALUES (281, 28, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (860, 29, 14);
+VALUES (281, 28, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (860, 29, 15);
+VALUES (281, 28, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (860, 29, 16);
+VALUES (281, 28, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (960, 29, 17);
+VALUES (292, 29, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (960, 29, 18);
+VALUES (292, 29, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1272, 29, 19);
+VALUES (292, 29, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1746, 29, 20);
+VALUES (292, 29, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1746, 29, 21);
+VALUES (291, 29, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1879, 29, 22);
+VALUES (291, 29, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (605, 30, 13);
+VALUES (291, 29, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (605, 30, 14);
+VALUES (291, 29, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (605, 30, 15);
+VALUES (291, 29, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1683, 30, 16);
+VALUES (291, 29, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1683, 30, 17);
+VALUES (291, 29, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1880, 30, 18);
+VALUES (302, 30, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1880, 30, 19);
+VALUES (302, 30, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1880, 30, 20);
+VALUES (302, 30, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (377, 31, 1);
+VALUES (302, 30, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (377, 31, 2);
+VALUES (302, 30, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (377, 31, 3);
+VALUES (302, 30, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1074, 31, 4);
+VALUES (302, 30, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1074, 31, 5);
+VALUES (302, 30, 8);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (68, 31, 13);
+VALUES (301, 30, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (68, 31, 14);
+VALUES (301, 30, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (471, 31, 15);
+VALUES (301, 30, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (999, 31, 16);
+VALUES (301, 30, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (999, 31, 17);
+VALUES (301, 30, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (999, 31, 18);
+VALUES (301, 30, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1013, 31, 19);
+VALUES (301, 30, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1013, 31, 20);
+VALUES (301, 30, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1013, 31, 21);
+VALUES (301, 30, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1775, 31, 22);
+VALUES (301, 30, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1775, 31, 23);
+VALUES (301, 30, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1917, 31, 24);
+VALUES (301, 30, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1344, 32, 1);
+VALUES (301, 30, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1344, 32, 2);
+VALUES (301, 30, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (415, 32, 13);
+VALUES (301, 30, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (415, 32, 14);
+VALUES (312, 31, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (533, 32, 15);
+VALUES (312, 31, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (533, 32, 16);
+VALUES (311, 31, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (623, 32, 17);
+VALUES (311, 31, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (623, 32, 18);
+VALUES (311, 31, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (661, 32, 19);
+VALUES (311, 31, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (661, 32, 20);
+VALUES (311, 31, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (661, 32, 21);
+VALUES (311, 31, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (539, 33, 1);
+VALUES (311, 31, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (539, 33, 2);
+VALUES (311, 31, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (539, 33, 3);
+VALUES (311, 31, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (67, 33, 13);
+VALUES (311, 31, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (67, 33, 14);
+VALUES (311, 31, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (344, 33, 15);
+VALUES (321, 32, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (344, 33, 16);
+VALUES (321, 32, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (448, 33, 17);
+VALUES (321, 32, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1464, 33, 18);
+VALUES (321, 32, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1516, 33, 19);
+VALUES (321, 32, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1516, 33, 20);
+VALUES (321, 32, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1516, 33, 21);
+VALUES (321, 32, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1975, 33, 22);
+VALUES (321, 32, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (916, 34, 1);
+VALUES (321, 32, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1266, 34, 2);
+VALUES (321, 32, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1266, 34, 3);
+VALUES (321, 32, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (530, 34, 13);
+VALUES (321, 32, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (530, 34, 14);
+VALUES (321, 32, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (530, 34, 15);
+VALUES (321, 32, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (877, 34, 16);
+VALUES (321, 32, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (877, 34, 17);
+VALUES (332, 33, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (877, 34, 18);
+VALUES (331, 33, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1474, 34, 19);
+VALUES (331, 33, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1474, 34, 20);
+VALUES (331, 33, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1478, 34, 21);
+VALUES (331, 33, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1478, 34, 22);
+VALUES (331, 33, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1478, 34, 23);
+VALUES (331, 33, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1663, 34, 24);
+VALUES (331, 33, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (148, 35, 1);
+VALUES (342, 34, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (148, 35, 2);
+VALUES (341, 34, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (600, 35, 3);
+VALUES (341, 34, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (600, 35, 4);
+VALUES (341, 34, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (145, 35, 13);
+VALUES (341, 34, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (242, 35, 14);
+VALUES (352, 35, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (447, 35, 15);
+VALUES (351, 35, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (447, 35, 16);
+VALUES (351, 35, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (447, 35, 17);
+VALUES (351, 35, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (453, 35, 18);
+VALUES (351, 35, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (453, 35, 19);
+VALUES (351, 35, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (672, 35, 20);
+VALUES (351, 35, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (672, 35, 21);
+VALUES (351, 35, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1428, 35, 22);
+VALUES (351, 35, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1428, 35, 23);
+VALUES (351, 35, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1428, 35, 24);
+VALUES (351, 35, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1748, 35, 25);
+VALUES (351, 35, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1748, 35, 26);
+VALUES (351, 35, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1748, 35, 27);
+VALUES (351, 35, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1887, 35, 28);
+VALUES (351, 35, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (844, 36, 1);
+VALUES (351, 35, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (844, 36, 2);
+VALUES (362, 36, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (94, 36, 13);
+VALUES (362, 36, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (94, 36, 14);
+VALUES (361, 36, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (138, 36, 15);
+VALUES (361, 36, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (138, 36, 16);
+VALUES (361, 36, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (138, 36, 17);
+VALUES (361, 36, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (473, 36, 18);
+VALUES (361, 36, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (833, 36, 19);
+VALUES (361, 36, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (833, 36, 20);
+VALUES (361, 36, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1006, 36, 21);
+VALUES (361, 36, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1699, 36, 22);
+VALUES (361, 36, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1699, 36, 23);
+VALUES (361, 36, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1800, 36, 24);
+VALUES (361, 36, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1827, 36, 25);
+VALUES (361, 36, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1827, 36, 26);
+VALUES (361, 36, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1980, 36, 27);
+VALUES (372, 37, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1980, 36, 28);
+VALUES (372, 37, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1980, 36, 29);
+VALUES (372, 37, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (680, 37, 13);
+VALUES (371, 37, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1534, 37, 14);
+VALUES (371, 37, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1735, 37, 15);
+VALUES (371, 37, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1735, 37, 16);
+VALUES (371, 37, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1949, 37, 17);
+VALUES (371, 37, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1949, 37, 18);
+VALUES (371, 37, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1949, 37, 19);
+VALUES (371, 37, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (360, 38, 1);
+VALUES (371, 37, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (360, 38, 2);
+VALUES (371, 37, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (80, 38, 13);
+VALUES (371, 37, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (249, 38, 14);
+VALUES (382, 38, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (466, 38, 15);
+VALUES (382, 38, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (486, 38, 16);
+VALUES (381, 38, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (486, 38, 17);
+VALUES (381, 38, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (769, 38, 18);
+VALUES (381, 38, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (769, 38, 19);
+VALUES (381, 38, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (978, 38, 20);
+VALUES (381, 38, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (978, 38, 21);
+VALUES (381, 38, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1092, 38, 22);
+VALUES (381, 38, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1092, 38, 23);
+VALUES (381, 38, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1227, 38, 24);
+VALUES (381, 38, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1227, 38, 25);
+VALUES (381, 38, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1227, 38, 26);
+VALUES (381, 38, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (215, 39, 13);
+VALUES (381, 38, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (215, 39, 14);
+VALUES (392, 39, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (215, 39, 15);
+VALUES (392, 39, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (224, 39, 16);
+VALUES (391, 39, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (224, 39, 17);
+VALUES (391, 39, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (603, 39, 18);
+VALUES (391, 39, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (603, 39, 19);
+VALUES (391, 39, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (603, 39, 20);
+VALUES (391, 39, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1008, 39, 21);
+VALUES (391, 39, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1008, 39, 22);
+VALUES (391, 39, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1059, 39, 23);
+VALUES (391, 39, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1059, 39, 24);
+VALUES (391, 39, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1361, 39, 25);
+VALUES (391, 39, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1361, 39, 26);
+VALUES (402, 40, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1954, 39, 27);
+VALUES (402, 40, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1954, 39, 28);
+VALUES (401, 40, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (136, 40, 1);
+VALUES (401, 40, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (136, 40, 2);
+VALUES (401, 40, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (465, 40, 3);
+VALUES (401, 40, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (465, 40, 4);
+VALUES (401, 40, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1083, 40, 5);
+VALUES (401, 40, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1083, 40, 6);
+VALUES (401, 40, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1083, 40, 7);
+VALUES (401, 40, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1414, 40, 8);
+VALUES (401, 40, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1414, 40, 9);
+VALUES (401, 40, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (328, 40, 13);
+VALUES (401, 40, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (328, 40, 14);
+VALUES (401, 40, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (328, 40, 15);
+VALUES (401, 40, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (602, 40, 16);
+VALUES (401, 40, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (832, 40, 17);
+VALUES (401, 40, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1084, 40, 18);
+VALUES (401, 40, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1084, 40, 19);
+VALUES (401, 40, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1084, 40, 20);
+VALUES (401, 40, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1086, 40, 21);
+VALUES (401, 40, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1086, 40, 22);
+VALUES (401, 40, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1280, 40, 23);
+VALUES (401, 40, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1280, 40, 24);
+VALUES (401, 40, 34);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1280, 40, 25);
+VALUES (412, 41, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1313, 40, 26);
+VALUES (412, 41, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1313, 40, 27);
+VALUES (412, 41, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1789, 40, 28);
+VALUES (411, 41, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1789, 40, 29);
+VALUES (411, 41, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (430, 41, 1);
+VALUES (411, 41, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (430, 41, 2);
+VALUES (411, 41, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1549, 41, 3);
+VALUES (411, 41, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (294, 41, 13);
+VALUES (411, 41, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (294, 41, 14);
+VALUES (411, 41, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (518, 41, 15);
+VALUES (411, 41, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (518, 41, 16);
+VALUES (411, 41, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1335, 41, 17);
+VALUES (411, 41, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1352, 41, 18);
+VALUES (422, 42, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1669, 41, 19);
+VALUES (422, 42, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1669, 41, 20);
+VALUES (422, 42, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1677, 41, 21);
+VALUES (421, 42, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (445, 42, 1);
+VALUES (421, 42, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (445, 42, 2);
+VALUES (421, 42, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1509, 42, 3);
+VALUES (421, 42, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1509, 42, 4);
+VALUES (421, 42, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1509, 42, 5);
+VALUES (421, 42, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1545, 42, 6);
+VALUES (431, 43, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1545, 42, 7);
+VALUES (431, 43, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1545, 42, 8);
+VALUES (431, 43, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (327, 42, 13);
+VALUES (431, 43, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (327, 42, 14);
+VALUES (431, 43, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (514, 42, 15);
+VALUES (442, 44, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (514, 42, 16);
+VALUES (442, 44, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1175, 42, 17);
+VALUES (441, 44, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1175, 42, 18);
+VALUES (441, 44, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (159, 43, 1);
+VALUES (441, 44, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (159, 43, 2);
+VALUES (441, 44, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (424, 43, 3);
+VALUES (441, 44, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (424, 43, 4);
+VALUES (441, 44, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (424, 43, 5);
+VALUES (441, 44, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1649, 43, 6);
+VALUES (441, 44, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1649, 43, 7);
+VALUES (441, 44, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1649, 43, 8);
+VALUES (441, 44, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1843, 43, 9);
+VALUES (441, 44, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1843, 43, 10);
+VALUES (441, 44, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (262, 43, 13);
+VALUES (441, 44, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (262, 43, 14);
+VALUES (441, 44, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (262, 43, 15);
+VALUES (441, 44, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (729, 43, 16);
+VALUES (441, 44, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (729, 43, 17);
+VALUES (441, 44, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (729, 43, 18);
+VALUES (441, 44, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (794, 43, 19);
+VALUES (441, 44, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (794, 43, 20);
+VALUES (441, 44, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1094, 43, 21);
+VALUES (441, 44, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1094, 43, 22);
+VALUES (441, 44, 34);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1201, 43, 23);
+VALUES (452, 45, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1201, 43, 24);
+VALUES (452, 45, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1201, 43, 25);
+VALUES (452, 45, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1406, 43, 26);
+VALUES (452, 45, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1473, 43, 27);
+VALUES (452, 45, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1473, 43, 28);
+VALUES (452, 45, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1473, 43, 29);
+VALUES (451, 45, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1741, 43, 30);
+VALUES (451, 45, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1741, 43, 31);
+VALUES (451, 45, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1959, 43, 32);
+VALUES (451, 45, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (13, 44, 1);
+VALUES (451, 45, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (400, 44, 2);
+VALUES (451, 45, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (400, 44, 3);
+VALUES (451, 45, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (837, 44, 4);
+VALUES (451, 45, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (837, 44, 5);
+VALUES (451, 45, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (92, 44, 13);
+VALUES (451, 45, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (92, 44, 14);
+VALUES (451, 45, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (855, 44, 15);
+VALUES (451, 45, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (855, 44, 16);
+VALUES (451, 45, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (855, 44, 17);
+VALUES (462, 46, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1172, 44, 18);
+VALUES (461, 46, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1172, 44, 19);
+VALUES (461, 46, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1230, 44, 20);
+VALUES (461, 46, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1672, 44, 21);
+VALUES (461, 46, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1672, 44, 22);
+VALUES (461, 46, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1780, 44, 23);
+VALUES (461, 46, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1780, 44, 24);
+VALUES (461, 46, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1780, 44, 25);
+VALUES (461, 46, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (856, 45, 1);
+VALUES (461, 46, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1011, 45, 2);
+VALUES (472, 47, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1011, 45, 3);
+VALUES (471, 47, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (681, 45, 13);
+VALUES (471, 47, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (681, 45, 14);
+VALUES (471, 47, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (681, 45, 15);
+VALUES (471, 47, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (828, 45, 16);
+VALUES (471, 47, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (828, 45, 17);
+VALUES (471, 47, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1161, 45, 18);
+VALUES (471, 47, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1325, 45, 19);
+VALUES (471, 47, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1325, 45, 20);
+VALUES (471, 47, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1399, 45, 21);
+VALUES (482, 48, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1399, 45, 22);
+VALUES (482, 48, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1399, 45, 23);
+VALUES (481, 48, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1772, 45, 24);
+VALUES (481, 48, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1772, 45, 25);
+VALUES (481, 48, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1939, 45, 26);
+VALUES (481, 48, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1939, 45, 27);
+VALUES (481, 48, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (287, 46, 13);
+VALUES (481, 48, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (287, 46, 14);
+VALUES (481, 48, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (893, 46, 15);
+VALUES (481, 48, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (893, 46, 16);
+VALUES (481, 48, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (957, 46, 17);
+VALUES (481, 48, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1053, 46, 18);
+VALUES (481, 48, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1053, 46, 19);
+VALUES (481, 48, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1111, 46, 20);
+VALUES (481, 48, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1111, 46, 21);
+VALUES (492, 49, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1190, 46, 22);
+VALUES (492, 49, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1190, 46, 23);
+VALUES (491, 49, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1190, 46, 24);
+VALUES (491, 49, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1632, 46, 25);
+VALUES (491, 49, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1632, 46, 26);
+VALUES (491, 49, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1632, 46, 27);
+VALUES (491, 49, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1901, 46, 28);
+VALUES (491, 49, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1901, 46, 29);
+VALUES (491, 49, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (876, 47, 1);
+VALUES (491, 49, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (876, 47, 2);
+VALUES (491, 49, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (509, 47, 13);
+VALUES (491, 49, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (651, 47, 14);
+VALUES (491, 49, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (696, 47, 15);
+VALUES (491, 49, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (696, 47, 16);
+VALUES (491, 49, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (995, 47, 17);
+VALUES (501, 50, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (995, 47, 18);
+VALUES (501, 50, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1462, 47, 19);
+VALUES (501, 50, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1462, 47, 20);
+VALUES (501, 50, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1507, 47, 21);
+VALUES (501, 50, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1507, 47, 22);
+VALUES (501, 50, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1507, 47, 23);
+VALUES (501, 50, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (688, 48, 1);
+VALUES (501, 50, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (688, 48, 2);
+VALUES (501, 50, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1402, 48, 3);
+VALUES (501, 50, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (578, 48, 13);
+VALUES (501, 50, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (578, 48, 14);
+VALUES (501, 50, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (578, 48, 15);
+VALUES (501, 50, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (792, 48, 16);
+VALUES (501, 50, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (792, 48, 17);
+VALUES (501, 50, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (792, 48, 18);
+VALUES (512, 51, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1024, 48, 19);
+VALUES (512, 51, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1666, 48, 20);
+VALUES (511, 51, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1666, 48, 21);
+VALUES (511, 51, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1666, 48, 22);
+VALUES (511, 51, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1761, 48, 23);
+VALUES (511, 51, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1761, 48, 24);
+VALUES (511, 51, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (71, 49, 13);
+VALUES (511, 51, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (312, 49, 14);
+VALUES (511, 51, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (312, 49, 15);
+VALUES (522, 52, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (524, 49, 16);
+VALUES (522, 52, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (524, 49, 17);
+VALUES (522, 52, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (840, 49, 18);
+VALUES (522, 52, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (840, 49, 19);
+VALUES (522, 52, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1239, 49, 20);
+VALUES (522, 52, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1239, 49, 21);
+VALUES (521, 52, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1239, 49, 22);
+VALUES (521, 52, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1633, 49, 23);
+VALUES (521, 52, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1633, 49, 24);
+VALUES (521, 52, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1809, 49, 25);
+VALUES (521, 52, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1809, 49, 26);
+VALUES (521, 52, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (613, 50, 13);
+VALUES (521, 52, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (613, 50, 14);
+VALUES (532, 53, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1692, 50, 15);
+VALUES (532, 53, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1692, 50, 16);
+VALUES (532, 53, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (735, 51, 13);
+VALUES (532, 53, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (735, 51, 14);
+VALUES (531, 53, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (765, 51, 15);
+VALUES (531, 53, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (965, 51, 16);
+VALUES (531, 53, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (965, 51, 17);
+VALUES (531, 53, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1820, 51, 18);
+VALUES (531, 53, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1820, 51, 19);
+VALUES (531, 53, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1965, 51, 20);
+VALUES (531, 53, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1982, 51, 21);
+VALUES (531, 53, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1982, 51, 22);
+VALUES (531, 53, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1982, 51, 23);
+VALUES (531, 53, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1990, 51, 24);
+VALUES (531, 53, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1990, 51, 25);
+VALUES (542, 54, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1999, 51, 26);
+VALUES (542, 54, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (554, 52, 1);
+VALUES (542, 54, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (554, 52, 2);
+VALUES (542, 54, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1640, 52, 3);
+VALUES (542, 54, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1640, 52, 4);
+VALUES (541, 54, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1905, 52, 5);
+VALUES (541, 54, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (462, 52, 13);
+VALUES (541, 54, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (462, 52, 14);
+VALUES (541, 54, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (767, 52, 15);
+VALUES (541, 54, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (768, 52, 16);
+VALUES (541, 54, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (768, 52, 17);
+VALUES (541, 54, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (768, 52, 18);
+VALUES (541, 54, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (906, 52, 19);
+VALUES (541, 54, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (906, 52, 20);
+VALUES (541, 54, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (906, 52, 21);
+VALUES (541, 54, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1097, 52, 22);
+VALUES (541, 54, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1097, 52, 23);
+VALUES (551, 55, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1994, 52, 24);
+VALUES (551, 55, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1994, 52, 25);
+VALUES (551, 55, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (61, 53, 1);
+VALUES (551, 55, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (61, 53, 2);
+VALUES (551, 55, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (510, 53, 3);
+VALUES (551, 55, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (510, 53, 4);
+VALUES (551, 55, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (630, 53, 5);
+VALUES (551, 55, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (59, 53, 13);
+VALUES (562, 56, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (59, 53, 14);
+VALUES (562, 56, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (998, 53, 15);
+VALUES (562, 56, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (998, 53, 16);
+VALUES (561, 56, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1248, 53, 17);
+VALUES (561, 56, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1248, 53, 18);
+VALUES (561, 56, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1540, 53, 19);
+VALUES (561, 56, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1540, 53, 20);
+VALUES (561, 56, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1940, 53, 21);
+VALUES (561, 56, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1940, 53, 22);
+VALUES (561, 56, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1041, 54, 1);
+VALUES (561, 56, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (37, 54, 13);
+VALUES (561, 56, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (37, 54, 14);
+VALUES (561, 56, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (843, 54, 15);
+VALUES (561, 56, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (843, 54, 16);
+VALUES (561, 56, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (843, 54, 17);
+VALUES (561, 56, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (851, 54, 18);
+VALUES (572, 57, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (882, 54, 19);
+VALUES (572, 57, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (882, 54, 20);
+VALUES (571, 57, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1244, 54, 21);
+VALUES (571, 57, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1271, 54, 22);
+VALUES (571, 57, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1573, 54, 23);
+VALUES (571, 57, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1573, 54, 24);
+VALUES (571, 57, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1702, 54, 25);
+VALUES (571, 57, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1702, 54, 26);
+VALUES (571, 57, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1778, 54, 27);
+VALUES (571, 57, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1778, 54, 28);
+VALUES (571, 57, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (134, 55, 1);
+VALUES (582, 58, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (134, 55, 2);
+VALUES (582, 58, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (329, 55, 3);
+VALUES (581, 58, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (329, 55, 4);
+VALUES (581, 58, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (349, 55, 13);
+VALUES (581, 58, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (349, 55, 14);
+VALUES (581, 58, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (831, 55, 15);
+VALUES (581, 58, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (902, 55, 16);
+VALUES (581, 58, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (902, 55, 17);
+VALUES (581, 58, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (24, 56, 13);
+VALUES (581, 58, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (24, 56, 14);
+VALUES (592, 59, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (103, 56, 15);
+VALUES (592, 59, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (103, 56, 16);
+VALUES (592, 59, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (103, 56, 17);
+VALUES (592, 59, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (388, 56, 18);
+VALUES (591, 59, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (565, 56, 19);
+VALUES (591, 59, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (565, 56, 20);
+VALUES (591, 59, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (565, 56, 21);
+VALUES (591, 59, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (744, 56, 22);
+VALUES (591, 59, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (744, 56, 23);
+VALUES (591, 59, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (755, 56, 24);
+VALUES (591, 59, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (755, 56, 25);
+VALUES (591, 59, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1437, 56, 26);
+VALUES (591, 59, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1437, 56, 27);
+VALUES (591, 59, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1547, 56, 28);
+VALUES (591, 59, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1547, 56, 29);
+VALUES (591, 59, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1634, 56, 30);
+VALUES (591, 59, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1634, 56, 31);
+VALUES (591, 59, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1907, 56, 32);
+VALUES (591, 59, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1907, 56, 33);
+VALUES (591, 59, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (90, 57, 13);
+VALUES (591, 59, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (90, 57, 14);
+VALUES (591, 59, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (160, 57, 15);
+VALUES (591, 59, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (372, 57, 16);
+VALUES (591, 59, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (372, 57, 17);
+VALUES (591, 59, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1642, 57, 18);
+VALUES (602, 60, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1642, 57, 19);
+VALUES (602, 60, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1922, 57, 20);
+VALUES (602, 60, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (531, 58, 1);
+VALUES (602, 60, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (531, 58, 2);
+VALUES (601, 60, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (46, 58, 13);
+VALUES (601, 60, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (46, 58, 14);
+VALUES (601, 60, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (519, 58, 15);
+VALUES (601, 60, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (519, 58, 16);
+VALUES (601, 60, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (528, 58, 17);
+VALUES (601, 60, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1030, 58, 18);
+VALUES (601, 60, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1030, 58, 19);
+VALUES (601, 60, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1030, 58, 20);
+VALUES (601, 60, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1199, 58, 21);
+VALUES (601, 60, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1199, 58, 22);
+VALUES (601, 60, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1199, 58, 23);
+VALUES (601, 60, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1264, 58, 24);
+VALUES (601, 60, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1283, 58, 25);
+VALUES (601, 60, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1283, 58, 26);
+VALUES (612, 61, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1618, 58, 27);
+VALUES (611, 61, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1618, 58, 28);
+VALUES (611, 61, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1751, 58, 29);
+VALUES (611, 61, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1751, 58, 30);
+VALUES (611, 61, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1890, 58, 31);
+VALUES (611, 61, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1890, 58, 32);
+VALUES (611, 61, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (411, 59, 13);
+VALUES (611, 61, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (411, 59, 14);
+VALUES (622, 62, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (487, 59, 15);
+VALUES (622, 62, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (487, 59, 16);
+VALUES (622, 62, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (535, 59, 17);
+VALUES (622, 62, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (535, 59, 18);
+VALUES (622, 62, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (535, 59, 19);
+VALUES (621, 62, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (725, 59, 20);
+VALUES (621, 62, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (725, 59, 21);
+VALUES (621, 62, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1214, 59, 22);
+VALUES (632, 63, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1214, 59, 23);
+VALUES (632, 63, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1874, 59, 24);
+VALUES (632, 63, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1874, 59, 25);
+VALUES (632, 63, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (140, 60, 13);
+VALUES (632, 63, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (140, 60, 14);
+VALUES (632, 63, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (140, 60, 15);
+VALUES (632, 63, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (150, 60, 16);
+VALUES (632, 63, 8);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (150, 60, 17);
+VALUES (632, 63, 9);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (150, 60, 18);
+VALUES (631, 63, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (974, 60, 19);
+VALUES (631, 63, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1956, 60, 20);
+VALUES (631, 63, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1956, 60, 21);
+VALUES (631, 63, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (626, 61, 1);
+VALUES (631, 63, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1162, 61, 2);
+VALUES (631, 63, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1162, 61, 3);
+VALUES (631, 63, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1392, 61, 4);
+VALUES (631, 63, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1392, 61, 5);
+VALUES (631, 63, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (14, 61, 13);
+VALUES (631, 63, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (14, 61, 14);
+VALUES (631, 63, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (14, 61, 15);
+VALUES (631, 63, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (668, 61, 16);
+VALUES (642, 64, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (668, 61, 17);
+VALUES (642, 64, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (668, 61, 18);
+VALUES (642, 64, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1102, 61, 19);
+VALUES (642, 64, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1102, 61, 20);
+VALUES (642, 64, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1249, 61, 21);
+VALUES (641, 64, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1249, 61, 22);
+VALUES (641, 64, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (49, 62, 1);
+VALUES (641, 64, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (91, 62, 13);
+VALUES (641, 64, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (91, 62, 14);
+VALUES (641, 64, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (131, 62, 15);
+VALUES (641, 64, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (131, 62, 16);
+VALUES (641, 64, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (303, 62, 17);
+VALUES (641, 64, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (303, 62, 18);
+VALUES (641, 64, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (364, 62, 19);
+VALUES (652, 65, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (606, 62, 20);
+VALUES (652, 65, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (606, 62, 21);
+VALUES (652, 65, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1193, 62, 22);
+VALUES (652, 65, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1193, 62, 23);
+VALUES (652, 65, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1918, 63, 1);
+VALUES (651, 65, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (76, 63, 13);
+VALUES (651, 65, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (76, 63, 14);
+VALUES (651, 65, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1140, 63, 15);
+VALUES (651, 65, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1146, 63, 16);
+VALUES (651, 65, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1146, 63, 17);
+VALUES (651, 65, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1622, 63, 18);
+VALUES (651, 65, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1622, 63, 19);
+VALUES (651, 65, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1737, 63, 20);
+VALUES (661, 66, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1737, 63, 21);
+VALUES (661, 66, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1744, 63, 22);
+VALUES (661, 66, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1744, 63, 23);
+VALUES (661, 66, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1853, 63, 24);
+VALUES (661, 66, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1853, 63, 25);
+VALUES (661, 66, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1853, 63, 26);
+VALUES (661, 66, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (151, 64, 13);
+VALUES (672, 67, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (151, 64, 14);
+VALUES (671, 67, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (478, 64, 15);
+VALUES (671, 67, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (478, 64, 16);
+VALUES (671, 67, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (956, 64, 17);
+VALUES (671, 67, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (956, 64, 18);
+VALUES (671, 67, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (956, 64, 19);
+VALUES (671, 67, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (993, 64, 20);
+VALUES (671, 67, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1026, 64, 21);
+VALUES (671, 67, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1026, 64, 22);
+VALUES (671, 67, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1026, 64, 23);
+VALUES (671, 67, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1562, 64, 24);
+VALUES (671, 67, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1562, 64, 25);
+VALUES (671, 67, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1893, 64, 26);
+VALUES (671, 67, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1893, 64, 27);
+VALUES (671, 67, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1893, 64, 28);
+VALUES (671, 67, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (87, 65, 1);
+VALUES (671, 67, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (87, 65, 2);
+VALUES (682, 68, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (440, 65, 3);
+VALUES (681, 68, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (440, 65, 4);
+VALUES (681, 68, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1387, 65, 5);
+VALUES (681, 68, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1387, 65, 6);
+VALUES (681, 68, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1551, 65, 7);
+VALUES (681, 68, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1551, 65, 8);
+VALUES (681, 68, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (299, 65, 13);
+VALUES (681, 68, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (973, 65, 14);
+VALUES (692, 69, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (973, 65, 15);
+VALUES (692, 69, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (973, 65, 16);
+VALUES (692, 69, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1709, 65, 17);
+VALUES (691, 69, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1709, 65, 18);
+VALUES (691, 69, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1950, 65, 19);
+VALUES (691, 69, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1950, 65, 20);
+VALUES (691, 69, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1612, 66, 1);
+VALUES (691, 69, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1612, 66, 2);
+VALUES (691, 69, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1612, 66, 3);
+VALUES (691, 69, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (73, 66, 13);
+VALUES (691, 69, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (738, 66, 14);
+VALUES (691, 69, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1730, 66, 15);
+VALUES (691, 69, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1730, 66, 16);
+VALUES (691, 69, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1891, 66, 17);
+VALUES (691, 69, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1891, 66, 18);
+VALUES (691, 69, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1497, 67, 1);
+VALUES (691, 69, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1497, 67, 2);
+VALUES (691, 69, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1755, 67, 3);
+VALUES (702, 70, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1755, 67, 4);
+VALUES (702, 70, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (386, 67, 13);
+VALUES (701, 70, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (386, 67, 14);
+VALUES (701, 70, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (436, 67, 15);
+VALUES (701, 70, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (436, 67, 16);
+VALUES (701, 70, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (930, 67, 17);
+VALUES (701, 70, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (930, 67, 18);
+VALUES (701, 70, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1087, 67, 19);
+VALUES (701, 70, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1087, 67, 20);
+VALUES (701, 70, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1087, 67, 21);
+VALUES (701, 70, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1232, 67, 22);
+VALUES (701, 70, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1232, 67, 23);
+VALUES (701, 70, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1860, 67, 24);
+VALUES (701, 70, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1871, 67, 25);
+VALUES (701, 70, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1424, 68, 1);
+VALUES (701, 70, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1424, 68, 2);
+VALUES (701, 70, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1957, 68, 3);
+VALUES (701, 70, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1957, 68, 4);
+VALUES (712, 71, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1957, 68, 5);
+VALUES (712, 71, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (82, 68, 13);
+VALUES (711, 71, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (459, 68, 14);
+VALUES (711, 71, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (459, 68, 15);
+VALUES (721, 72, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (459, 68, 16);
+VALUES (721, 72, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (488, 68, 17);
+VALUES (721, 72, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (488, 68, 18);
+VALUES (721, 72, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (580, 68, 19);
+VALUES (721, 72, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (580, 68, 20);
+VALUES (721, 72, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (580, 68, 21);
+VALUES (721, 72, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (633, 68, 22);
+VALUES (732, 73, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (633, 68, 23);
+VALUES (732, 73, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (812, 68, 24);
+VALUES (731, 73, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1417, 69, 1);
+VALUES (731, 73, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1417, 69, 2);
+VALUES (731, 73, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1659, 69, 3);
+VALUES (731, 73, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (210, 69, 13);
+VALUES (731, 73, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (210, 69, 14);
+VALUES (731, 73, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (309, 69, 15);
+VALUES (731, 73, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (449, 69, 16);
+VALUES (731, 73, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (449, 69, 17);
+VALUES (742, 74, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1154, 69, 18);
+VALUES (742, 74, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1154, 69, 19);
+VALUES (741, 74, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1154, 69, 20);
+VALUES (741, 74, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1854, 69, 21);
+VALUES (741, 74, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1854, 69, 22);
+VALUES (741, 74, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (387, 70, 1);
+VALUES (741, 74, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (387, 70, 2);
+VALUES (741, 74, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (195, 70, 13);
+VALUES (741, 74, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (195, 70, 14);
+VALUES (752, 75, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (321, 70, 15);
+VALUES (752, 75, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (321, 70, 16);
+VALUES (752, 75, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (321, 70, 17);
+VALUES (752, 75, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (347, 70, 18);
+VALUES (752, 75, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (347, 70, 19);
+VALUES (751, 75, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (590, 70, 20);
+VALUES (751, 75, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (590, 70, 21);
+VALUES (751, 75, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (657, 70, 22);
+VALUES (751, 75, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (657, 70, 23);
+VALUES (751, 75, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (657, 70, 24);
+VALUES (751, 75, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (732, 70, 25);
+VALUES (751, 75, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (732, 70, 26);
+VALUES (751, 75, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (732, 70, 27);
+VALUES (751, 75, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1046, 70, 28);
+VALUES (751, 75, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1046, 70, 29);
+VALUES (751, 75, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1046, 70, 30);
+VALUES (751, 75, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1129, 70, 31);
+VALUES (751, 75, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1548, 70, 32);
+VALUES (751, 75, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1548, 70, 33);
+VALUES (751, 75, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1548, 70, 34);
+VALUES (751, 75, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1595, 70, 35);
+VALUES (761, 76, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1595, 70, 36);
+VALUES (761, 76, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (441, 71, 1);
+VALUES (761, 76, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (441, 71, 2);
+VALUES (761, 76, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (441, 71, 3);
+VALUES (761, 76, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1260, 71, 4);
+VALUES (771, 77, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1260, 71, 5);
+VALUES (771, 77, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1260, 71, 6);
+VALUES (771, 77, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (146, 71, 13);
+VALUES (771, 77, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (146, 71, 14);
+VALUES (771, 77, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (901, 71, 15);
+VALUES (771, 77, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1602, 71, 16);
+VALUES (771, 77, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1602, 71, 17);
+VALUES (771, 77, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1602, 71, 18);
+VALUES (771, 77, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1652, 71, 19);
+VALUES (771, 77, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1012, 72, 1);
+VALUES (771, 77, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1012, 72, 2);
+VALUES (771, 77, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1012, 72, 3);
+VALUES (771, 77, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (19, 72, 13);
+VALUES (771, 77, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (19, 72, 14);
+VALUES (771, 77, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (345, 72, 15);
+VALUES (771, 77, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (345, 72, 16);
+VALUES (771, 77, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (345, 72, 17);
+VALUES (771, 77, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (474, 72, 18);
+VALUES (782, 78, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (475, 72, 19);
+VALUES (782, 78, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (692, 72, 20);
+VALUES (782, 78, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (692, 72, 21);
+VALUES (782, 78, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1077, 72, 22);
+VALUES (782, 78, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1077, 72, 23);
+VALUES (781, 78, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1077, 72, 24);
+VALUES (781, 78, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1524, 72, 25);
+VALUES (781, 78, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1554, 72, 26);
+VALUES (781, 78, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1554, 72, 27);
+VALUES (781, 78, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1578, 72, 28);
+VALUES (781, 78, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1578, 72, 29);
+VALUES (781, 78, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1578, 72, 30);
+VALUES (781, 78, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1654, 72, 31);
+VALUES (781, 78, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1654, 72, 32);
+VALUES (792, 79, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1654, 72, 33);
+VALUES (792, 79, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1723, 72, 34);
+VALUES (792, 79, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1723, 72, 35);
+VALUES (791, 79, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (122, 73, 13);
+VALUES (791, 79, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (122, 73, 14);
+VALUES (791, 79, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (357, 73, 15);
+VALUES (791, 79, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (357, 73, 16);
+VALUES (791, 79, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1315, 73, 17);
+VALUES (791, 79, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1315, 73, 18);
+VALUES (791, 79, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1315, 73, 19);
+VALUES (791, 79, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1383, 73, 20);
+VALUES (791, 79, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1383, 73, 21);
+VALUES (791, 79, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1383, 73, 22);
+VALUES (791, 79, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1332, 74, 1);
+VALUES (791, 79, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1332, 74, 2);
+VALUES (791, 79, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1588, 74, 3);
+VALUES (791, 79, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1773, 74, 4);
+VALUES (802, 80, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1773, 74, 5);
+VALUES (802, 80, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1773, 74, 6);
+VALUES (802, 80, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1923, 74, 7);
+VALUES (802, 80, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1923, 74, 8);
+VALUES (801, 80, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1923, 74, 9);
+VALUES (801, 80, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (96, 74, 13);
+VALUES (801, 80, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (96, 74, 14);
+VALUES (801, 80, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (96, 74, 15);
+VALUES (811, 81, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (137, 74, 16);
+VALUES (811, 81, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (399, 74, 17);
+VALUES (811, 81, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (399, 74, 18);
+VALUES (811, 81, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (526, 74, 19);
+VALUES (811, 81, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (526, 74, 20);
+VALUES (811, 81, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (809, 74, 21);
+VALUES (811, 81, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (809, 74, 22);
+VALUES (811, 81, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (809, 74, 23);
+VALUES (811, 81, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (943, 74, 24);
+VALUES (811, 81, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (943, 74, 25);
+VALUES (822, 82, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (50, 75, 13);
+VALUES (822, 82, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (50, 75, 14);
+VALUES (822, 82, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (50, 75, 15);
+VALUES (822, 82, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (202, 75, 16);
+VALUES (822, 82, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (371, 75, 17);
+VALUES (822, 82, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (371, 75, 18);
+VALUES (821, 82, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (371, 75, 19);
+VALUES (821, 82, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (573, 75, 20);
+VALUES (821, 82, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1598, 75, 21);
+VALUES (821, 82, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1598, 75, 22);
+VALUES (821, 82, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (39, 76, 1);
+VALUES (821, 82, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (39, 76, 2);
+VALUES (831, 83, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (899, 76, 3);
+VALUES (831, 83, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1550, 76, 4);
+VALUES (831, 83, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1550, 76, 5);
+VALUES (831, 83, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1934, 76, 6);
+VALUES (831, 83, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (317, 76, 13);
+VALUES (831, 83, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (317, 76, 14);
+VALUES (831, 83, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (571, 76, 15);
+VALUES (831, 83, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (905, 76, 16);
+VALUES (831, 83, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (905, 76, 17);
+VALUES (831, 83, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (921, 76, 18);
+VALUES (831, 83, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1179, 76, 19);
+VALUES (831, 83, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1246, 76, 20);
+VALUES (831, 83, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1246, 76, 21);
+VALUES (831, 83, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1591, 76, 22);
+VALUES (831, 83, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1591, 76, 23);
+VALUES (831, 83, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1591, 76, 24);
+VALUES (842, 84, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (114, 77, 1);
+VALUES (842, 84, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (274, 77, 2);
+VALUES (841, 84, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (274, 77, 3);
+VALUES (841, 84, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (274, 77, 4);
+VALUES (841, 84, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1822, 77, 5);
+VALUES (841, 84, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1822, 77, 6);
+VALUES (841, 84, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (156, 77, 13);
+VALUES (841, 84, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (156, 77, 14);
+VALUES (841, 84, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (421, 77, 15);
+VALUES (841, 84, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (421, 77, 16);
+VALUES (851, 85, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1247, 77, 17);
+VALUES (851, 85, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1247, 77, 18);
+VALUES (851, 85, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1964, 77, 19);
+VALUES (851, 85, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (517, 78, 1);
+VALUES (851, 85, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (517, 78, 2);
+VALUES (851, 85, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (931, 78, 3);
+VALUES (851, 85, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (931, 78, 4);
+VALUES (851, 85, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1241, 78, 5);
+VALUES (862, 86, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1241, 78, 6);
+VALUES (862, 86, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1241, 78, 7);
+VALUES (862, 86, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1213, 78, 13);
+VALUES (862, 86, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1213, 78, 14);
+VALUES (862, 86, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1339, 78, 15);
+VALUES (861, 86, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1466, 78, 16);
+VALUES (861, 86, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (200, 79, 1);
+VALUES (861, 86, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (326, 79, 13);
+VALUES (861, 86, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (326, 79, 14);
+VALUES (861, 86, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (597, 79, 15);
+VALUES (861, 86, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (597, 79, 16);
+VALUES (861, 86, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (597, 79, 17);
+VALUES (861, 86, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (830, 79, 18);
+VALUES (861, 86, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (830, 79, 19);
+VALUES (861, 86, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1377, 79, 20);
+VALUES (861, 86, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1377, 79, 21);
+VALUES (861, 86, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1614, 79, 22);
+VALUES (861, 86, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1830, 79, 23);
+VALUES (872, 87, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1830, 79, 24);
+VALUES (871, 87, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1916, 79, 25);
+VALUES (871, 87, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1916, 79, 26);
+VALUES (871, 87, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (553, 80, 1);
+VALUES (871, 87, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1073, 80, 13);
+VALUES (871, 87, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1073, 80, 14);
+VALUES (871, 87, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1152, 80, 15);
+VALUES (871, 87, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1152, 80, 16);
+VALUES (871, 87, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1947, 80, 17);
+VALUES (871, 87, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1947, 80, 18);
+VALUES (871, 87, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1439, 81, 1);
+VALUES (871, 87, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1993, 81, 2);
+VALUES (871, 87, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1993, 81, 3);
+VALUES (871, 87, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1993, 81, 4);
+VALUES (871, 87, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (435, 81, 13);
+VALUES (871, 87, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (435, 81, 14);
+VALUES (871, 87, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (564, 81, 15);
+VALUES (871, 87, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (564, 81, 16);
+VALUES (871, 87, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (944, 81, 17);
+VALUES (871, 87, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (944, 81, 18);
+VALUES (882, 88, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1082, 81, 19);
+VALUES (882, 88, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1082, 81, 20);
+VALUES (881, 88, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1470, 81, 21);
+VALUES (881, 88, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1470, 81, 22);
+VALUES (881, 88, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1470, 81, 23);
+VALUES (881, 88, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1504, 82, 13);
+VALUES (881, 88, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1504, 82, 14);
+VALUES (881, 88, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1703, 82, 15);
+VALUES (881, 88, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1703, 82, 16);
+VALUES (881, 88, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1717, 82, 17);
+VALUES (881, 88, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1717, 82, 18);
+VALUES (881, 88, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1099, 83, 1);
+VALUES (881, 88, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1, 83, 13);
+VALUES (891, 89, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1, 83, 14);
+VALUES (891, 89, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (612, 83, 15);
+VALUES (891, 89, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1015, 83, 16);
+VALUES (891, 89, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1015, 83, 17);
+VALUES (891, 89, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1902, 83, 18);
+VALUES (891, 89, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1902, 83, 19);
+VALUES (891, 89, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (529, 84, 13);
+VALUES (891, 89, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (529, 84, 14);
+VALUES (902, 90, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1057, 84, 15);
+VALUES (902, 90, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1057, 84, 16);
+VALUES (901, 90, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1370, 84, 17);
+VALUES (901, 90, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1370, 84, 18);
+VALUES (901, 90, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1495, 84, 19);
+VALUES (901, 90, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1495, 84, 20);
+VALUES (901, 90, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1606, 84, 21);
+VALUES (901, 90, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1606, 84, 22);
+VALUES (901, 90, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1628, 85, 1);
+VALUES (901, 90, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1628, 85, 2);
+VALUES (901, 90, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (84, 85, 13);
+VALUES (901, 90, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (750, 85, 14);
+VALUES (901, 90, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (750, 85, 15);
+VALUES (901, 90, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1044, 85, 16);
+VALUES (901, 90, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1054, 85, 17);
+VALUES (911, 91, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1054, 85, 18);
+VALUES (911, 91, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1054, 85, 19);
+VALUES (911, 91, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1204, 85, 20);
+VALUES (911, 91, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (396, 86, 1);
+VALUES (911, 91, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (754, 86, 13);
+VALUES (911, 91, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (754, 86, 14);
+VALUES (911, 91, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (913, 86, 15);
+VALUES (911, 91, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (913, 86, 16);
+VALUES (911, 91, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (913, 86, 17);
+VALUES (911, 91, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1407, 86, 18);
+VALUES (911, 91, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1407, 86, 19);
+VALUES (911, 91, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1646, 86, 20);
+VALUES (911, 91, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1646, 86, 21);
+VALUES (911, 91, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1873, 86, 22);
+VALUES (921, 92, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1873, 86, 23);
+VALUES (921, 92, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1873, 86, 24);
+VALUES (921, 92, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (801, 87, 1);
+VALUES (921, 92, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (801, 87, 2);
+VALUES (921, 92, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (801, 87, 3);
+VALUES (921, 92, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1279, 87, 4);
+VALUES (921, 92, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1279, 87, 5);
+VALUES (921, 92, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1912, 87, 6);
+VALUES (921, 92, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1912, 87, 7);
+VALUES (921, 92, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1984, 87, 8);
+VALUES (921, 92, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1984, 87, 9);
+VALUES (921, 92, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1984, 87, 10);
+VALUES (921, 92, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (101, 87, 13);
+VALUES (921, 92, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (101, 87, 14);
+VALUES (921, 92, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (101, 87, 15);
+VALUES (921, 92, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (235, 87, 16);
+VALUES (921, 92, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (235, 87, 17);
+VALUES (921, 92, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (582, 87, 18);
+VALUES (931, 93, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (582, 87, 19);
+VALUES (931, 93, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (582, 87, 20);
+VALUES (931, 93, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (615, 87, 21);
+VALUES (931, 93, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (676, 87, 22);
+VALUES (931, 93, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (676, 87, 23);
+VALUES (931, 93, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (741, 87, 24);
+VALUES (931, 93, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (741, 87, 25);
+VALUES (931, 93, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (741, 87, 26);
+VALUES (931, 93, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (752, 87, 27);
+VALUES (931, 93, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (752, 87, 28);
+VALUES (931, 93, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (752, 87, 29);
+VALUES (942, 94, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (775, 87, 30);
+VALUES (942, 94, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (775, 87, 31);
+VALUES (942, 94, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1135, 87, 32);
+VALUES (942, 94, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1135, 87, 33);
+VALUES (942, 94, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1136, 87, 34);
+VALUES (941, 94, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1136, 87, 35);
+VALUES (941, 94, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1362, 87, 36);
+VALUES (941, 94, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1362, 87, 37);
+VALUES (941, 94, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1481, 87, 38);
+VALUES (941, 94, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1481, 87, 39);
+VALUES (941, 94, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1481, 87, 40);
+VALUES (941, 94, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1647, 87, 41);
+VALUES (941, 94, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1695, 87, 42);
+VALUES (941, 94, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1695, 87, 43);
+VALUES (941, 94, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (30, 88, 1);
+VALUES (941, 94, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (709, 88, 2);
+VALUES (941, 94, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (709, 88, 3);
+VALUES (941, 94, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (709, 88, 4);
+VALUES (941, 94, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (36, 88, 13);
+VALUES (941, 94, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (36, 88, 14);
+VALUES (941, 94, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (378, 88, 15);
+VALUES (941, 94, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (779, 88, 16);
+VALUES (952, 95, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (779, 88, 17);
+VALUES (952, 95, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (779, 88, 18);
+VALUES (952, 95, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (866, 88, 19);
+VALUES (952, 95, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (866, 88, 20);
+VALUES (952, 95, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (866, 88, 21);
+VALUES (952, 95, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (962, 88, 22);
+VALUES (952, 95, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1472, 88, 23);
+VALUES (952, 95, 8);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1611, 88, 24);
+VALUES (952, 95, 9);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1611, 88, 25);
+VALUES (952, 95, 10);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1651, 88, 26);
+VALUES (951, 95, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1651, 88, 27);
+VALUES (951, 95, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1679, 88, 28);
+VALUES (951, 95, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1679, 88, 29);
+VALUES (951, 95, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1679, 88, 30);
+VALUES (951, 95, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (713, 89, 1);
+VALUES (951, 95, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (713, 89, 2);
+VALUES (951, 95, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (560, 89, 13);
+VALUES (951, 95, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (560, 89, 14);
+VALUES (951, 95, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (774, 89, 15);
+VALUES (951, 95, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (774, 89, 16);
+VALUES (951, 95, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (774, 89, 17);
+VALUES (951, 95, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (846, 89, 18);
+VALUES (951, 95, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1206, 89, 19);
+VALUES (951, 95, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1309, 89, 20);
+VALUES (951, 95, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1686, 89, 21);
+VALUES (951, 95, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1972, 89, 22);
+VALUES (951, 95, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1109, 90, 1);
+VALUES (951, 95, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (120, 90, 13);
+VALUES (962, 96, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (120, 90, 14);
+VALUES (962, 96, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (120, 90, 15);
+VALUES (962, 96, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (367, 90, 16);
+VALUES (961, 96, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (367, 90, 17);
+VALUES (961, 96, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (393, 90, 18);
+VALUES (961, 96, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (393, 90, 19);
+VALUES (961, 96, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1425, 90, 20);
+VALUES (961, 96, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1425, 90, 21);
+VALUES (961, 96, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (199, 91, 1);
+VALUES (961, 96, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (199, 91, 2);
+VALUES (961, 96, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (244, 91, 13);
+VALUES (961, 96, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1224, 92, 1);
+VALUES (961, 96, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1224, 92, 2);
+VALUES (972, 97, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1224, 92, 3);
+VALUES (971, 97, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (903, 92, 13);
+VALUES (971, 97, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (903, 92, 14);
+VALUES (971, 97, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (903, 92, 15);
+VALUES (971, 97, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1415, 92, 16);
+VALUES (971, 97, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1900, 92, 17);
+VALUES (971, 97, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (218, 93, 1);
+VALUES (971, 97, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (207, 93, 13);
+VALUES (971, 97, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (207, 93, 14);
+VALUES (971, 97, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (211, 93, 15);
+VALUES (971, 97, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (211, 93, 16);
+VALUES (971, 97, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (423, 93, 17);
+VALUES (971, 97, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (423, 93, 18);
+VALUES (982, 98, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (558, 93, 19);
+VALUES (982, 98, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (558, 93, 20);
+VALUES (981, 98, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (558, 93, 21);
+VALUES (981, 98, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (758, 93, 22);
+VALUES (981, 98, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (758, 93, 23);
+VALUES (981, 98, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (926, 93, 24);
+VALUES (981, 98, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (926, 93, 25);
+VALUES (981, 98, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (926, 93, 26);
+VALUES (981, 98, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1310, 93, 27);
+VALUES (981, 98, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1310, 93, 28);
+VALUES (981, 98, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (410, 94, 1);
+VALUES (981, 98, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (410, 94, 2);
+VALUES (981, 98, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1394, 94, 3);
+VALUES (981, 98, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (787, 94, 13);
+VALUES (981, 98, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (787, 94, 14);
+VALUES (981, 98, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (787, 94, 15);
+VALUES (981, 98, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1070, 94, 16);
+VALUES (981, 98, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1091, 94, 17);
+VALUES (981, 98, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1091, 94, 18);
+VALUES (981, 98, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1091, 94, 19);
+VALUES (981, 98, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (520, 95, 1);
+VALUES (981, 98, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (520, 95, 2);
+VALUES (981, 98, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (520, 95, 3);
+VALUES (981, 98, 34);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (197, 95, 13);
+VALUES (981, 98, 35);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (197, 95, 14);
+VALUES (981, 98, 36);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (197, 95, 15);
+VALUES (981, 98, 37);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (689, 95, 16);
+VALUES (992, 99, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (689, 95, 17);
+VALUES (992, 99, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (820, 95, 18);
+VALUES (991, 99, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1294, 95, 19);
+VALUES (991, 99, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1294, 95, 20);
+VALUES (991, 99, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1412, 95, 21);
+VALUES (991, 99, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1412, 95, 22);
+VALUES (991, 99, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1457, 95, 23);
+VALUES (991, 99, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1457, 95, 24);
+VALUES (991, 99, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1457, 95, 25);
+VALUES (991, 99, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (955, 96, 1);
+VALUES (991, 99, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1233, 96, 13);
+VALUES (1001, 100, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1233, 96, 14);
+VALUES (1001, 100, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1348, 96, 15);
+VALUES (1001, 100, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1348, 96, 16);
+VALUES (1001, 100, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (280, 97, 1);
+VALUES (1001, 100, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (311, 97, 2);
+VALUES (1001, 100, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (311, 97, 3);
+VALUES (1001, 100, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (311, 97, 4);
+VALUES (1001, 100, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (341, 97, 5);
+VALUES (1001, 100, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (341, 97, 6);
+VALUES (1011, 101, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (25, 97, 13);
+VALUES (1011, 101, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (25, 97, 14);
+VALUES (1011, 101, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (58, 97, 15);
+VALUES (1011, 101, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (306, 97, 16);
+VALUES (1011, 101, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (306, 97, 17);
+VALUES (1011, 101, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1216, 97, 18);
+VALUES (1022, 102, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1261, 97, 19);
+VALUES (1022, 102, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1261, 97, 20);
+VALUES (1022, 102, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1380, 97, 21);
+VALUES (1022, 102, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1380, 97, 22);
+VALUES (1022, 102, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1380, 97, 23);
+VALUES (1022, 102, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1438, 97, 24);
+VALUES (1022, 102, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1438, 97, 25);
+VALUES (1022, 102, 8);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1784, 98, 1);
+VALUES (1021, 102, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1784, 98, 2);
+VALUES (1021, 102, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (949, 98, 13);
+VALUES (1021, 102, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (949, 98, 14);
+VALUES (1021, 102, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1207, 98, 15);
+VALUES (1021, 102, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1207, 98, 16);
+VALUES (1021, 102, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1411, 98, 17);
+VALUES (1021, 102, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1411, 98, 18);
+VALUES (1021, 102, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (545, 99, 1);
+VALUES (1021, 102, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (545, 99, 2);
+VALUES (1021, 102, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (545, 99, 3);
+VALUES (1021, 102, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1505, 99, 4);
+VALUES (1021, 102, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1505, 99, 5);
+VALUES (1032, 103, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1505, 99, 6);
+VALUES (1032, 103, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1620, 99, 7);
+VALUES (1032, 103, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1620, 99, 8);
+VALUES (1031, 103, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (108, 99, 13);
+VALUES (1031, 103, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (108, 99, 14);
+VALUES (1031, 103, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (489, 99, 15);
+VALUES (1031, 103, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (489, 99, 16);
+VALUES (1031, 103, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (489, 99, 17);
+VALUES (1041, 104, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (749, 99, 18);
+VALUES (1041, 104, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (749, 99, 19);
+VALUES (1041, 104, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1821, 99, 20);
+VALUES (1041, 104, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1821, 99, 21);
+VALUES (1041, 104, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1821, 99, 22);
+VALUES (1041, 104, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (504, 100, 1);
+VALUES (1041, 104, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (113, 100, 13);
+VALUES (1041, 104, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (233, 100, 14);
+VALUES (1041, 104, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (233, 100, 15);
+VALUES (1041, 104, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (532, 100, 16);
+VALUES (1041, 104, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (532, 100, 17);
+VALUES (1052, 105, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (894, 100, 18);
+VALUES (1051, 105, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1200, 100, 19);
+VALUES (1051, 105, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1200, 100, 20);
+VALUES (1051, 105, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1219, 100, 21);
+VALUES (1051, 105, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1219, 100, 22);
+VALUES (1051, 105, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1219, 100, 23);
+VALUES (1051, 105, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1228, 100, 24);
+VALUES (1051, 105, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1228, 100, 25);
+VALUES (1051, 105, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1258, 100, 26);
+VALUES (1051, 105, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1258, 100, 27);
+VALUES (1051, 105, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1258, 100, 28);
+VALUES (1051, 105, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1359, 100, 29);
+VALUES (1051, 105, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1359, 100, 30);
+VALUES (1051, 105, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1416, 100, 31);
+VALUES (1051, 105, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1416, 100, 32);
+VALUES (1062, 106, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1416, 100, 33);
+VALUES (1061, 106, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1454, 100, 34);
+VALUES (1061, 106, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1454, 100, 35);
+VALUES (1061, 106, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1491, 100, 36);
+VALUES (1061, 106, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1523, 100, 37);
+VALUES (1061, 106, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1643, 100, 38);
+VALUES (1061, 106, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1643, 100, 39);
+VALUES (1061, 106, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1643, 100, 40);
+VALUES (1061, 106, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1792, 100, 41);
+VALUES (1061, 106, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1792, 100, 42);
+VALUES (1072, 107, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (953, 101, 1);
+VALUES (1072, 107, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (791, 101, 13);
+VALUES (1072, 107, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (791, 101, 14);
+VALUES (1072, 107, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1063, 101, 15);
+VALUES (1072, 107, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1391, 101, 16);
+VALUES (1071, 107, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1391, 101, 17);
+VALUES (1071, 107, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1391, 101, 18);
+VALUES (1071, 107, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1583, 101, 19);
+VALUES (1071, 107, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1583, 101, 20);
+VALUES (1071, 107, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1597, 101, 21);
+VALUES (1071, 107, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1597, 101, 22);
+VALUES (1071, 107, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (186, 102, 13);
+VALUES (1071, 107, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (186, 102, 14);
+VALUES (1071, 107, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (186, 102, 15);
+VALUES (1071, 107, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (936, 102, 16);
+VALUES (1071, 107, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (936, 102, 17);
+VALUES (1071, 107, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (945, 102, 18);
+VALUES (1071, 107, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (945, 102, 19);
+VALUES (1071, 107, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1045, 102, 20);
+VALUES (1071, 107, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1045, 102, 21);
+VALUES (1071, 107, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1045, 102, 22);
+VALUES (1071, 107, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1061, 102, 23);
+VALUES (1082, 108, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1061, 102, 24);
+VALUES (1082, 108, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1254, 102, 25);
+VALUES (1082, 108, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1281, 102, 26);
+VALUES (1081, 108, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1530, 102, 27);
+VALUES (1081, 108, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1530, 102, 28);
+VALUES (1081, 108, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1530, 102, 29);
+VALUES (1081, 108, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1661, 102, 30);
+VALUES (1081, 108, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1661, 102, 31);
+VALUES (1081, 108, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1661, 102, 32);
+VALUES (1081, 108, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1739, 102, 33);
+VALUES (1081, 108, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1885, 102, 34);
+VALUES (1081, 108, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1885, 102, 35);
+VALUES (1081, 108, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1885, 102, 36);
+VALUES (1081, 108, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (109, 103, 1);
+VALUES (1081, 108, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (569, 103, 13);
+VALUES (1081, 108, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (569, 103, 14);
+VALUES (1081, 108, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (569, 103, 15);
+VALUES (1081, 108, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (804, 103, 16);
+VALUES (1092, 109, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (821, 103, 17);
+VALUES (1092, 109, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (821, 103, 18);
+VALUES (1092, 109, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (886, 103, 19);
+VALUES (1092, 109, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (886, 103, 20);
+VALUES (1091, 109, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (918, 103, 21);
+VALUES (1091, 109, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (918, 103, 22);
+VALUES (1091, 109, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (920, 103, 23);
+VALUES (1091, 109, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (920, 103, 24);
+VALUES (1091, 109, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1081, 103, 25);
+VALUES (1091, 109, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1532, 103, 26);
+VALUES (1091, 109, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1673, 103, 27);
+VALUES (1091, 109, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1673, 103, 28);
+VALUES (1091, 109, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1689, 103, 29);
+VALUES (1091, 109, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (184, 104, 1);
+VALUES (1091, 109, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (588, 104, 13);
+VALUES (1091, 109, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (588, 104, 14);
+VALUES (1091, 109, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (678, 104, 15);
+VALUES (1091, 109, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (678, 104, 16);
+VALUES (1091, 109, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1444, 104, 17);
+VALUES (1091, 109, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1444, 104, 18);
+VALUES (1091, 109, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1444, 104, 19);
+VALUES (1091, 109, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (499, 105, 13);
+VALUES (1102, 110, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (499, 105, 14);
+VALUES (1102, 110, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1257, 105, 15);
+VALUES (1102, 110, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1410, 105, 16);
+VALUES (1101, 110, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1432, 105, 17);
+VALUES (1101, 110, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1432, 105, 18);
+VALUES (1101, 110, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (748, 106, 13);
+VALUES (1101, 110, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (748, 106, 14);
+VALUES (1101, 110, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1307, 106, 15);
+VALUES (1101, 110, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1307, 106, 16);
+VALUES (1101, 110, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1943, 106, 17);
+VALUES (1101, 110, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1943, 106, 18);
+VALUES (1101, 110, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1943, 106, 19);
+VALUES (1101, 110, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1847, 107, 1);
+VALUES (1101, 110, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1137, 107, 13);
+VALUES (1111, 111, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1137, 107, 14);
+VALUES (1111, 111, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1226, 107, 15);
+VALUES (1111, 111, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1889, 107, 16);
+VALUES (1111, 111, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1889, 107, 17);
+VALUES (1111, 111, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1513, 108, 1);
+VALUES (1111, 111, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1513, 108, 2);
+VALUES (1111, 111, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (561, 108, 13);
+VALUES (1111, 111, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1048, 108, 14);
+VALUES (1111, 111, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1048, 108, 15);
+VALUES (1111, 111, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (432, 109, 1);
+VALUES (1111, 111, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (373, 109, 13);
+VALUES (1111, 111, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (452, 109, 14);
+VALUES (1111, 111, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (452, 109, 15);
+VALUES (1111, 111, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (595, 109, 16);
+VALUES (1111, 111, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (595, 109, 17);
+VALUES (1111, 111, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (595, 109, 18);
+VALUES (1111, 111, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (56, 110, 13);
+VALUES (1111, 111, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (56, 110, 14);
+VALUES (1122, 112, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (129, 110, 15);
+VALUES (1121, 112, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (340, 110, 16);
+VALUES (1121, 112, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (340, 110, 17);
+VALUES (1121, 112, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (584, 110, 18);
+VALUES (1121, 112, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (587, 110, 19);
+VALUES (1121, 112, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (587, 110, 20);
+VALUES (1121, 112, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (587, 110, 21);
+VALUES (1121, 112, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (979, 110, 22);
+VALUES (1121, 112, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (979, 110, 23);
+VALUES (1121, 112, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1363, 110, 24);
+VALUES (1121, 112, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1408, 110, 25);
+VALUES (1121, 112, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1408, 110, 26);
+VALUES (1121, 112, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1408, 110, 27);
+VALUES (1132, 113, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1563, 110, 28);
+VALUES (1132, 113, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1563, 110, 29);
+VALUES (1131, 113, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1756, 110, 30);
+VALUES (1131, 113, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1756, 110, 31);
+VALUES (1131, 113, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1756, 110, 32);
+VALUES (1131, 113, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1198, 111, 1);
+VALUES (1131, 113, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (824, 111, 13);
+VALUES (1131, 113, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (824, 111, 14);
+VALUES (1131, 113, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1991, 111, 15);
+VALUES (1131, 113, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1991, 111, 16);
+VALUES (1131, 113, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1991, 111, 17);
+VALUES (1131, 113, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (549, 112, 13);
+VALUES (1131, 113, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1069, 112, 14);
+VALUES (1131, 113, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1069, 112, 15);
+VALUES (1131, 113, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1644, 112, 16);
+VALUES (1131, 113, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1644, 112, 17);
+VALUES (1131, 113, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1644, 112, 18);
+VALUES (1142, 114, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (277, 113, 13);
+VALUES (1142, 114, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (277, 113, 14);
+VALUES (1142, 114, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (567, 113, 15);
+VALUES (1142, 114, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (567, 113, 16);
+VALUES (1142, 114, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (567, 113, 17);
+VALUES (1142, 114, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1128, 114, 1);
+VALUES (1142, 114, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (149, 114, 13);
+VALUES (1141, 114, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (149, 114, 14);
+VALUES (1141, 114, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (149, 114, 15);
+VALUES (1141, 114, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (379, 114, 16);
+VALUES (1141, 114, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (379, 114, 17);
+VALUES (1141, 114, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (379, 114, 18);
+VALUES (1141, 114, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1698, 114, 19);
+VALUES (1141, 114, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1698, 114, 20);
+VALUES (1141, 114, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1698, 114, 21);
+VALUES (1141, 114, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1951, 114, 22);
+VALUES (1141, 114, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1951, 114, 23);
+VALUES (1141, 114, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1368, 115, 1);
+VALUES (1152, 115, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1368, 115, 2);
+VALUES (1152, 115, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (51, 115, 13);
+VALUES (1151, 115, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (51, 115, 14);
+VALUES (1151, 115, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (398, 115, 15);
+VALUES (1151, 115, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (398, 115, 16);
+VALUES (1151, 115, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (398, 115, 17);
+VALUES (1151, 115, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (781, 115, 18);
+VALUES (1151, 115, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (788, 115, 19);
+VALUES (1151, 115, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1114, 115, 20);
+VALUES (1151, 115, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1114, 115, 21);
+VALUES (1151, 115, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1342, 115, 22);
+VALUES (1151, 115, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1342, 115, 23);
+VALUES (1151, 115, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1899, 115, 24);
+VALUES (1151, 115, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1899, 115, 25);
+VALUES (1151, 115, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (699, 116, 1);
+VALUES (1151, 115, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (967, 116, 2);
+VALUES (1151, 115, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (967, 116, 3);
+VALUES (1151, 115, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (60, 116, 13);
+VALUES (1151, 115, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (468, 116, 14);
+VALUES (1151, 115, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (468, 116, 15);
+VALUES (1151, 115, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (746, 116, 16);
+VALUES (1162, 116, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1740, 116, 17);
+VALUES (1162, 116, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1740, 116, 18);
+VALUES (1162, 116, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1740, 116, 19);
+VALUES (1162, 116, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1742, 116, 20);
+VALUES (1161, 116, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1451, 117, 13);
+VALUES (1161, 116, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1451, 117, 14);
+VALUES (1161, 116, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1451, 117, 15);
+VALUES (1161, 116, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1480, 117, 16);
+VALUES (1161, 116, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (677, 118, 1);
+VALUES (1161, 116, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (677, 118, 2);
+VALUES (1161, 116, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (677, 118, 3);
+VALUES (1172, 117, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (684, 118, 13);
+VALUES (1172, 117, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (684, 118, 14);
+VALUES (1171, 117, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1571, 118, 15);
+VALUES (1171, 117, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1571, 118, 16);
+VALUES (1171, 117, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1928, 118, 17);
+VALUES (1171, 117, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1928, 118, 18);
+VALUES (1171, 117, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1196, 119, 1);
+VALUES (1171, 117, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1196, 119, 2);
+VALUES (1171, 117, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1349, 119, 3);
+VALUES (1171, 117, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1349, 119, 4);
+VALUES (1171, 117, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1349, 119, 5);
+VALUES (1171, 117, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (238, 119, 13);
+VALUES (1171, 117, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (238, 119, 14);
+VALUES (1171, 117, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (238, 119, 15);
+VALUES (1171, 117, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (315, 119, 16);
+VALUES (1182, 118, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (715, 119, 17);
+VALUES (1182, 118, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (715, 119, 18);
+VALUES (1181, 118, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (728, 119, 19);
+VALUES (1181, 118, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (728, 119, 20);
+VALUES (1181, 118, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1662, 119, 21);
+VALUES (1181, 118, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1662, 119, 22);
+VALUES (1181, 118, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1662, 119, 23);
+VALUES (1181, 118, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1676, 119, 24);
+VALUES (1181, 118, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1676, 119, 25);
+VALUES (1181, 118, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1971, 120, 1);
+VALUES (1181, 118, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1971, 120, 2);
+VALUES (1181, 118, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (171, 120, 13);
+VALUES (1181, 118, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (171, 120, 14);
+VALUES (1181, 118, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (171, 120, 15);
+VALUES (1181, 118, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (258, 120, 16);
+VALUES (1192, 119, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (258, 120, 17);
+VALUES (1192, 119, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (629, 120, 18);
+VALUES (1191, 119, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (629, 120, 19);
+VALUES (1191, 119, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (629, 120, 20);
+VALUES (1191, 119, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (919, 120, 21);
+VALUES (1191, 119, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (919, 120, 22);
+VALUES (1191, 119, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (919, 120, 23);
+VALUES (1191, 119, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1909, 120, 24);
+VALUES (1191, 119, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1909, 120, 25);
+VALUES (1191, 119, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1925, 120, 26);
+VALUES (1191, 119, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1925, 120, 27);
+VALUES (1191, 119, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (343, 121, 1);
+VALUES (1191, 119, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (343, 121, 2);
+VALUES (1191, 119, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1435, 121, 3);
+VALUES (1191, 119, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1435, 121, 4);
+VALUES (1202, 120, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (601, 121, 13);
+VALUES (1202, 120, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (745, 121, 14);
+VALUES (1202, 120, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (745, 121, 15);
+VALUES (1201, 120, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (940, 121, 16);
+VALUES (1201, 120, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (940, 121, 17);
+VALUES (1201, 120, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (940, 121, 18);
+VALUES (1201, 120, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1034, 121, 19);
+VALUES (1201, 120, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1034, 121, 20);
+VALUES (1201, 120, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1400, 121, 21);
+VALUES (1201, 120, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1400, 121, 22);
+VALUES (1201, 120, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1624, 121, 23);
+VALUES (1201, 120, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1624, 121, 24);
+VALUES (1201, 120, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (693, 122, 1);
+VALUES (1201, 120, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (123, 122, 13);
+VALUES (1201, 120, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (123, 122, 14);
+VALUES (1201, 120, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (908, 122, 15);
+VALUES (1201, 120, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1459, 122, 16);
+VALUES (1201, 120, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1459, 122, 17);
+VALUES (1212, 121, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1459, 122, 18);
+VALUES (1212, 121, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1122, 123, 1);
+VALUES (1212, 121, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1122, 123, 2);
+VALUES (1212, 121, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (527, 123, 13);
+VALUES (1212, 121, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (527, 123, 14);
+VALUES (1212, 121, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (780, 123, 15);
+VALUES (1211, 121, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (861, 123, 16);
+VALUES (1211, 121, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (868, 123, 17);
+VALUES (1211, 121, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (868, 123, 18);
+VALUES (1211, 121, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1487, 123, 19);
+VALUES (1211, 121, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1487, 123, 20);
+VALUES (1211, 121, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1487, 123, 21);
+VALUES (1211, 121, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1862, 123, 22);
+VALUES (1211, 121, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1862, 123, 23);
+VALUES (1211, 121, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1987, 123, 24);
+VALUES (1211, 121, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1987, 123, 25);
+VALUES (1211, 121, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1987, 123, 26);
+VALUES (1211, 121, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (0, 124, 1);
+VALUES (1211, 121, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (0, 124, 2);
+VALUES (1211, 121, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (0, 124, 3);
+VALUES (1211, 121, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (477, 124, 13);
+VALUES (1211, 121, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (477, 124, 14);
+VALUES (1222, 122, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (477, 124, 15);
+VALUES (1221, 122, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (888, 124, 16);
+VALUES (1221, 122, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1080, 124, 17);
+VALUES (1221, 122, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1080, 124, 18);
+VALUES (1221, 122, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1156, 124, 19);
+VALUES (1221, 122, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1156, 124, 20);
+VALUES (1221, 122, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1924, 124, 21);
+VALUES (1221, 122, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1924, 124, 22);
+VALUES (1221, 122, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1924, 124, 23);
+VALUES (1221, 122, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (193, 125, 1);
+VALUES (1221, 122, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (193, 125, 2);
+VALUES (1221, 122, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (193, 125, 3);
+VALUES (1221, 122, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (248, 125, 4);
+VALUES (1221, 122, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (248, 125, 5);
+VALUES (1231, 123, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (248, 125, 6);
+VALUES (1231, 123, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1460, 125, 7);
+VALUES (1231, 123, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1153, 125, 13);
+VALUES (1231, 123, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1153, 125, 14);
+VALUES (1231, 123, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1164, 125, 15);
+VALUES (1231, 123, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1164, 125, 16);
+VALUES (1231, 123, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1164, 125, 17);
+VALUES (1231, 123, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1558, 125, 18);
+VALUES (1231, 123, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1558, 125, 19);
+VALUES (1241, 124, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1605, 125, 20);
+VALUES (1241, 124, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1605, 125, 21);
+VALUES (1252, 125, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1605, 125, 22);
+VALUES (1252, 125, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1968, 125, 23);
+VALUES (1252, 125, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1968, 125, 24);
+VALUES (1252, 125, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (41, 126, 13);
+VALUES (1252, 125, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (41, 126, 14);
+VALUES (1251, 125, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (41, 126, 15);
+VALUES (1251, 125, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (334, 126, 16);
+VALUES (1251, 125, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (334, 126, 17);
+VALUES (1251, 125, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (505, 126, 18);
+VALUES (1251, 125, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (614, 126, 19);
+VALUES (1251, 125, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (614, 126, 20);
+VALUES (1251, 125, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (614, 126, 21);
+VALUES (1251, 125, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (883, 126, 22);
+VALUES (1251, 125, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (822, 127, 1);
+VALUES (1251, 125, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (822, 127, 2);
+VALUES (1251, 125, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (64, 127, 13);
+VALUES (1251, 125, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (64, 127, 14);
+VALUES (1251, 125, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (64, 127, 15);
+VALUES (1251, 125, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (382, 127, 16);
+VALUES (1251, 125, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (394, 127, 17);
+VALUES (1251, 125, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (394, 127, 18);
+VALUES (1251, 125, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (470, 127, 19);
+VALUES (1251, 125, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (470, 127, 20);
+VALUES (1251, 125, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (619, 127, 21);
+VALUES (1251, 125, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (619, 127, 22);
+VALUES (1251, 125, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (813, 127, 23);
+VALUES (1251, 125, 34);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (813, 127, 24);
+VALUES (1251, 125, 35);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (835, 127, 25);
+VALUES (1251, 125, 36);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (835, 127, 26);
+VALUES (1251, 125, 37);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (870, 127, 27);
+VALUES (1251, 125, 38);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (991, 128, 1);
+VALUES (1251, 125, 39);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (991, 128, 2);
+VALUES (1251, 125, 40);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1941, 128, 3);
+VALUES (1262, 126, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1941, 128, 4);
+VALUES (1262, 126, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1941, 128, 5);
+VALUES (1261, 126, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (537, 128, 13);
+VALUES (1261, 126, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1072, 128, 14);
+VALUES (1261, 126, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1072, 128, 15);
+VALUES (1261, 126, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1645, 128, 16);
+VALUES (1261, 126, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1298, 129, 1);
+VALUES (1261, 126, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1719, 129, 2);
+VALUES (1261, 126, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1719, 129, 3);
+VALUES (1261, 126, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1719, 129, 4);
+VALUES (1261, 126, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1825, 129, 5);
+VALUES (1261, 126, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (236, 129, 13);
+VALUES (1261, 126, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (236, 129, 14);
+VALUES (1261, 126, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (301, 129, 15);
+VALUES (1261, 126, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (301, 129, 16);
+VALUES (1261, 126, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (301, 129, 17);
+VALUES (1261, 126, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (674, 129, 18);
+VALUES (1261, 126, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (674, 129, 19);
+VALUES (1272, 127, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (674, 129, 20);
+VALUES (1272, 127, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (717, 129, 21);
+VALUES (1272, 127, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1075, 129, 22);
+VALUES (1272, 127, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1075, 129, 23);
+VALUES (1271, 127, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1188, 129, 24);
+VALUES (1271, 127, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1188, 129, 25);
+VALUES (1271, 127, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (169, 130, 13);
+VALUES (1271, 127, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (268, 130, 14);
+VALUES (1271, 127, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (268, 130, 15);
+VALUES (1271, 127, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (268, 130, 16);
+VALUES (1271, 127, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (322, 130, 17);
+VALUES (1271, 127, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (322, 130, 18);
+VALUES (1271, 127, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (640, 130, 19);
+VALUES (1271, 127, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (640, 130, 20);
+VALUES (1271, 127, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1005, 130, 21);
+VALUES (1271, 127, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1317, 130, 22);
+VALUES (1282, 128, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1317, 130, 23);
+VALUES (1281, 128, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1461, 130, 24);
+VALUES (1281, 128, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1461, 130, 25);
+VALUES (1281, 128, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (10, 131, 1);
+VALUES (1281, 128, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1469, 131, 2);
+VALUES (1281, 128, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (72, 131, 13);
+VALUES (1281, 128, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (72, 131, 14);
+VALUES (1281, 128, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (72, 131, 15);
+VALUES (1281, 128, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1288, 131, 16);
+VALUES (1281, 128, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1288, 131, 17);
+VALUES (1281, 128, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1292, 131, 18);
+VALUES (1281, 128, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1292, 131, 19);
+VALUES (1281, 128, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (596, 132, 1);
+VALUES (1292, 129, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (596, 132, 2);
+VALUES (1292, 129, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (731, 132, 3);
+VALUES (1291, 129, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (731, 132, 4);
+VALUES (1291, 129, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (731, 132, 5);
+VALUES (1291, 129, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1284, 132, 6);
+VALUES (1291, 129, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1284, 132, 7);
+VALUES (1291, 129, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1284, 132, 8);
+VALUES (1291, 129, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1845, 132, 9);
+VALUES (1291, 129, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1845, 132, 10);
+VALUES (1291, 129, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (198, 132, 13);
+VALUES (1291, 129, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (198, 132, 14);
+VALUES (1291, 129, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (225, 132, 15);
+VALUES (1291, 129, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (225, 132, 16);
+VALUES (1302, 130, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (350, 132, 17);
+VALUES (1302, 130, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (350, 132, 18);
+VALUES (1301, 130, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (403, 132, 19);
+VALUES (1301, 130, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (403, 132, 20);
+VALUES (1301, 130, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (911, 132, 21);
+VALUES (1301, 130, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (981, 132, 22);
+VALUES (1301, 130, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (981, 132, 23);
+VALUES (1301, 130, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1323, 132, 24);
+VALUES (1301, 130, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1323, 132, 25);
+VALUES (1301, 130, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1665, 132, 26);
+VALUES (1301, 130, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1665, 132, 27);
+VALUES (1301, 130, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1932, 132, 28);
+VALUES (1301, 130, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1932, 132, 29);
+VALUES (1301, 130, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1932, 132, 30);
+VALUES (1301, 130, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (226, 133, 13);
+VALUES (1301, 130, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (226, 133, 14);
+VALUES (1301, 130, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (417, 133, 15);
+VALUES (1301, 130, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (663, 133, 16);
+VALUES (1301, 130, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (663, 133, 17);
+VALUES (1301, 130, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1490, 133, 18);
+VALUES (1301, 130, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1490, 133, 19);
+VALUES (1301, 130, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1660, 133, 20);
+VALUES (1301, 130, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (43, 134, 1);
+VALUES (1301, 130, 34);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (43, 134, 2);
+VALUES (1301, 130, 35);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (43, 134, 3);
+VALUES (1301, 130, 36);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1458, 134, 4);
+VALUES (1301, 130, 37);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1458, 134, 5);
+VALUES (1301, 130, 38);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1458, 134, 6);
+VALUES (1301, 130, 39);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (183, 134, 13);
+VALUES (1301, 130, 40);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (183, 134, 14);
+VALUES (1312, 131, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (483, 134, 15);
+VALUES (1312, 131, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (483, 134, 16);
+VALUES (1312, 131, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1331, 134, 17);
+VALUES (1311, 131, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1331, 134, 18);
+VALUES (1311, 131, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1334, 134, 19);
+VALUES (1311, 131, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1657, 134, 20);
+VALUES (1311, 131, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1721, 134, 21);
+VALUES (1311, 131, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1721, 134, 22);
+VALUES (1311, 131, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1721, 134, 23);
+VALUES (1311, 131, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1801, 134, 24);
+VALUES (1311, 131, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (370, 135, 13);
+VALUES (1311, 131, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (370, 135, 14);
+VALUES (1311, 131, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (665, 135, 15);
+VALUES (1311, 131, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (665, 135, 16);
+VALUES (1311, 131, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (983, 135, 17);
+VALUES (1311, 131, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1529, 135, 18);
+VALUES (1322, 132, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1529, 135, 19);
+VALUES (1321, 132, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1529, 135, 20);
+VALUES (1321, 132, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1584, 135, 21);
+VALUES (1321, 132, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1584, 135, 22);
+VALUES (1321, 132, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1641, 135, 23);
+VALUES (1321, 132, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1641, 135, 24);
+VALUES (1321, 132, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1920, 135, 25);
+VALUES (1321, 132, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1920, 135, 26);
+VALUES (1321, 132, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (40, 136, 13);
+VALUES (1321, 132, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (40, 136, 14);
+VALUES (1321, 132, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1220, 136, 15);
+VALUES (1321, 132, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1220, 136, 16);
+VALUES (1321, 132, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (660, 137, 1);
+VALUES (1321, 132, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (660, 137, 2);
+VALUES (1321, 132, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (687, 137, 3);
+VALUES (1332, 133, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (687, 137, 4);
+VALUES (1332, 133, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (776, 137, 5);
+VALUES (1332, 133, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1132, 137, 6);
+VALUES (1332, 133, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1132, 137, 7);
+VALUES (1331, 133, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (23, 137, 13);
+VALUES (1331, 133, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (23, 137, 14);
+VALUES (1331, 133, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (220, 137, 15);
+VALUES (1331, 133, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (220, 137, 16);
+VALUES (1331, 133, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (591, 137, 17);
+VALUES (1331, 133, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (701, 137, 18);
+VALUES (1331, 133, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1580, 137, 19);
+VALUES (1331, 133, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1580, 137, 20);
+VALUES (1331, 133, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1599, 137, 21);
+VALUES (1342, 134, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1599, 137, 22);
+VALUES (1342, 134, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (922, 138, 1);
+VALUES (1342, 134, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (922, 138, 2);
+VALUES (1342, 134, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1531, 138, 3);
+VALUES (1341, 134, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (418, 138, 13);
+VALUES (1341, 134, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (418, 138, 14);
+VALUES (1341, 134, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (418, 138, 15);
+VALUES (1341, 134, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (508, 138, 16);
+VALUES (1341, 134, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (508, 138, 17);
+VALUES (1341, 134, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (958, 138, 18);
+VALUES (1352, 135, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (958, 138, 19);
+VALUES (1352, 135, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (997, 138, 20);
+VALUES (1352, 135, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1998, 138, 21);
+VALUES (1352, 135, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1998, 138, 22);
+VALUES (1352, 135, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (702, 139, 1);
+VALUES (1351, 135, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (702, 139, 2);
+VALUES (1351, 135, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (185, 139, 13);
+VALUES (1351, 135, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (185, 139, 14);
+VALUES (1351, 135, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (570, 139, 15);
+VALUES (1351, 135, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (570, 139, 16);
+VALUES (1351, 135, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (710, 139, 17);
+VALUES (1351, 135, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (710, 139, 18);
+VALUES (1351, 135, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (724, 139, 19);
+VALUES (1351, 135, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (724, 139, 20);
+VALUES (1351, 135, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (724, 139, 21);
+VALUES (1351, 135, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1055, 139, 22);
+VALUES (1351, 135, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1055, 139, 23);
+VALUES (1351, 135, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1055, 139, 24);
+VALUES (1362, 136, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1185, 139, 25);
+VALUES (1362, 136, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1185, 139, 26);
+VALUES (1362, 136, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1185, 139, 27);
+VALUES (1362, 136, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1711, 139, 28);
+VALUES (1362, 136, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1711, 139, 29);
+VALUES (1362, 136, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1915, 139, 30);
+VALUES (1362, 136, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1915, 139, 31);
+VALUES (1361, 136, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1209, 140, 1);
+VALUES (1361, 136, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (771, 140, 13);
+VALUES (1361, 136, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (771, 140, 14);
+VALUES (1361, 136, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (857, 140, 15);
+VALUES (1361, 136, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (857, 140, 16);
+VALUES (1361, 136, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (857, 140, 17);
+VALUES (1361, 136, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1197, 140, 18);
+VALUES (1361, 136, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1613, 140, 19);
+VALUES (1361, 136, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1613, 140, 20);
+VALUES (1361, 136, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1779, 140, 21);
+VALUES (1361, 136, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (650, 141, 1);
+VALUES (1361, 136, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1289, 141, 2);
+VALUES (1361, 136, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1289, 141, 3);
+VALUES (1361, 136, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (65, 141, 13);
+VALUES (1361, 136, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (266, 141, 14);
+VALUES (1361, 136, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (266, 141, 15);
+VALUES (1361, 136, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1305, 141, 16);
+VALUES (1361, 136, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1629, 141, 17);
+VALUES (1361, 136, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1629, 141, 18);
+VALUES (1361, 136, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1722, 141, 19);
+VALUES (1372, 137, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1722, 141, 20);
+VALUES (1372, 137, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1722, 141, 21);
+VALUES (1372, 137, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (637, 142, 1);
+VALUES (1371, 137, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (637, 142, 2);
+VALUES (1371, 137, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (667, 142, 3);
+VALUES (1371, 137, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (667, 142, 4);
+VALUES (1371, 137, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (667, 142, 5);
+VALUES (1371, 137, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1269, 142, 6);
+VALUES (1371, 137, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1269, 142, 7);
+VALUES (1382, 138, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (442, 142, 13);
+VALUES (1382, 138, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (442, 142, 14);
+VALUES (1382, 138, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (442, 142, 15);
+VALUES (1382, 138, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (634, 142, 16);
+VALUES (1382, 138, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (634, 142, 17);
+VALUES (1381, 138, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (799, 142, 18);
+VALUES (1381, 138, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (879, 142, 19);
+VALUES (1381, 138, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (879, 142, 20);
+VALUES (1381, 138, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (990, 142, 21);
+VALUES (1381, 138, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (990, 142, 22);
+VALUES (1392, 139, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1016, 142, 23);
+VALUES (1392, 139, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1373, 142, 24);
+VALUES (1391, 139, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1373, 142, 25);
+VALUES (1391, 139, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1866, 142, 26);
+VALUES (1391, 139, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1866, 142, 27);
+VALUES (1391, 139, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1883, 142, 28);
+VALUES (1391, 139, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (635, 143, 1);
+VALUES (1391, 139, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (635, 143, 2);
+VALUES (1391, 139, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1958, 143, 3);
+VALUES (1391, 139, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1958, 143, 4);
+VALUES (1391, 139, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1958, 143, 5);
+VALUES (1391, 139, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (291, 143, 13);
+VALUES (1391, 139, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (291, 143, 14);
+VALUES (1391, 139, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (355, 143, 15);
+VALUES (1402, 140, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (686, 143, 16);
+VALUES (1402, 140, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (686, 143, 17);
+VALUES (1402, 140, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1441, 143, 18);
+VALUES (1401, 140, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1441, 143, 19);
+VALUES (1401, 140, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1476, 143, 20);
+VALUES (1401, 140, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1712, 143, 21);
+VALUES (1401, 140, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1712, 143, 22);
+VALUES (1401, 140, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (952, 144, 1);
+VALUES (1401, 140, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (952, 144, 2);
+VALUES (1401, 140, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (232, 144, 13);
+VALUES (1401, 140, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (503, 144, 14);
+VALUES (1401, 140, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (503, 144, 15);
+VALUES (1412, 141, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1935, 144, 16);
+VALUES (1412, 141, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1935, 144, 17);
+VALUES (1412, 141, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1115, 145, 1);
+VALUES (1412, 141, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1115, 145, 2);
+VALUES (1412, 141, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1115, 145, 3);
+VALUES (1411, 141, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1312, 145, 4);
+VALUES (1411, 141, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1393, 145, 5);
+VALUES (1411, 141, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1393, 145, 6);
+VALUES (1411, 141, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1449, 145, 7);
+VALUES (1411, 141, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1449, 145, 8);
+VALUES (1411, 141, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1449, 145, 9);
+VALUES (1411, 141, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (536, 145, 13);
+VALUES (1411, 141, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (536, 145, 14);
+VALUES (1411, 141, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1353, 145, 15);
+VALUES (1411, 141, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1552, 145, 16);
+VALUES (1411, 141, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1552, 145, 17);
+VALUES (1411, 141, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1009, 146, 1);
+VALUES (1411, 141, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1877, 146, 13);
+VALUES (1411, 141, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1877, 146, 14);
+VALUES (1411, 141, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1929, 146, 15);
+VALUES (1411, 141, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1929, 146, 16);
+VALUES (1411, 141, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1931, 146, 17);
+VALUES (1411, 141, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1931, 146, 18);
+VALUES (1411, 141, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (782, 147, 1);
+VALUES (1411, 141, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (782, 147, 2);
+VALUES (1411, 141, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1238, 147, 3);
+VALUES (1411, 141, 34);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1238, 147, 4);
+VALUES (1411, 141, 35);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (498, 147, 13);
+VALUES (1411, 141, 36);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (498, 147, 14);
+VALUES (1422, 142, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (112, 148, 13);
+VALUES (1421, 142, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (112, 148, 14);
+VALUES (1421, 142, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (646, 148, 15);
+VALUES (1421, 142, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (646, 148, 16);
+VALUES (1421, 142, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (941, 148, 17);
+VALUES (1421, 142, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (941, 148, 18);
+VALUES (1421, 142, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (959, 148, 19);
+VALUES (1421, 142, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (959, 148, 20);
+VALUES (1421, 142, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1265, 148, 21);
+VALUES (1421, 142, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1384, 148, 22);
+VALUES (1421, 142, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (777, 149, 1);
+VALUES (1432, 143, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (808, 149, 2);
+VALUES (1432, 143, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (808, 149, 3);
+VALUES (1432, 143, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (808, 149, 4);
+VALUES (1432, 143, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (201, 149, 13);
+VALUES (1432, 143, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (365, 149, 14);
+VALUES (1432, 143, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (365, 149, 15);
+VALUES (1432, 143, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (365, 149, 16);
+VALUES (1431, 143, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (515, 149, 17);
+VALUES (1431, 143, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (515, 149, 18);
+VALUES (1431, 143, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (887, 150, 1);
+VALUES (1431, 143, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (887, 150, 2);
+VALUES (1442, 144, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (887, 150, 3);
+VALUES (1441, 144, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (178, 150, 13);
+VALUES (1441, 144, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (178, 150, 14);
+VALUES (1441, 144, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (178, 150, 15);
+VALUES (1441, 144, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (180, 150, 16);
+VALUES (1441, 144, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (636, 150, 17);
+VALUES (1441, 144, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (636, 150, 18);
+VALUES (1441, 144, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (636, 150, 19);
+VALUES (1441, 144, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (986, 150, 20);
+VALUES (1441, 144, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (986, 150, 21);
+VALUES (1441, 144, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (988, 150, 22);
+VALUES (1441, 144, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (988, 150, 23);
+VALUES (1441, 144, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1038, 150, 24);
+VALUES (1441, 144, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1038, 150, 25);
+VALUES (1441, 144, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1177, 150, 26);
+VALUES (1441, 144, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1177, 150, 27);
+VALUES (1441, 144, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1205, 150, 28);
+VALUES (1441, 144, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1236, 150, 29);
+VALUES (1452, 145, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1243, 150, 30);
+VALUES (1451, 145, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1243, 150, 31);
+VALUES (1451, 145, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1243, 150, 32);
+VALUES (1451, 145, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1351, 150, 33);
+VALUES (1451, 145, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1351, 150, 34);
+VALUES (1451, 145, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (22, 151, 13);
+VALUES (1451, 145, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (22, 151, 14);
+VALUES (1451, 145, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (336, 151, 15);
+VALUES (1451, 145, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (336, 151, 16);
+VALUES (1462, 146, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (336, 151, 17);
+VALUES (1462, 146, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (548, 151, 18);
+VALUES (1462, 146, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (548, 151, 19);
+VALUES (1461, 146, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1320, 151, 20);
+VALUES (1461, 146, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1320, 151, 21);
+VALUES (1461, 146, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1350, 151, 22);
+VALUES (1461, 146, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1350, 151, 23);
+VALUES (1461, 146, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1496, 151, 24);
+VALUES (1461, 146, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1906, 151, 25);
+VALUES (1461, 146, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1906, 151, 26);
+VALUES (1461, 146, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1089, 152, 1);
+VALUES (1461, 146, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1089, 152, 2);
+VALUES (1472, 147, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1089, 152, 3);
+VALUES (1472, 147, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1731, 152, 4);
+VALUES (1471, 147, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1731, 152, 5);
+VALUES (1471, 147, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1731, 152, 6);
+VALUES (1471, 147, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (164, 152, 13);
+VALUES (1471, 147, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (164, 152, 14);
+VALUES (1471, 147, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (250, 152, 15);
+VALUES (1471, 147, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (250, 152, 16);
+VALUES (1471, 147, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (250, 152, 17);
+VALUES (1471, 147, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (850, 152, 18);
+VALUES (1471, 147, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (850, 152, 19);
+VALUES (1471, 147, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1302, 152, 20);
+VALUES (1471, 147, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1302, 152, 21);
+VALUES (1471, 147, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1302, 152, 22);
+VALUES (1471, 147, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1518, 152, 23);
+VALUES (1482, 148, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1518, 152, 24);
+VALUES (1482, 148, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1518, 152, 25);
+VALUES (1482, 148, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1815, 152, 26);
+VALUES (1482, 148, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1961, 152, 27);
+VALUES (1481, 148, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1961, 152, 28);
+VALUES (1481, 148, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (222, 153, 1);
+VALUES (1481, 148, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (222, 153, 2);
+VALUES (1481, 148, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1567, 153, 3);
+VALUES (1481, 148, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1567, 153, 4);
+VALUES (1481, 148, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (100, 153, 13);
+VALUES (1481, 148, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (100, 153, 14);
+VALUES (1481, 148, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (100, 153, 15);
+VALUES (1481, 148, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (320, 153, 16);
+VALUES (1481, 148, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (409, 153, 17);
+VALUES (1481, 148, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (467, 153, 18);
+VALUES (1481, 148, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (467, 153, 19);
+VALUES (1481, 148, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (467, 153, 20);
+VALUES (1481, 148, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (992, 153, 21);
+VALUES (1481, 148, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (992, 153, 22);
+VALUES (1481, 148, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1120, 153, 23);
+VALUES (1481, 148, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1120, 153, 24);
+VALUES (1481, 148, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1120, 153, 25);
+VALUES (1481, 148, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1872, 153, 26);
+VALUES (1481, 148, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1872, 153, 27);
+VALUES (1481, 148, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1872, 153, 28);
+VALUES (1481, 148, 34);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1763, 154, 1);
+VALUES (1481, 148, 35);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (213, 154, 13);
+VALUES (1481, 148, 36);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (213, 154, 14);
+VALUES (1481, 148, 37);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (304, 154, 15);
+VALUES (1492, 149, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (304, 154, 16);
+VALUES (1492, 149, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (304, 154, 17);
+VALUES (1492, 149, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1019, 154, 18);
+VALUES (1491, 149, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1019, 154, 19);
+VALUES (1491, 149, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1019, 154, 20);
+VALUES (1491, 149, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1189, 154, 21);
+VALUES (1491, 149, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1396, 154, 22);
+VALUES (1491, 149, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1396, 154, 23);
+VALUES (1501, 150, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1396, 154, 24);
+VALUES (1501, 150, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1456, 154, 25);
+VALUES (1501, 150, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1456, 154, 26);
+VALUES (1501, 150, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1714, 154, 27);
+VALUES (1501, 150, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1714, 154, 28);
+VALUES (1501, 150, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (814, 155, 1);
+VALUES (1501, 150, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (27, 155, 13);
+VALUES (1501, 150, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (716, 155, 14);
+VALUES (1501, 150, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (716, 155, 15);
+VALUES (1512, 151, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (716, 155, 16);
+VALUES (1512, 151, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (933, 155, 17);
+VALUES (1512, 151, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (933, 155, 18);
+VALUES (1511, 151, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (933, 155, 19);
+VALUES (1511, 151, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1794, 155, 20);
+VALUES (1511, 151, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1794, 155, 21);
+VALUES (1522, 152, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (181, 156, 13);
+VALUES (1521, 152, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (181, 156, 14);
+VALUES (1521, 152, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (181, 156, 15);
+VALUES (1521, 152, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (351, 156, 16);
+VALUES (1521, 152, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (351, 156, 17);
+VALUES (1521, 152, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (376, 156, 18);
+VALUES (1521, 152, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (376, 156, 19);
+VALUES (1521, 152, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (463, 156, 20);
+VALUES (1521, 152, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (463, 156, 21);
+VALUES (1532, 153, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (925, 156, 22);
+VALUES (1532, 153, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (925, 156, 23);
+VALUES (1532, 153, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (925, 156, 24);
+VALUES (1532, 153, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1032, 156, 25);
+VALUES (1531, 153, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1032, 156, 26);
+VALUES (1531, 153, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1217, 156, 27);
+VALUES (1531, 153, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1217, 156, 28);
+VALUES (1531, 153, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1330, 156, 29);
+VALUES (1531, 153, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1919, 156, 30);
+VALUES (1531, 153, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1919, 156, 31);
+VALUES (1531, 153, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1919, 156, 32);
+VALUES (1531, 153, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (639, 157, 1);
+VALUES (1531, 153, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (639, 157, 2);
+VALUES (1531, 153, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (852, 157, 13);
+VALUES (1531, 153, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (852, 157, 14);
+VALUES (1531, 153, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (914, 157, 15);
+VALUES (1531, 153, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (914, 157, 16);
+VALUES (1531, 153, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1430, 157, 17);
+VALUES (1542, 154, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1430, 157, 18);
+VALUES (1542, 154, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1430, 157, 19);
+VALUES (1542, 154, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (47, 158, 1);
+VALUES (1541, 154, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (47, 158, 2);
+VALUES (1541, 154, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (47, 158, 3);
+VALUES (1541, 154, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (78, 158, 4);
+VALUES (1541, 154, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (78, 158, 5);
+VALUES (1541, 154, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (78, 158, 6);
+VALUES (1541, 154, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (247, 158, 13);
+VALUES (1541, 154, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (247, 158, 14);
+VALUES (1552, 155, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (401, 158, 15);
+VALUES (1552, 155, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (401, 158, 16);
+VALUES (1552, 155, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (401, 158, 17);
+VALUES (1552, 155, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (695, 158, 18);
+VALUES (1552, 155, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (695, 158, 19);
+VALUES (1552, 155, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (695, 158, 20);
+VALUES (1552, 155, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1327, 158, 21);
+VALUES (1551, 155, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1327, 158, 22);
+VALUES (1551, 155, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1327, 158, 23);
+VALUES (1551, 155, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1541, 158, 24);
+VALUES (1551, 155, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1541, 158, 25);
+VALUES (1551, 155, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1983, 158, 26);
+VALUES (1551, 155, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1983, 158, 27);
+VALUES (1551, 155, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1983, 158, 28);
+VALUES (1551, 155, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (929, 159, 13);
+VALUES (1551, 155, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (929, 159, 14);
+VALUES (1551, 155, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (929, 159, 15);
+VALUES (1551, 155, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1079, 159, 16);
+VALUES (1551, 155, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1079, 159, 17);
+VALUES (1551, 155, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1346, 159, 18);
+VALUES (1551, 155, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1422, 159, 19);
+VALUES (1551, 155, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1422, 159, 20);
+VALUES (1562, 156, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (205, 160, 1);
+VALUES (1562, 156, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (427, 160, 13);
+VALUES (1561, 156, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (438, 160, 14);
+VALUES (1561, 156, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (500, 161, 1);
+VALUES (1561, 156, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (500, 161, 2);
+VALUES (1561, 156, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (500, 161, 3);
+VALUES (1561, 156, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (759, 161, 4);
+VALUES (1561, 156, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (759, 161, 5);
+VALUES (1561, 156, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (117, 161, 13);
+VALUES (1561, 156, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (117, 161, 14);
+VALUES (1561, 156, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (117, 161, 15);
+VALUES (1561, 156, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (125, 161, 16);
+VALUES (1561, 156, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (125, 161, 17);
+VALUES (1561, 156, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (742, 161, 18);
+VALUES (1561, 156, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (742, 161, 19);
+VALUES (1561, 156, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (742, 161, 20);
+VALUES (1561, 156, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (838, 161, 21);
+VALUES (1561, 156, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (838, 161, 22);
+VALUES (1561, 156, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1090, 161, 23);
+VALUES (1561, 156, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1090, 161, 24);
+VALUES (1561, 156, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1218, 161, 25);
+VALUES (1561, 156, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1522, 161, 26);
+VALUES (1561, 156, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1522, 161, 27);
+VALUES (1572, 157, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1522, 161, 28);
+VALUES (1572, 157, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1930, 162, 1);
+VALUES (1572, 157, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1930, 162, 2);
+VALUES (1571, 157, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1930, 162, 3);
+VALUES (1571, 157, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (237, 162, 13);
+VALUES (1571, 157, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (237, 162, 14);
+VALUES (1571, 157, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (627, 162, 15);
+VALUES (1571, 157, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (627, 162, 16);
+VALUES (1582, 158, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (704, 162, 17);
+VALUES (1582, 158, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (714, 162, 18);
+VALUES (1581, 158, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (714, 162, 19);
+VALUES (1581, 158, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1127, 162, 20);
+VALUES (1581, 158, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1572, 162, 21);
+VALUES (1581, 158, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1572, 162, 22);
+VALUES (1581, 158, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1577, 162, 23);
+VALUES (1591, 159, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1577, 162, 24);
+VALUES (1591, 159, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1653, 162, 25);
+VALUES (1591, 159, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1678, 162, 26);
+VALUES (1591, 159, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1678, 162, 27);
+VALUES (1591, 159, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (395, 163, 13);
+VALUES (1591, 159, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (395, 163, 14);
+VALUES (1591, 159, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (643, 163, 15);
+VALUES (1591, 159, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (643, 163, 16);
+VALUES (1591, 159, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (897, 163, 17);
+VALUES (1591, 159, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (897, 163, 18);
+VALUES (1591, 159, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (971, 163, 19);
+VALUES (1591, 159, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1514, 163, 20);
+VALUES (1591, 159, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1514, 163, 21);
+VALUES (1591, 159, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1718, 163, 22);
+VALUES (1602, 160, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1810, 163, 23);
+VALUES (1602, 160, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1810, 163, 24);
+VALUES (1602, 160, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1810, 163, 25);
+VALUES (1602, 160, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1585, 164, 1);
+VALUES (1602, 160, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1585, 164, 2);
+VALUES (1602, 160, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (104, 164, 13);
+VALUES (1602, 160, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (104, 164, 14);
+VALUES (1602, 160, 8);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (104, 164, 15);
+VALUES (1602, 160, 9);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (105, 164, 16);
+VALUES (1602, 160, 10);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (105, 164, 17);
+VALUES (1602, 160, 11);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (307, 164, 18);
+VALUES (1602, 160, 12);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (307, 164, 19);
+VALUES (1602, 160, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (641, 164, 20);
+VALUES (1601, 160, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (641, 164, 21);
+VALUES (1601, 160, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (641, 164, 22);
+VALUES (1601, 160, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (666, 164, 23);
+VALUES (1601, 160, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (666, 164, 24);
+VALUES (1601, 160, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1042, 164, 25);
+VALUES (1601, 160, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1042, 164, 26);
+VALUES (1601, 160, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1042, 164, 27);
+VALUES (1601, 160, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1329, 164, 28);
+VALUES (1601, 160, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1329, 164, 29);
+VALUES (1601, 160, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1329, 164, 30);
+VALUES (1601, 160, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (461, 165, 1);
+VALUES (1601, 160, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (461, 165, 2);
+VALUES (1601, 160, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (229, 165, 13);
+VALUES (1612, 161, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (324, 165, 14);
+VALUES (1611, 161, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (324, 165, 15);
+VALUES (1611, 161, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (348, 165, 16);
+VALUES (1611, 161, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (982, 165, 17);
+VALUES (1611, 161, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (982, 165, 18);
+VALUES (1622, 162, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1477, 165, 19);
+VALUES (1621, 162, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1477, 165, 20);
+VALUES (1621, 162, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1726, 165, 21);
+VALUES (1621, 162, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1726, 165, 22);
+VALUES (1621, 162, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (99, 166, 1);
+VALUES (1621, 162, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (99, 166, 2);
+VALUES (1621, 162, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1311, 166, 3);
+VALUES (1621, 162, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1311, 166, 4);
+VALUES (1621, 162, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (464, 166, 13);
+VALUES (1621, 162, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (501, 166, 14);
+VALUES (1621, 162, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1786, 166, 15);
+VALUES (1621, 162, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1786, 166, 16);
+VALUES (1621, 162, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1786, 166, 17);
+VALUES (1621, 162, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (694, 167, 13);
+VALUES (1621, 162, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (694, 167, 14);
+VALUES (1632, 163, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (806, 167, 15);
+VALUES (1632, 163, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (806, 167, 16);
+VALUES (1632, 163, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (669, 168, 13);
+VALUES (1632, 163, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (669, 168, 14);
+VALUES (1631, 163, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1615, 168, 15);
+VALUES (1631, 163, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1734, 168, 16);
+VALUES (1631, 163, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1750, 168, 17);
+VALUES (1631, 163, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1884, 168, 18);
+VALUES (1631, 163, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1884, 168, 19);
+VALUES (1631, 163, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1375, 169, 1);
+VALUES (1642, 164, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1375, 169, 2);
+VALUES (1642, 164, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1375, 169, 3);
+VALUES (1642, 164, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1831, 169, 4);
+VALUES (1642, 164, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1831, 169, 5);
+VALUES (1642, 164, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (212, 169, 13);
+VALUES (1641, 164, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (622, 169, 14);
+VALUES (1641, 164, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (622, 169, 15);
+VALUES (1641, 164, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1291, 169, 16);
+VALUES (1641, 164, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1291, 169, 17);
+VALUES (1641, 164, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1826, 169, 18);
+VALUES (1641, 164, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1826, 169, 19);
+VALUES (1641, 164, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1557, 170, 1);
+VALUES (1652, 165, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1557, 170, 2);
+VALUES (1652, 165, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1557, 170, 3);
+VALUES (1662, 166, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1992, 170, 4);
+VALUES (1662, 166, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1992, 170, 5);
+VALUES (1662, 166, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (259, 170, 13);
+VALUES (1661, 166, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (259, 170, 14);
+VALUES (1661, 166, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (457, 170, 15);
+VALUES (1661, 166, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (457, 170, 16);
+VALUES (1661, 166, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (889, 170, 17);
+VALUES (1661, 166, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (889, 170, 18);
+VALUES (1661, 166, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1003, 170, 19);
+VALUES (1661, 166, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1003, 170, 20);
+VALUES (1661, 166, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1546, 170, 21);
+VALUES (1661, 166, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1546, 170, 22);
+VALUES (1661, 166, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (7, 171, 13);
+VALUES (1672, 167, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (7, 171, 14);
+VALUES (1672, 167, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (53, 171, 15);
+VALUES (1672, 167, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (53, 171, 16);
+VALUES (1672, 167, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (414, 171, 17);
+VALUES (1671, 167, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (414, 171, 18);
+VALUES (1671, 167, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (414, 171, 19);
+VALUES (1671, 167, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (422, 171, 20);
+VALUES (1671, 167, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (422, 171, 21);
+VALUES (1671, 167, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (985, 171, 22);
+VALUES (1671, 167, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (985, 171, 23);
+VALUES (1671, 167, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (985, 171, 24);
+VALUES (1671, 167, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1023, 171, 25);
+VALUES (1671, 167, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1023, 171, 26);
+VALUES (1671, 167, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1056, 172, 13);
+VALUES (1682, 168, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1056, 172, 14);
+VALUES (1682, 168, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1421, 172, 15);
+VALUES (1682, 168, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1421, 172, 16);
+VALUES (1682, 168, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1492, 172, 17);
+VALUES (1682, 168, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1492, 172, 18);
+VALUES (1682, 168, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1492, 172, 19);
+VALUES (1681, 168, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (412, 173, 1);
+VALUES (1681, 168, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (948, 173, 2);
+VALUES (1681, 168, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (948, 173, 3);
+VALUES (1681, 168, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (961, 173, 4);
+VALUES (1681, 168, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (961, 173, 5);
+VALUES (1681, 168, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (961, 173, 6);
+VALUES (1681, 168, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1475, 173, 7);
+VALUES (1681, 168, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1475, 173, 8);
+VALUES (1681, 168, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1475, 173, 9);
+VALUES (1681, 168, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (62, 173, 13);
+VALUES (1681, 168, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (62, 173, 14);
+VALUES (1681, 168, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (658, 173, 15);
+VALUES (1681, 168, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (719, 173, 16);
+VALUES (1681, 168, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1165, 173, 17);
+VALUES (1681, 168, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1165, 173, 18);
+VALUES (1681, 168, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1287, 173, 19);
+VALUES (1692, 169, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1360, 173, 20);
+VALUES (1692, 169, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1360, 173, 21);
+VALUES (1691, 169, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1506, 173, 22);
+VALUES (1691, 169, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1760, 173, 23);
+VALUES (1691, 169, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1760, 173, 24);
+VALUES (1691, 169, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1861, 173, 25);
+VALUES (1691, 169, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1861, 173, 26);
+VALUES (1691, 169, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1861, 173, 27);
+VALUES (1691, 169, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1694, 174, 1);
+VALUES (1691, 169, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1149, 174, 13);
+VALUES (1691, 169, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1149, 174, 14);
+VALUES (1691, 169, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1525, 174, 15);
+VALUES (1702, 170, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1525, 174, 16);
+VALUES (1701, 170, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1525, 174, 17);
+VALUES (1701, 170, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1851, 174, 18);
+VALUES (1701, 170, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1851, 174, 19);
+VALUES (1701, 170, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1851, 174, 20);
+VALUES (1701, 170, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1864, 174, 21);
+VALUES (1701, 170, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1575, 175, 1);
+VALUES (1701, 170, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1575, 175, 2);
+VALUES (1701, 170, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1575, 175, 3);
+VALUES (1711, 171, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (604, 175, 13);
+VALUES (1711, 171, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (697, 175, 14);
+VALUES (1711, 171, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (697, 175, 15);
+VALUES (1711, 171, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1728, 175, 16);
+VALUES (1711, 171, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1728, 175, 17);
+VALUES (1711, 171, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (954, 176, 1);
+VALUES (1711, 171, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (954, 176, 2);
+VALUES (1711, 171, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (954, 176, 3);
+VALUES (1711, 171, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (279, 176, 13);
+VALUES (1711, 171, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (397, 176, 14);
+VALUES (1711, 171, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (551, 176, 15);
+VALUES (1711, 171, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (551, 176, 16);
+VALUES (1711, 171, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (593, 176, 17);
+VALUES (1711, 171, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (593, 176, 18);
+VALUES (1711, 171, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (593, 176, 19);
+VALUES (1722, 172, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (607, 176, 20);
+VALUES (1722, 172, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (607, 176, 21);
+VALUES (1721, 172, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (607, 176, 22);
+VALUES (1721, 172, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1101, 176, 23);
+VALUES (1721, 172, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1101, 176, 24);
+VALUES (1721, 172, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1101, 176, 25);
+VALUES (1721, 172, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1250, 176, 26);
+VALUES (1721, 172, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1250, 176, 27);
+VALUES (1721, 172, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1250, 176, 28);
+VALUES (1731, 173, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1300, 176, 29);
+VALUES (1731, 173, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1300, 176, 30);
+VALUES (1731, 173, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1338, 176, 31);
+VALUES (1731, 173, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1338, 176, 32);
+VALUES (1731, 173, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1338, 176, 33);
+VALUES (1741, 174, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1621, 176, 34);
+VALUES (1741, 174, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1621, 176, 35);
+VALUES (1741, 174, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (70, 177, 1);
+VALUES (1741, 174, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (420, 177, 13);
+VALUES (1741, 174, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (420, 177, 14);
+VALUES (1741, 174, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (589, 177, 15);
+VALUES (1752, 175, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (589, 177, 16);
+VALUES (1752, 175, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (964, 177, 17);
+VALUES (1752, 175, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (964, 177, 18);
+VALUES (1752, 175, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1440, 177, 19);
+VALUES (1752, 175, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1440, 177, 20);
+VALUES (1752, 175, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1440, 177, 21);
+VALUES (1752, 175, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1670, 177, 22);
+VALUES (1751, 175, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1670, 177, 23);
+VALUES (1751, 175, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1670, 177, 24);
+VALUES (1751, 175, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1713, 178, 1);
+VALUES (1751, 175, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1713, 178, 2);
+VALUES (1751, 175, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (273, 178, 13);
+VALUES (1751, 175, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (273, 178, 14);
+VALUES (1751, 175, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (617, 178, 15);
+VALUES (1751, 175, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (617, 178, 16);
+VALUES (1751, 175, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1501, 178, 17);
+VALUES (1751, 175, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1996, 178, 18);
+VALUES (1751, 175, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1996, 178, 19);
+VALUES (1751, 175, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1684, 179, 1);
+VALUES (1751, 175, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (21, 179, 13);
+VALUES (1751, 175, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (21, 179, 14);
+VALUES (1762, 176, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (628, 179, 15);
+VALUES (1762, 176, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (628, 179, 16);
+VALUES (1762, 176, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (628, 179, 17);
+VALUES (1761, 176, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (912, 179, 18);
+VALUES (1761, 176, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (912, 179, 19);
+VALUES (1761, 176, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1240, 179, 20);
+VALUES (1761, 176, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1240, 179, 21);
+VALUES (1761, 176, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1403, 179, 22);
+VALUES (1761, 176, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1403, 179, 23);
+VALUES (1761, 176, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (455, 180, 1);
+VALUES (1761, 176, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1587, 180, 2);
+VALUES (1772, 177, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1587, 180, 3);
+VALUES (1772, 177, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (173, 180, 13);
+VALUES (1772, 177, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (173, 180, 14);
+VALUES (1772, 177, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (726, 180, 15);
+VALUES (1772, 177, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (726, 180, 16);
+VALUES (1772, 177, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1050, 180, 17);
+VALUES (1772, 177, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1050, 180, 18);
+VALUES (1772, 177, 8);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1050, 180, 19);
+VALUES (1772, 177, 9);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1369, 180, 20);
+VALUES (1771, 177, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1369, 180, 21);
+VALUES (1771, 177, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1510, 180, 22);
+VALUES (1771, 177, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1510, 180, 23);
+VALUES (1771, 177, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1519, 180, 24);
+VALUES (1771, 177, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1519, 180, 25);
+VALUES (1771, 177, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1630, 180, 26);
+VALUES (1771, 177, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1630, 180, 27);
+VALUES (1771, 177, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1804, 180, 28);
+VALUES (1771, 177, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (276, 181, 1);
+VALUES (1771, 177, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (276, 181, 2);
+VALUES (1771, 177, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (276, 181, 3);
+VALUES (1771, 177, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (994, 181, 4);
+VALUES (1771, 177, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (994, 181, 5);
+VALUES (1771, 177, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1697, 181, 6);
+VALUES (1771, 177, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1697, 181, 7);
+VALUES (1782, 178, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1697, 181, 8);
+VALUES (1782, 178, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1753, 181, 9);
+VALUES (1782, 178, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1753, 181, 10);
+VALUES (1782, 178, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (190, 181, 13);
+VALUES (1782, 178, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (190, 181, 14);
+VALUES (1782, 178, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (190, 181, 15);
+VALUES (1781, 178, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (550, 181, 16);
+VALUES (1781, 178, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (550, 181, 17);
+VALUES (1781, 178, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (566, 181, 18);
+VALUES (1781, 178, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (566, 181, 19);
+VALUES (1781, 178, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1062, 181, 20);
+VALUES (1781, 178, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1062, 181, 21);
+VALUES (1781, 178, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1062, 181, 22);
+VALUES (1781, 178, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1229, 181, 23);
+VALUES (1792, 179, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1229, 181, 24);
+VALUES (1792, 179, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1229, 181, 25);
+VALUES (1792, 179, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1318, 181, 26);
+VALUES (1792, 179, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1318, 181, 27);
+VALUES (1791, 179, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1318, 181, 28);
+VALUES (1791, 179, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1398, 181, 29);
+VALUES (1802, 180, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1566, 181, 30);
+VALUES (1802, 180, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1636, 181, 31);
+VALUES (1802, 180, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1636, 181, 32);
+VALUES (1801, 180, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1636, 181, 33);
+VALUES (1801, 180, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1170, 182, 1);
+VALUES (1801, 180, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1345, 182, 2);
+VALUES (1801, 180, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1345, 182, 3);
+VALUES (1801, 180, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1808, 182, 4);
+VALUES (1801, 180, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1808, 182, 5);
+VALUES (1801, 180, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1808, 182, 6);
+VALUES (1801, 180, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (4, 182, 13);
+VALUES (1801, 180, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (4, 182, 14);
+VALUES (1801, 180, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (4, 182, 15);
+VALUES (1801, 180, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (239, 182, 16);
+VALUES (1812, 181, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (239, 182, 17);
+VALUES (1812, 181, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (335, 182, 18);
+VALUES (1811, 181, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (335, 182, 19);
+VALUES (1811, 181, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (497, 182, 20);
+VALUES (1811, 181, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (497, 182, 21);
+VALUES (1811, 181, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (538, 182, 22);
+VALUES (1811, 181, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (538, 182, 23);
+VALUES (1811, 181, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (730, 182, 24);
+VALUES (1811, 181, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (946, 182, 25);
+VALUES (1811, 181, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (946, 182, 26);
+VALUES (1811, 181, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1142, 182, 27);
+VALUES (1811, 181, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1142, 182, 28);
+VALUES (1811, 181, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1304, 182, 29);
+VALUES (1811, 181, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1304, 182, 30);
+VALUES (1811, 181, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1926, 182, 31);
+VALUES (1822, 182, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1926, 182, 32);
+VALUES (1822, 182, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1341, 183, 1);
+VALUES (1822, 182, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1341, 183, 2);
+VALUES (1821, 182, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1423, 183, 3);
+VALUES (1821, 182, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (402, 183, 13);
+VALUES (1821, 182, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (624, 183, 14);
+VALUES (1821, 182, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (624, 183, 15);
+VALUES (1821, 182, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (624, 183, 16);
+VALUES (1821, 182, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (968, 183, 17);
+VALUES (1821, 182, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1267, 183, 18);
+VALUES (1821, 182, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1267, 183, 19);
+VALUES (1821, 182, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1378, 183, 20);
+VALUES (1821, 182, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1378, 183, 21);
+VALUES (1821, 182, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1429, 183, 22);
+VALUES (1821, 182, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1467, 183, 23);
+VALUES (1821, 182, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1467, 183, 24);
+VALUES (1821, 182, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1467, 183, 25);
+VALUES (1821, 182, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1564, 183, 26);
+VALUES (1832, 183, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1564, 183, 27);
+VALUES (1832, 183, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1898, 183, 28);
+VALUES (1831, 183, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1898, 183, 29);
+VALUES (1831, 183, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1527, 184, 1);
+VALUES (1831, 183, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1527, 184, 2);
+VALUES (1831, 183, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1527, 184, 3);
+VALUES (1831, 183, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (284, 184, 13);
+VALUES (1831, 183, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (552, 184, 14);
+VALUES (1831, 183, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (552, 184, 15);
+VALUES (1831, 183, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1316, 184, 16);
+VALUES (1831, 183, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1838, 184, 17);
+VALUES (1831, 183, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1838, 184, 18);
+VALUES (1831, 183, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (703, 185, 1);
+VALUES (1831, 183, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1028, 185, 2);
+VALUES (1831, 183, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1028, 185, 3);
+VALUES (1831, 183, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1397, 185, 4);
+VALUES (1831, 183, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1397, 185, 5);
+VALUES (1831, 183, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1682, 185, 6);
+VALUES (1831, 183, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1837, 185, 7);
+VALUES (1831, 183, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (332, 185, 13);
+VALUES (1831, 183, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (332, 185, 14);
+VALUES (1831, 183, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (493, 185, 15);
+VALUES (1831, 183, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (544, 185, 16);
+VALUES (1831, 183, 34);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (544, 185, 17);
+VALUES (1842, 184, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (544, 185, 18);
+VALUES (1842, 184, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (718, 185, 19);
+VALUES (1842, 184, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (718, 185, 20);
+VALUES (1842, 184, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (773, 185, 21);
+VALUES (1841, 184, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (773, 185, 22);
+VALUES (1841, 184, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1450, 185, 23);
+VALUES (1841, 184, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1450, 185, 24);
+VALUES (1841, 184, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1535, 185, 25);
+VALUES (1841, 184, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1535, 185, 26);
+VALUES (1841, 184, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (599, 186, 13);
+VALUES (1841, 184, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (599, 186, 14);
+VALUES (1841, 184, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (609, 186, 15);
+VALUES (1841, 184, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (609, 186, 16);
+VALUES (1841, 184, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1068, 186, 17);
+VALUES (1841, 184, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1068, 186, 18);
+VALUES (1841, 184, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (433, 187, 1);
+VALUES (1841, 184, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (433, 187, 2);
+VALUES (1841, 184, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (433, 187, 3);
+VALUES (1851, 185, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (491, 187, 4);
+VALUES (1851, 185, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (839, 187, 5);
+VALUES (1851, 185, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (839, 187, 6);
+VALUES (1851, 185, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1105, 187, 7);
+VALUES (1851, 185, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1105, 187, 8);
+VALUES (1851, 185, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1105, 187, 9);
+VALUES (1851, 185, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1354, 187, 10);
+VALUES (1851, 185, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (254, 187, 13);
+VALUES (1851, 185, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (337, 187, 14);
+VALUES (1851, 185, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (915, 187, 15);
+VALUES (1851, 185, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (915, 187, 16);
+VALUES (1851, 185, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1255, 187, 17);
+VALUES (1851, 185, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1255, 187, 18);
+VALUES (1851, 185, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (811, 188, 13);
+VALUES (1851, 185, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (811, 188, 14);
+VALUES (1851, 185, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1167, 188, 15);
+VALUES (1851, 185, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1167, 188, 16);
+VALUES (1851, 185, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1167, 188, 17);
+VALUES (1851, 185, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1720, 188, 18);
+VALUES (1862, 186, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1720, 188, 19);
+VALUES (1862, 186, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1774, 188, 20);
+VALUES (1861, 186, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1882, 188, 21);
+VALUES (1861, 186, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (525, 189, 1);
+VALUES (1861, 186, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (934, 189, 2);
+VALUES (1861, 186, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (934, 189, 3);
+VALUES (1872, 187, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (934, 189, 4);
+VALUES (1871, 187, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1314, 189, 5);
+VALUES (1871, 187, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1314, 189, 6);
+VALUES (1871, 187, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1314, 189, 7);
+VALUES (1871, 187, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (456, 189, 13);
+VALUES (1871, 187, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (456, 189, 14);
+VALUES (1871, 187, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (456, 189, 15);
+VALUES (1882, 188, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (770, 189, 16);
+VALUES (1882, 188, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (770, 189, 17);
+VALUES (1882, 188, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (163, 190, 1);
+VALUES (1881, 188, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (163, 190, 2);
+VALUES (1881, 188, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (404, 190, 3);
+VALUES (1881, 188, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (404, 190, 4);
+VALUES (1881, 188, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1576, 190, 5);
+VALUES (1892, 189, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1576, 190, 6);
+VALUES (1892, 189, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1859, 190, 7);
+VALUES (1891, 189, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1859, 190, 8);
+VALUES (1891, 189, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1859, 190, 9);
+VALUES (1891, 189, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (44, 190, 13);
+VALUES (1891, 189, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (44, 190, 14);
+VALUES (1891, 189, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (275, 190, 15);
+VALUES (1891, 189, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (275, 190, 16);
+VALUES (1891, 189, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1060, 190, 17);
+VALUES (1891, 189, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1060, 190, 18);
+VALUES (1891, 189, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1650, 190, 19);
+VALUES (1891, 189, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (939, 191, 1);
+VALUES (1891, 189, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (93, 191, 13);
+VALUES (1891, 189, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (93, 191, 14);
+VALUES (1901, 190, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (723, 191, 15);
+VALUES (1901, 190, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (723, 191, 16);
+VALUES (1901, 190, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (727, 191, 17);
+VALUES (1901, 190, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (727, 191, 18);
+VALUES (1901, 190, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (816, 192, 1);
+VALUES (1901, 190, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (63, 192, 13);
+VALUES (1901, 190, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (63, 192, 14);
+VALUES (1901, 190, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (747, 192, 15);
+VALUES (1901, 190, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (747, 192, 16);
+VALUES (1901, 190, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (869, 192, 17);
+VALUES (1901, 190, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (869, 192, 18);
+VALUES (1901, 190, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (892, 192, 19);
+VALUES (1901, 190, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (904, 192, 20);
+VALUES (1901, 190, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1150, 192, 21);
+VALUES (1901, 190, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1150, 192, 22);
+VALUES (1901, 190, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1150, 192, 23);
+VALUES (1901, 190, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1668, 192, 24);
+VALUES (1912, 191, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1869, 192, 25);
+VALUES (1912, 191, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1869, 192, 26);
+VALUES (1912, 191, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1904, 192, 27);
+VALUES (1912, 191, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (110, 193, 1);
+VALUES (1912, 191, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (167, 193, 2);
+VALUES (1911, 191, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (167, 193, 3);
+VALUES (1911, 191, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (223, 193, 13);
+VALUES (1911, 191, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (223, 193, 14);
+VALUES (1911, 191, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (818, 193, 15);
+VALUES (1911, 191, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (818, 193, 16);
+VALUES (1921, 192, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1262, 193, 17);
+VALUES (1921, 192, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1589, 193, 18);
+VALUES (1921, 192, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1593, 193, 19);
+VALUES (1921, 192, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1593, 193, 20);
+VALUES (1921, 192, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1593, 193, 21);
+VALUES (1921, 192, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (97, 194, 13);
+VALUES (1921, 192, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (97, 194, 14);
+VALUES (1921, 192, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (97, 194, 15);
+VALUES (1921, 192, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1382, 194, 16);
+VALUES (1921, 192, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1616, 194, 17);
+VALUES (1921, 192, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1706, 194, 18);
+VALUES (1921, 192, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1706, 194, 19);
+VALUES (1921, 192, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1706, 194, 20);
+VALUES (1921, 192, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (158, 195, 1);
+VALUES (1921, 192, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (158, 195, 2);
+VALUES (1921, 192, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (158, 195, 3);
+VALUES (1932, 193, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (121, 195, 13);
+VALUES (1931, 193, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1544, 195, 14);
+VALUES (1931, 193, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1544, 195, 15);
+VALUES (1931, 193, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (246, 196, 1);
+VALUES (1931, 193, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1770, 196, 2);
+VALUES (1931, 193, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1770, 196, 3);
+VALUES (1931, 193, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (255, 196, 13);
+VALUES (1931, 193, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (255, 196, 14);
+VALUES (1931, 193, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1256, 196, 15);
+VALUES (1931, 193, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1256, 196, 16);
+VALUES (1931, 193, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1286, 196, 17);
+VALUES (1941, 194, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1286, 196, 18);
+VALUES (1941, 194, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1767, 196, 19);
+VALUES (1941, 194, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1767, 196, 20);
+VALUES (1941, 194, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (269, 197, 1);
+VALUES (1941, 194, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (269, 197, 2);
+VALUES (1941, 194, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (269, 197, 3);
+VALUES (1952, 195, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (496, 197, 4);
+VALUES (1951, 195, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (243, 197, 13);
+VALUES (1951, 195, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (854, 197, 14);
+VALUES (1951, 195, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (854, 197, 15);
+VALUES (1951, 195, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (854, 197, 16);
+VALUES (1951, 195, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (947, 197, 17);
+VALUES (1962, 196, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (947, 197, 18);
+VALUES (1962, 196, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1631, 197, 19);
+VALUES (1962, 196, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1631, 197, 20);
+VALUES (1961, 196, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1970, 197, 21);
+VALUES (1961, 196, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1970, 197, 22);
+VALUES (1961, 196, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (260, 198, 1);
+VALUES (1961, 196, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (260, 198, 2);
+VALUES (1961, 196, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (260, 198, 3);
+VALUES (1961, 196, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (297, 198, 4);
+VALUES (1961, 196, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (523, 198, 5);
+VALUES (1961, 196, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (523, 198, 6);
+VALUES (1961, 196, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (141, 198, 13);
+VALUES (1961, 196, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (141, 198, 14);
+VALUES (1961, 196, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (502, 198, 15);
+VALUES (1961, 196, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (502, 198, 16);
+VALUES (1972, 197, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (502, 198, 17);
+VALUES (1972, 197, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1108, 198, 18);
+VALUES (1971, 197, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1108, 198, 19);
+VALUES (1971, 197, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1173, 198, 20);
+VALUES (1971, 197, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1173, 198, 21);
+VALUES (1971, 197, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (28, 199, 1);
+VALUES (1971, 197, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (28, 199, 2);
+VALUES (1971, 197, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (8, 199, 13);
+VALUES (1971, 197, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (8, 199, 14);
+VALUES (1971, 197, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1215, 199, 15);
+VALUES (1971, 197, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1234, 199, 16);
+VALUES (1971, 197, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1234, 199, 17);
+VALUES (1971, 197, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1758, 199, 18);
+VALUES (1971, 197, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1758, 199, 19);
+VALUES (1971, 197, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1765, 199, 20);
+VALUES (1982, 198, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1521, 200, 1);
+VALUES (1982, 198, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1619, 200, 2);
+VALUES (1982, 198, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1619, 200, 3);
+VALUES (1982, 198, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1036, 200, 13);
+VALUES (1982, 198, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1036, 200, 14);
+VALUES (1982, 198, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1036, 200, 15);
+VALUES (1982, 198, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1148, 200, 16);
+VALUES (1981, 198, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1148, 200, 17);
+VALUES (1981, 198, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1500, 200, 18);
+VALUES (1981, 198, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1946, 200, 19);
+VALUES (1981, 198, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (296, 201, 1);
+VALUES (1981, 198, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (296, 201, 2);
+VALUES (1981, 198, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (296, 201, 3);
+VALUES (1981, 198, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (135, 201, 13);
+VALUES (1981, 198, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (135, 201, 14);
+VALUES (1981, 198, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (135, 201, 15);
+VALUES (1981, 198, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (227, 201, 16);
+VALUES (1981, 198, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (333, 201, 17);
+VALUES (1981, 198, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (333, 201, 18);
+VALUES (1981, 198, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (559, 201, 19);
+VALUES (1981, 198, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (938, 201, 20);
+VALUES (1981, 198, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (938, 201, 21);
+VALUES (1981, 198, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1776, 201, 22);
+VALUES (1981, 198, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1989, 201, 23);
+VALUES (1981, 198, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1989, 201, 24);
+VALUES (1981, 198, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (20, 202, 13);
+VALUES (1992, 199, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (228, 202, 14);
+VALUES (1992, 199, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (228, 202, 15);
+VALUES (1991, 199, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (534, 202, 16);
+VALUES (1991, 199, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (534, 202, 17);
+VALUES (1991, 199, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (534, 202, 18);
+VALUES (1991, 199, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1579, 202, 19);
+VALUES (1991, 199, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1579, 202, 20);
+VALUES (1991, 199, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1732, 202, 21);
+VALUES (1991, 199, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1732, 202, 22);
+VALUES (1991, 199, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (219, 203, 13);
+VALUES (1991, 199, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (219, 203, 14);
+VALUES (2002, 200, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1049, 203, 15);
+VALUES (2002, 200, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1049, 203, 16);
+VALUES (2002, 200, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1049, 203, 17);
+VALUES (2002, 200, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1124, 203, 18);
+VALUES (2002, 200, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1124, 203, 19);
+VALUES (2002, 200, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1604, 203, 20);
+VALUES (2001, 200, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1604, 203, 21);
+VALUES (2001, 200, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1793, 203, 22);
+VALUES (2001, 200, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1910, 203, 23);
+VALUES (2001, 200, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (426, 204, 1);
+VALUES (2001, 200, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (426, 204, 2);
+VALUES (2001, 200, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (426, 204, 3);
+VALUES (2001, 200, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1828, 204, 4);
+VALUES (2001, 200, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1828, 204, 5);
+VALUES (2012, 201, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1867, 204, 13);
+VALUES (2011, 201, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1867, 204, 14);
+VALUES (2011, 201, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1867, 204, 15);
+VALUES (2011, 201, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1938, 204, 16);
+VALUES (2011, 201, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1938, 204, 17);
+VALUES (2011, 201, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1881, 205, 1);
+VALUES (2011, 201, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (187, 205, 13);
+VALUES (2011, 201, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (187, 205, 14);
+VALUES (2011, 201, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (264, 205, 15);
+VALUES (2011, 201, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (264, 205, 16);
+VALUES (2011, 201, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (653, 205, 17);
+VALUES (2011, 201, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (896, 205, 18);
+VALUES (2021, 202, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1100, 205, 19);
+VALUES (2021, 202, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1100, 205, 20);
+VALUES (2021, 202, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1625, 205, 21);
+VALUES (2021, 202, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1752, 205, 22);
+VALUES (2021, 202, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1752, 205, 23);
+VALUES (2021, 202, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1807, 205, 24);
+VALUES (2021, 202, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1807, 205, 25);
+VALUES (2021, 202, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (819, 206, 1);
+VALUES (2021, 202, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (880, 206, 2);
+VALUES (2031, 203, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (880, 206, 3);
+VALUES (2031, 203, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (251, 206, 13);
+VALUES (2031, 203, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (330, 206, 14);
+VALUES (2031, 203, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (330, 206, 15);
+VALUES (2031, 203, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (385, 206, 16);
+VALUES (2031, 203, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (385, 206, 17);
+VALUES (2041, 204, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (385, 206, 18);
+VALUES (2041, 204, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (740, 206, 19);
+VALUES (2041, 204, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (740, 206, 20);
+VALUES (2041, 204, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1052, 206, 21);
+VALUES (2041, 204, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1052, 206, 22);
+VALUES (2041, 204, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1147, 206, 23);
+VALUES (2041, 204, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1952, 206, 24);
+VALUES (2041, 204, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (664, 207, 13);
+VALUES (2041, 204, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (826, 207, 14);
+VALUES (2041, 204, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (826, 207, 15);
+VALUES (2041, 204, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (826, 207, 16);
+VALUES (2041, 204, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1568, 207, 17);
+VALUES (2041, 204, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1568, 207, 18);
+VALUES (2041, 204, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1568, 207, 19);
+VALUES (2041, 204, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1574, 207, 20);
+VALUES (2041, 204, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1574, 207, 21);
+VALUES (2041, 204, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1574, 207, 22);
+VALUES (2041, 204, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1664, 207, 23);
+VALUES (2041, 204, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1974, 208, 1);
+VALUES (2041, 204, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1974, 208, 2);
+VALUES (2041, 204, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1974, 208, 3);
+VALUES (2041, 204, 34);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (935, 208, 13);
+VALUES (2041, 204, 35);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (975, 208, 14);
+VALUES (2041, 204, 36);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (975, 208, 15);
+VALUES (2052, 205, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (975, 208, 16);
+VALUES (2052, 205, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (989, 208, 17);
+VALUES (2052, 205, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (798, 209, 1);
+VALUES (2052, 205, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (798, 209, 2);
+VALUES (2052, 205, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (45, 209, 13);
+VALUES (2052, 205, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (45, 209, 14);
+VALUES (2052, 205, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (45, 209, 15);
+VALUES (2051, 205, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (540, 209, 16);
+VALUES (2051, 205, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1427, 209, 17);
+VALUES (2051, 205, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1671, 209, 18);
+VALUES (2051, 205, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1671, 209, 19);
+VALUES (2051, 205, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1736, 209, 20);
+VALUES (2051, 205, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1812, 209, 21);
+VALUES (2051, 205, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (543, 210, 1);
+VALUES (2051, 205, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (454, 210, 13);
+VALUES (2062, 206, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (511, 210, 14);
+VALUES (2061, 206, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (511, 210, 15);
+VALUES (2061, 206, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (581, 210, 16);
+VALUES (2061, 206, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (581, 210, 17);
+VALUES (2061, 206, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (772, 210, 18);
+VALUES (2061, 206, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (772, 210, 19);
+VALUES (2061, 206, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1119, 210, 20);
+VALUES (2061, 206, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1119, 210, 21);
+VALUES (2071, 207, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1273, 210, 22);
+VALUES (2071, 207, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1273, 210, 23);
+VALUES (2071, 207, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1367, 210, 24);
+VALUES (2071, 207, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1367, 210, 25);
+VALUES (2071, 207, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1367, 210, 26);
+VALUES (2082, 208, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1499, 210, 27);
+VALUES (2082, 208, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1499, 210, 28);
+VALUES (2082, 208, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1738, 210, 29);
+VALUES (2082, 208, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1738, 210, 30);
+VALUES (2082, 208, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1754, 210, 31);
+VALUES (2081, 208, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1754, 210, 32);
+VALUES (2081, 208, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1754, 210, 33);
+VALUES (2081, 208, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (208, 211, 1);
+VALUES (2081, 208, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (208, 211, 2);
+VALUES (2081, 208, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (282, 211, 13);
+VALUES (2092, 209, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (282, 211, 14);
+VALUES (2092, 209, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (282, 211, 15);
+VALUES (2092, 209, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (611, 211, 16);
+VALUES (2091, 209, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (611, 211, 17);
+VALUES (2091, 209, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1386, 211, 18);
+VALUES (2091, 209, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1386, 211, 19);
+VALUES (2091, 209, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1386, 211, 20);
+VALUES (2091, 209, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1581, 211, 21);
+VALUES (2102, 210, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1581, 211, 22);
+VALUES (2101, 210, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1963, 211, 23);
+VALUES (2101, 210, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (174, 212, 13);
+VALUES (2101, 210, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (174, 212, 14);
+VALUES (2101, 210, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (174, 212, 15);
+VALUES (2101, 210, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (383, 212, 16);
+VALUES (2112, 211, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (383, 212, 17);
+VALUES (2112, 211, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (516, 212, 18);
+VALUES (2112, 211, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (516, 212, 19);
+VALUES (2111, 211, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1493, 212, 20);
+VALUES (2111, 211, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1493, 212, 21);
+VALUES (2111, 211, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1183, 213, 1);
+VALUES (2111, 211, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1183, 213, 2);
+VALUES (2111, 211, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (555, 213, 13);
+VALUES (2111, 211, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (555, 213, 14);
+VALUES (2111, 211, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (885, 213, 15);
+VALUES (2111, 211, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1025, 213, 16);
+VALUES (2111, 211, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1025, 213, 17);
+VALUES (2111, 211, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1276, 213, 18);
+VALUES (2111, 211, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1276, 213, 19);
+VALUES (2111, 211, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1508, 213, 20);
+VALUES (2111, 211, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1508, 213, 21);
+VALUES (2111, 211, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1508, 213, 22);
+VALUES (2121, 212, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1832, 213, 23);
+VALUES (2121, 212, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1832, 213, 24);
+VALUES (2121, 212, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1955, 213, 25);
+VALUES (2121, 212, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1955, 213, 26);
+VALUES (2121, 212, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1955, 213, 27);
+VALUES (2121, 212, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (827, 214, 1);
+VALUES (2121, 212, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (827, 214, 2);
+VALUES (2121, 212, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1118, 214, 3);
+VALUES (2121, 212, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1596, 214, 4);
+VALUES (2121, 212, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1596, 214, 5);
+VALUES (2121, 212, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1596, 214, 6);
+VALUES (2121, 212, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1648, 214, 7);
+VALUES (2121, 212, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (16, 214, 13);
+VALUES (2121, 212, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (16, 214, 14);
+VALUES (2132, 213, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (18, 214, 15);
+VALUES (2132, 213, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1561, 214, 16);
+VALUES (2132, 213, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1561, 214, 17);
+VALUES (2132, 213, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1836, 214, 18);
+VALUES (2132, 213, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (842, 215, 13);
+VALUES (2131, 213, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (842, 215, 14);
+VALUES (2131, 213, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (917, 215, 15);
+VALUES (2131, 213, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (917, 215, 16);
+VALUES (2131, 213, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1051, 215, 17);
+VALUES (2131, 213, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1051, 215, 18);
+VALUES (2131, 213, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1103, 215, 19);
+VALUES (2142, 214, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1103, 215, 20);
+VALUES (2142, 214, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1103, 215, 21);
+VALUES (2142, 214, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1293, 215, 22);
+VALUES (2142, 214, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1293, 215, 23);
+VALUES (2142, 214, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1293, 215, 24);
+VALUES (2142, 214, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1447, 215, 25);
+VALUES (2142, 214, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1447, 215, 26);
+VALUES (2141, 214, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1511, 215, 27);
+VALUES (2141, 214, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1511, 215, 28);
+VALUES (2141, 214, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1511, 215, 29);
+VALUES (2141, 214, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1878, 215, 30);
+VALUES (2141, 214, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1878, 215, 31);
+VALUES (2152, 215, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1178, 216, 1);
+VALUES (2151, 215, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1178, 216, 2);
+VALUES (2151, 215, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1113, 216, 13);
+VALUES (2151, 215, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1113, 216, 14);
+VALUES (2151, 215, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1113, 216, 15);
+VALUES (2151, 215, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1182, 216, 16);
+VALUES (2151, 215, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1182, 216, 17);
+VALUES (2151, 215, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1212, 216, 18);
+VALUES (2151, 215, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1212, 216, 19);
+VALUES (2151, 215, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1212, 216, 20);
+VALUES (2151, 215, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1221, 216, 21);
+VALUES (2151, 215, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1221, 216, 22);
+VALUES (2151, 215, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1769, 216, 23);
+VALUES (2151, 215, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1769, 216, 24);
+VALUES (2162, 216, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1903, 216, 25);
+VALUES (2162, 216, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1903, 216, 26);
+VALUES (2162, 216, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1903, 216, 27);
+VALUES (2162, 216, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1791, 217, 1);
+VALUES (2161, 216, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (240, 217, 13);
+VALUES (2161, 216, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (240, 217, 14);
+VALUES (2161, 216, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (289, 217, 15);
+VALUES (2161, 216, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (289, 217, 16);
+VALUES (2161, 216, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (293, 217, 17);
+VALUES (2161, 216, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (293, 217, 18);
+VALUES (2171, 217, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (429, 217, 19);
+VALUES (2171, 217, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (429, 217, 20);
+VALUES (2171, 217, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (707, 217, 21);
+VALUES (2171, 217, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (707, 217, 22);
+VALUES (2171, 217, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1937, 217, 23);
+VALUES (2171, 217, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1937, 217, 24);
+VALUES (2171, 217, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (647, 218, 1);
+VALUES (2171, 217, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (647, 218, 2);
+VALUES (2171, 217, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (647, 218, 3);
+VALUES (2171, 217, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (751, 218, 13);
+VALUES (2171, 217, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1022, 218, 14);
+VALUES (2171, 217, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1194, 218, 15);
+VALUES (2171, 217, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1194, 218, 16);
+VALUES (2171, 217, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1343, 218, 17);
+VALUES (2171, 217, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1343, 218, 18);
+VALUES (2182, 218, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1502, 218, 19);
+VALUES (2182, 218, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1502, 218, 20);
+VALUES (2182, 218, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1757, 218, 21);
+VALUES (2182, 218, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1757, 218, 22);
+VALUES (2181, 218, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1757, 218, 23);
+VALUES (2181, 218, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1759, 218, 24);
+VALUES (2181, 218, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1759, 218, 25);
+VALUES (2181, 218, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1759, 218, 26);
+VALUES (2181, 218, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1781, 218, 27);
+VALUES (2181, 218, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1781, 218, 28);
+VALUES (2181, 218, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (829, 219, 1);
+VALUES (2181, 218, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (829, 219, 2);
+VALUES (2181, 218, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (829, 219, 3);
+VALUES (2181, 218, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (966, 219, 4);
+VALUES (2181, 218, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (966, 219, 5);
+VALUES (2191, 219, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1160, 219, 6);
+VALUES (2191, 219, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (66, 219, 13);
+VALUES (2191, 219, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (66, 219, 14);
+VALUES (2191, 219, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (598, 219, 15);
+VALUES (2191, 219, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (598, 219, 16);
+VALUES (2191, 219, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1223, 219, 17);
+VALUES (2191, 219, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1223, 219, 18);
+VALUES (2191, 219, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1225, 219, 19);
+VALUES (2202, 220, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1340, 219, 20);
+VALUES (2202, 220, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1340, 219, 21);
+VALUES (2202, 220, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (231, 220, 13);
+VALUES (2202, 220, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (231, 220, 14);
+VALUES (2202, 220, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (610, 220, 15);
+VALUES (2202, 220, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (610, 220, 16);
+VALUES (2202, 220, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1623, 220, 17);
+VALUES (2202, 220, 8);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1623, 220, 18);
+VALUES (2201, 220, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (17, 221, 13);
+VALUES (2201, 220, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (31, 221, 14);
+VALUES (2201, 220, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (31, 221, 15);
+VALUES (2201, 220, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (31, 221, 16);
+VALUES (2201, 220, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (374, 221, 17);
+VALUES (2201, 220, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (374, 221, 18);
+VALUES (2201, 220, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (928, 221, 19);
+VALUES (2201, 220, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (928, 221, 20);
+VALUES (2201, 220, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (977, 221, 21);
+VALUES (2201, 220, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (977, 221, 22);
+VALUES (2201, 220, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (977, 221, 23);
+VALUES (2212, 221, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1065, 221, 24);
+VALUES (2212, 221, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1065, 221, 25);
+VALUES (2211, 221, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1088, 221, 26);
+VALUES (2211, 221, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1088, 221, 27);
+VALUES (2211, 221, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1088, 221, 28);
+VALUES (2211, 221, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1299, 221, 29);
+VALUES (2211, 221, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1299, 221, 30);
+VALUES (2211, 221, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1858, 221, 31);
+VALUES (2211, 221, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1390, 222, 1);
+VALUES (2211, 221, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1390, 222, 2);
+VALUES (2211, 221, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1390, 222, 3);
+VALUES (2222, 222, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (139, 222, 13);
+VALUES (2222, 222, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (139, 222, 14);
+VALUES (2222, 222, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (408, 222, 15);
+VALUES (2222, 222, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (408, 222, 16);
+VALUES (2222, 222, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (575, 222, 17);
+VALUES (2222, 222, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (575, 222, 18);
+VALUES (2222, 222, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (685, 222, 19);
+VALUES (2221, 222, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (685, 222, 20);
+VALUES (2221, 222, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1322, 222, 21);
+VALUES (2221, 222, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1322, 222, 22);
+VALUES (2221, 222, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1426, 222, 23);
+VALUES (2221, 222, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1426, 222, 24);
+VALUES (2221, 222, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (512, 223, 13);
+VALUES (2221, 222, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (795, 223, 14);
+VALUES (2221, 222, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (810, 223, 15);
+VALUES (2231, 223, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (810, 223, 16);
+VALUES (2231, 223, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1158, 223, 17);
+VALUES (2231, 223, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1158, 223, 18);
+VALUES (2231, 223, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1158, 223, 19);
+VALUES (2231, 223, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1270, 223, 20);
+VALUES (2242, 224, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1270, 223, 21);
+VALUES (2242, 224, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (152, 224, 13);
+VALUES (2242, 224, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (152, 224, 14);
+VALUES (2241, 224, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (152, 224, 15);
+VALUES (2241, 224, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (176, 224, 16);
+VALUES (2241, 224, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (176, 224, 17);
+VALUES (2241, 224, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (176, 224, 18);
+VALUES (2241, 224, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (721, 224, 19);
+VALUES (2241, 224, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (721, 224, 20);
+VALUES (2241, 224, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (721, 224, 21);
+VALUES (2241, 224, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (924, 224, 22);
+VALUES (2241, 224, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (924, 224, 23);
+VALUES (2241, 224, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1690, 224, 24);
+VALUES (2241, 224, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1948, 224, 25);
+VALUES (2252, 225, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1948, 224, 26);
+VALUES (2252, 225, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1948, 224, 27);
+VALUES (2261, 226, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1978, 224, 28);
+VALUES (2261, 226, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1978, 224, 29);
+VALUES (2261, 226, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1978, 224, 30);
+VALUES (2261, 226, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1434, 225, 1);
+VALUES (2261, 226, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1762, 225, 2);
+VALUES (2261, 226, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1762, 225, 3);
+VALUES (2261, 226, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (12, 225, 13);
+VALUES (2261, 226, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (12, 225, 14);
+VALUES (2261, 226, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (451, 225, 15);
+VALUES (2261, 226, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (451, 225, 16);
+VALUES (2261, 226, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (494, 225, 17);
+VALUES (2261, 226, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (494, 225, 18);
+VALUES (2261, 226, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (3, 226, 1);
+VALUES (2272, 227, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (3, 226, 2);
+VALUES (2272, 227, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1818, 226, 3);
+VALUES (2272, 227, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1818, 226, 4);
+VALUES (2271, 227, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1818, 226, 5);
+VALUES (2271, 227, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (380, 226, 13);
+VALUES (2271, 227, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (380, 226, 14);
+VALUES (2271, 227, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (380, 226, 15);
+VALUES (2271, 227, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (563, 226, 16);
+VALUES (2271, 227, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (563, 226, 17);
+VALUES (2281, 228, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (115, 227, 13);
+VALUES (2281, 228, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (115, 227, 14);
+VALUES (2281, 228, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (392, 227, 15);
+VALUES (2281, 228, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (884, 227, 16);
+VALUES (2281, 228, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (884, 227, 17);
+VALUES (2281, 228, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (884, 227, 18);
+VALUES (2292, 229, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (339, 228, 1);
+VALUES (2292, 229, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (339, 228, 2);
+VALUES (2292, 229, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (339, 228, 3);
+VALUES (2292, 229, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (862, 228, 4);
+VALUES (2292, 229, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (862, 228, 5);
+VALUES (2292, 229, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1488, 228, 6);
+VALUES (2291, 229, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (128, 228, 13);
+VALUES (2291, 229, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (128, 228, 14);
+VALUES (2291, 229, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (128, 228, 15);
+VALUES (2291, 229, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (182, 228, 16);
+VALUES (2291, 229, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (182, 228, 17);
+VALUES (2302, 230, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (302, 228, 18);
+VALUES (2302, 230, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (302, 228, 19);
+VALUES (2302, 230, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1479, 228, 20);
+VALUES (2302, 230, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1479, 228, 21);
+VALUES (2302, 230, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1539, 228, 22);
+VALUES (2301, 230, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1539, 228, 23);
+VALUES (2301, 230, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1582, 228, 24);
+VALUES (2301, 230, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1582, 228, 25);
+VALUES (2301, 230, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1582, 228, 26);
+VALUES (2301, 230, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1868, 228, 27);
+VALUES (2301, 230, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1868, 228, 28);
+VALUES (2301, 230, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1897, 228, 29);
+VALUES (2301, 230, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1897, 228, 30);
+VALUES (2301, 230, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (656, 229, 13);
+VALUES (2301, 230, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (656, 229, 14);
+VALUES (2301, 230, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (656, 229, 15);
+VALUES (2301, 230, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1297, 229, 16);
+VALUES (2301, 230, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1117, 230, 1);
+VALUES (2301, 230, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1117, 230, 2);
+VALUES (2301, 230, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (74, 230, 13);
+VALUES (2301, 230, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (74, 230, 14);
+VALUES (2301, 230, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (192, 230, 15);
+VALUES (2301, 230, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (192, 230, 16);
+VALUES (2301, 230, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1174, 230, 17);
+VALUES (2301, 230, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1174, 230, 18);
+VALUES (2312, 231, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1452, 230, 19);
+VALUES (2312, 231, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1452, 230, 20);
+VALUES (2312, 231, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (521, 231, 1);
+VALUES (2312, 231, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (521, 231, 2);
+VALUES (2312, 231, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1043, 231, 3);
+VALUES (2312, 231, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1043, 231, 4);
+VALUES (2312, 231, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1043, 231, 5);
+VALUES (2312, 231, 8);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1921, 231, 6);
+VALUES (2312, 231, 9);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (55, 231, 13);
+VALUES (2312, 231, 10);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (55, 231, 14);
+VALUES (2312, 231, 11);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (873, 231, 15);
+VALUES (2312, 231, 12);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (873, 231, 16);
+VALUES (2312, 231, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1123, 231, 17);
+VALUES (2312, 231, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1123, 231, 18);
+VALUES (2311, 231, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1123, 231, 19);
+VALUES (2321, 232, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1130, 231, 20);
+VALUES (2321, 232, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1130, 231, 21);
+VALUES (2321, 232, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1184, 231, 22);
+VALUES (2321, 232, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1184, 231, 23);
+VALUES (2321, 232, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1195, 231, 24);
+VALUES (2321, 232, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1195, 231, 25);
+VALUES (2321, 232, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1195, 231, 26);
+VALUES (2321, 232, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1222, 231, 27);
+VALUES (2321, 232, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1222, 231, 28);
+VALUES (2321, 232, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1278, 231, 29);
+VALUES (2321, 232, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1278, 231, 30);
+VALUES (2321, 232, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1626, 231, 31);
+VALUES (2331, 233, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1626, 231, 32);
+VALUES (2331, 233, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1865, 231, 33);
+VALUES (2331, 233, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1865, 231, 34);
+VALUES (2331, 233, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (119, 232, 13);
+VALUES (2331, 233, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (127, 232, 14);
+VALUES (2331, 233, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (127, 232, 15);
+VALUES (2331, 233, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (175, 232, 16);
+VALUES (2342, 234, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (175, 232, 17);
+VALUES (2342, 234, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (175, 232, 18);
+VALUES (2342, 234, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (389, 232, 19);
+VALUES (2342, 234, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (389, 232, 20);
+VALUES (2341, 234, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (389, 232, 21);
+VALUES (2341, 234, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (621, 232, 22);
+VALUES (2341, 234, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (673, 232, 23);
+VALUES (2341, 234, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (673, 232, 24);
+VALUES (2341, 234, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (785, 232, 25);
+VALUES (2341, 234, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1242, 232, 26);
+VALUES (2341, 234, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1242, 232, 27);
+VALUES (2341, 234, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1242, 232, 28);
+VALUES (2341, 234, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1443, 232, 29);
+VALUES (2341, 234, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1443, 232, 30);
+VALUES (2341, 234, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1555, 232, 31);
+VALUES (2341, 234, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1555, 232, 32);
+VALUES (2341, 234, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1777, 232, 33);
+VALUES (2341, 234, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1777, 232, 34);
+VALUES (2341, 234, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (217, 233, 13);
+VALUES (2341, 234, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (298, 233, 14);
+VALUES (2341, 234, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (298, 233, 15);
+VALUES (2341, 234, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (847, 233, 16);
+VALUES (2341, 234, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (874, 233, 17);
+VALUES (2341, 234, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (874, 233, 18);
+VALUES (2341, 234, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (895, 233, 19);
+VALUES (2351, 235, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (895, 233, 20);
+VALUES (2351, 235, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1039, 233, 21);
+VALUES (2351, 235, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1039, 233, 22);
+VALUES (2351, 235, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1039, 233, 23);
+VALUES (2351, 235, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1235, 233, 24);
+VALUES (2351, 235, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1235, 233, 25);
+VALUES (2351, 235, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (308, 234, 1);
+VALUES (2351, 235, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (308, 234, 2);
+VALUES (2351, 235, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (513, 234, 3);
+VALUES (2351, 235, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (513, 234, 4);
+VALUES (2351, 235, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (513, 234, 5);
+VALUES (2351, 235, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1401, 234, 6);
+VALUES (2351, 235, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1401, 234, 7);
+VALUES (2351, 235, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1401, 234, 8);
+VALUES (2351, 235, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (359, 234, 13);
+VALUES (2351, 235, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (359, 234, 14);
+VALUES (2362, 236, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (359, 234, 15);
+VALUES (2362, 236, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (583, 234, 16);
+VALUES (2362, 236, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (583, 234, 17);
+VALUES (2362, 236, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (620, 234, 18);
+VALUES (2362, 236, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (620, 234, 19);
+VALUES (2362, 236, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (642, 234, 20);
+VALUES (2361, 236, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (642, 234, 21);
+VALUES (2361, 236, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (764, 234, 22);
+VALUES (2361, 236, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (875, 234, 23);
+VALUES (2361, 236, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1192, 234, 24);
+VALUES (2361, 236, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1192, 234, 25);
+VALUES (2361, 236, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1192, 234, 26);
+VALUES (2361, 236, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1202, 234, 27);
+VALUES (2361, 236, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1202, 234, 28);
+VALUES (2361, 236, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1252, 234, 29);
+VALUES (2361, 236, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1252, 234, 30);
+VALUES (2372, 237, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1766, 234, 31);
+VALUES (2372, 237, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1766, 234, 32);
+VALUES (2372, 237, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1803, 234, 33);
+VALUES (2372, 237, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1803, 234, 34);
+VALUES (2372, 237, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1846, 234, 35);
+VALUES (2372, 237, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (285, 235, 13);
+VALUES (2371, 237, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (361, 235, 14);
+VALUES (2371, 237, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (361, 235, 15);
+VALUES (2371, 237, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1542, 235, 16);
+VALUES (2371, 237, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1688, 235, 17);
+VALUES (2371, 237, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1966, 235, 18);
+VALUES (2371, 237, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1966, 235, 19);
+VALUES (2371, 237, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1966, 235, 20);
+VALUES (2371, 237, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (546, 236, 13);
+VALUES (2371, 237, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (546, 236, 14);
+VALUES (2371, 237, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (786, 236, 15);
+VALUES (2371, 237, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (859, 236, 16);
+VALUES (2382, 238, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1171, 236, 17);
+VALUES (2382, 238, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1171, 236, 18);
+VALUES (2382, 238, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1453, 236, 19);
+VALUES (2382, 238, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1453, 236, 20);
+VALUES (2381, 238, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1802, 236, 21);
+VALUES (2381, 238, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1802, 236, 22);
+VALUES (2381, 238, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (743, 237, 1);
+VALUES (2381, 238, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (743, 237, 2);
+VALUES (2381, 238, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (743, 237, 3);
+VALUES (2381, 238, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1365, 237, 4);
+VALUES (2381, 238, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1365, 237, 5);
+VALUES (2381, 238, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1814, 237, 6);
+VALUES (2381, 238, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1814, 237, 7);
+VALUES (2392, 239, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1814, 237, 8);
+VALUES (2392, 239, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (405, 237, 13);
+VALUES (2391, 239, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (907, 237, 14);
+VALUES (2391, 239, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (907, 237, 15);
+VALUES (2391, 239, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (107, 238, 1);
+VALUES (2391, 239, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (482, 238, 2);
+VALUES (2391, 239, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (482, 238, 3);
+VALUES (2391, 239, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (482, 238, 4);
+VALUES (2391, 239, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (102, 238, 13);
+VALUES (2391, 239, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (368, 238, 14);
+VALUES (2402, 240, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (675, 238, 15);
+VALUES (2401, 240, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (675, 238, 16);
+VALUES (2401, 240, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (675, 238, 17);
+VALUES (2401, 240, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (690, 238, 18);
+VALUES (2401, 240, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1356, 238, 19);
+VALUES (2401, 240, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1356, 238, 20);
+VALUES (2401, 240, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1356, 238, 21);
+VALUES (2412, 241, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1892, 238, 22);
+VALUES (2412, 241, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1892, 238, 23);
+VALUES (2412, 241, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1027, 239, 13);
+VALUES (2412, 241, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1027, 239, 14);
+VALUES (2411, 241, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1268, 239, 15);
+VALUES (2411, 241, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1268, 239, 16);
+VALUES (2411, 241, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1381, 239, 17);
+VALUES (2411, 241, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1639, 239, 18);
+VALUES (2411, 241, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1674, 239, 19);
+VALUES (2411, 241, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1674, 239, 20);
+VALUES (2411, 241, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (472, 240, 1);
+VALUES (2411, 241, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (472, 240, 2);
+VALUES (2422, 242, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1985, 240, 3);
+VALUES (2422, 242, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1985, 240, 4);
+VALUES (2421, 242, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1263, 240, 13);
+VALUES (2421, 242, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1263, 240, 14);
+VALUES (2421, 242, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1594, 240, 15);
+VALUES (2421, 242, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1594, 240, 16);
+VALUES (2421, 242, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1788, 240, 17);
+VALUES (2421, 242, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (450, 241, 1);
+VALUES (2421, 242, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (450, 241, 2);
+VALUES (2421, 242, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (450, 241, 3);
+VALUES (2431, 243, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (425, 241, 13);
+VALUES (2431, 243, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (425, 241, 14);
+VALUES (2431, 243, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (425, 241, 15);
+VALUES (2431, 243, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (757, 241, 16);
+VALUES (2431, 243, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (757, 241, 17);
+VALUES (2431, 243, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1285, 241, 18);
+VALUES (2431, 243, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1285, 241, 19);
+VALUES (2431, 243, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1355, 241, 20);
+VALUES (2431, 243, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1945, 241, 21);
+VALUES (2431, 243, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1945, 241, 22);
+VALUES (2431, 243, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1945, 241, 23);
+VALUES (2431, 243, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (574, 242, 1);
+VALUES (2431, 243, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (574, 242, 2);
+VALUES (2431, 243, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (574, 242, 3);
+VALUES (2442, 244, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (281, 242, 13);
+VALUES (2442, 244, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (281, 242, 14);
+VALUES (2442, 244, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (281, 242, 15);
+VALUES (2442, 244, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (547, 242, 16);
+VALUES (2442, 244, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (547, 242, 17);
+VALUES (2441, 244, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (547, 242, 18);
+VALUES (2441, 244, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1145, 242, 19);
+VALUES (2441, 244, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1145, 242, 20);
+VALUES (2441, 244, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1526, 242, 21);
+VALUES (2441, 244, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1526, 242, 22);
+VALUES (2441, 244, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1691, 242, 23);
+VALUES (2441, 244, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1973, 242, 24);
+VALUES (2441, 244, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (616, 243, 13);
+VALUES (2441, 244, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (616, 243, 14);
+VALUES (2441, 244, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (698, 243, 15);
+VALUES (2441, 244, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (698, 243, 16);
+VALUES (2452, 245, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (698, 243, 17);
+VALUES (2452, 245, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1210, 243, 18);
+VALUES (2452, 245, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1210, 243, 19);
+VALUES (2452, 245, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1210, 243, 20);
+VALUES (2452, 245, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1388, 243, 21);
+VALUES (2452, 245, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1388, 243, 22);
+VALUES (2452, 245, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1463, 243, 23);
+VALUES (2452, 245, 8);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1927, 243, 24);
+VALUES (2452, 245, 9);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1927, 243, 25);
+VALUES (2452, 245, 10);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (439, 244, 1);
+VALUES (2452, 245, 11);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (439, 244, 2);
+VALUES (2451, 245, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1569, 244, 3);
+VALUES (2451, 245, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (568, 244, 13);
+VALUES (2451, 245, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (867, 244, 14);
+VALUES (2451, 245, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (867, 244, 15);
+VALUES (2451, 245, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (867, 244, 16);
+VALUES (2451, 245, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1785, 244, 17);
+VALUES (2451, 245, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (89, 245, 13);
+VALUES (2451, 245, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (106, 245, 14);
+VALUES (2462, 246, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (106, 245, 15);
+VALUES (2462, 246, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (209, 245, 16);
+VALUES (2462, 246, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (209, 245, 17);
+VALUES (2462, 246, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (295, 245, 18);
+VALUES (2462, 246, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (295, 245, 19);
+VALUES (2462, 246, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (295, 245, 20);
+VALUES (2462, 246, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (683, 245, 21);
+VALUES (2462, 246, 8);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (683, 245, 22);
+VALUES (2462, 246, 9);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (980, 245, 23);
+VALUES (2461, 246, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1138, 245, 24);
+VALUES (2461, 246, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1138, 245, 25);
+VALUES (2461, 246, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1358, 245, 26);
+VALUES (2461, 246, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1358, 245, 27);
+VALUES (2461, 246, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (52, 246, 1);
+VALUES (2471, 247, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (52, 246, 2);
+VALUES (2471, 247, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (189, 246, 13);
+VALUES (2471, 247, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (189, 246, 14);
+VALUES (2471, 247, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1159, 246, 15);
+VALUES (2471, 247, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1159, 246, 16);
+VALUES (2471, 247, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1159, 246, 17);
+VALUES (2471, 247, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1592, 246, 18);
+VALUES (2471, 247, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1592, 246, 19);
+VALUES (2482, 248, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1675, 246, 20);
+VALUES (2481, 248, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1675, 246, 21);
+VALUES (2481, 248, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1787, 246, 22);
+VALUES (2481, 248, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1888, 246, 23);
+VALUES (2481, 248, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1888, 246, 24);
+VALUES (2481, 248, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1888, 246, 25);
+VALUES (2481, 248, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (800, 247, 13);
+VALUES (2492, 249, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (800, 247, 14);
+VALUES (2492, 249, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (800, 247, 15);
+VALUES (2491, 249, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (932, 247, 16);
+VALUES (2491, 249, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1181, 247, 17);
+VALUES (2491, 249, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1181, 247, 18);
+VALUES (2491, 249, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1896, 247, 19);
+VALUES (2491, 249, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1896, 247, 20);
+VALUES (2491, 249, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (2, 248, 13);
+VALUES (2491, 249, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (2, 248, 14);
+VALUES (2502, 250, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (38, 248, 15);
+VALUES (2502, 250, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (38, 248, 16);
+VALUES (2501, 250, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (54, 248, 17);
+VALUES (2501, 250, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (54, 248, 18);
+VALUES (2501, 250, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (305, 248, 19);
+VALUES (2501, 250, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (305, 248, 20);
+VALUES (2501, 250, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (649, 248, 21);
+VALUES (2512, 251, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (649, 248, 22);
+VALUES (2512, 251, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (863, 248, 23);
+VALUES (2511, 251, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (863, 248, 24);
+VALUES (2511, 251, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (863, 248, 25);
+VALUES (2511, 251, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1180, 248, 26);
+VALUES (2511, 251, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1986, 248, 27);
+VALUES (2511, 251, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1986, 248, 28);
+VALUES (2511, 251, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (522, 249, 13);
+VALUES (2521, 252, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (522, 249, 14);
+VALUES (2521, 252, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (522, 249, 15);
+VALUES (2521, 252, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (659, 249, 16);
+VALUES (2521, 252, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (659, 249, 17);
+VALUES (2521, 252, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1035, 249, 18);
+VALUES (2521, 252, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1617, 249, 19);
+VALUES (2521, 252, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1783, 249, 20);
+VALUES (2521, 252, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1783, 249, 21);
+VALUES (2521, 252, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1783, 249, 22);
+VALUES (2531, 253, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (166, 250, 13);
+VALUES (2531, 253, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (662, 250, 14);
+VALUES (2531, 253, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (662, 250, 15);
+VALUES (2531, 253, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1811, 250, 16);
+VALUES (2531, 253, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1811, 250, 17);
+VALUES (2531, 253, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1850, 250, 18);
+VALUES (2531, 253, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1995, 250, 19);
+VALUES (2542, 254, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1308, 251, 1);
+VALUES (2542, 254, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1308, 251, 2);
+VALUES (2542, 254, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1817, 251, 3);
+VALUES (2542, 254, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1817, 251, 4);
+VALUES (2541, 254, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (9, 251, 13);
+VALUES (2541, 254, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (9, 251, 14);
+VALUES (2541, 254, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (9, 251, 15);
+VALUES (2541, 254, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (265, 251, 16);
+VALUES (2541, 254, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (265, 251, 17);
+VALUES (2541, 254, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (644, 251, 18);
+VALUES (2541, 254, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (644, 251, 19);
+VALUES (2541, 254, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (848, 251, 20);
+VALUES (2541, 254, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (848, 251, 21);
+VALUES (2541, 254, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (848, 251, 22);
+VALUES (2541, 254, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1014, 251, 23);
+VALUES (2541, 254, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1245, 251, 24);
+VALUES (2552, 255, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1245, 251, 25);
+VALUES (2551, 255, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1245, 251, 26);
+VALUES (2551, 255, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1319, 251, 27);
+VALUES (2551, 255, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (86, 252, 13);
+VALUES (2562, 256, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (86, 252, 14);
+VALUES (2561, 256, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (823, 252, 15);
+VALUES (2561, 256, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (890, 252, 16);
+VALUES (2561, 256, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (890, 252, 17);
+VALUES (2561, 256, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (890, 252, 18);
+VALUES (2561, 256, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1277, 252, 19);
+VALUES (2561, 256, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1824, 252, 20);
+VALUES (2561, 256, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1824, 252, 21);
+VALUES (2561, 256, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1833, 252, 22);
+VALUES (2561, 256, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1833, 252, 23);
+VALUES (2561, 256, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1543, 253, 1);
+VALUES (2561, 256, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1543, 253, 2);
+VALUES (2561, 256, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (358, 253, 13);
+VALUES (2561, 256, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (358, 253, 14);
+VALUES (2561, 256, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (384, 253, 15);
+VALUES (2561, 256, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (384, 253, 16);
+VALUES (2561, 256, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1168, 253, 17);
+VALUES (2561, 256, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1168, 253, 18);
+VALUES (2572, 257, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1796, 253, 19);
+VALUES (2572, 257, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (11, 254, 1);
+VALUES (2571, 257, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1700, 254, 2);
+VALUES (2571, 257, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1700, 254, 3);
+VALUES (2571, 257, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (29, 254, 13);
+VALUES (2571, 257, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (29, 254, 14);
+VALUES (2571, 257, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (29, 254, 15);
+VALUES (2571, 257, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (608, 254, 16);
+VALUES (2571, 257, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (608, 254, 17);
+VALUES (2571, 257, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1078, 254, 18);
+VALUES (2571, 257, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1078, 254, 19);
+VALUES (2581, 258, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1078, 254, 20);
+VALUES (2581, 258, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (172, 255, 1);
+VALUES (2581, 258, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (172, 255, 2);
+VALUES (2581, 258, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1969, 255, 3);
+VALUES (2581, 258, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1969, 255, 4);
+VALUES (2581, 258, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (458, 255, 13);
+VALUES (2581, 258, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (458, 255, 14);
+VALUES (2581, 258, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (458, 255, 15);
+VALUES (2581, 258, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1018, 255, 16);
+VALUES (2592, 259, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1018, 255, 17);
+VALUES (2592, 259, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1442, 255, 18);
+VALUES (2592, 259, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1442, 255, 19);
+VALUES (2591, 259, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1442, 255, 20);
+VALUES (2591, 259, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1637, 256, 1);
+VALUES (2591, 259, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1637, 256, 2);
+VALUES (2591, 259, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (288, 256, 13);
+VALUES (2591, 259, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (288, 256, 14);
+VALUES (2591, 259, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (691, 256, 15);
+VALUES (2601, 260, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (691, 256, 16);
+VALUES (2601, 260, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1468, 256, 17);
+VALUES (2601, 260, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1468, 256, 18);
+VALUES (2601, 260, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1468, 256, 19);
+VALUES (2601, 260, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1936, 256, 20);
+VALUES (2601, 260, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1936, 256, 21);
+VALUES (2601, 260, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1745, 257, 1);
+VALUES (2611, 261, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1745, 257, 2);
+VALUES (2611, 261, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (631, 257, 13);
+VALUES (2611, 261, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (631, 257, 14);
+VALUES (2611, 261, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (789, 257, 15);
+VALUES (2611, 261, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (789, 257, 16);
+VALUES (2611, 261, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (789, 257, 17);
+VALUES (2611, 261, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (996, 257, 18);
+VALUES (2611, 261, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (996, 257, 19);
+VALUES (2622, 262, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1112, 257, 20);
+VALUES (2622, 262, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1112, 257, 21);
+VALUES (2622, 262, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (188, 258, 1);
+VALUES (2622, 262, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (188, 258, 2);
+VALUES (2622, 262, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (188, 258, 3);
+VALUES (2622, 262, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (216, 258, 4);
+VALUES (2621, 262, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (216, 258, 5);
+VALUES (2621, 262, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (165, 258, 13);
+VALUES (2621, 262, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (165, 258, 14);
+VALUES (2621, 262, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1020, 258, 15);
+VALUES (2621, 262, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1489, 258, 16);
+VALUES (2621, 262, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1704, 258, 17);
+VALUES (2621, 262, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1704, 258, 18);
+VALUES (2621, 262, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (286, 259, 1);
+VALUES (2621, 262, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (286, 259, 2);
+VALUES (2621, 262, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1768, 259, 3);
+VALUES (2621, 262, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1768, 259, 4);
+VALUES (2621, 262, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1768, 259, 5);
+VALUES (2632, 263, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (147, 259, 13);
+VALUES (2632, 263, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (147, 259, 14);
+VALUES (2632, 263, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (261, 259, 15);
+VALUES (2632, 263, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (261, 259, 16);
+VALUES (2631, 263, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (261, 259, 17);
+VALUES (2631, 263, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (871, 259, 18);
+VALUES (2631, 263, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (871, 259, 19);
+VALUES (2631, 263, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1004, 259, 20);
+VALUES (2631, 263, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1004, 259, 21);
+VALUES (2631, 263, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1556, 259, 22);
+VALUES (2631, 263, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1556, 259, 23);
+VALUES (2631, 263, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1819, 259, 24);
+VALUES (2631, 263, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1819, 259, 25);
+VALUES (2631, 263, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1169, 260, 1);
+VALUES (2631, 263, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (154, 260, 13);
+VALUES (2631, 263, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (154, 260, 14);
+VALUES (2631, 263, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (154, 260, 15);
+VALUES (2631, 263, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (446, 260, 16);
+VALUES (2631, 263, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (446, 260, 17);
+VALUES (2631, 263, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (446, 260, 18);
+VALUES (2631, 263, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1295, 260, 19);
+VALUES (2631, 263, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1559, 260, 20);
+VALUES (2631, 263, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1559, 260, 21);
+VALUES (2631, 263, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1559, 260, 22);
+VALUES (2642, 264, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1863, 260, 23);
+VALUES (2641, 264, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (162, 261, 1);
+VALUES (2641, 264, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (162, 261, 2);
+VALUES (2641, 264, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (987, 261, 3);
+VALUES (2641, 264, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (987, 261, 4);
+VALUES (2641, 264, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (987, 261, 5);
+VALUES (2641, 264, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1705, 261, 6);
+VALUES (2641, 264, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1705, 261, 7);
+VALUES (2641, 264, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1705, 261, 8);
+VALUES (2641, 264, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (849, 261, 13);
+VALUES (2641, 264, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1911, 261, 14);
+VALUES (2641, 264, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1911, 261, 15);
+VALUES (2641, 264, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1911, 261, 16);
+VALUES (2641, 264, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (271, 262, 13);
+VALUES (2641, 264, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (271, 262, 14);
+VALUES (2641, 264, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (648, 262, 15);
+VALUES (2652, 265, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1852, 262, 16);
+VALUES (2651, 265, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1852, 262, 17);
+VALUES (2651, 265, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (57, 263, 1);
+VALUES (2651, 265, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (57, 263, 2);
+VALUES (2651, 265, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (734, 263, 3);
+VALUES (2651, 265, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (734, 263, 4);
+VALUES (2651, 265, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (143, 263, 13);
+VALUES (2651, 265, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (143, 263, 14);
+VALUES (2651, 265, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (143, 263, 15);
+VALUES (2651, 265, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (413, 263, 16);
+VALUES (2651, 265, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (413, 263, 17);
+VALUES (2651, 265, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (413, 263, 18);
+VALUES (2651, 265, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (585, 263, 19);
+VALUES (2651, 265, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (585, 263, 20);
+VALUES (2651, 265, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1997, 263, 21);
+VALUES (2651, 265, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (204, 264, 1);
+VALUES (2661, 266, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (204, 264, 2);
+VALUES (2661, 266, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (495, 264, 3);
+VALUES (2661, 266, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1066, 264, 4);
+VALUES (2661, 266, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1066, 264, 5);
+VALUES (2661, 266, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1066, 264, 6);
+VALUES (2661, 266, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1155, 264, 7);
+VALUES (2661, 266, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1155, 264, 8);
+VALUES (2661, 266, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1155, 264, 9);
+VALUES (2661, 266, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (283, 264, 13);
+VALUES (2661, 266, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (283, 264, 14);
+VALUES (2661, 266, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (283, 264, 15);
+VALUES (2661, 266, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (407, 264, 16);
+VALUES (2661, 266, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (437, 264, 17);
+VALUES (2661, 266, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (562, 264, 18);
+VALUES (2672, 267, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (618, 264, 19);
+VALUES (2672, 267, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (618, 264, 20);
+VALUES (2672, 267, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1037, 264, 21);
+VALUES (2671, 267, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1037, 264, 22);
+VALUES (2671, 267, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1685, 264, 23);
+VALUES (2671, 267, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1701, 264, 24);
+VALUES (2671, 267, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1981, 264, 25);
+VALUES (2671, 267, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1981, 264, 26);
+VALUES (2671, 267, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (155, 265, 13);
+VALUES (2671, 267, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (155, 265, 14);
+VALUES (2671, 267, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (762, 265, 15);
+VALUES (2671, 267, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (762, 265, 16);
+VALUES (2671, 267, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (963, 265, 17);
+VALUES (2671, 267, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (963, 265, 18);
+VALUES (2671, 267, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (963, 265, 19);
+VALUES (2671, 267, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1528, 265, 20);
+VALUES (2671, 267, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1528, 265, 21);
+VALUES (2671, 267, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1528, 265, 22);
+VALUES (2671, 267, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1743, 265, 23);
+VALUES (2671, 267, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1743, 265, 24);
+VALUES (2671, 267, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1031, 266, 1);
+VALUES (2671, 267, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1031, 266, 2);
+VALUES (2682, 268, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (708, 266, 13);
+VALUES (2681, 268, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (708, 266, 14);
+VALUES (2681, 268, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (708, 266, 15);
+VALUES (2681, 268, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1655, 266, 16);
+VALUES (2681, 268, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1655, 266, 17);
+VALUES (2681, 268, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1655, 266, 18);
+VALUES (2681, 268, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1667, 266, 19);
+VALUES (2681, 268, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1667, 266, 20);
+VALUES (2681, 268, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1724, 266, 21);
+VALUES (2681, 268, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1724, 266, 22);
+VALUES (2681, 268, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1747, 266, 23);
+VALUES (2681, 268, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1806, 266, 24);
+VALUES (2681, 268, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1806, 266, 25);
+VALUES (2681, 268, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1806, 266, 26);
+VALUES (2692, 269, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1962, 266, 27);
+VALUES (2692, 269, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (83, 267, 1);
+VALUES (2691, 269, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (83, 267, 2);
+VALUES (2691, 269, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (83, 267, 3);
+VALUES (2691, 269, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (263, 267, 13);
+VALUES (2701, 270, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (292, 267, 14);
+VALUES (2701, 270, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (353, 267, 15);
+VALUES (2701, 270, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (353, 267, 16);
+VALUES (2701, 270, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1303, 267, 17);
+VALUES (2701, 270, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1303, 267, 18);
+VALUES (2712, 271, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1371, 267, 19);
+VALUES (2712, 271, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1371, 267, 20);
+VALUES (2712, 271, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1371, 267, 21);
+VALUES (2712, 271, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1376, 268, 1);
+VALUES (2712, 271, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1376, 268, 2);
+VALUES (2712, 271, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1376, 268, 3);
+VALUES (2712, 271, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1601, 269, 1);
+VALUES (2711, 271, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1601, 269, 2);
+VALUES (2711, 271, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1601, 269, 3);
+VALUES (2711, 271, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1125, 269, 13);
+VALUES (2711, 271, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1538, 269, 14);
+VALUES (2711, 271, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1538, 269, 15);
+VALUES (2711, 271, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (241, 270, 13);
+VALUES (2711, 271, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (369, 270, 14);
+VALUES (2711, 271, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (369, 270, 15);
+VALUES (2711, 271, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (369, 270, 16);
+VALUES (2711, 271, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (927, 270, 17);
+VALUES (2711, 271, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (927, 270, 18);
+VALUES (2711, 271, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (969, 270, 19);
+VALUES (2711, 271, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (969, 270, 20);
+VALUES (2711, 271, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (969, 270, 21);
+VALUES (2711, 271, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (972, 271, 1);
+VALUES (2711, 271, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (972, 271, 2);
+VALUES (2711, 271, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (972, 271, 3);
+VALUES (2711, 271, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1733, 271, 4);
+VALUES (2711, 271, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1733, 271, 5);
+VALUES (2711, 271, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1895, 271, 6);
+VALUES (2711, 271, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (130, 271, 13);
+VALUES (2722, 272, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (670, 271, 14);
+VALUES (2722, 272, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (803, 271, 15);
+VALUES (2722, 272, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (803, 271, 16);
+VALUES (2722, 272, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1085, 271, 17);
+VALUES (2722, 272, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1085, 271, 18);
+VALUES (2721, 272, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1085, 271, 19);
+VALUES (2721, 272, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1389, 271, 20);
+VALUES (2721, 272, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1389, 271, 21);
+VALUES (2721, 272, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (594, 272, 1);
+VALUES (2721, 272, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (594, 272, 2);
+VALUES (2721, 272, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (705, 272, 3);
+VALUES (2721, 272, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (705, 272, 4);
+VALUES (2721, 272, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1326, 272, 5);
+VALUES (2721, 272, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1326, 272, 6);
+VALUES (2721, 272, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1364, 272, 7);
+VALUES (2721, 272, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1364, 272, 8);
+VALUES (2721, 272, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1364, 272, 9);
+VALUES (2721, 272, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (206, 272, 13);
+VALUES (2721, 272, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (206, 272, 14);
+VALUES (2732, 273, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (230, 272, 15);
+VALUES (2732, 273, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (230, 272, 16);
+VALUES (2732, 273, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (230, 272, 17);
+VALUES (2732, 273, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1040, 272, 18);
+VALUES (2731, 273, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1040, 272, 19);
+VALUES (2731, 273, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1040, 272, 20);
+VALUES (2731, 273, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1512, 272, 21);
+VALUES (2731, 273, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1512, 272, 22);
+VALUES (2731, 273, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1512, 272, 23);
+VALUES (2741, 274, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1001, 273, 13);
+VALUES (2741, 274, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1001, 273, 14);
+VALUES (2741, 274, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1301, 273, 15);
+VALUES (2741, 274, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1301, 273, 16);
+VALUES (2741, 274, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1433, 273, 17);
+VALUES (2741, 274, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1433, 273, 18);
+VALUES (2741, 274, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1433, 273, 19);
+VALUES (2741, 274, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1494, 273, 20);
+VALUES (2741, 274, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1494, 273, 21);
+VALUES (2741, 274, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1708, 273, 22);
+VALUES (2741, 274, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1708, 273, 23);
+VALUES (2741, 274, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1764, 273, 24);
+VALUES (2741, 274, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1764, 273, 25);
+VALUES (2741, 274, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1848, 273, 26);
+VALUES (2741, 274, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1848, 273, 27);
+VALUES (2752, 275, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (682, 274, 1);
+VALUES (2752, 275, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (682, 274, 2);
+VALUES (2751, 275, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (682, 274, 3);
+VALUES (2751, 275, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1296, 274, 4);
+VALUES (2751, 275, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (506, 274, 13);
+VALUES (2762, 276, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (506, 274, 14);
+VALUES (2762, 276, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1211, 274, 15);
+VALUES (2761, 276, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1211, 274, 16);
+VALUES (2761, 276, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1366, 274, 17);
+VALUES (2761, 276, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1366, 274, 18);
+VALUES (2761, 276, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1366, 274, 19);
+VALUES (2761, 276, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1445, 274, 20);
+VALUES (2771, 277, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1445, 274, 21);
+VALUES (2771, 277, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1445, 274, 22);
+VALUES (2771, 277, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1446, 274, 23);
+VALUES (2771, 277, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1446, 274, 24);
+VALUES (2771, 277, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1446, 274, 25);
+VALUES (2771, 277, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1553, 274, 26);
+VALUES (2771, 277, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1586, 274, 27);
+VALUES (2771, 277, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1586, 274, 28);
+VALUES (2782, 278, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1586, 274, 29);
+VALUES (2782, 278, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (48, 275, 13);
+VALUES (2782, 278, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (48, 275, 14);
+VALUES (2782, 278, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (48, 275, 15);
+VALUES (2782, 278, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (85, 275, 16);
+VALUES (2782, 278, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (85, 275, 17);
+VALUES (2781, 278, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (252, 275, 18);
+VALUES (2781, 278, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (252, 275, 19);
+VALUES (2781, 278, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1151, 275, 20);
+VALUES (2781, 278, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1151, 275, 21);
+VALUES (2781, 278, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (118, 276, 1);
+VALUES (2781, 278, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (118, 276, 2);
+VALUES (2792, 279, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (118, 276, 3);
+VALUES (2792, 279, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (33, 276, 13);
+VALUES (2791, 279, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (33, 276, 14);
+VALUES (2791, 279, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (460, 276, 15);
+VALUES (2791, 279, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (460, 276, 16);
+VALUES (2791, 279, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (900, 276, 17);
+VALUES (2791, 279, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (900, 276, 18);
+VALUES (2791, 279, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (970, 276, 19);
+VALUES (2791, 279, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (970, 276, 20);
+VALUES (2791, 279, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1021, 276, 21);
+VALUES (2791, 279, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1021, 276, 22);
+VALUES (2791, 279, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1913, 276, 23);
+VALUES (2802, 280, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1913, 276, 24);
+VALUES (2802, 280, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (124, 277, 1);
+VALUES (2802, 280, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (124, 277, 2);
+VALUES (2801, 280, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (319, 277, 3);
+VALUES (2801, 280, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (865, 277, 4);
+VALUES (2801, 280, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (865, 277, 5);
+VALUES (2801, 280, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1058, 277, 6);
+VALUES (2801, 280, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1656, 277, 7);
+VALUES (2801, 280, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1656, 277, 8);
+VALUES (2812, 281, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (161, 277, 13);
+VALUES (2812, 281, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (161, 277, 14);
+VALUES (2811, 281, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1029, 277, 15);
+VALUES (2811, 281, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1104, 277, 16);
+VALUES (2811, 281, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1104, 277, 17);
+VALUES (2811, 281, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1485, 277, 18);
+VALUES (2811, 281, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (26, 278, 13);
+VALUES (2811, 281, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (26, 278, 14);
+VALUES (2811, 281, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (381, 278, 15);
+VALUES (2811, 281, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (381, 278, 16);
+VALUES (2811, 281, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (737, 278, 17);
+VALUES (2811, 281, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (737, 278, 18);
+VALUES (2811, 281, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1379, 278, 19);
+VALUES (2811, 281, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1816, 278, 20);
+VALUES (2821, 282, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (586, 279, 1);
+VALUES (2821, 282, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (834, 279, 2);
+VALUES (2821, 282, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (834, 279, 3);
+VALUES (2821, 282, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (35, 279, 13);
+VALUES (2821, 282, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (35, 279, 14);
+VALUES (2821, 282, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (69, 279, 15);
+VALUES (2821, 282, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (69, 279, 16);
+VALUES (2821, 282, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (366, 279, 17);
+VALUES (2821, 282, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (366, 279, 18);
+VALUES (2821, 282, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1870, 279, 19);
+VALUES (2821, 282, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1870, 279, 20);
+VALUES (2832, 283, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1870, 279, 21);
+VALUES (2832, 283, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1110, 280, 1);
+VALUES (2832, 283, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1110, 280, 2);
+VALUES (2831, 283, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1110, 280, 3);
+VALUES (2831, 283, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1187, 280, 4);
+VALUES (2831, 283, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1187, 280, 5);
+VALUES (2831, 283, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (42, 280, 13);
+VALUES (2831, 283, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (42, 280, 14);
+VALUES (2831, 283, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (168, 280, 15);
+VALUES (2831, 283, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (168, 280, 16);
+VALUES (2831, 283, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (391, 280, 17);
+VALUES (2831, 283, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (391, 280, 18);
+VALUES (2831, 283, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (391, 280, 19);
+VALUES (2831, 283, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (638, 280, 20);
+VALUES (2831, 283, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (638, 280, 21);
+VALUES (2831, 283, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (638, 280, 22);
+VALUES (2831, 283, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1419, 280, 23);
+VALUES (2831, 283, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1419, 280, 24);
+VALUES (2842, 284, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (845, 281, 13);
+VALUES (2842, 284, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (845, 281, 14);
+VALUES (2841, 284, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1131, 281, 15);
+VALUES (2841, 284, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1131, 281, 16);
+VALUES (2841, 284, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1131, 281, 17);
+VALUES (2841, 284, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (32, 282, 13);
+VALUES (2841, 284, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (32, 282, 14);
+VALUES (2841, 284, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (32, 282, 15);
+VALUES (2852, 285, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (706, 282, 16);
+VALUES (2852, 285, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1798, 282, 17);
+VALUES (2852, 285, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1798, 282, 18);
+VALUES (2851, 285, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1798, 282, 19);
+VALUES (2851, 285, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1813, 282, 20);
+VALUES (2851, 285, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (363, 283, 1);
+VALUES (2851, 285, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (363, 283, 2);
+VALUES (2851, 285, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1471, 283, 3);
+VALUES (2851, 285, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1471, 283, 4);
+VALUES (2851, 285, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1471, 283, 5);
+VALUES (2851, 285, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (34, 283, 13);
+VALUES (2851, 285, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (34, 283, 14);
+VALUES (2862, 286, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (177, 283, 15);
+VALUES (2862, 286, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (645, 283, 16);
+VALUES (2862, 286, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (645, 283, 17);
+VALUES (2862, 286, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (645, 283, 18);
+VALUES (2862, 286, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (872, 283, 19);
+VALUES (2862, 286, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (872, 283, 20);
+VALUES (2861, 286, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1560, 283, 21);
+VALUES (2861, 286, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1560, 283, 22);
+VALUES (2861, 286, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1560, 283, 23);
+VALUES (2861, 286, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1608, 283, 24);
+VALUES (2861, 286, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1608, 283, 25);
+VALUES (2861, 286, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1977, 283, 26);
+VALUES (2861, 286, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1977, 283, 27);
+VALUES (2861, 286, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (841, 284, 1);
+VALUES (2861, 286, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (815, 284, 13);
+VALUES (2861, 286, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (951, 284, 14);
+VALUES (2861, 286, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (951, 284, 15);
+VALUES (2861, 286, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1374, 284, 16);
+VALUES (2861, 286, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1374, 284, 17);
+VALUES (2861, 286, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1609, 284, 18);
+VALUES (2861, 286, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1609, 284, 19);
+VALUES (2861, 286, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1609, 284, 20);
+VALUES (2861, 286, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1976, 284, 21);
+VALUES (2872, 287, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1976, 284, 22);
+VALUES (2872, 287, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1976, 284, 23);
+VALUES (2872, 287, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (75, 285, 1);
+VALUES (2872, 287, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (75, 285, 2);
+VALUES (2872, 287, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (75, 285, 3);
+VALUES (2872, 287, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1347, 285, 4);
+VALUES (2871, 287, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (290, 285, 13);
+VALUES (2871, 287, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (923, 285, 14);
+VALUES (2871, 287, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (923, 285, 15);
+VALUES (2871, 287, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1093, 285, 16);
+VALUES (2882, 288, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1093, 285, 17);
+VALUES (2882, 288, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1431, 285, 18);
+VALUES (2881, 288, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1431, 285, 19);
+VALUES (2881, 288, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1448, 285, 20);
+VALUES (2881, 288, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1448, 285, 21);
+VALUES (2881, 288, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (77, 286, 1);
+VALUES (2881, 288, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (77, 286, 2);
+VALUES (2881, 288, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (256, 286, 13);
+VALUES (2892, 289, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (256, 286, 14);
+VALUES (2892, 289, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (256, 286, 15);
+VALUES (2892, 289, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (485, 286, 16);
+VALUES (2892, 289, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (485, 286, 17);
+VALUES (2892, 289, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (485, 286, 18);
+VALUES (2891, 289, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1203, 286, 19);
+VALUES (2891, 289, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1203, 286, 20);
+VALUES (2891, 289, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1203, 286, 21);
+VALUES (2891, 289, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1693, 286, 22);
+VALUES (2891, 289, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1693, 286, 23);
+VALUES (2891, 289, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (221, 287, 1);
+VALUES (2891, 289, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (221, 287, 2);
+VALUES (2891, 289, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1486, 287, 3);
+VALUES (2902, 290, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1486, 287, 4);
+VALUES (2902, 290, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1000, 287, 13);
+VALUES (2902, 290, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1000, 287, 14);
+VALUES (2901, 290, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1047, 287, 15);
+VALUES (2901, 290, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1047, 287, 16);
+VALUES (2901, 290, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1143, 287, 17);
+VALUES (2901, 290, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1143, 287, 18);
+VALUES (2901, 290, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (191, 288, 1);
+VALUES (2911, 291, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (191, 288, 2);
+VALUES (2911, 291, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (431, 288, 3);
+VALUES (2911, 291, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (490, 288, 4);
+VALUES (2922, 292, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1116, 288, 5);
+VALUES (2922, 292, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1116, 288, 6);
+VALUES (2921, 292, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1503, 288, 7);
+VALUES (2921, 292, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1503, 288, 8);
+VALUES (2921, 292, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (79, 288, 13);
+VALUES (2921, 292, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (79, 288, 14);
+VALUES (2921, 292, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (314, 288, 15);
+VALUES (2932, 293, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (314, 288, 16);
+VALUES (2932, 293, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (434, 288, 17);
+VALUES (2931, 293, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (763, 288, 18);
+VALUES (2931, 293, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (763, 288, 19);
+VALUES (2942, 294, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1076, 288, 20);
+VALUES (2942, 294, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1076, 288, 21);
+VALUES (2941, 294, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1076, 288, 22);
+VALUES (2941, 294, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1856, 288, 23);
+VALUES (2941, 294, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1856, 288, 24);
+VALUES (2941, 294, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1856, 288, 25);
+VALUES (2941, 294, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (325, 289, 1);
+VALUES (2941, 294, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (325, 289, 2);
+VALUES (2941, 294, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (338, 289, 3);
+VALUES (2941, 294, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (338, 289, 4);
+VALUES (2941, 294, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (338, 289, 5);
+VALUES (2941, 294, 22);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1157, 289, 6);
+VALUES (2941, 294, 23);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1157, 289, 7);
+VALUES (2941, 294, 24);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1157, 289, 8);
+VALUES (2941, 294, 25);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1914, 289, 9);
+VALUES (2941, 294, 26);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1914, 289, 10);
+VALUES (2941, 294, 27);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (720, 289, 13);
+VALUES (2941, 294, 28);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (853, 289, 14);
+VALUES (2941, 294, 29);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1071, 289, 15);
+VALUES (2941, 294, 30);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1071, 289, 16);
+VALUES (2941, 294, 31);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1071, 289, 17);
+VALUES (2941, 294, 32);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1565, 289, 18);
+VALUES (2941, 294, 33);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1565, 289, 19);
+VALUES (2952, 295, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1565, 289, 20);
+VALUES (2952, 295, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (480, 290, 1);
+VALUES (2951, 295, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (480, 290, 2);
+VALUES (2951, 295, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (480, 290, 3);
+VALUES (2951, 295, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (170, 290, 13);
+VALUES (2951, 295, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (245, 290, 14);
+VALUES (2951, 295, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (541, 290, 15);
+VALUES (2951, 295, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (711, 290, 16);
+VALUES (2951, 295, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (711, 290, 17);
+VALUES (2951, 295, 20);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1537, 290, 18);
+VALUES (2951, 295, 21);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (354, 291, 1);
+VALUES (2961, 296, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (354, 291, 2);
+VALUES (2961, 296, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (354, 291, 3);
+VALUES (2961, 296, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (579, 291, 4);
+VALUES (2961, 296, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (579, 291, 5);
+VALUES (2961, 296, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1290, 291, 6);
+VALUES (2961, 296, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1290, 291, 7);
+VALUES (2961, 296, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1290, 291, 8);
+VALUES (2971, 297, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1570, 291, 9);
+VALUES (2971, 297, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1570, 291, 10);
+VALUES (2971, 297, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (81, 291, 13);
+VALUES (2971, 297, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (592, 291, 14);
+VALUES (2971, 297, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (592, 291, 15);
+VALUES (2971, 297, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (825, 291, 16);
+VALUES (2971, 297, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1176, 291, 17);
+VALUES (2982, 298, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1176, 291, 18);
+VALUES (2982, 298, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1176, 291, 19);
+VALUES (2982, 298, 3);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1933, 291, 20);
+VALUES (2982, 298, 4);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1933, 291, 21);
+VALUES (2982, 298, 5);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (390, 292, 13);
+VALUES (2982, 298, 6);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (390, 292, 14);
+VALUES (2982, 298, 7);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1106, 292, 15);
+VALUES (2982, 298, 8);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1106, 292, 16);
+VALUES (2982, 298, 9);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1231, 292, 17);
+VALUES (2982, 298, 10);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1908, 292, 18);
+VALUES (2992, 299, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1908, 292, 19);
+VALUES (2992, 299, 2);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1908, 292, 20);
+VALUES (2991, 299, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (419, 293, 13);
+VALUES (2991, 299, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1144, 293, 14);
+VALUES (2991, 299, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1144, 293, 15);
+VALUES (2991, 299, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1790, 293, 16);
+VALUES (2991, 299, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1967, 293, 17);
+VALUES (2991, 299, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1967, 293, 18);
+VALUES (2991, 299, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (194, 294, 1);
+VALUES (3002, 300, 1);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (194, 294, 2);
+VALUES (3001, 300, 13);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1483, 294, 3);
+VALUES (3001, 300, 14);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1483, 294, 4);
+VALUES (3001, 300, 15);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1680, 294, 5);
+VALUES (3001, 300, 16);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1680, 294, 6);
+VALUES (3001, 300, 17);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (203, 294, 13);
+VALUES (3001, 300, 18);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (203, 294, 14);
+VALUES (3001, 300, 19);
 
 INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (203, 294, 15);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (722, 294, 16);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (783, 295, 13);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (783, 295, 14);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (783, 295, 15);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1482, 295, 16);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1482, 295, 17);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (270, 296, 1);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (542, 296, 13);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (542, 296, 14);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (542, 296, 15);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (576, 296, 16);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (712, 296, 17);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1795, 296, 18);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1795, 296, 19);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (654, 297, 1);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (654, 297, 2);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (784, 297, 3);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (807, 297, 13);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (807, 297, 14);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (976, 297, 15);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1839, 297, 16);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1839, 297, 17);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1839, 297, 18);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (375, 298, 13);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (632, 298, 14);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (632, 298, 15);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (153, 299, 1);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (153, 299, 2);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (557, 299, 3);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (557, 299, 4);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (557, 299, 5);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (864, 299, 6);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1725, 299, 7);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1725, 299, 8);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1823, 299, 9);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1823, 299, 10);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (428, 299, 13);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1638, 299, 14);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1638, 299, 15);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1835, 299, 16);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1835, 299, 17);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1237, 300, 1);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1237, 300, 2);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (362, 300, 13);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (362, 300, 14);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (950, 300, 15);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1687, 300, 16);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1687, 300, 17);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1797, 300, 18);
-
-INSERT INTO order_seats(order_number, ma_chuyen_bay, ma_ghe)
-VALUES (1797, 300, 19);
+VALUES (3001, 300, 20);
 

@@ -2,12 +2,13 @@ var urlParams = new URLSearchParams(window.location.search);
 
 var order_number = urlParams.get('order_number');
 
+var quantity = [];
+// var oj = quantity[0];
 function getQuantityPersonOrder() {
     var data = {
         order_number: order_number
     };
 
-    var quantity = {};
     // Tạo một yêu cầu fetch với phương thức POST
     fetch('/info-passenger/getQuantityPersonOrder', {
         method: 'POST',
@@ -18,14 +19,15 @@ function getQuantityPersonOrder() {
     })
         .then(response => response.json())
         .then(data => {
-            quantity = data;
-            console.log(quantity);
+            quantity.push(data);
+            // console.log(quantity);
         })
         .catch((error) => {
             console.error('Error:', error);
         });
-    return quantity;
 }
+
+getQuantityPersonOrder();
 
 function backToBookingPage() {
 
@@ -102,4 +104,8 @@ function goToSeatOrder() {
             // Xử lý lỗi nếu cần
             alert("Có lỗi");
         });
+}
+
+function initFormSubmitInfo() {
+   
 }
