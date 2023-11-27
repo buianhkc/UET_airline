@@ -11,9 +11,3 @@ WHERE ma_khach_hang = 94545;
 UPDATE ticket
 SET so_luong_con = so_luong_con + 1
 WHERE ma_ve = 304903;
-
-DELETE FROM passengers
-WHERE order_number = 9435;
-
-DELETE FROM orders
-WHERE ma_khach_hang = 201;

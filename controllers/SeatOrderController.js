@@ -68,6 +68,45 @@ class SeatOrderController {
                 console.log(err);
             })
     }
+
+    addSeatOrder(req, res) {
+        console.log(req.body);
+        var listSeatOrder = req.body;
+        for (var i = 0; i < listSeatOrder.length; ++i) {
+            var sql = `INSERT order_seats(order_number, ma_chuyen_bay, ma_ghe)
+            VALUES (${listSeatOrder[i].order_number}, ${listSeatOrder[i].ma_chuyen_bay}, ${listSeatOrder[i].ma_ghe})`;
+
+            db.execute(sql)
+                .catch(err => {
+                    console.log(err);
+                })
+        }
+
+        for (var i = 0; i < listSeatOrder.length; ++i) {
+            var sql = `UPDATE seat_details
+                        SET trang_thai = 'filled'
+                        WHERE ma_chuyen_bay = ${listSeatOrder[i].ma_chuyen_bay} AND ma_ghe = ${listSeatOrder[i].ma_ghe}`;
+
+            db.execute(sql)
+                .catch(err => {
+                    console.log(err);
+                })
+        }
+
+        // this.reduceTheRemainingQuantity(listSeatOrder[0].order_number);
+        var sql = `UPDATE tickets as t 
+                    INNER JOIN (SELECT so_luong_nguoi_lon + so_luong_tre_em as totalHuman, ma_ve
+                                FROM orders
+                                INNER JOIN tickets USING(ma_ve)
+                                WHERE order_number = ${listSeatOrder[0].order_number}) as tmp USING(ma_ve)
+                    SET t.so_luong_con = t.so_luong_con - tmp.totalHuman`;
+
+        db.execute(sql)
+            .catch(err => {
+                console.log(err);
+            })
+        res.json(true);
+    }
 }
 
 module.exports = new SeatOrderController;
