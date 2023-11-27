@@ -3,11 +3,7 @@ var urlParams = new URLSearchParams(window.location.search);
 var order_number = urlParams.get('order_number');
 
 var quantity = [];
-<<<<<<< HEAD
-
-=======
 // var oj = quantity[0];
->>>>>>> 782c73bed50da7cb72bd5b438dcb5bd6b8752855
 function getQuantityPersonOrder() {
     var data = {
         order_number: order_number
@@ -26,70 +22,18 @@ function getQuantityPersonOrder() {
             quantity.push(data);
             // console.log(quantity);
         })
+        .then(() => {
+            console.log(quantity[0]);
+            initFormSubmitInfo();     
+          })
         .catch((error) => {
             console.error('Error:', error);
         });
 }
 
+
 getQuantityPersonOrder();
 
-<<<<<<< HEAD
-function createInputElement(type, placeholder, minDate, maxDate) {
-    var input = document.createElement('input');
-    input.type = type;
-    input.className = 'form-control';
-    input.placeholder = placeholder;
-
-    if (type === 'date') {
-        input.min = minDate;
-        input.max = maxDate;
-    }
-
-    return input;
-}
-
-// Hàm tạo form cho người lớn hoặc trẻ em
-function createForm(container, formNumber) {
-    var numberDiv = document.createElement('div');
-    numberDiv.className = 'number';
-    numberDiv.innerHTML = '<p>STT: ' + formNumber + '</p>';
-
-    var nameInput = createInputElement('text', 'Họ tên');
-    var birthDateInput = createInputElement('date', 'Ngày sinh', '1950-01-01', '2023-12-30');
-    var genderInput = createInputElement('text', 'Giới tính');
-
-    var inputGroupDiv = document.createElement('div');
-    inputGroupDiv.className = 'input-group';
-    inputGroupDiv.appendChild(nameInput);
-    inputGroupDiv.appendChild(birthDateInput);
-    inputGroupDiv.appendChild(genderInput);
-
-    container.appendChild(numberDiv);
-    container.appendChild(inputGroupDiv);
-}
-
-function createAdultForm(number) {
-    var adultFormContainer = document.querySelector('.information_customer.adults');
-
-    for (let i = 1; i <= number; i++) {
-        createForm(adultFormContainer, i);
-    }
-}
-
-function createChildForm(number) {
-    var childFormContainer = document.querySelector('.information_customer.children');
-
-    for (let i = 1; i <= number; i++) {
-        createForm(childFormContainer, i);
-    }
-}
-
-// Sử dụng hàm để tạo form cho người lớn và trẻ em
-createAdultForm(adultsQuantity); // Gọi hàm để tạo form cho người lớn
-createChildForm(childrenQuantity); // Gọi hàm để tạo form cho trẻ em
-
-=======
->>>>>>> 782c73bed50da7cb72bd5b438dcb5bd6b8752855
 function backToBookingPage() {
 
     var data = {
@@ -167,9 +111,21 @@ function goToSeatOrder() {
         });
 }
 
-<<<<<<< HEAD
-=======
+
 function initFormSubmitInfo() {
+    console.log(quantity[0].so_luong_nguoi_lon);
+    console.log(quantity[0].so_luong_tre_em);
+    
+    var adultinfo = document.querySelector('.adult-info');
+    var html3 = ``;
+    html3 += `<div class="quantity-adult">
+        <p>Số lượng người lớn ${quantity[0].so_luong_nguoi_lon}</p>
+    </div>`
+    // for (var i = 0; i < 4; i++) {
+    //     html3 += <div class = >
+
+    //     </div>
+    // }
+    adultinfo.innerHTML = html3;
    
 }
->>>>>>> 782c73bed50da7cb72bd5b438dcb5bd6b8752855

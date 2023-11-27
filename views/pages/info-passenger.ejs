@@ -28,33 +28,85 @@
                   của chúng tôi.</p>
               </div>
               
-              <% for (let i = 0; i < quantity.length; i++) { %>
-                <div class="title-wrapper">
-                    <h4>Thông tin <%= quantity[i].title %></h4>
-                    <p><%= quantity[i].description %></p>
+              <div class="title-wrapper">
+                <h4>Thông tin khách hàng</h4>
+                <p>Quý Khách vui lòng sử dụng tiếng Việt không dấu và không sử dụng các ký tự đặc biệt. 
+                  Vui lòng nhập đầy đủ tên hành khách và những thông tin khác xuất hiện trên (các) giấy tờ tùy 
+                  thân do chính phủ cấp của hành khách.</p>
+              </div>
+      
+              <div class="information_customer">
+                <h3>Thông tin cơ bản</h3>
+                <p class="required">* Trường bắt buộc nhập thông tin</p>
+                <div class="quantity-adult">
+                  <p>Số lượng người lớn: 2</p>
                 </div>
-
-                <div class="information_customer">
-                    <h3>Thông tin cơ bản</h3>
-                    <p class="required">* Trường bắt buộc nhập thông tin</p>
-
-                    <% for (let j = 0; j < quantity[i].count; j++) { %>
-                        <div class="number">
-                            <p>STT: <%= j + 1 %></p>
-                        </div>
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Họ tên">
-                        </div>
-                        <div class="input-group">
-                            <input type="date" class="form-control" placeholder="Ngày sinh" min="1950-01-01" max="2023-12-30">
-                        </div>
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Giới tính">
-                        </div>
-                    <% } %>
+      
+                <div class="number">
+                  <p>STT: 1</p>
                 </div>
-            <% } %>
-
+                <div class="input-group">
+                  <input type="text" class="form-control" placeholder="Họ tên">
+                </div>
+                <div class="input-group">
+                  <input type="date" class="form-control" placeholder="Ngày sinh" min="1950-01-01" max="2023-12-30">
+                </div>
+                <div class="input-group">
+                  <input type="text" class="form-control" placeholder="Giới tính">
+                </div>
+      
+                <div class="number">
+                  <p>STT: 2</p>
+                </div>
+                <div class="input-group">
+                  <input type="text" class="form-control" placeholder="Họ tên">
+                </div>
+                <div class="input-group">
+                  <input type="date" class="form-control" placeholder="Ngày sinh" min="1950-01-01" max="2023-12-30">
+                </div>
+                <div class="input-group">
+                  <input type="text" class="form-control" placeholder="Giới tính">
+                </div>
+                
+              </div>
+      
+              <div class="information_customer">
+                <h3>Thông tin cơ bản</h3>
+                <p class="required">* Trường bắt buộc nhập thông tin</p>
+                <div class="quantity-adult">
+                  <p>Số lượng trẻ em: 2</p>
+                </div>
+      
+                <div class="number">
+                  <p>STT: 1</p>
+                </div>
+                <div class="input-group">
+                  <input type="text" class="form-control" placeholder="Họ tên">
+                </div>
+                <div class="input-group">
+                  <input type="date" class="form-control" placeholder="Ngày sinh" min="1950-01-01" max="2023-12-30">
+                </div>
+                <div class="input-group">
+                  <input type="text" class="form-control" placeholder="Giới tính">
+                </div>
+      
+                <div class="number">
+                  <p>STT: 2</p>
+                </div>
+                <div class="input-group">
+                  <input type="text" class="form-control" placeholder="Họ tên">
+                </div>
+                <div class="input-group">
+                  <input type="date" class="form-control" placeholder="Ngày sinh" min="1950-01-01" max="2023-12-30">
+                </div>
+                <div class="input-group">
+                  <input type="text" class="form-control" placeholder="Giới tính">
+                </div>
+                
+              </div>
+      
+            
+              </div>
         </div>
 
         <div class="button-switch-page">
