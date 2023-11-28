@@ -138,6 +138,7 @@ function backToBookingPage() {
 }
 
 function goToSeatOrder() {
+    // Lặp qua mỗi form thông tin người lớn
     for (var i = 0; i < quantity[0].so_luong_nguoi_lon; i++) {
         var nameInput = document.querySelector('.adult-info .form-info:nth-child(' + (i + 2) + ') input[type="text"]');
         var dobInput = document.querySelector('.adult-info .form-info:nth-child(' + (i + 2) + ') input[type="date"]');
@@ -161,10 +162,10 @@ function goToSeatOrder() {
         }
     }
 
-
     // Tạo URL với tham số truyền đi
     var url = "/seat-order"
         + "?order_number=" + encodeURIComponent(order_number);
 
     window.location.href = url;
+
 }
