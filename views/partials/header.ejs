@@ -14,14 +14,13 @@
                 <% if (typeof isLoggedIn !== 'undefined') { %>
                     <% if (isLoggedIn) { %>
                         <a href="/user-page" class="linkToUser onHover <%= user.ma_khach_hang %> ahref">Xin Chào: <%= user.ten_khach_hang %> </a>
-                        <a href="/logout" class="logout onHover ahref">Đăng Xuất</a>
-                        <!-- <script>
-                            document.querySelector(".linkToUser").id = user.ma_khach_hang;
-                        </script> -->
+                        <a class="logout onHover ahref" onclick="logOut()" >Đăng Xuất</a>
+                        <script src="/public/js/logout.js"></script>
                     <% } %>
                 <% } else { %>
-                    <a href="login" class="linkTologin onHover ahref">Đăng nhập</a>
-                    <a href="register" class="linkRegister onHover ahref">Đăng ký</a>
+                    <a href="/login" class="linkTologin onHover ahref">Đăng nhập</a>
+                    <a href="/register" class="linkRegister onHover ahref" >Đăng ký</a>
+                    
                 <% } %>
             </div>
 

@@ -169,31 +169,38 @@ function showTickets() {
 }
 
 function getTickets() {
-  var url = '/user-page/getTicket';
+  return new Promise((resolve, reject) => {
+    var url = '/user-page/getTicket';
 
-  // Data to be sent in the POST request (you can customize this)
+    // Data to be sent in the POST request (you can customize this)
 
-  var data = {
-    ma_khach_hang: document.querySelector(".linkToUser").classList[2],
-  };
+    var data = {
+      ma_khach_hang: document.querySelector(".linkToUser").classList[2],
+    };
 
-  // Fetch API to send POST request
-  fetch(url, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json'
-    },
-    body: JSON.stringify(data)
-  })
-    .then(response => response.json())
-    .then(data => {
-      // console.log('Success:', data);
-      tickets = data;
-      showTickets();
+    // Fetch API to send POST request
+    fetch(url, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(data)
     })
-    .catch((error) => {
-      console.error('Error:', error);
-    });
+      .then(response => response.json())
+      .then(data => {
+        // console.log('Success:', data);
+        tickets = data;
+        showTickets();
+      })
+      .catch((error) => {
+        console.error('Error:', error);
+      });
+    setTimeout(() => {
+      // console.log("Công việc 3 đã hoàn thành");
+      resolve("haha");
+    }, 1000);
+  });
+
 }
 
 function payTicket(e) {
@@ -258,7 +265,7 @@ function deleteTicket(e) {
         console.log('Success:', data);
         getTickets();
       })
-      .then(()=> {
+      .then(() => {
         resetBalance();
       })
       .catch((error) => {
@@ -267,4 +274,110 @@ function deleteTicket(e) {
   }
 }
 
-getTickets();
+
+// Hàm để lấy giá trị của một tham số truy vấn từ URL
+function getQueryParamValue(url, paramName) {
+  const searchParams = new URL(url).searchParams;
+  return searchParams.get(paramName);
+}
+
+function cancelOrder() {
+  return new Promise((resolve, reject) => {
+    // Thực hiện công việc 3 ở đây
+    // Lấy đường dẫn của URL hiện tại
+    const currentPath = window.location.pathname;
+
+    // Lấy đường dẫn của trang trước đó
+    const previousPath = new URL(document.referrer).pathname;
+
+    const previousURL = document.referrer;
+
+    // In ra console để kiểm tra
+    console.log('Đường dẫn của URL hiện tại:', currentPath);
+    console.log('Đường dẫn của trang trước đó:', previousPath);
+
+    if (previousPath == '/info-passenger') {
+      var data = {
+        order_number: getQueryParamValue(previousURL, 'order_number')
+      }
+
+      fetch('/booking-page/cancelOrder', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+      })
+        .then(() => {
+          console.log('da xoa order')
+        })
+        .catch(err => {
+          console.log(err);
+        })
+    }
+
+    if (previousPath == '/seat-order') {
+      var data = {
+        order_number: getQueryParamValue(previousURL, 'order_number')
+      }
+
+      console.log(data);
+
+      fetch('/booking-page/existSeatOrder', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+      })
+        .then(result => {
+          return result.json()
+        })
+        .then((result) => {
+          // console.log(result);
+          if (result.num == 0) {
+            fetch('/booking-page/cancelOrder', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+              },
+              body: JSON.stringify(data),
+            })
+              .then(() => {
+                console.log('da xoa order')
+              })
+              .catch(err => {
+                console.log(err);
+              })
+          }
+
+        })
+        .catch(err => {
+          console.log(err);
+        })
+
+
+    }
+    setTimeout(() => {
+      // console.log("Công việc 3 đã hoàn thành");
+      resolve("haha");
+    }, 500);
+  });
+
+}
+
+
+async function init() {
+  try {
+    const result1 = await cancelOrder();
+    console.log(result1);
+
+    const result2 = await getTickets();
+    console.log(result2);
+
+  } catch (error) {
+    console.error("Đã xảy ra lỗi:", error);
+  }
+}
+
+init();

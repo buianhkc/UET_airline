@@ -105,21 +105,10 @@ class SeatOrderController {
             .catch(err => {
                 console.log(err);
             })
+    
         res.json(true);
     }
 
-    cancelOrder(req, res) {
-        var { order_number } = req.body;
-        // console.log(order_number);
-        console.log("huy ve");
-        var sql1 = `DELETE FROM orders
-        WHERE order_number = ${order_number};`;
-
-        db.execute(sql1)
-            .catch(err => {
-                console.log(err);
-            })
-    }
 }
 
 module.exports = new SeatOrderController;
