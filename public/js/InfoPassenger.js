@@ -101,7 +101,12 @@ function initFormSubmitInfo() {
                     <input type="date" class="form-control" placeholder="Ngày sinh" min="1940-01-01" max="2007-12-30">
                 </div>
                 <div class="input-group">
-                    <input type="text" class="form-control" placeholder="Giới tính">
+                <label for="gender">Giới tính:</label>
+                <select id="gender" class="form-control">
+                    <option value="Nam">Nam</option>
+                    <option value="Nữ">Nữ</option>
+                    <option value="Không biết">Không biết</option>
+                </select>
                 </div>
             </div>`;
     }
@@ -122,7 +127,12 @@ function initFormSubmitInfo() {
                     <input type="date" class="form-control" placeholder="Ngày sinh" min="2008-01-01" max="2023-10-30">
                 </div>
                 <div class="input-group">
-                    <input type="text" class="form-control" placeholder="Giới tính">
+                <label for="gender">Giới tính:</label>
+                <select id="gender" class="form-control">
+                    <option value="Nam">Nam</option>
+                    <option value="Nữ">Nữ</option>
+                    <option value="Không biết">Không biết</option>
+                </select>
                 </div>
             </div>`;
     }
