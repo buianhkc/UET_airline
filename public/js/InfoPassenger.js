@@ -25,6 +25,7 @@ function getQuantityPersonOrder() {
         .then(() => {
             console.log(quantity[0]);
             initFormSubmitInfo();
+            // addToDataBase();
         })
         .catch((error) => {
             console.error('Error:', error);
@@ -47,7 +48,7 @@ function initFormSubmitInfo() {
     </div>`
     for (var i = 0; i < quantity[0].so_luong_nguoi_lon; i++) {
         html3 += `
-            <div class="form-info">
+            <div class="form-info adult">
                 <div class="number">
                     <p>STT: ${i + 1}</p>
                 </div>
@@ -73,7 +74,7 @@ function initFormSubmitInfo() {
     </div>`
     for (var i = 0; i < quantity[0].so_luong_tre_em; i++) {
         html4 += `
-            <div class="form-info">
+            <div class="form-info children">
                 <div class="number">
                     <p>STT: ${i + 1}</p>
                 </div>
@@ -172,10 +173,69 @@ function goToSeatOrder() {
         }
     }
 
+    addToDataBase();
     // Tạo URL với tham số truyền đi
     var url = "/seat-order"
         + "?order_number=" + encodeURIComponent(order_number);
 
     window.location.href = url;
-
+    
 }
+
+function addToDataBase() {
+    var data = [];
+
+    var listFormInfoAdultE = document.querySelectorAll('.form-info.adult');
+    var listFormInfoChildrenE = document.querySelectorAll('.form-info.children');
+    // console.log(listFormInfoAdultE);
+    // console.log(listFormInfoChildrenE);
+    // Lặp qua mỗi phần tử trong danh sách thông tin người lớn
+    listFormInfoAdultE.forEach(function(formInfoElement, i) {
+    // Lấy các trường dữ liệu từ form-info
+    var name = formInfoElement.querySelector('.input-group input[type="text"]').value;
+    var birthDate = formInfoElement.querySelector('.input-group input[type="date"]').value;
+    var gender = formInfoElement.querySelector('.input-group select').value;
+
+    // Tạo một đối tượng người dùng và thêm vào mảng data
+    var user = {
+        order_number: order_number,
+        ma_hanh_khach: i + 1,
+        ten: name,
+        gioi_tinh: gender,
+        do_tuoi: 'nguoi_lon',
+        ngay_sinh: birthDate
+    };
+    data.push(user);
+});
+    // var a = listFormInfoAdultE.length;
+    // Lặp qua mỗi phần tử trong danh sách thông tin trẻ em
+    
+    listFormInfoChildrenE.forEach(function(formInfoElement, i) {
+    // Lấy các trường dữ liệu từ form-info
+    var name = formInfoElement.querySelector('.input-group input[type="text"]').value;
+    var birthDate = formInfoElement.querySelector('.input-group input[type="date"]').value;
+    var gender = formInfoElement.querySelector('.input-group select').value;
+
+    // Tạo một đối tượng người dùng và thêm vào mảng data
+    var user = {
+        order_number: order_number,
+        ma_hanh_khach: i + 1 + quantity[0].so_luong_nguoi_lon,
+        ten: name,
+        gioi_tinh: gender,
+        do_tuoi: 'tre_em',
+        ngay_sinh: birthDate
+    };
+    data.push(user);
+});    
+
+// Hiển thị mảng data trong console
+    console.log(data);
+    fetch('/info-passenger/insertInfoPassenger', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+    })
+}
+

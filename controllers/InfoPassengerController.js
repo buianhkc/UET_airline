@@ -49,11 +49,13 @@ class InfoPassengerController {
 
     insertInfoPassenger(req, res) {
         var listInfoPassenger = req.body;
+        // console.log(listInfoPassenger);
 
         for (var i = 0; i < listInfoPassenger.length; ++i) {
             var iP =listInfoPassenger[i];
             var sql = `INSERT passengers(order_number, ma_hanh_khach, ten, gioi_tinh, do_tuoi, ngay_sinh)
-                        VALUES(${iP.order_number}, ${iP.ma_hanh_khach}, ${iP.ten}, ${iP.gioi_tinh}, ${iP.do_tuoi}, ${iP.ngay_sinh})`
+                        VALUES(${iP.order_number}, ${iP.ma_hanh_khach}, '${iP.ten}', '${iP.gioi_tinh}', '${iP.do_tuoi}', '${iP.ngay_sinh}')`
+            console.log(sql);
             db.execute(sql)
                 .catch(err => {
                     console.log(err);
