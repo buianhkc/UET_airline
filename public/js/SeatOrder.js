@@ -2,49 +2,6 @@ const urlParams = new URLSearchParams(window.location.search);
 
 const order_number = urlParams.get('order_number');
 
-// Kiểm tra nếu người dùng đang ở trang điền thông tin
-if (window.location.pathname === '/seat-order') {
-
-  window.removeEventListener('beforeunload', handleUnload());
-
-  window.addEventListener('beforeunload', handleUnload());
-}
-
-function handleUnload() {
-  // Thực hiện các hành động kiểm tra trước khi người dùng rời khỏi trang
-
-  var destinationURL = window.location.href;
-
-  // Kiểm tra xem người dùng đang chuyển đến trang nào
-  if (!(destinationURL.includes('/info-passenger') || destinationURL.includes('/seat-order'))) {
-    var confirmation = window.confirm("Xác nhận hủy đặt chuyến bay!!!");
-    if (confirmation) {
-      deleteUserDataFromDatabase();
-    }
-  }
-
-  // Không cần thiết hiện bất kỳ hành động nào nếu người dùng chuyển đến các trang khác
-}
-
-function deleteUserDataFromDatabase() {
-  var data = {
-    order_number: order_number
-  };
-
-  // Tạo một yêu cầu fetch với phương thức POST
-  fetch('/seat-order/cancelOrder', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify(data),
-  })
-    .then(response => response.json())
-    .catch(err => {
-      console.log(err);
-    })
-}
-
 var Orderdetails = [];
 var currentNumberSelection = [];
 var currentMaChuyenBay = [];
@@ -286,18 +243,14 @@ function addSeatOrder() {
         console.log('thêm ghế thành công')
       })
       .then(() => {
-        window.removeEventListener('beforeunload', handleUnload());
         var url = "/user-page"
         // + "?order_number=" + encodeURIComponent(order_number)
 
         // Chuyển hướng đến trang hiển thị vé với tham số
         window.location.href = url;
-
-        var url = "/seat-order"
-        + "?order_number=" + encodeURIComponent(order_number)
-
-        // Chuyển hướng đến trang hiển thị vé với tham số
-        window.location.href = url;
+      })
+      .catch(err => {
+        console.log(err);
       })
   }
 }

@@ -2,49 +2,6 @@ var urlParams = new URLSearchParams(window.location.search);
 
 var order_number = urlParams.get('order_number');
 
-// Kiểm tra nếu người dùng đang ở trang điền thông tin
-if (window.location.pathname === '/info-passenger') {
-
-    window.removeEventListener('beforeunload', handleUnload());
-
-    window.addEventListener('beforeunload', handleUnload());
-}
-
-function handleUnload() {
-    // Thực hiện các hành động kiểm tra trước khi người dùng rời khỏi trang
-
-    var destinationURL = window.location.href;
-
-    // Kiểm tra xem người dùng đang chuyển đến trang nào
-    if (!(destinationURL.includes('/info-passenger') || destinationURL.includes('/seat-order'))) {
-        var confirmation = window.confirm("Xác nhận hủy đặt chuyến bay!!!");
-        if (confirmation) {
-            deleteUserDataFromDatabase();
-        }
-    }
-
-    // Không cần thiết hiện bất kỳ hành động nào nếu người dùng chuyển đến các trang khác
-}
-
-function deleteUserDataFromDatabase() {
-    var data = {
-        order_number: order_number
-    };
-
-    // Tạo một yêu cầu fetch với phương thức POST
-    fetch('/info-passenger/cancelOrder', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(data),
-    })
-        .then(response => response.json())
-        .catch(err => {
-            console.log(err);
-        })
-}
-
 var quantity = [];
 // var oj = quantity[0];
 function getQuantityPersonOrder() {
@@ -67,8 +24,8 @@ function getQuantityPersonOrder() {
         })
         .then(() => {
             console.log(quantity[0]);
-            initFormSubmitInfo();     
-          })
+            initFormSubmitInfo();
+        })
         .catch((error) => {
             console.error('Error:', error);
         });
@@ -80,7 +37,7 @@ getQuantityPersonOrder();
 function initFormSubmitInfo() {
     console.log(quantity[0].so_luong_nguoi_lon);
     console.log(quantity[0].so_luong_tre_em);
-    
+
     var adultinfo = document.querySelector('.adult-info');
     var childreninfo = document.querySelector('.children-info');
     var html3 = ``;
@@ -129,12 +86,10 @@ function initFormSubmitInfo() {
 
     adultinfo.innerHTML = html3;
     childreninfo.innerHTML = html4;
-   
+
 }
 
 function backToBookingPage() {
-    window.removeEventListener('beforeunload', handleUnload());
-
     var data = {
         order_number: order_number
     };
@@ -152,7 +107,7 @@ function backToBookingPage() {
             var body = {
                 order_number: order_number
             };
-            fetch('/info-passenger/cancelOrder', {
+            fetch('/booking-page/cancelOrder', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -183,11 +138,6 @@ function backToBookingPage() {
 }
 
 function goToSeatOrder() {
-<<<<<<< HEAD
-    window.removeEventListener('beforeunload', handleUnload());
-
-=======
-    // Lặp qua mỗi form thông tin người lớn
     for (var i = 0; i < quantity[0].so_luong_nguoi_lon; i++) {
         var nameInput = document.querySelector('.adult-info .form-info:nth-child(' + (i + 2) + ') input[type="text"]');
         var dobInput = document.querySelector('.adult-info .form-info:nth-child(' + (i + 2) + ') input[type="date"]');
@@ -211,41 +161,10 @@ function goToSeatOrder() {
         }
     }
 
-    // Nếu mọi thứ hợp lệ, thực hiện chuyển tiếp đến trang tiếp theo
-    
->>>>>>> c8140189fcaacf16c12bca426107ad66ce519278
-    var data = {
-        ma_khach_hang: document.querySelector(".linkToUser").classList[2],
-    };
 
-    // Tạo một yêu cầu fetch với phương thức POST
-    fetch('/booking-page/getOrderNumber', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(data),
-    })
-        .then(response => response.json())
-        .then(data => {
-            var { order_number } = data;
-            // Tạo URL với tham số truyền đi
-            var url = "/seat-order"
-                + "?order_number=" + encodeURIComponent(order_number);
+    // Tạo URL với tham số truyền đi
+    var url = "/seat-order"
+        + "?order_number=" + encodeURIComponent(order_number);
 
-            // Chuyển hướng đến trang hiển thị vé với tham số
-            window.location.href = url;
-        })
-        .catch((error) => {
-            console.error('Error:', error);
-            // Xử lý lỗi nếu cần
-            alert("Có lỗi");
-        });
+    window.location.href = url;
 }
-
-<<<<<<< HEAD
-function initFormSubmitInfo() {
-
-}
-=======
->>>>>>> c8140189fcaacf16c12bca426107ad66ce519278
