@@ -183,10 +183,6 @@ function backToBookingPage() {
 }
 
 function goToSeatOrder() {
-<<<<<<< HEAD
-    window.removeEventListener('beforeunload', handleUnload());
-
-=======
     // Lặp qua mỗi form thông tin người lớn
     for (var i = 0; i < quantity[0].so_luong_nguoi_lon; i++) {
         var nameInput = document.querySelector('.adult-info .form-info:nth-child(' + (i + 2) + ') input[type="text"]');
@@ -213,7 +209,6 @@ function goToSeatOrder() {
 
     // Nếu mọi thứ hợp lệ, thực hiện chuyển tiếp đến trang tiếp theo
     
->>>>>>> c8140189fcaacf16c12bca426107ad66ce519278
     var data = {
         ma_khach_hang: document.querySelector(".linkToUser").classList[2],
     };
@@ -242,10 +237,3 @@ function goToSeatOrder() {
             alert("Có lỗi");
         });
 }
-
-<<<<<<< HEAD
-function initFormSubmitInfo() {
-
-}
-=======
->>>>>>> c8140189fcaacf16c12bca426107ad66ce519278
