@@ -1,1800 +1,4001 @@
 INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (11, 1, 'pho_thong', 36, 2138000, 1312000, null);
+VALUES (11, 1, 'pho_thong', 72, 1551000, 487000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (12, 1, 'thuong_gia', 12, 1698000, 960000, null);
+(12, 1, 'thuong_gia', 24, 4762000, 2834000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (21, 2, 'pho_thong', 36, 1491000, 1065000, null);
+(21, 2, 'pho_thong', 72, 2989000, 1407000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (22, 2, 'thuong_gia', 12, 1751000, 1038000, null);
+(22, 2, 'thuong_gia', 24, 4834000, 3058000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (31, 3, 'pho_thong', 36, 2341000, 110000, null);
+(31, 3, 'pho_thong', 72, 1786000, 990000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (32, 3, 'thuong_gia', 12, 1199000, 760000, null);
+(32, 3, 'thuong_gia', 24, 3345000, 1192000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (41, 4, 'pho_thong', 36, 2282000, 1070000, null);
+(41, 4, 'pho_thong', 72, 503000, 335000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (42, 4, 'thuong_gia', 12, 6020000, 4582000, null);
+(42, 4, 'thuong_gia', 24, 2959000, 1764000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (51, 5, 'pho_thong', 36, 4268000, 2107000, null);
+(51, 5, 'pho_thong', 72, 2227000, 199000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (52, 5, 'thuong_gia', 12, 3360000, 2580000, null);
+(52, 5, 'thuong_gia', 24, 3331000, 2206000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (61, 6, 'pho_thong', 36, 2556000, 549000, null);
+(61, 6, 'pho_thong', 72, 2173000, 234000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (62, 6, 'thuong_gia', 12, 1616000, 790000, null);
+(62, 6, 'thuong_gia', 24, 2155000, 1392000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (71, 7, 'pho_thong', 36, 1737000, 12000, null);
+(71, 7, 'pho_thong', 72, 2210000, 633000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (72, 7, 'thuong_gia', 12, 5993000, 4944000, null);
+(72, 7, 'thuong_gia', 24, 3953000, 3432000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (81, 8, 'pho_thong', 36, 4660000, 2390000, null);
+(81, 8, 'pho_thong', 72, 3039000, 718000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (82, 8, 'thuong_gia', 12, 3543000, 2868000, null);
+(82, 8, 'thuong_gia', 24, 3482000, 2486000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (91, 9, 'pho_thong', 36, 1217000, 942000, null);
+(91, 9, 'pho_thong', 72, 1200000, 1189000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (92, 9, 'thuong_gia', 12, 4906000, 2830000, null);
+(92, 9, 'thuong_gia', 24, 3057000, 2264000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (101, 10, 'pho_thong', 36, 3315000, 2025000, null);
+(101, 10, 'pho_thong', 72, 2567000, 1071000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (102, 10, 'thuong_gia', 12, 1157000, 1132000, null);
+(102, 10, 'thuong_gia', 24, 4952000, 3902000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (111, 11, 'pho_thong', 36, 3951000, 2451000, null);
+(111, 11, 'pho_thong', 72, 3053000, 2096000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (112, 11, 'thuong_gia', 12, 2182000, 1852000, null);
+(112, 11, 'thuong_gia', 24, 3378000, 2656000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (121, 12, 'pho_thong', 36, 3454000, 1980000, null);
+(121, 12, 'pho_thong', 72, 4058000, 1683000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (122, 12, 'thuong_gia', 12, 4890000, 3560000, null);
+(122, 12, 'thuong_gia', 24, 2944000, 2454000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (131, 13, 'pho_thong', 36, 4150000, 2296000, null);
+(131, 13, 'pho_thong', 72, 3591000, 2106000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (132, 13, 'thuong_gia', 12, 2843000, 1320000, null);
+(132, 13, 'thuong_gia', 24, 5897000, 3902000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (141, 14, 'pho_thong', 36, 2931000, 825000, null);
+(141, 14, 'pho_thong', 72, 2864000, 1590000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (142, 14, 'thuong_gia', 12, 4708000, 2486000, null);
+(142, 14, 'thuong_gia', 24, 2260000, 370000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (151, 15, 'pho_thong', 36, 1110000, 791000, null);
+(151, 15, 'pho_thong', 72, 311000, 304000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (152, 15, 'thuong_gia', 12, 485000, 130000, null);
+(152, 15, 'thuong_gia', 24, 3528000, 1042000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (161, 16, 'pho_thong', 36, 2938000, 2097000, null);
+(161, 16, 'pho_thong', 72, 2699000, 1232000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (162, 16, 'thuong_gia', 12, 2734000, 552000, null);
+(162, 16, 'thuong_gia', 24, 3396000, 3002000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (171, 17, 'pho_thong', 36, 3659000, 1558000, null);
+(171, 17, 'pho_thong', 72, 2639000, 914000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (172, 17, 'thuong_gia', 12, 5916000, 3578000, null);
+(172, 17, 'thuong_gia', 24, 3510000, 1086000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (181, 18, 'pho_thong', 36, 1375000, 567000, null);
+(181, 18, 'pho_thong', 72, 1939000, 958000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (182, 18, 'thuong_gia', 12, 1270000, 264000, null);
+(182, 18, 'thuong_gia', 24, 3108000, 2262000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (191, 19, 'pho_thong', 36, 3347000, 1217000, null);
+(191, 19, 'pho_thong', 72, 3114000, 1990000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (192, 19, 'thuong_gia', 12, 3846000, 3704000, null);
+(192, 19, 'thuong_gia', 24, 3464000, 1902000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (201, 20, 'pho_thong', 36, 1664000, 1476000, null);
+(201, 20, 'pho_thong', 72, 4310000, 2481000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (202, 20, 'thuong_gia', 12, 2612000, 714000, null);
+(202, 20, 'thuong_gia', 24, 6796000, 4716000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (211, 21, 'pho_thong', 36, 3047000, 976000, null);
+(211, 21, 'pho_thong', 72, 1605000, 300000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (212, 21, 'thuong_gia', 12, 1263000, 854000, null);
+(212, 21, 'thuong_gia', 24, 1391000, 1160000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (221, 22, 'pho_thong', 36, 1611000, 623000, null);
+(221, 22, 'pho_thong', 72, 3177000, 2366000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (222, 22, 'thuong_gia', 12, 3449000, 2122000, null);
+(222, 22, 'thuong_gia', 24, 3833000, 2222000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (231, 23, 'pho_thong', 36, 2818000, 780000, null);
+(231, 23, 'pho_thong', 72, 1359000, 209000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (232, 23, 'thuong_gia', 12, 4838000, 4660000, null);
+(232, 23, 'thuong_gia', 24, 1639000, 1356000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (241, 24, 'pho_thong', 36, 3825000, 1899000, null);
+(241, 24, 'pho_thong', 72, 3349000, 1293000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (242, 24, 'thuong_gia', 12, 4483000, 4048000, null);
+(242, 24, 'thuong_gia', 24, 4652000, 2428000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (251, 25, 'pho_thong', 36, 2326000, 2084000, null);
+(251, 25, 'pho_thong', 72, 2091000, 1278000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (252, 25, 'thuong_gia', 12, 5929000, 3600000, null);
+(252, 25, 'thuong_gia', 24, 4260000, 3354000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (261, 26, 'pho_thong', 36, 3523000, 1612000, null);
+(261, 26, 'pho_thong', 72, 1282000, 165000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (262, 26, 'thuong_gia', 12, 2448000, 1144000, null);
+(262, 26, 'thuong_gia', 24, 3618000, 1328000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (271, 27, 'pho_thong', 36, 1476000, 951000, null);
+(271, 27, 'pho_thong', 72, 1686000, 218000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (272, 27, 'thuong_gia', 12, 5628000, 3782000, null);
+(272, 27, 'thuong_gia', 24, 2193000, 522000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (281, 28, 'pho_thong', 36, 1158000, 627000, null);
+(281, 28, 'pho_thong', 72, 3988000, 1772000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (282, 28, 'thuong_gia', 12, 2208000, 1442000, null);
+(282, 28, 'thuong_gia', 24, 2018000, 406000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (291, 29, 'pho_thong', 36, 3077000, 1584000, null);
+(291, 29, 'pho_thong', 72, 1701000, 251000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (292, 29, 'thuong_gia', 12, 6145000, 4460000, null);
+(292, 29, 'thuong_gia', 24, 3718000, 2882000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (301, 30, 'pho_thong', 36, 1260000, 1021000, null);
+(301, 30, 'pho_thong', 72, 3591000, 2024000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (302, 30, 'thuong_gia', 12, 3318000, 1134000, null);
+(302, 30, 'thuong_gia', 24, 3482000, 1794000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (311, 31, 'pho_thong', 36, 3363000, 1485000, null);
+(311, 31, 'pho_thong', 72, 2884000, 2314000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (312, 31, 'thuong_gia', 12, 1405000, 262000, null);
+(312, 31, 'thuong_gia', 24, 2219000, 1198000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (321, 32, 'pho_thong', 36, 2736000, 1165000, null);
+(321, 32, 'pho_thong', 72, 1077000, 350000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (322, 32, 'thuong_gia', 12, 3570000, 1854000, null);
+(322, 32, 'thuong_gia', 24, 1991000, 1056000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (331, 33, 'pho_thong', 36, 3065000, 802000, null);
+(331, 33, 'pho_thong', 72, 2763000, 417000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (332, 33, 'thuong_gia', 12, 3698000, 2860000, null);
+(332, 33, 'thuong_gia', 24, 6106000, 4304000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (341, 34, 'pho_thong', 36, 1982000, 1747000, null);
+(341, 34, 'pho_thong', 72, 4151000, 2165000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (342, 34, 'thuong_gia', 12, 1460000, 1414000, null);
+(342, 34, 'thuong_gia', 24, 5826000, 4088000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (351, 35, 'pho_thong', 36, 948000, 21000, null);
+(351, 35, 'pho_thong', 72, 535000, 319000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (352, 35, 'thuong_gia', 12, 4976000, 3252000, null);
+(352, 35, 'thuong_gia', 24, 6369000, 4352000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (361, 36, 'pho_thong', 36, 1205000, 427000, null);
+(361, 36, 'pho_thong', 72, 2838000, 2332000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (362, 36, 'thuong_gia', 12, 2735000, 1878000, null);
+(362, 36, 'thuong_gia', 24, 3819000, 1762000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (371, 37, 'pho_thong', 36, 3229000, 1938000, null);
+(371, 37, 'pho_thong', 72, 2544000, 1539000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (372, 37, 'thuong_gia', 12, 5537000, 4518000, null);
+(372, 37, 'thuong_gia', 24, 5282000, 4012000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (381, 38, 'pho_thong', 36, 2673000, 1935000, null);
+(381, 38, 'pho_thong', 72, 2578000, 2336000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (382, 38, 'thuong_gia', 12, 5789000, 4764000, null);
+(382, 38, 'thuong_gia', 24, 6066000, 3696000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (391, 39, 'pho_thong', 36, 1251000, 954000, null);
+(391, 39, 'pho_thong', 72, 1978000, 36000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (392, 39, 'thuong_gia', 12, 4669000, 4244000, null);
+(392, 39, 'thuong_gia', 24, 2002000, 1924000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (401, 40, 'pho_thong', 36, 2797000, 1000000, null);
+(401, 40, 'pho_thong', 72, 450000, 375000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (402, 40, 'thuong_gia', 12, 4063000, 2044000, null);
+(402, 40, 'thuong_gia', 24, 2010000, 684000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (411, 41, 'pho_thong', 36, 3447000, 2474000, null);
+(411, 41, 'pho_thong', 72, 1669000, 205000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (412, 41, 'thuong_gia', 12, 2227000, 502000, null);
+(412, 41, 'thuong_gia', 24, 4537000, 3048000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (421, 42, 'pho_thong', 36, 500000, 133000, null);
+(421, 42, 'pho_thong', 72, 955000, 325000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (422, 42, 'thuong_gia', 12, 5841000, 3434000, null);
+(422, 42, 'thuong_gia', 24, 4674000, 3966000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (431, 43, 'pho_thong', 36, 1279000, 246000, null);
+(431, 43, 'pho_thong', 72, 1418000, 136000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (432, 43, 'thuong_gia', 12, 2043000, 498000, null);
+(432, 43, 'thuong_gia', 24, 4963000, 3730000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (441, 44, 'pho_thong', 36, 2195000, 339000, null);
+(441, 44, 'pho_thong', 72, 886000, 13000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (442, 44, 'thuong_gia', 12, 419000, 318000, null);
+(442, 44, 'thuong_gia', 24, 5765000, 3596000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (451, 45, 'pho_thong', 36, 4708000, 2221000, null);
+(451, 45, 'pho_thong', 72, 1186000, 857000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (452, 45, 'thuong_gia', 12, 2633000, 1644000, null);
+(452, 45, 'thuong_gia', 24, 3603000, 2600000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (461, 46, 'pho_thong', 36, 892000, 387000, null);
+(461, 46, 'pho_thong', 72, 3271000, 1427000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (462, 46, 'thuong_gia', 12, 4457000, 4350000, null);
+(462, 46, 'thuong_gia', 24, 4917000, 2786000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (471, 47, 'pho_thong', 36, 1035000, 989000, null);
+(471, 47, 'pho_thong', 72, 1248000, 1048000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (472, 47, 'thuong_gia', 12, 2763000, 972000, null);
+(472, 47, 'thuong_gia', 24, 2963000, 2496000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (481, 48, 'pho_thong', 36, 2073000, 1844000, null);
+(481, 48, 'pho_thong', 72, 656000, 455000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (482, 48, 'thuong_gia', 12, 6123000, 4630000, null);
+(482, 48, 'thuong_gia', 24, 2411000, 120000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (491, 49, 'pho_thong', 36, 1581000, 616000, null);
+(491, 49, 'pho_thong', 72, 2481000, 968000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (492, 49, 'thuong_gia', 12, 1662000, 406000, null);
+(492, 49, 'thuong_gia', 24, 1228000, 884000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (501, 50, 'pho_thong', 36, 1304000, 65000, null);
+(501, 50, 'pho_thong', 72, 3182000, 1411000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (502, 50, 'thuong_gia', 12, 2096000, 950000, null);
+(502, 50, 'thuong_gia', 24, 3390000, 2028000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (511, 51, 'pho_thong', 36, 1099000, 114000, null);
+(511, 51, 'pho_thong', 72, 1922000, 553000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (512, 51, 'thuong_gia', 12, 3384000, 2466000, null);
+(512, 51, 'thuong_gia', 24, 2872000, 1276000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (521, 52, 'pho_thong', 36, 3384000, 893000, null);
+(521, 52, 'pho_thong', 72, 4330000, 2018000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (522, 52, 'thuong_gia', 12, 3961000, 2412000, null);
+(522, 52, 'thuong_gia', 24, 5399000, 3946000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (531, 53, 'pho_thong', 36, 2615000, 2497000, null);
+(531, 53, 'pho_thong', 72, 2993000, 1884000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (532, 53, 'thuong_gia', 12, 4749000, 3552000, null);
+(532, 53, 'thuong_gia', 24, 3022000, 1260000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (541, 54, 'pho_thong', 36, 2360000, 1276000, null);
+(541, 54, 'pho_thong', 72, 2095000, 169000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (542, 54, 'thuong_gia', 12, 642000, 260000, null);
+(542, 54, 'thuong_gia', 24, 7326000, 4986000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (551, 55, 'pho_thong', 36, 3068000, 2318000, null);
+(551, 55, 'pho_thong', 72, 1431000, 406000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (552, 55, 'thuong_gia', 12, 6161000, 4954000, null);
+(552, 55, 'thuong_gia', 24, 5191000, 3834000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (561, 56, 'pho_thong', 36, 3718000, 2028000, null);
+(561, 56, 'pho_thong', 72, 2994000, 2177000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (562, 56, 'thuong_gia', 12, 2624000, 1464000, null);
+(562, 56, 'thuong_gia', 24, 4297000, 2864000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (571, 57, 'pho_thong', 36, 2551000, 1207000, null);
+(571, 57, 'pho_thong', 72, 4418000, 2468000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (572, 57, 'thuong_gia', 12, 2130000, 200000, null);
+(572, 57, 'thuong_gia', 24, 3777000, 2774000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (581, 58, 'pho_thong', 36, 4323000, 2405000, null);
+(581, 58, 'pho_thong', 72, 830000, 816000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (582, 58, 'thuong_gia', 12, 1519000, 164000, null);
+(582, 58, 'thuong_gia', 24, 4584000, 3280000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (591, 59, 'pho_thong', 36, 2335000, 357000, null);
+(591, 59, 'pho_thong', 72, 1729000, 1443000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (592, 59, 'thuong_gia', 12, 3409000, 1328000, null);
+(592, 59, 'thuong_gia', 24, 5720000, 4694000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (601, 60, 'pho_thong', 36, 2310000, 1628000, null);
+(601, 60, 'pho_thong', 72, 1508000, 335000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (602, 60, 'thuong_gia', 12, 2766000, 2634000, null);
+(602, 60, 'thuong_gia', 24, 1062000, 700000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (611, 61, 'pho_thong', 36, 1496000, 1031000, null);
+(611, 61, 'pho_thong', 72, 1369000, 810000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (612, 61, 'thuong_gia', 12, 2846000, 1098000, null);
+(612, 61, 'thuong_gia', 24, 2770000, 520000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (621, 62, 'pho_thong', 36, 3099000, 1914000, null);
+(621, 62, 'pho_thong', 72, 4387000, 2187000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (622, 62, 'thuong_gia', 12, 4727000, 2966000, null);
+(622, 62, 'thuong_gia', 24, 1533000, 924000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (631, 63, 'pho_thong', 36, 3994000, 1511000, null);
+(631, 63, 'pho_thong', 72, 669000, 246000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (632, 63, 'thuong_gia', 12, 4726000, 2984000, null);
+(632, 63, 'thuong_gia', 24, 3945000, 1952000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (641, 64, 'pho_thong', 36, 1522000, 1018000, null);
+(641, 64, 'pho_thong', 72, 2214000, 2052000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (642, 64, 'thuong_gia', 12, 1795000, 1140000, null);
+(642, 64, 'thuong_gia', 24, 6320000, 4520000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (651, 65, 'pho_thong', 36, 2432000, 1545000, null);
+(651, 65, 'pho_thong', 72, 4670000, 2393000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (652, 65, 'thuong_gia', 12, 2780000, 1228000, null);
+(652, 65, 'thuong_gia', 24, 4924000, 4450000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (661, 66, 'pho_thong', 36, 3708000, 2152000, null);
+(661, 66, 'pho_thong', 72, 3067000, 766000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (662, 66, 'thuong_gia', 12, 4856000, 2692000, null);
+(662, 66, 'thuong_gia', 24, 5963000, 4542000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (671, 67, 'pho_thong', 36, 1373000, 638000, null);
+(671, 67, 'pho_thong', 72, 1779000, 1061000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (672, 67, 'thuong_gia', 12, 4876000, 4006000, null);
+(672, 67, 'thuong_gia', 24, 4454000, 2092000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (681, 68, 'pho_thong', 36, 861000, 586000, null);
+(681, 68, 'pho_thong', 72, 3978000, 1587000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (682, 68, 'thuong_gia', 12, 6828000, 4504000, null);
+(682, 68, 'thuong_gia', 24, 3654000, 1652000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (691, 69, 'pho_thong', 36, 2215000, 2138000, null);
+(691, 69, 'pho_thong', 72, 2258000, 1231000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (692, 69, 'thuong_gia', 12, 5401000, 4048000, null);
+(692, 69, 'thuong_gia', 24, 2652000, 1572000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (701, 70, 'pho_thong', 36, 2939000, 1575000, null);
+(701, 70, 'pho_thong', 72, 1970000, 1208000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (702, 70, 'thuong_gia', 12, 6968000, 4764000, null);
+(702, 70, 'thuong_gia', 24, 6508000, 4926000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (711, 71, 'pho_thong', 36, 2952000, 864000, null);
+(711, 71, 'pho_thong', 72, 2947000, 2308000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (712, 71, 'thuong_gia', 12, 4421000, 2882000, null);
+(712, 71, 'thuong_gia', 24, 4596000, 2336000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (721, 72, 'pho_thong', 36, 3381000, 1115000, null);
+(721, 72, 'pho_thong', 72, 4200000, 2231000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (722, 72, 'thuong_gia', 12, 2175000, 1428000, null);
+(722, 72, 'thuong_gia', 24, 4382000, 2400000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (731, 73, 'pho_thong', 36, 2418000, 535000, null);
+(731, 73, 'pho_thong', 72, 1860000, 1106000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (732, 73, 'thuong_gia', 12, 3285000, 1990000, null);
+(732, 73, 'thuong_gia', 24, 4994000, 2668000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (741, 74, 'pho_thong', 36, 4131000, 1899000, null);
+(741, 74, 'pho_thong', 72, 2114000, 262000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (742, 74, 'thuong_gia', 12, 4594000, 2928000, null);
+(742, 74, 'thuong_gia', 24, 1960000, 1416000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (751, 75, 'pho_thong', 36, 2186000, 1076000, null);
+(751, 75, 'pho_thong', 72, 1347000, 125000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (752, 75, 'thuong_gia', 12, 2111000, 1992000, null);
+(752, 75, 'thuong_gia', 24, 3483000, 2322000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (761, 76, 'pho_thong', 36, 3010000, 1646000, null);
+(761, 76, 'pho_thong', 72, 2685000, 2050000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (762, 76, 'thuong_gia', 12, 4550000, 2098000, null);
+(762, 76, 'thuong_gia', 24, 2101000, 530000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (771, 77, 'pho_thong', 36, 2697000, 2333000, null);
+(771, 77, 'pho_thong', 72, 3433000, 2188000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (772, 77, 'thuong_gia', 12, 5339000, 4044000, null);
+(772, 77, 'thuong_gia', 24, 2582000, 918000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (781, 78, 'pho_thong', 36, 3271000, 2295000, null);
+(781, 78, 'pho_thong', 72, 2713000, 2017000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (782, 78, 'thuong_gia', 12, 6558000, 4646000, null);
+(782, 78, 'thuong_gia', 24, 3213000, 1816000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (791, 79, 'pho_thong', 36, 998000, 16000, null);
+(791, 79, 'pho_thong', 72, 3179000, 2025000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (792, 79, 'thuong_gia', 12, 2395000, 1310000, null);
+(792, 79, 'thuong_gia', 24, 4274000, 3112000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (801, 80, 'pho_thong', 36, 2669000, 1345000, null);
+(801, 80, 'pho_thong', 72, 2504000, 759000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (802, 80, 'thuong_gia', 12, 3599000, 1720000, null);
+(802, 80, 'thuong_gia', 24, 5683000, 4848000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (811, 81, 'pho_thong', 36, 3033000, 1632000, null);
+(811, 81, 'pho_thong', 72, 3032000, 1404000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (812, 81, 'thuong_gia', 12, 4026000, 2510000, null);
+(812, 81, 'thuong_gia', 24, 1343000, 1122000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (821, 82, 'pho_thong', 36, 1874000, 926000, null);
+(821, 82, 'pho_thong', 72, 2847000, 491000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (822, 82, 'thuong_gia', 12, 3589000, 2286000, null);
+(822, 82, 'thuong_gia', 24, 2464000, 1806000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (831, 83, 'pho_thong', 36, 3933000, 2390000, null);
+(831, 83, 'pho_thong', 72, 3034000, 1862000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (832, 83, 'thuong_gia', 12, 5782000, 4040000, null);
+(832, 83, 'thuong_gia', 24, 3619000, 2840000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (841, 84, 'pho_thong', 36, 1705000, 916000, null);
+(841, 84, 'pho_thong', 72, 1734000, 1588000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (842, 84, 'thuong_gia', 12, 2220000, 310000, null);
+(842, 84, 'thuong_gia', 24, 3788000, 1490000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (851, 85, 'pho_thong', 36, 2500000, 1012000, null);
+(851, 85, 'pho_thong', 72, 1075000, 589000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (852, 85, 'thuong_gia', 12, 3799000, 2278000, null);
+(852, 85, 'thuong_gia', 24, 4713000, 4390000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (861, 86, 'pho_thong', 36, 3336000, 2187000, null);
+(861, 86, 'pho_thong', 72, 2058000, 1273000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (862, 86, 'thuong_gia', 12, 5159000, 3810000, null);
+(862, 86, 'thuong_gia', 24, 6149000, 4066000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (871, 87, 'pho_thong', 36, 1265000, 546000, null);
+(871, 87, 'pho_thong', 72, 1478000, 445000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (872, 87, 'thuong_gia', 12, 4214000, 3174000, null);
+(872, 87, 'thuong_gia', 24, 6418000, 4482000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (881, 88, 'pho_thong', 36, 2521000, 2300000, null);
+(881, 88, 'pho_thong', 72, 1225000, 127000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (882, 88, 'thuong_gia', 12, 5489000, 3000000, null);
+(882, 88, 'thuong_gia', 24, 3328000, 2754000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (891, 89, 'pho_thong', 36, 3453000, 2204000, null);
+(891, 89, 'pho_thong', 72, 4193000, 2042000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (892, 89, 'thuong_gia', 12, 3752000, 2194000, null);
+(892, 89, 'thuong_gia', 24, 6006000, 4472000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (901, 90, 'pho_thong', 36, 3199000, 1173000, null);
+(901, 90, 'pho_thong', 72, 3125000, 1971000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (902, 90, 'thuong_gia', 12, 3817000, 2850000, null);
+(902, 90, 'thuong_gia', 24, 4988000, 3566000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (911, 91, 'pho_thong', 36, 3040000, 885000, null);
+(911, 91, 'pho_thong', 72, 3163000, 1733000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (912, 91, 'thuong_gia', 12, 5397000, 4152000, null);
+(912, 91, 'thuong_gia', 24, 3553000, 2584000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (921, 92, 'pho_thong', 36, 2420000, 954000, null);
+(921, 92, 'pho_thong', 72, 2255000, 250000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (922, 92, 'thuong_gia', 12, 1428000, 1408000, null);
+(922, 92, 'thuong_gia', 24, 6166000, 4542000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (931, 93, 'pho_thong', 36, 3747000, 1934000, null);
+(931, 93, 'pho_thong', 72, 3627000, 1763000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (932, 93, 'thuong_gia', 12, 4482000, 4386000, null);
+(932, 93, 'thuong_gia', 24, 4459000, 3104000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (941, 94, 'pho_thong', 36, 56000, 18000, null);
+(941, 94, 'pho_thong', 72, 4021000, 1920000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (942, 94, 'thuong_gia', 12, 6159000, 4310000, null);
+(942, 94, 'thuong_gia', 24, 3909000, 1772000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (951, 95, 'pho_thong', 36, 2334000, 2295000, null);
+(951, 95, 'pho_thong', 72, 1556000, 210000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (952, 95, 'thuong_gia', 12, 1983000, 108000, null);
+(952, 95, 'thuong_gia', 24, 1989000, 1916000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (961, 96, 'pho_thong', 36, 3032000, 678000, null);
+(961, 96, 'pho_thong', 72, 1742000, 358000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (962, 96, 'thuong_gia', 12, 3690000, 2836000, null);
+(962, 96, 'thuong_gia', 24, 2769000, 792000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (971, 97, 'pho_thong', 36, 915000, 563000, null);
+(971, 97, 'pho_thong', 72, 1860000, 1254000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (972, 97, 'thuong_gia', 12, 5915000, 3620000, null);
+(972, 97, 'thuong_gia', 24, 5363000, 3054000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (981, 98, 'pho_thong', 36, 2505000, 1352000, null);
+(981, 98, 'pho_thong', 72, 2340000, 2173000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (982, 98, 'thuong_gia', 12, 3970000, 2916000, null);
+(982, 98, 'thuong_gia', 24, 3925000, 3684000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (991, 99, 'pho_thong', 36, 2239000, 2046000, null);
+(991, 99, 'pho_thong', 72, 2586000, 615000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (992, 99, 'thuong_gia', 12, 3351000, 2424000, null);
+(992, 99, 'thuong_gia', 24, 3631000, 2372000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1001, 100, 'pho_thong', 36, 3371000, 1564000, null);
+(1001, 100, 'pho_thong', 72, 1369000, 1287000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1002, 100, 'thuong_gia', 12, 630000, 332000, null);
+(1002, 100, 'thuong_gia', 24, 5830000, 4452000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1011, 101, 'pho_thong', 36, 3397000, 1736000, null);
+(1011, 101, 'pho_thong', 72, 2940000, 1899000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1012, 101, 'thuong_gia', 12, 2311000, 28000, null);
+(1012, 101, 'thuong_gia', 24, 4073000, 3760000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1021, 102, 'pho_thong', 36, 3893000, 2290000, null);
+(1021, 102, 'pho_thong', 72, 4166000, 2455000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1022, 102, 'thuong_gia', 12, 3430000, 3358000, null);
+(1022, 102, 'thuong_gia', 24, 4999000, 2962000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1031, 103, 'pho_thong', 36, 2327000, 167000, null);
+(1031, 103, 'pho_thong', 72, 3309000, 1875000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1032, 103, 'thuong_gia', 12, 2093000, 532000, null);
+(1032, 103, 'thuong_gia', 24, 1124000, 630000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1041, 104, 'pho_thong', 36, 3858000, 2263000, null);
+(1041, 104, 'pho_thong', 72, 785000, 385000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1042, 104, 'thuong_gia', 12, 4590000, 2880000, null);
+(1042, 104, 'thuong_gia', 24, 1326000, 858000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1051, 105, 'pho_thong', 36, 2735000, 1910000, null);
+(1051, 105, 'pho_thong', 72, 3178000, 1552000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1052, 105, 'thuong_gia', 12, 4979000, 4798000, null);
+(1052, 105, 'thuong_gia', 24, 2999000, 696000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1061, 106, 'pho_thong', 36, 2766000, 439000, null);
+(1061, 106, 'pho_thong', 72, 3190000, 2373000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1062, 106, 'thuong_gia', 12, 2166000, 1920000, null);
+(1062, 106, 'thuong_gia', 24, 3232000, 1578000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1071, 107, 'pho_thong', 36, 1601000, 1490000, null);
+(1071, 107, 'pho_thong', 72, 402000, 181000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1072, 107, 'thuong_gia', 12, 1707000, 1206000, null);
+(1072, 107, 'thuong_gia', 24, 680000, 324000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1081, 108, 'pho_thong', 36, 2384000, 906000, null);
+(1081, 108, 'pho_thong', 72, 3749000, 1833000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1082, 108, 'thuong_gia', 12, 2137000, 1274000, null);
+(1082, 108, 'thuong_gia', 24, 1295000, 600000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1091, 109, 'pho_thong', 36, 1872000, 1744000, null);
+(1091, 109, 'pho_thong', 72, 2707000, 1124000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1092, 109, 'thuong_gia', 12, 5169000, 4682000, null);
+(1092, 109, 'thuong_gia', 24, 2645000, 886000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1101, 110, 'pho_thong', 36, 3246000, 1586000, null);
+(1101, 110, 'pho_thong', 72, 4550000, 2301000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1102, 110, 'thuong_gia', 12, 803000, 770000, null);
+(1102, 110, 'thuong_gia', 24, 2661000, 1732000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1111, 111, 'pho_thong', 36, 1229000, 160000, null);
+(1111, 111, 'pho_thong', 72, 2051000, 1784000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1112, 111, 'thuong_gia', 12, 3870000, 3798000, null);
+(1112, 111, 'thuong_gia', 24, 3938000, 3822000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1121, 112, 'pho_thong', 36, 2231000, 2113000, null);
+(1121, 112, 'pho_thong', 72, 2360000, 1475000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1122, 112, 'thuong_gia', 12, 2795000, 1402000, null);
+(1122, 112, 'thuong_gia', 24, 2025000, 212000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1131, 113, 'pho_thong', 36, 3412000, 1944000, null);
+(1131, 113, 'pho_thong', 72, 2045000, 2018000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1132, 113, 'thuong_gia', 12, 3909000, 2380000, null);
+(1132, 113, 'thuong_gia', 24, 4584000, 3214000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1141, 114, 'pho_thong', 36, 3265000, 1809000, null);
+(1141, 114, 'pho_thong', 72, 4174000, 2482000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1142, 114, 'thuong_gia', 12, 2519000, 2276000, null);
+(1142, 114, 'thuong_gia', 24, 6228000, 3964000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1151, 115, 'pho_thong', 36, 4017000, 2012000, null);
+(1151, 115, 'pho_thong', 72, 3087000, 1720000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1152, 115, 'thuong_gia', 12, 5516000, 4112000, null);
+(1152, 115, 'thuong_gia', 24, 5118000, 4794000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1161, 116, 'pho_thong', 36, 2932000, 688000, null);
+(1161, 116, 'pho_thong', 72, 3278000, 2499000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1162, 116, 'thuong_gia', 12, 3291000, 3036000, null);
+(1162, 116, 'thuong_gia', 24, 716000, 286000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1171, 117, 'pho_thong', 36, 3025000, 1822000, null);
+(1171, 117, 'pho_thong', 72, 1672000, 962000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1172, 117, 'thuong_gia', 12, 2487000, 1166000, null);
+(1172, 117, 'thuong_gia', 24, 3644000, 3432000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1181, 118, 'pho_thong', 36, 4883000, 2422000, null);
+(1181, 118, 'pho_thong', 72, 3141000, 2028000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1182, 118, 'thuong_gia', 12, 3540000, 2054000, null);
+(1182, 118, 'thuong_gia', 24, 2479000, 1724000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1191, 119, 'pho_thong', 36, 1432000, 878000, null);
+(1191, 119, 'pho_thong', 72, 1906000, 276000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1192, 119, 'thuong_gia', 12, 2864000, 926000, null);
+(1192, 119, 'thuong_gia', 24, 4263000, 2186000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1201, 120, 'pho_thong', 36, 1386000, 683000, null);
+(1201, 120, 'pho_thong', 72, 3524000, 1440000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1202, 120, 'thuong_gia', 12, 3598000, 3334000, null);
+(1202, 120, 'thuong_gia', 24, 3019000, 1830000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1211, 121, 'pho_thong', 36, 4335000, 1891000, null);
+(1211, 121, 'pho_thong', 72, 3779000, 1862000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1212, 121, 'thuong_gia', 12, 4138000, 3336000, null);
+(1212, 121, 'thuong_gia', 24, 952000, 20000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1221, 122, 'pho_thong', 36, 2101000, 1745000, null);
+(1221, 122, 'pho_thong', 72, 306000, 98000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1222, 122, 'thuong_gia', 12, 1811000, 592000, null);
+(1222, 122, 'thuong_gia', 24, 6300000, 3808000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1231, 123, 'pho_thong', 36, 2668000, 491000, null);
+(1231, 123, 'pho_thong', 72, 4032000, 2164000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1232, 123, 'thuong_gia', 12, 1377000, 336000, null);
+(1232, 123, 'thuong_gia', 24, 4109000, 2324000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1241, 124, 'pho_thong', 36, 1822000, 1670000, null);
+(1241, 124, 'pho_thong', 72, 2314000, 2144000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1242, 124, 'thuong_gia', 12, 3040000, 644000, null);
+(1242, 124, 'thuong_gia', 24, 3313000, 2996000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1251, 125, 'pho_thong', 36, 462000, 16000, null);
+(1251, 125, 'pho_thong', 72, 4139000, 2429000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1252, 125, 'thuong_gia', 12, 4367000, 3328000, null);
+(1252, 125, 'thuong_gia', 24, 3867000, 3292000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1261, 126, 'pho_thong', 36, 2909000, 860000, null);
+(1261, 126, 'pho_thong', 72, 2713000, 2185000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1262, 126, 'thuong_gia', 12, 5524000, 4646000, null);
+(1262, 126, 'thuong_gia', 24, 3983000, 2428000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1271, 127, 'pho_thong', 36, 3998000, 1765000, null);
+(1271, 127, 'pho_thong', 72, 3371000, 1465000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1272, 127, 'thuong_gia', 12, 5016000, 4408000, null);
+(1272, 127, 'thuong_gia', 24, 2548000, 2188000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1281, 128, 'pho_thong', 36, 4398000, 2158000, null);
+(1281, 128, 'pho_thong', 72, 1498000, 888000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1282, 128, 'thuong_gia', 12, 1492000, 338000, null);
+(1282, 128, 'thuong_gia', 24, 6332000, 4466000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1291, 129, 'pho_thong', 36, 3591000, 1196000, null);
+(1291, 129, 'pho_thong', 72, 3335000, 1496000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1292, 129, 'thuong_gia', 12, 4202000, 2576000, null);
+(1292, 129, 'thuong_gia', 24, 3193000, 1408000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1301, 130, 'pho_thong', 36, 3486000, 1093000, null);
+(1301, 130, 'pho_thong', 72, 2059000, 51000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1302, 130, 'thuong_gia', 12, 2517000, 792000, null);
+(1302, 130, 'thuong_gia', 24, 2223000, 850000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1311, 131, 'pho_thong', 36, 2966000, 899000, null);
+(1311, 131, 'pho_thong', 72, 3493000, 1055000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1312, 131, 'thuong_gia', 12, 2536000, 1834000, null);
+(1312, 131, 'thuong_gia', 24, 4536000, 3134000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1321, 132, 'pho_thong', 36, 1056000, 750000, null);
+(1321, 132, 'pho_thong', 72, 3537000, 1546000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1322, 132, 'thuong_gia', 12, 2693000, 736000, null);
+(1322, 132, 'thuong_gia', 24, 3259000, 3138000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1331, 133, 'pho_thong', 36, 2702000, 1733000, null);
+(1331, 133, 'pho_thong', 72, 2747000, 1010000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1332, 133, 'thuong_gia', 12, 5071000, 4480000, null);
+(1332, 133, 'thuong_gia', 24, 4968000, 3200000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1341, 134, 'pho_thong', 36, 3768000, 1633000, null);
+(1341, 134, 'pho_thong', 72, 4209000, 1983000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1342, 134, 'thuong_gia', 12, 5936000, 4782000, null);
+(1342, 134, 'thuong_gia', 24, 2517000, 814000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1351, 135, 'pho_thong', 36, 3140000, 1821000, null);
+(1351, 135, 'pho_thong', 72, 2523000, 835000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1352, 135, 'thuong_gia', 12, 5468000, 4598000, null);
+(1352, 135, 'thuong_gia', 24, 1672000, 612000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1361, 136, 'pho_thong', 36, 3421000, 1222000, null);
+(1361, 136, 'pho_thong', 72, 2136000, 265000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1362, 136, 'thuong_gia', 12, 3468000, 3386000, null);
+(1362, 136, 'thuong_gia', 24, 7184000, 4916000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1371, 137, 'pho_thong', 36, 3363000, 1632000, null);
+(1371, 137, 'pho_thong', 72, 4535000, 2357000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1372, 137, 'thuong_gia', 12, 5857000, 4038000, null);
+(1372, 137, 'thuong_gia', 24, 5949000, 3950000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1381, 138, 'pho_thong', 36, 2330000, 1290000, null);
+(1381, 138, 'pho_thong', 72, 2531000, 663000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1382, 138, 'thuong_gia', 12, 3453000, 1626000, null);
+(1382, 138, 'thuong_gia', 24, 1896000, 1230000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1391, 139, 'pho_thong', 36, 3962000, 2163000, null);
+(1391, 139, 'pho_thong', 72, 3944000, 2211000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1392, 139, 'thuong_gia', 12, 1725000, 804000, null);
+(1392, 139, 'thuong_gia', 24, 1985000, 1606000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1401, 140, 'pho_thong', 36, 1336000, 865000, null);
+(1401, 140, 'pho_thong', 72, 4409000, 2256000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1402, 140, 'thuong_gia', 12, 4595000, 3222000, null);
+(1402, 140, 'thuong_gia', 24, 4743000, 3710000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1411, 141, 'pho_thong', 36, 4697000, 2218000, null);
+(1411, 141, 'pho_thong', 72, 3548000, 2277000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1412, 141, 'thuong_gia', 12, 4560000, 3016000, null);
+(1412, 141, 'thuong_gia', 24, 3853000, 1532000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1421, 142, 'pho_thong', 36, 2280000, 1527000, null);
+(1421, 142, 'pho_thong', 72, 2073000, 1575000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1422, 142, 'thuong_gia', 12, 4170000, 2522000, null);
+(1422, 142, 'thuong_gia', 24, 2638000, 810000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1431, 143, 'pho_thong', 36, 1443000, 49000, null);
+(1431, 143, 'pho_thong', 72, 4404000, 1912000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1432, 143, 'thuong_gia', 12, 768000, 192000, null);
+(1432, 143, 'thuong_gia', 24, 4451000, 2886000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1441, 144, 'pho_thong', 36, 4351000, 2032000, null);
+(1441, 144, 'pho_thong', 72, 2242000, 1447000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1442, 144, 'thuong_gia', 12, 882000, 378000, null);
+(1442, 144, 'thuong_gia', 24, 5132000, 4990000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1451, 145, 'pho_thong', 36, 2436000, 1578000, null);
+(1451, 145, 'pho_thong', 72, 2852000, 1749000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1452, 145, 'thuong_gia', 12, 3877000, 2726000, null);
+(1452, 145, 'thuong_gia', 24, 2717000, 1568000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1461, 146, 'pho_thong', 36, 1108000, 1039000, null);
+(1461, 146, 'pho_thong', 72, 2819000, 489000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1462, 146, 'thuong_gia', 12, 1763000, 1078000, null);
+(1462, 146, 'thuong_gia', 24, 5699000, 3678000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1471, 147, 'pho_thong', 36, 4231000, 2128000, null);
+(1471, 147, 'pho_thong', 72, 3352000, 1338000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1472, 147, 'thuong_gia', 12, 524000, 18000, null);
+(1472, 147, 'thuong_gia', 24, 4545000, 4302000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1481, 148, 'pho_thong', 36, 4740000, 2468000, null);
+(1481, 148, 'pho_thong', 72, 4216000, 1849000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1482, 148, 'thuong_gia', 12, 2465000, 1710000, null);
+(1482, 148, 'thuong_gia', 24, 4511000, 3452000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1491, 149, 'pho_thong', 36, 3184000, 1063000, null);
+(1491, 149, 'pho_thong', 72, 3359000, 1884000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1492, 149, 'thuong_gia', 12, 4371000, 2748000, null);
+(1492, 149, 'thuong_gia', 24, 3186000, 1498000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1501, 150, 'pho_thong', 36, 1211000, 270000, null);
+(1501, 150, 'pho_thong', 72, 4064000, 1699000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1502, 150, 'thuong_gia', 12, 4226000, 2424000, null);
+(1502, 150, 'thuong_gia', 24, 4250000, 3092000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1511, 151, 'pho_thong', 36, 3289000, 1377000, null);
+(1511, 151, 'pho_thong', 72, 3055000, 762000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1512, 151, 'thuong_gia', 12, 704000, 280000, null);
+(1512, 151, 'thuong_gia', 24, 4039000, 2666000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1521, 152, 'pho_thong', 36, 1885000, 634000, null);
+(1521, 152, 'pho_thong', 72, 731000, 108000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1522, 152, 'thuong_gia', 12, 3588000, 1254000, null);
+(1522, 152, 'thuong_gia', 24, 798000, 694000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1531, 153, 'pho_thong', 36, 3784000, 1704000, null);
+(1531, 153, 'pho_thong', 72, 1713000, 1435000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1532, 153, 'thuong_gia', 12, 810000, 212000, null);
+(1532, 153, 'thuong_gia', 24, 6861000, 4724000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1541, 154, 'pho_thong', 36, 4011000, 2360000, null);
+(1541, 154, 'pho_thong', 72, 3141000, 1796000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1542, 154, 'thuong_gia', 12, 2532000, 174000, null);
+(1542, 154, 'thuong_gia', 24, 5747000, 4798000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1551, 155, 'pho_thong', 36, 2226000, 1376000, null);
+(1551, 155, 'pho_thong', 72, 1354000, 847000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1552, 155, 'thuong_gia', 12, 3997000, 3490000, null);
+(1552, 155, 'thuong_gia', 24, 5153000, 3002000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1561, 156, 'pho_thong', 36, 1561000, 328000, null);
+(1561, 156, 'pho_thong', 72, 3727000, 1863000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1562, 156, 'thuong_gia', 12, 2164000, 204000, null);
+(1562, 156, 'thuong_gia', 24, 5586000, 4928000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1571, 157, 'pho_thong', 36, 906000, 19000, null);
+(1571, 157, 'pho_thong', 72, 1910000, 1207000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1572, 157, 'thuong_gia', 12, 1570000, 444000, null);
+(1572, 157, 'thuong_gia', 24, 3238000, 2222000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1581, 158, 'pho_thong', 36, 1889000, 191000, null);
+(1581, 158, 'pho_thong', 72, 3041000, 1920000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1582, 158, 'thuong_gia', 12, 4832000, 2344000, null);
+(1582, 158, 'thuong_gia', 24, 2779000, 2720000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1591, 159, 'pho_thong', 36, 4012000, 1809000, null);
+(1591, 159, 'pho_thong', 72, 3207000, 2050000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1592, 159, 'thuong_gia', 12, 1034000, 486000, null);
+(1592, 159, 'thuong_gia', 24, 1008000, 188000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1601, 160, 'pho_thong', 36, 2504000, 2082000, null);
+(1601, 160, 'pho_thong', 72, 1134000, 140000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1602, 160, 'thuong_gia', 12, 5136000, 3144000, null);
+(1602, 160, 'thuong_gia', 24, 1922000, 1118000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1611, 161, 'pho_thong', 36, 2278000, 835000, null);
+(1611, 161, 'pho_thong', 72, 2350000, 1251000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1612, 161, 'thuong_gia', 12, 2941000, 1092000, null);
+(1612, 161, 'thuong_gia', 24, 2132000, 276000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1621, 162, 'pho_thong', 36, 3385000, 2276000, null);
+(1621, 162, 'pho_thong', 72, 2159000, 2007000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1622, 162, 'thuong_gia', 12, 4737000, 3666000, null);
+(1622, 162, 'thuong_gia', 24, 2272000, 922000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1631, 163, 'pho_thong', 36, 1110000, 650000, null);
+(1631, 163, 'pho_thong', 72, 846000, 606000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1632, 163, 'thuong_gia', 12, 6826000, 4956000, null);
+(1632, 163, 'thuong_gia', 24, 1220000, 256000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1641, 164, 'pho_thong', 36, 3787000, 1895000, null);
+(1641, 164, 'pho_thong', 72, 2430000, 2132000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1642, 164, 'thuong_gia', 12, 4130000, 3574000, null);
+(1642, 164, 'thuong_gia', 24, 3464000, 1096000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1651, 165, 'pho_thong', 36, 2159000, 338000, null);
+(1651, 165, 'pho_thong', 72, 3758000, 2355000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1652, 165, 'thuong_gia', 12, 4517000, 3070000, null);
+(1652, 165, 'thuong_gia', 24, 6368000, 4236000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1661, 166, 'pho_thong', 36, 3337000, 877000, null);
+(1661, 166, 'pho_thong', 72, 3209000, 1226000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1662, 166, 'thuong_gia', 12, 4060000, 2904000, null);
+(1662, 166, 'thuong_gia', 24, 4597000, 2104000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1671, 167, 'pho_thong', 36, 2279000, 1554000, null);
+(1671, 167, 'pho_thong', 72, 1144000, 433000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1672, 167, 'thuong_gia', 12, 848000, 686000, null);
+(1672, 167, 'thuong_gia', 24, 3356000, 1904000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1681, 168, 'pho_thong', 36, 2854000, 999000, null);
+(1681, 168, 'pho_thong', 72, 2960000, 1360000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1682, 168, 'thuong_gia', 12, 5257000, 3032000, null);
+(1682, 168, 'thuong_gia', 24, 4983000, 4530000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1691, 169, 'pho_thong', 36, 2470000, 721000, null);
+(1691, 169, 'pho_thong', 72, 2180000, 1468000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1692, 169, 'thuong_gia', 12, 3692000, 2892000, null);
+(1692, 169, 'thuong_gia', 24, 6397000, 4464000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1701, 170, 'pho_thong', 36, 3452000, 1390000, null);
+(1701, 170, 'pho_thong', 72, 2033000, 1882000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1702, 170, 'thuong_gia', 12, 2323000, 134000, null);
+(1702, 170, 'thuong_gia', 24, 5904000, 4054000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1711, 171, 'pho_thong', 36, 3056000, 629000, null);
+(1711, 171, 'pho_thong', 72, 2482000, 898000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1712, 171, 'thuong_gia', 12, 2212000, 1704000, null);
+(1712, 171, 'thuong_gia', 24, 5323000, 4962000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1721, 172, 'pho_thong', 36, 2771000, 1001000, null);
+(1721, 172, 'pho_thong', 72, 883000, 305000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1722, 172, 'thuong_gia', 12, 6222000, 4286000, null);
+(1722, 172, 'thuong_gia', 24, 3483000, 2804000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1731, 173, 'pho_thong', 36, 2199000, 911000, null);
+(1731, 173, 'pho_thong', 72, 2509000, 1328000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1732, 173, 'thuong_gia', 12, 4239000, 2256000, null);
+(1732, 173, 'thuong_gia', 24, 2837000, 1846000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1741, 174, 'pho_thong', 36, 2457000, 97000, null);
+(1741, 174, 'pho_thong', 72, 3354000, 2224000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1742, 174, 'thuong_gia', 12, 2156000, 82000, null);
+(1742, 174, 'thuong_gia', 24, 3962000, 1800000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1751, 175, 'pho_thong', 36, 3188000, 2389000, null);
+(1751, 175, 'pho_thong', 72, 2220000, 1021000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1752, 175, 'thuong_gia', 12, 3328000, 1814000, null);
+(1752, 175, 'thuong_gia', 24, 5677000, 3876000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1761, 176, 'pho_thong', 36, 3543000, 1837000, null);
+(1761, 176, 'pho_thong', 72, 1901000, 1761000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1762, 176, 'thuong_gia', 12, 896000, 440000, null);
+(1762, 176, 'thuong_gia', 24, 6152000, 4174000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1771, 177, 'pho_thong', 36, 1485000, 975000, null);
+(1771, 177, 'pho_thong', 72, 1722000, 171000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1772, 177, 'thuong_gia', 12, 3238000, 1948000, null);
+(1772, 177, 'thuong_gia', 24, 2369000, 1550000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1781, 178, 'pho_thong', 36, 1325000, 592000, null);
+(1781, 178, 'pho_thong', 72, 1701000, 1678000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1782, 178, 'thuong_gia', 12, 4124000, 3966000, null);
+(1782, 178, 'thuong_gia', 24, 4594000, 4404000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1791, 179, 'pho_thong', 36, 520000, 304000, null);
+(1791, 179, 'pho_thong', 72, 2084000, 1326000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1792, 179, 'thuong_gia', 12, 2299000, 1228000, null);
+(1792, 179, 'thuong_gia', 24, 666000, 454000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1801, 180, 'pho_thong', 36, 1033000, 619000, null);
+(1801, 180, 'pho_thong', 72, 650000, 262000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1802, 180, 'thuong_gia', 12, 3252000, 2914000, null);
+(1802, 180, 'thuong_gia', 24, 5665000, 4764000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1811, 181, 'pho_thong', 36, 2995000, 947000, null);
+(1811, 181, 'pho_thong', 72, 2308000, 553000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1812, 181, 'thuong_gia', 12, 5084000, 3440000, null);
+(1812, 181, 'thuong_gia', 24, 6741000, 4906000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1821, 182, 'pho_thong', 36, 2741000, 2231000, null);
+(1821, 182, 'pho_thong', 72, 2040000, 200000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1822, 182, 'thuong_gia', 12, 3874000, 3464000, null);
+(1822, 182, 'thuong_gia', 24, 2726000, 1638000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1831, 183, 'pho_thong', 36, 2095000, 491000, null);
+(1831, 183, 'pho_thong', 72, 2534000, 155000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1832, 183, 'thuong_gia', 12, 6138000, 4244000, null);
+(1832, 183, 'thuong_gia', 24, 3744000, 1434000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1841, 184, 'pho_thong', 36, 849000, 83000, null);
+(1841, 184, 'pho_thong', 72, 1382000, 549000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1842, 184, 'thuong_gia', 12, 4542000, 2632000, null);
+(1842, 184, 'thuong_gia', 24, 2817000, 1278000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1851, 185, 'pho_thong', 36, 2011000, 430000, null);
+(1851, 185, 'pho_thong', 72, 2547000, 1897000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1852, 185, 'thuong_gia', 12, 3064000, 2722000, null);
+(1852, 185, 'thuong_gia', 24, 1549000, 590000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1861, 186, 'pho_thong', 36, 2790000, 2151000, null);
+(1861, 186, 'pho_thong', 72, 3371000, 1530000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1862, 186, 'thuong_gia', 12, 3896000, 1736000, null);
+(1862, 186, 'thuong_gia', 24, 3908000, 1982000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1871, 187, 'pho_thong', 36, 1992000, 216000, null);
+(1871, 187, 'pho_thong', 72, 3462000, 1908000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1872, 187, 'thuong_gia', 12, 3851000, 3216000, null);
+(1872, 187, 'thuong_gia', 24, 5111000, 2618000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1881, 188, 'pho_thong', 36, 3237000, 951000, null);
+(1881, 188, 'pho_thong', 72, 1843000, 714000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1882, 188, 'thuong_gia', 12, 6919000, 4908000, null);
+(1882, 188, 'thuong_gia', 24, 3247000, 2476000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1891, 189, 'pho_thong', 36, 2827000, 945000, null);
+(1891, 189, 'pho_thong', 72, 4125000, 2059000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1892, 189, 'thuong_gia', 12, 3499000, 2252000, null);
+(1892, 189, 'thuong_gia', 24, 3300000, 2480000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1901, 190, 'pho_thong', 36, 1523000, 467000, null);
+(1901, 190, 'pho_thong', 72, 2282000, 768000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1902, 190, 'thuong_gia', 12, 4022000, 2630000, null);
+(1902, 190, 'thuong_gia', 24, 6548000, 4680000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1911, 191, 'pho_thong', 36, 1653000, 1007000, null);
+(1911, 191, 'pho_thong', 72, 2265000, 267000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1912, 191, 'thuong_gia', 12, 2702000, 252000, null);
+(1912, 191, 'thuong_gia', 24, 3284000, 2626000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1921, 192, 'pho_thong', 36, 1334000, 669000, null);
+(1921, 192, 'pho_thong', 72, 2963000, 724000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1922, 192, 'thuong_gia', 12, 6086000, 4830000, null);
+(1922, 192, 'thuong_gia', 24, 4451000, 2780000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1931, 193, 'pho_thong', 36, 2883000, 1159000, null);
+(1931, 193, 'pho_thong', 72, 3765000, 1278000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1932, 193, 'thuong_gia', 12, 4225000, 3092000, null);
+(1932, 193, 'thuong_gia', 24, 5174000, 2868000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1941, 194, 'pho_thong', 36, 2896000, 1443000, null);
+(1941, 194, 'pho_thong', 72, 4752000, 2320000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1942, 194, 'thuong_gia', 12, 1711000, 486000, null);
+(1942, 194, 'thuong_gia', 24, 6982000, 4796000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1951, 195, 'pho_thong', 36, 2211000, 1788000, null);
+(1951, 195, 'pho_thong', 72, 1643000, 129000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1952, 195, 'thuong_gia', 12, 5449000, 4370000, null);
+(1952, 195, 'thuong_gia', 24, 2491000, 530000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1961, 196, 'pho_thong', 36, 3829000, 1592000, null);
+(1961, 196, 'pho_thong', 72, 760000, 206000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1962, 196, 'thuong_gia', 12, 2432000, 1148000, null);
+(1962, 196, 'thuong_gia', 24, 3668000, 2604000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1971, 197, 'pho_thong', 36, 2233000, 698000, null);
+(1971, 197, 'pho_thong', 72, 1821000, 34000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1972, 197, 'thuong_gia', 12, 1095000, 576000, null);
+(1972, 197, 'thuong_gia', 24, 1258000, 908000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1981, 198, 'pho_thong', 36, 3254000, 1495000, null);
+(1981, 198, 'pho_thong', 72, 3191000, 2384000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1982, 198, 'thuong_gia', 12, 5008000, 4192000, null);
+(1982, 198, 'thuong_gia', 24, 3881000, 1516000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1991, 199, 'pho_thong', 36, 2087000, 593000, null);
+(1991, 199, 'pho_thong', 72, 675000, 54000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (1992, 199, 'thuong_gia', 12, 3134000, 3074000, null);
+(1992, 199, 'thuong_gia', 24, 4145000, 2908000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2001, 200, 'pho_thong', 36, 4376000, 2320000, null);
+(2001, 200, 'pho_thong', 72, 3086000, 2454000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2002, 200, 'thuong_gia', 12, 4508000, 2968000, null);
+(2002, 200, 'thuong_gia', 24, 1524000, 1232000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2011, 201, 'pho_thong', 36, 2270000, 1416000, null);
+(2011, 201, 'pho_thong', 72, 2050000, 452000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2012, 201, 'thuong_gia', 12, 5567000, 3092000, null);
+(2012, 201, 'thuong_gia', 24, 3383000, 2462000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2021, 202, 'pho_thong', 36, 1310000, 563000, null);
+(2021, 202, 'pho_thong', 72, 1989000, 767000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2022, 202, 'thuong_gia', 12, 452000, 386000, null);
+(2022, 202, 'thuong_gia', 24, 2847000, 1120000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2031, 203, 'pho_thong', 36, 1860000, 1515000, null);
+(2031, 203, 'pho_thong', 72, 1513000, 185000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2032, 203, 'thuong_gia', 12, 4949000, 3560000, null);
+(2032, 203, 'thuong_gia', 24, 2458000, 2094000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2041, 204, 'pho_thong', 36, 3824000, 1506000, null);
+(2041, 204, 'pho_thong', 72, 2612000, 2290000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2042, 204, 'thuong_gia', 12, 5534000, 4752000, null);
+(2042, 204, 'thuong_gia', 24, 5765000, 4326000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2051, 205, 'pho_thong', 36, 1307000, 602000, null);
+(2051, 205, 'pho_thong', 72, 2996000, 1515000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2052, 205, 'thuong_gia', 12, 5812000, 4838000, null);
+(2052, 205, 'thuong_gia', 24, 4131000, 3752000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2061, 206, 'pho_thong', 36, 3832000, 1474000, null);
+(2061, 206, 'pho_thong', 72, 3591000, 2459000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2062, 206, 'thuong_gia', 12, 2601000, 1966000, null);
+(2062, 206, 'thuong_gia', 24, 3962000, 2384000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2071, 207, 'pho_thong', 36, 2182000, 1694000, null);
+(2071, 207, 'pho_thong', 72, 2761000, 1228000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2072, 207, 'thuong_gia', 12, 1036000, 28000, null);
+(2072, 207, 'thuong_gia', 24, 3659000, 3632000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2081, 208, 'pho_thong', 36, 2597000, 1601000, null);
+(2081, 208, 'pho_thong', 72, 1171000, 985000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2082, 208, 'thuong_gia', 12, 3065000, 1440000, null);
+(2082, 208, 'thuong_gia', 24, 6275000, 4446000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2091, 209, 'pho_thong', 36, 3449000, 1232000, null);
+(2091, 209, 'pho_thong', 72, 2691000, 1473000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2092, 209, 'thuong_gia', 12, 5633000, 4610000, null);
+(2092, 209, 'thuong_gia', 24, 3861000, 2454000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2101, 210, 'pho_thong', 36, 2472000, 73000, null);
+(2101, 210, 'pho_thong', 72, 837000, 1000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2102, 210, 'thuong_gia', 12, 6168000, 4302000, null);
+(2102, 210, 'thuong_gia', 24, 4401000, 3344000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2111, 211, 'pho_thong', 36, 1730000, 1260000, null);
+(2111, 211, 'pho_thong', 72, 1862000, 671000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2112, 211, 'thuong_gia', 12, 5952000, 4800000, null);
+(2112, 211, 'thuong_gia', 24, 2659000, 2234000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2121, 212, 'pho_thong', 36, 1770000, 585000, null);
+(2121, 212, 'pho_thong', 72, 4365000, 2118000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2122, 212, 'thuong_gia', 12, 3708000, 1662000, null);
+(2122, 212, 'thuong_gia', 24, 4400000, 4118000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2131, 213, 'pho_thong', 36, 3336000, 2493000, null);
+(2131, 213, 'pho_thong', 72, 2128000, 1466000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2132, 213, 'thuong_gia', 12, 4901000, 3996000, null);
+(2132, 213, 'thuong_gia', 24, 1575000, 1154000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2141, 214, 'pho_thong', 36, 3447000, 1999000, null);
+(2141, 214, 'pho_thong', 72, 2614000, 827000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2142, 214, 'thuong_gia', 12, 3697000, 2804000, null);
+(2142, 214, 'thuong_gia', 24, 5082000, 4636000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2151, 215, 'pho_thong', 36, 3494000, 2287000, null);
+(2151, 215, 'pho_thong', 72, 2576000, 590000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2152, 215, 'thuong_gia', 12, 2454000, 2228000, null);
+(2152, 215, 'thuong_gia', 24, 2900000, 1776000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2161, 216, 'pho_thong', 36, 2718000, 420000, null);
+(2161, 216, 'pho_thong', 72, 1559000, 347000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2162, 216, 'thuong_gia', 12, 4317000, 3392000, null);
+(2162, 216, 'thuong_gia', 24, 4038000, 2324000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2171, 217, 'pho_thong', 36, 3193000, 1942000, null);
+(2171, 217, 'pho_thong', 72, 4190000, 2493000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2172, 217, 'thuong_gia', 12, 7031000, 4538000, null);
+(2172, 217, 'thuong_gia', 24, 6235000, 4298000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2181, 218, 'pho_thong', 36, 521000, 131000, null);
+(2181, 218, 'pho_thong', 72, 3546000, 1862000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2182, 218, 'thuong_gia', 12, 3540000, 1756000, null);
+(2182, 218, 'thuong_gia', 24, 2275000, 916000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2191, 219, 'pho_thong', 36, 1358000, 899000, null);
+(2191, 219, 'pho_thong', 72, 2353000, 1976000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2192, 219, 'thuong_gia', 12, 2048000, 578000, null);
+(2192, 219, 'thuong_gia', 24, 1917000, 1068000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2201, 220, 'pho_thong', 36, 3853000, 1522000, null);
+(2201, 220, 'pho_thong', 72, 2661000, 696000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2202, 220, 'thuong_gia', 12, 2797000, 2496000, null);
+(2202, 220, 'thuong_gia', 24, 3801000, 1508000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2211, 221, 'pho_thong', 36, 2293000, 1283000, null);
+(2211, 221, 'pho_thong', 72, 999000, 994000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2212, 221, 'thuong_gia', 12, 5980000, 4728000, null);
+(2212, 221, 'thuong_gia', 24, 2096000, 1068000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2221, 222, 'pho_thong', 36, 2975000, 2333000, null);
+(2221, 222, 'pho_thong', 72, 2261000, 1813000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2222, 222, 'thuong_gia', 12, 2291000, 556000, null);
+(2222, 222, 'thuong_gia', 24, 4346000, 3014000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2231, 223, 'pho_thong', 36, 2794000, 2367000, null);
+(2231, 223, 'pho_thong', 72, 3206000, 1171000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2232, 223, 'thuong_gia', 12, 5716000, 3386000, null);
+(2232, 223, 'thuong_gia', 24, 4639000, 3472000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2241, 224, 'pho_thong', 36, 1816000, 718000, null);
+(2241, 224, 'pho_thong', 72, 1804000, 1599000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2242, 224, 'thuong_gia', 12, 1168000, 1018000, null);
+(2242, 224, 'thuong_gia', 24, 3903000, 3400000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2251, 225, 'pho_thong', 36, 2738000, 865000, null);
+(2251, 225, 'pho_thong', 72, 3884000, 1442000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2252, 225, 'thuong_gia', 12, 4504000, 3892000, null);
+(2252, 225, 'thuong_gia', 24, 3424000, 2806000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2261, 226, 'pho_thong', 36, 4027000, 2263000, null);
+(2261, 226, 'pho_thong', 72, 3975000, 2177000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2262, 226, 'thuong_gia', 12, 5197000, 4774000, null);
+(2262, 226, 'thuong_gia', 24, 5824000, 4852000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2271, 227, 'pho_thong', 36, 2136000, 2070000, null);
+(2271, 227, 'pho_thong', 72, 3382000, 2112000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2272, 227, 'thuong_gia', 12, 5050000, 2986000, null);
+(2272, 227, 'thuong_gia', 24, 5730000, 4624000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2281, 228, 'pho_thong', 36, 3177000, 761000, null);
+(2281, 228, 'pho_thong', 72, 1848000, 552000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2282, 228, 'thuong_gia', 12, 5302000, 3174000, null);
+(2282, 228, 'thuong_gia', 24, 3364000, 3292000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2291, 229, 'pho_thong', 36, 1678000, 1136000, null);
+(2291, 229, 'pho_thong', 72, 3898000, 2440000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2292, 229, 'thuong_gia', 12, 2429000, 1346000, null);
+(2292, 229, 'thuong_gia', 24, 5886000, 4908000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2301, 230, 'pho_thong', 36, 3899000, 1646000, null);
+(2301, 230, 'pho_thong', 72, 1931000, 1157000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2302, 230, 'thuong_gia', 12, 2451000, 680000, null);
+(2302, 230, 'thuong_gia', 24, 2717000, 278000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2311, 231, 'pho_thong', 36, 2720000, 903000, null);
+(2311, 231, 'pho_thong', 72, 3411000, 1201000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2312, 231, 'thuong_gia', 12, 896000, 174000, null);
+(2312, 231, 'thuong_gia', 24, 4193000, 3780000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2321, 232, 'pho_thong', 36, 1483000, 108000, null);
+(2321, 232, 'pho_thong', 72, 2308000, 1861000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2322, 232, 'thuong_gia', 12, 5215000, 3382000, null);
+(2322, 232, 'thuong_gia', 24, 4949000, 3588000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2331, 233, 'pho_thong', 36, 3867000, 2409000, null);
+(2331, 233, 'pho_thong', 72, 2113000, 979000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2332, 233, 'thuong_gia', 12, 440000, 374000, null);
+(2332, 233, 'thuong_gia', 24, 6256000, 4318000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2341, 234, 'pho_thong', 36, 2979000, 508000, null);
+(2341, 234, 'pho_thong', 72, 924000, 268000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2342, 234, 'thuong_gia', 12, 3644000, 3134000, null);
+(2342, 234, 'thuong_gia', 24, 2518000, 1340000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2351, 235, 'pho_thong', 36, 2395000, 1778000, null);
+(2351, 235, 'pho_thong', 72, 3868000, 2258000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2352, 235, 'thuong_gia', 12, 1024000, 216000, null);
+(2352, 235, 'thuong_gia', 24, 2819000, 578000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2361, 236, 'pho_thong', 36, 3199000, 2271000, null);
+(2361, 236, 'pho_thong', 72, 2111000, 1582000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2362, 236, 'thuong_gia', 12, 4088000, 1810000, null);
+(2362, 236, 'thuong_gia', 24, 4633000, 3696000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2371, 237, 'pho_thong', 36, 4695000, 2428000, null);
+(2371, 237, 'pho_thong', 72, 115000, 114000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2372, 237, 'thuong_gia', 12, 4344000, 2898000, null);
+(2372, 237, 'thuong_gia', 24, 1494000, 72000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2381, 238, 'pho_thong', 36, 1769000, 18000, null);
+(2381, 238, 'pho_thong', 72, 2444000, 1547000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2382, 238, 'thuong_gia', 12, 4518000, 3006000, null);
+(2382, 238, 'thuong_gia', 24, 1568000, 660000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2391, 239, 'pho_thong', 36, 3161000, 2024000, null);
+(2391, 239, 'pho_thong', 72, 3414000, 2143000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2392, 239, 'thuong_gia', 12, 2687000, 1694000, null);
+(2392, 239, 'thuong_gia', 24, 1961000, 242000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2401, 240, 'pho_thong', 36, 2412000, 2219000, null);
+(2401, 240, 'pho_thong', 72, 2313000, 398000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2402, 240, 'thuong_gia', 12, 6136000, 4256000, null);
+(2402, 240, 'thuong_gia', 24, 6808000, 4648000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2411, 241, 'pho_thong', 36, 2570000, 1833000, null);
+(2411, 241, 'pho_thong', 72, 2414000, 942000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2412, 241, 'thuong_gia', 12, 4098000, 1900000, null);
+(2412, 241, 'thuong_gia', 24, 2537000, 476000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2421, 242, 'pho_thong', 36, 3088000, 708000, null);
+(2421, 242, 'pho_thong', 72, 2197000, 1439000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2422, 242, 'thuong_gia', 12, 2054000, 1512000, null);
+(2422, 242, 'thuong_gia', 24, 1968000, 1918000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2431, 243, 'pho_thong', 36, 4459000, 2102000, null);
+(2431, 243, 'pho_thong', 72, 1937000, 729000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2432, 243, 'thuong_gia', 12, 2808000, 864000, null);
+(2432, 243, 'thuong_gia', 24, 3949000, 1492000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2441, 244, 'pho_thong', 36, 2823000, 383000, null);
+(2441, 244, 'pho_thong', 72, 2680000, 793000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2442, 244, 'thuong_gia', 12, 5267000, 4368000, null);
+(2442, 244, 'thuong_gia', 24, 3250000, 2996000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2451, 245, 'pho_thong', 36, 794000, 760000, null);
+(2451, 245, 'pho_thong', 72, 1216000, 408000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2452, 245, 'thuong_gia', 12, 6321000, 4982000, null);
+(2452, 245, 'thuong_gia', 24, 2634000, 1878000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2461, 246, 'pho_thong', 36, 3200000, 1944000, null);
+(2461, 246, 'pho_thong', 72, 2010000, 493000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2462, 246, 'thuong_gia', 12, 788000, 132000, null);
+(2462, 246, 'thuong_gia', 24, 4487000, 3640000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2471, 247, 'pho_thong', 36, 3361000, 1684000, null);
+(2471, 247, 'pho_thong', 72, 2372000, 2062000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2472, 247, 'thuong_gia', 12, 2908000, 520000, null);
+(2472, 247, 'thuong_gia', 24, 3873000, 2706000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2481, 248, 'pho_thong', 36, 1884000, 477000, null);
+(2481, 248, 'pho_thong', 72, 2230000, 482000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2482, 248, 'thuong_gia', 12, 3376000, 2478000, null);
+(2482, 248, 'thuong_gia', 24, 5807000, 4846000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2491, 249, 'pho_thong', 36, 2824000, 437000, null);
+(2491, 249, 'pho_thong', 72, 2753000, 2064000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2492, 249, 'thuong_gia', 12, 5774000, 3584000, null);
+(2492, 249, 'thuong_gia', 24, 1860000, 164000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2501, 250, 'pho_thong', 36, 2354000, 1678000, null);
+(2501, 250, 'pho_thong', 72, 1880000, 1191000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2502, 250, 'thuong_gia', 12, 2645000, 1008000, null);
+(2502, 250, 'thuong_gia', 24, 3342000, 2740000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2511, 251, 'pho_thong', 36, 3678000, 2258000, null);
+(2511, 251, 'pho_thong', 72, 3527000, 1664000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2512, 251, 'thuong_gia', 12, 5298000, 3572000, null);
+(2512, 251, 'thuong_gia', 24, 4320000, 3094000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2521, 252, 'pho_thong', 36, 652000, 460000, null);
+(2521, 252, 'pho_thong', 72, 2667000, 2233000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2522, 252, 'thuong_gia', 12, 4002000, 1602000, null);
+(2522, 252, 'thuong_gia', 24, 4598000, 2108000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2531, 253, 'pho_thong', 36, 3545000, 1752000, null);
+(2531, 253, 'pho_thong', 72, 613000, 52000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2532, 253, 'thuong_gia', 12, 5833000, 3780000, null);
+(2532, 253, 'thuong_gia', 24, 3812000, 2372000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2541, 254, 'pho_thong', 36, 1396000, 1108000, null);
+(2541, 254, 'pho_thong', 72, 4187000, 1815000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2542, 254, 'thuong_gia', 12, 4424000, 3972000, null);
+(2542, 254, 'thuong_gia', 24, 617000, 574000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2551, 255, 'pho_thong', 36, 2248000, 1060000, null);
+(2551, 255, 'pho_thong', 72, 2485000, 549000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2552, 255, 'thuong_gia', 12, 3877000, 2806000, null);
+(2552, 255, 'thuong_gia', 24, 3515000, 1920000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2561, 256, 'pho_thong', 36, 1660000, 1589000, null);
+(2561, 256, 'pho_thong', 72, 2320000, 800000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2562, 256, 'thuong_gia', 12, 3888000, 2338000, null);
+(2562, 256, 'thuong_gia', 24, 5419000, 4320000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2571, 257, 'pho_thong', 36, 2954000, 907000, null);
+(2571, 257, 'pho_thong', 72, 2796000, 2201000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2572, 257, 'thuong_gia', 12, 2175000, 676000, null);
+(2572, 257, 'thuong_gia', 24, 2417000, 2096000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2581, 258, 'pho_thong', 36, 2431000, 2013000, null);
+(2581, 258, 'pho_thong', 72, 3336000, 2408000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2582, 258, 'thuong_gia', 12, 3953000, 2594000, null);
+(2582, 258, 'thuong_gia', 24, 2413000, 418000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2591, 259, 'pho_thong', 36, 1920000, 1758000, null);
+(2591, 259, 'pho_thong', 72, 3899000, 2147000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2592, 259, 'thuong_gia', 12, 4768000, 4514000, null);
+(2592, 259, 'thuong_gia', 24, 734000, 60000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2601, 260, 'pho_thong', 36, 3410000, 1135000, null);
+(2601, 260, 'pho_thong', 72, 1972000, 819000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2602, 260, 'thuong_gia', 12, 6982000, 4754000, null);
+(2602, 260, 'thuong_gia', 24, 1895000, 614000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2611, 261, 'pho_thong', 36, 2373000, 383000, null);
+(2611, 261, 'pho_thong', 72, 2905000, 1245000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2612, 261, 'thuong_gia', 12, 5916000, 4784000, null);
+(2612, 261, 'thuong_gia', 24, 3604000, 3560000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2621, 262, 'pho_thong', 36, 219000, 159000, null);
+(2621, 262, 'pho_thong', 72, 2811000, 1982000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2622, 262, 'thuong_gia', 12, 5358000, 2944000, null);
+(2622, 262, 'thuong_gia', 24, 3238000, 1634000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2631, 263, 'pho_thong', 36, 1981000, 418000, null);
+(2631, 263, 'pho_thong', 72, 2278000, 1482000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2632, 263, 'thuong_gia', 12, 1463000, 8000, null);
+(2632, 263, 'thuong_gia', 24, 4660000, 4388000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2641, 264, 'pho_thong', 36, 3795000, 2475000, null);
+(2641, 264, 'pho_thong', 72, 228000, 161000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2642, 264, 'thuong_gia', 12, 2141000, 1468000, null);
+(2642, 264, 'thuong_gia', 24, 4822000, 2672000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2651, 265, 'pho_thong', 36, 2102000, 1582000, null);
+(2651, 265, 'pho_thong', 72, 2210000, 1310000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2652, 265, 'thuong_gia', 12, 6737000, 4960000, null);
+(2652, 265, 'thuong_gia', 24, 1012000, 536000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2661, 266, 'pho_thong', 36, 2266000, 1276000, null);
+(2661, 266, 'pho_thong', 72, 2945000, 1787000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2662, 266, 'thuong_gia', 12, 5665000, 4918000, null);
+(2662, 266, 'thuong_gia', 24, 2005000, 1950000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2671, 267, 'pho_thong', 36, 3056000, 935000, null);
+(2671, 267, 'pho_thong', 72, 2054000, 1529000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2672, 267, 'thuong_gia', 12, 914000, 188000, null);
+(2672, 267, 'thuong_gia', 24, 2316000, 1824000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2681, 268, 'pho_thong', 36, 3514000, 1868000, null);
+(2681, 268, 'pho_thong', 72, 2303000, 1343000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2682, 268, 'thuong_gia', 12, 2809000, 2524000, null);
+(2682, 268, 'thuong_gia', 24, 2999000, 770000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2691, 269, 'pho_thong', 36, 3126000, 1119000, null);
+(2691, 269, 'pho_thong', 72, 3012000, 2426000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2692, 269, 'thuong_gia', 12, 5927000, 3730000, null);
+(2692, 269, 'thuong_gia', 24, 4248000, 2502000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2701, 270, 'pho_thong', 36, 1789000, 1754000, null);
+(2701, 270, 'pho_thong', 72, 1387000, 50000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2702, 270, 'thuong_gia', 12, 4418000, 2310000, null);
+(2702, 270, 'thuong_gia', 24, 2375000, 594000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2711, 271, 'pho_thong', 36, 2224000, 2218000, null);
+(2711, 271, 'pho_thong', 72, 4039000, 2352000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2712, 271, 'thuong_gia', 12, 6486000, 4658000, null);
+(2712, 271, 'thuong_gia', 24, 2987000, 1002000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2721, 272, 'pho_thong', 36, 4350000, 1892000, null);
+(2721, 272, 'pho_thong', 72, 2358000, 1731000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2722, 272, 'thuong_gia', 12, 6208000, 3766000, null);
+(2722, 272, 'thuong_gia', 24, 1747000, 1240000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2731, 273, 'pho_thong', 36, 1783000, 883000, null);
+(2731, 273, 'pho_thong', 72, 2503000, 1451000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2732, 273, 'thuong_gia', 12, 3655000, 2110000, null);
+(2732, 273, 'thuong_gia', 24, 2581000, 1670000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2741, 274, 'pho_thong', 36, 4032000, 1823000, null);
+(2741, 274, 'pho_thong', 72, 2040000, 1731000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2742, 274, 'thuong_gia', 12, 4846000, 4038000, null);
+(2742, 274, 'thuong_gia', 24, 2076000, 1234000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2751, 275, 'pho_thong', 36, 393000, 56000, null);
+(2751, 275, 'pho_thong', 72, 3069000, 1701000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2752, 275, 'thuong_gia', 12, 5463000, 3076000, null);
+(2752, 275, 'thuong_gia', 24, 1028000, 908000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2761, 276, 'pho_thong', 36, 3310000, 2082000, null);
+(2761, 276, 'pho_thong', 72, 3288000, 1388000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2762, 276, 'thuong_gia', 12, 4057000, 1808000, null);
+(2762, 276, 'thuong_gia', 24, 7141000, 4942000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2771, 277, 'pho_thong', 36, 2505000, 85000, null);
+(2771, 277, 'pho_thong', 72, 2596000, 933000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2772, 277, 'thuong_gia', 12, 4148000, 2248000, null);
+(2772, 277, 'thuong_gia', 24, 1380000, 828000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2781, 278, 'pho_thong', 36, 2612000, 2100000, null);
+(2781, 278, 'pho_thong', 72, 4472000, 2463000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2782, 278, 'thuong_gia', 12, 1942000, 150000, null);
+(2782, 278, 'thuong_gia', 24, 5171000, 4940000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2791, 279, 'pho_thong', 36, 2640000, 2192000, null);
+(2791, 279, 'pho_thong', 72, 2922000, 1414000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2792, 279, 'thuong_gia', 12, 3290000, 2742000, null);
+(2792, 279, 'thuong_gia', 24, 3208000, 1948000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2801, 280, 'pho_thong', 36, 2529000, 512000, null);
+(2801, 280, 'pho_thong', 72, 1592000, 565000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2802, 280, 'thuong_gia', 12, 6114000, 4826000, null);
+(2802, 280, 'thuong_gia', 24, 3428000, 2594000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2811, 281, 'pho_thong', 36, 2551000, 665000, null);
+(2811, 281, 'pho_thong', 72, 2394000, 534000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2812, 281, 'thuong_gia', 12, 4348000, 2494000, null);
+(2812, 281, 'thuong_gia', 24, 5426000, 3116000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2821, 282, 'pho_thong', 36, 1345000, 16000, null);
+(2821, 282, 'pho_thong', 72, 2083000, 1481000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2822, 282, 'thuong_gia', 12, 4767000, 2536000, null);
+(2822, 282, 'thuong_gia', 24, 5681000, 4650000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2831, 283, 'pho_thong', 36, 1104000, 804000, null);
+(2831, 283, 'pho_thong', 72, 3337000, 2059000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2832, 283, 'thuong_gia', 12, 3493000, 2598000, null);
+(2832, 283, 'thuong_gia', 24, 3230000, 1272000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2841, 284, 'pho_thong', 36, 964000, 613000, null);
+(2841, 284, 'pho_thong', 72, 3689000, 1912000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2842, 284, 'thuong_gia', 12, 4766000, 4716000, null);
+(2842, 284, 'thuong_gia', 24, 5390000, 4030000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2851, 285, 'pho_thong', 36, 1334000, 528000, null);
+(2851, 285, 'pho_thong', 72, 3766000, 1290000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2852, 285, 'thuong_gia', 12, 951000, 714000, null);
+(2852, 285, 'thuong_gia', 24, 2607000, 1136000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2861, 286, 'pho_thong', 36, 3263000, 771000, null);
+(2861, 286, 'pho_thong', 72, 3509000, 1446000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2862, 286, 'thuong_gia', 12, 2119000, 1490000, null);
+(2862, 286, 'thuong_gia', 24, 5261000, 3816000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2871, 287, 'pho_thong', 36, 3610000, 2153000, null);
+(2871, 287, 'pho_thong', 72, 2697000, 1405000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2872, 287, 'thuong_gia', 12, 1676000, 142000, null);
+(2872, 287, 'thuong_gia', 24, 2863000, 364000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2881, 288, 'pho_thong', 36, 2710000, 694000, null);
+(2881, 288, 'pho_thong', 72, 1369000, 683000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2882, 288, 'thuong_gia', 12, 3267000, 2406000, null);
+(2882, 288, 'thuong_gia', 24, 6877000, 4746000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2891, 289, 'pho_thong', 36, 3255000, 2226000, null);
+(2891, 289, 'pho_thong', 72, 1725000, 1087000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2892, 289, 'thuong_gia', 12, 5150000, 2954000, null);
+(2892, 289, 'thuong_gia', 24, 5950000, 4090000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2901, 290, 'pho_thong', 36, 2261000, 566000, null);
+(2901, 290, 'pho_thong', 72, 3057000, 1221000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2902, 290, 'thuong_gia', 12, 2569000, 518000, null);
+(2902, 290, 'thuong_gia', 24, 4587000, 3244000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2911, 291, 'pho_thong', 36, 2614000, 1353000, null);
+(2911, 291, 'pho_thong', 72, 1217000, 418000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2912, 291, 'thuong_gia', 12, 6311000, 3928000, null);
+(2912, 291, 'thuong_gia', 24, 6030000, 4172000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2921, 292, 'pho_thong', 36, 3029000, 1742000, null);
+(2921, 292, 'pho_thong', 72, 2703000, 1747000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2922, 292, 'thuong_gia', 12, 4579000, 4338000, null);
+(2922, 292, 'thuong_gia', 24, 6041000, 4320000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2931, 293, 'pho_thong', 36, 1674000, 315000, null);
+(2931, 293, 'pho_thong', 72, 2558000, 380000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2932, 293, 'thuong_gia', 12, 1288000, 804000, null);
+(2932, 293, 'thuong_gia', 24, 3691000, 2782000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2941, 294, 'pho_thong', 36, 1579000, 519000, null);
+(2941, 294, 'pho_thong', 72, 2151000, 759000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2942, 294, 'thuong_gia', 12, 4315000, 3064000, null);
+(2942, 294, 'thuong_gia', 24, 2423000, 1298000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2951, 295, 'pho_thong', 36, 2670000, 779000, null);
+(2951, 295, 'pho_thong', 72, 3181000, 1096000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2952, 295, 'thuong_gia', 12, 989000, 672000, null);
+(2952, 295, 'thuong_gia', 24, 4054000, 2298000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2961, 296, 'pho_thong', 36, 4395000, 2199000, null);
+(2961, 296, 'pho_thong', 72, 1102000, 432000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2962, 296, 'thuong_gia', 12, 4644000, 4394000, null);
+(2962, 296, 'thuong_gia', 24, 4715000, 2538000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2971, 297, 'pho_thong', 36, 2893000, 1239000, null);
+(2971, 297, 'pho_thong', 72, 1402000, 276000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2972, 297, 'thuong_gia', 12, 2419000, 2018000, null);
+(2972, 297, 'thuong_gia', 24, 4111000, 3708000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2981, 298, 'pho_thong', 36, 2064000, 261000, null);
+(2981, 298, 'pho_thong', 72, 2583000, 412000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2982, 298, 'thuong_gia', 12, 2064000, 1026000, null);
+(2982, 298, 'thuong_gia', 24, 5760000, 3972000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2991, 299, 'pho_thong', 36, 3466000, 1301000, null);
+(2991, 299, 'pho_thong', 72, 3099000, 1126000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (2992, 299, 'thuong_gia', 12, 4564000, 2124000, null);
+(2992, 299, 'thuong_gia', 24, 4684000, 4056000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (3001, 300, 'pho_thong', 36, 3650000, 1540000, null);
+(3001, 300, 'pho_thong', 72, 3877000, 2268000, null),
 
-INSERT INTO tickets(ma_ve, ma_chuyen_bay, loai_ve, so_luong_con, gia_ve_nguoi_lon, gia_ve_tre_em, ten_ve)
-VALUES (3002, 300, 'thuong_gia', 12, 3323000, 1806000, null);
+(3002, 300, 'thuong_gia', 24, 1229000, 320000, null),
+
+(3011, 301, 'pho_thong', 72, 2221000, 760000, null),
+
+(3012, 301, 'thuong_gia', 24, 6091000, 4570000, null),
+
+(3021, 302, 'pho_thong', 72, 1048000, 56000, null),
+
+(3022, 302, 'thuong_gia', 24, 3738000, 2506000, null),
+
+(3031, 303, 'pho_thong', 72, 1808000, 901000, null),
+
+(3032, 303, 'thuong_gia', 24, 1817000, 394000, null),
+
+(3041, 304, 'pho_thong', 72, 2948000, 2393000, null),
+
+(3042, 304, 'thuong_gia', 24, 5359000, 3778000, null),
+
+(3051, 305, 'pho_thong', 72, 4378000, 2442000, null),
+
+(3052, 305, 'thuong_gia', 24, 5859000, 4930000, null),
+
+(3061, 306, 'pho_thong', 72, 3257000, 1609000, null),
+
+(3062, 306, 'thuong_gia', 24, 5013000, 2550000, null),
+
+(3071, 307, 'pho_thong', 72, 2376000, 1624000, null),
+
+(3072, 307, 'thuong_gia', 24, 2292000, 1966000, null),
+
+(3081, 308, 'pho_thong', 72, 1604000, 968000, null),
+
+(3082, 308, 'thuong_gia', 24, 3468000, 1026000, null),
+
+(3091, 309, 'pho_thong', 72, 1264000, 849000, null),
+
+(3092, 309, 'thuong_gia', 24, 2118000, 1836000, null),
+
+(3101, 310, 'pho_thong', 72, 2110000, 1587000, null),
+
+(3102, 310, 'thuong_gia', 24, 2515000, 48000, null),
+
+(3111, 311, 'pho_thong', 72, 1871000, 1319000, null),
+
+(3112, 311, 'thuong_gia', 24, 5447000, 3892000, null),
+
+(3121, 312, 'pho_thong', 72, 2417000, 1574000, null),
+
+(3122, 312, 'thuong_gia', 24, 3753000, 2538000, null),
+
+(3131, 313, 'pho_thong', 72, 2661000, 390000, null),
+
+(3132, 313, 'thuong_gia', 24, 3811000, 1654000, null),
+
+(3141, 314, 'pho_thong', 72, 3216000, 1002000, null),
+
+(3142, 314, 'thuong_gia', 24, 1518000, 360000, null),
+
+(3151, 315, 'pho_thong', 72, 1321000, 1197000, null),
+
+(3152, 315, 'thuong_gia', 24, 5535000, 3966000, null),
+
+(3161, 316, 'pho_thong', 72, 231000, 215000, null),
+
+(3162, 316, 'thuong_gia', 24, 3419000, 2174000, null),
+
+(3171, 317, 'pho_thong', 72, 1310000, 764000, null),
+
+(3172, 317, 'thuong_gia', 24, 1439000, 426000, null),
+
+(3181, 318, 'pho_thong', 72, 2246000, 520000, null),
+
+(3182, 318, 'thuong_gia', 24, 3721000, 3282000, null),
+
+(3191, 319, 'pho_thong', 72, 2428000, 449000, null),
+
+(3192, 319, 'thuong_gia', 24, 3968000, 2360000, null),
+
+(3201, 320, 'pho_thong', 72, 2841000, 649000, null),
+
+(3202, 320, 'thuong_gia', 24, 3956000, 2202000, null),
+
+(3211, 321, 'pho_thong', 72, 2868000, 1696000, null),
+
+(3212, 321, 'thuong_gia', 24, 2412000, 1462000, null),
+
+(3221, 322, 'pho_thong', 72, 2414000, 1933000, null),
+
+(3222, 322, 'thuong_gia', 24, 4479000, 2964000, null),
+
+(3231, 323, 'pho_thong', 72, 885000, 683000, null),
+
+(3232, 323, 'thuong_gia', 24, 2710000, 2084000, null),
+
+(3241, 324, 'pho_thong', 72, 3254000, 2407000, null),
+
+(3242, 324, 'thuong_gia', 24, 2583000, 1918000, null),
+
+(3251, 325, 'pho_thong', 72, 2218000, 26000, null),
+
+(3252, 325, 'thuong_gia', 24, 186000, 62000, null),
+
+(3261, 326, 'pho_thong', 72, 1561000, 97000, null),
+
+(3262, 326, 'thuong_gia', 24, 4690000, 2934000, null),
+
+(3271, 327, 'pho_thong', 72, 2349000, 1815000, null),
+
+(3272, 327, 'thuong_gia', 24, 2041000, 724000, null),
+
+(3281, 328, 'pho_thong', 72, 1180000, 985000, null),
+
+(3282, 328, 'thuong_gia', 24, 2278000, 684000, null),
+
+(3291, 329, 'pho_thong', 72, 2809000, 1266000, null),
+
+(3292, 329, 'thuong_gia', 24, 3811000, 1488000, null),
+
+(3301, 330, 'pho_thong', 72, 2135000, 151000, null),
+
+(3302, 330, 'thuong_gia', 24, 3176000, 2680000, null),
+
+(3311, 331, 'pho_thong', 72, 3397000, 1871000, null),
+
+(3312, 331, 'thuong_gia', 24, 300000, 276000, null),
+
+(3321, 332, 'pho_thong', 72, 2616000, 309000, null),
+
+(3322, 332, 'thuong_gia', 24, 4713000, 2492000, null),
+
+(3331, 333, 'pho_thong', 72, 2003000, 916000, null),
+
+(3332, 333, 'thuong_gia', 24, 6448000, 4622000, null),
+
+(3341, 334, 'pho_thong', 72, 1051000, 414000, null),
+
+(3342, 334, 'thuong_gia', 24, 4834000, 3526000, null),
+
+(3351, 335, 'pho_thong', 72, 3550000, 1280000, null),
+
+(3352, 335, 'thuong_gia', 24, 5025000, 3044000, null),
+
+(3361, 336, 'pho_thong', 72, 2685000, 714000, null),
+
+(3362, 336, 'thuong_gia', 24, 2265000, 382000, null),
+
+(3371, 337, 'pho_thong', 72, 1602000, 1408000, null),
+
+(3372, 337, 'thuong_gia', 24, 5740000, 4952000, null),
+
+(3381, 338, 'pho_thong', 72, 2722000, 2036000, null),
+
+(3382, 338, 'thuong_gia', 24, 4155000, 2746000, null),
+
+(3391, 339, 'pho_thong', 72, 677000, 351000, null),
+
+(3392, 339, 'thuong_gia', 24, 4363000, 2920000, null),
+
+(3401, 340, 'pho_thong', 72, 3099000, 1292000, null),
+
+(3402, 340, 'thuong_gia', 24, 2173000, 314000, null),
+
+(3411, 341, 'pho_thong', 72, 1529000, 1203000, null),
+
+(3412, 341, 'thuong_gia', 24, 3325000, 1784000, null),
+
+(3421, 342, 'pho_thong', 72, 2246000, 2037000, null),
+
+(3422, 342, 'thuong_gia', 24, 3118000, 1148000, null),
+
+(3431, 343, 'pho_thong', 72, 3363000, 1769000, null),
+
+(3432, 343, 'thuong_gia', 24, 4470000, 2576000, null),
+
+(3441, 344, 'pho_thong', 72, 1897000, 1088000, null),
+
+(3442, 344, 'thuong_gia', 24, 2751000, 322000, null),
+
+(3451, 345, 'pho_thong', 72, 834000, 669000, null),
+
+(3452, 345, 'thuong_gia', 24, 2613000, 832000, null),
+
+(3461, 346, 'pho_thong', 72, 4527000, 2058000, null),
+
+(3462, 346, 'thuong_gia', 24, 1814000, 576000, null),
+
+(3471, 347, 'pho_thong', 72, 2559000, 557000, null),
+
+(3472, 347, 'thuong_gia', 24, 5437000, 3306000, null),
+
+(3481, 348, 'pho_thong', 72, 1822000, 1752000, null),
+
+(3482, 348, 'thuong_gia', 24, 3494000, 2052000, null),
+
+(3491, 349, 'pho_thong', 72, 1502000, 16000, null),
+
+(3492, 349, 'thuong_gia', 24, 5888000, 4596000, null),
+
+(3501, 350, 'pho_thong', 72, 1338000, 730000, null),
+
+(3502, 350, 'thuong_gia', 24, 4558000, 4060000, null),
+
+(3511, 351, 'pho_thong', 72, 3585000, 2073000, null),
+
+(3512, 351, 'thuong_gia', 24, 2780000, 600000, null),
+
+(3521, 352, 'pho_thong', 72, 2507000, 2385000, null),
+
+(3522, 352, 'thuong_gia', 24, 5231000, 3016000, null),
+
+(3531, 353, 'pho_thong', 72, 1745000, 169000, null),
+
+(3532, 353, 'thuong_gia', 24, 6110000, 4174000, null),
+
+(3541, 354, 'pho_thong', 72, 2084000, 708000, null),
+
+(3542, 354, 'thuong_gia', 24, 3609000, 2578000, null),
+
+(3551, 355, 'pho_thong', 72, 3325000, 1762000, null),
+
+(3552, 355, 'thuong_gia', 24, 5757000, 4670000, null),
+
+(3561, 356, 'pho_thong', 72, 2824000, 432000, null),
+
+(3562, 356, 'thuong_gia', 24, 5887000, 4146000, null),
+
+(3571, 357, 'pho_thong', 72, 1732000, 593000, null),
+
+(3572, 357, 'thuong_gia', 24, 3209000, 2418000, null),
+
+(3581, 358, 'pho_thong', 72, 2782000, 2039000, null),
+
+(3582, 358, 'thuong_gia', 24, 4472000, 3624000, null),
+
+(3591, 359, 'pho_thong', 72, 1169000, 967000, null),
+
+(3592, 359, 'thuong_gia', 24, 3290000, 1514000, null),
+
+(3601, 360, 'pho_thong', 72, 1053000, 599000, null),
+
+(3602, 360, 'thuong_gia', 24, 4313000, 3516000, null),
+
+(3611, 361, 'pho_thong', 72, 3457000, 1210000, null),
+
+(3612, 361, 'thuong_gia', 24, 6500000, 4562000, null),
+
+(3621, 362, 'pho_thong', 72, 4012000, 1665000, null),
+
+(3622, 362, 'thuong_gia', 24, 3673000, 3076000, null),
+
+(3631, 363, 'pho_thong', 72, 3545000, 1267000, null),
+
+(3632, 363, 'thuong_gia', 24, 2519000, 1234000, null),
+
+(3641, 364, 'pho_thong', 72, 4253000, 1918000, null),
+
+(3642, 364, 'thuong_gia', 24, 3947000, 3282000, null),
+
+(3651, 365, 'pho_thong', 72, 2694000, 1173000, null),
+
+(3652, 365, 'thuong_gia', 24, 4271000, 3770000, null),
+
+(3661, 366, 'pho_thong', 72, 2364000, 1971000, null),
+
+(3662, 366, 'thuong_gia', 24, 4249000, 3066000, null),
+
+(3671, 367, 'pho_thong', 72, 593000, 409000, null),
+
+(3672, 367, 'thuong_gia', 24, 2013000, 1696000, null),
+
+(3681, 368, 'pho_thong', 72, 1969000, 1172000, null),
+
+(3682, 368, 'thuong_gia', 24, 5011000, 3202000, null),
+
+(3691, 369, 'pho_thong', 72, 2233000, 383000, null),
+
+(3692, 369, 'thuong_gia', 24, 928000, 206000, null),
+
+(3701, 370, 'pho_thong', 72, 3629000, 1936000, null),
+
+(3702, 370, 'thuong_gia', 24, 6051000, 4800000, null),
+
+(3711, 371, 'pho_thong', 72, 2333000, 1038000, null),
+
+(3712, 371, 'thuong_gia', 24, 3421000, 1762000, null),
+
+(3721, 372, 'pho_thong', 72, 3157000, 1551000, null),
+
+(3722, 372, 'thuong_gia', 24, 821000, 336000, null),
+
+(3731, 373, 'pho_thong', 72, 1863000, 265000, null),
+
+(3732, 373, 'thuong_gia', 24, 3971000, 3568000, null),
+
+(3741, 374, 'pho_thong', 72, 2248000, 36000, null),
+
+(3742, 374, 'thuong_gia', 24, 2386000, 1582000, null),
+
+(3751, 375, 'pho_thong', 72, 2875000, 1554000, null),
+
+(3752, 375, 'thuong_gia', 24, 4810000, 4642000, null),
+
+(3761, 376, 'pho_thong', 72, 1483000, 1020000, null),
+
+(3762, 376, 'thuong_gia', 24, 3087000, 740000, null),
+
+(3771, 377, 'pho_thong', 72, 1771000, 940000, null),
+
+(3772, 377, 'thuong_gia', 24, 2462000, 208000, null),
+
+(3781, 378, 'pho_thong', 72, 2797000, 1226000, null),
+
+(3782, 378, 'thuong_gia', 24, 3837000, 3460000, null),
+
+(3791, 379, 'pho_thong', 72, 2510000, 1540000, null),
+
+(3792, 379, 'thuong_gia', 24, 3271000, 3152000, null),
+
+(3801, 380, 'pho_thong', 72, 2857000, 499000, null),
+
+(3802, 380, 'thuong_gia', 24, 571000, 262000, null),
+
+(3811, 381, 'pho_thong', 72, 2344000, 57000, null),
+
+(3812, 381, 'thuong_gia', 24, 2997000, 2264000, null),
+
+(3821, 382, 'pho_thong', 72, 2990000, 884000, null),
+
+(3822, 382, 'thuong_gia', 24, 2029000, 1256000, null),
+
+(3831, 383, 'pho_thong', 72, 3757000, 2345000, null),
+
+(3832, 383, 'thuong_gia', 24, 6237000, 4874000, null),
+
+(3841, 384, 'pho_thong', 72, 361000, 98000, null),
+
+(3842, 384, 'thuong_gia', 24, 4741000, 2778000, null),
+
+(3851, 385, 'pho_thong', 72, 2036000, 1675000, null),
+
+(3852, 385, 'thuong_gia', 24, 3599000, 2446000, null),
+
+(3861, 386, 'pho_thong', 72, 3991000, 1790000, null),
+
+(3862, 386, 'thuong_gia', 24, 5444000, 3902000, null),
+
+(3871, 387, 'pho_thong', 72, 3676000, 1519000, null),
+
+(3872, 387, 'thuong_gia', 24, 2882000, 1536000, null),
+
+(3881, 388, 'pho_thong', 72, 2936000, 2253000, null),
+
+(3882, 388, 'thuong_gia', 24, 490000, 444000, null),
+
+(3891, 389, 'pho_thong', 72, 3780000, 1707000, null),
+
+(3892, 389, 'thuong_gia', 24, 5293000, 4370000, null),
+
+(3901, 390, 'pho_thong', 72, 2527000, 800000, null),
+
+(3902, 390, 'thuong_gia', 24, 6288000, 4330000, null),
+
+(3911, 391, 'pho_thong', 72, 1046000, 426000, null),
+
+(3912, 391, 'thuong_gia', 24, 3790000, 3104000, null),
+
+(3921, 392, 'pho_thong', 72, 2994000, 1255000, null),
+
+(3922, 392, 'thuong_gia', 24, 1869000, 1832000, null),
+
+(3931, 393, 'pho_thong', 72, 4123000, 2065000, null),
+
+(3932, 393, 'thuong_gia', 24, 5512000, 4612000, null),
+
+(3941, 394, 'pho_thong', 72, 578000, 5000, null),
+
+(3942, 394, 'thuong_gia', 24, 1771000, 356000, null),
+
+(3951, 395, 'pho_thong', 72, 3197000, 2484000, null),
+
+(3952, 395, 'thuong_gia', 24, 3994000, 3390000, null),
+
+(3961, 396, 'pho_thong', 72, 1810000, 1779000, null),
+
+(3962, 396, 'thuong_gia', 24, 2111000, 2000, null),
+
+(3971, 397, 'pho_thong', 72, 3048000, 1271000, null),
+
+(3972, 397, 'thuong_gia', 24, 4389000, 3874000, null),
+
+(3981, 398, 'pho_thong', 72, 2140000, 304000, null),
+
+(3982, 398, 'thuong_gia', 24, 5056000, 3292000, null),
+
+(3991, 399, 'pho_thong', 72, 1114000, 121000, null),
+
+(3992, 399, 'thuong_gia', 24, 1343000, 184000, null),
+
+(4001, 400, 'pho_thong', 72, 2847000, 2133000, null),
+
+(4002, 400, 'thuong_gia', 24, 4150000, 3888000, null),
+
+(4011, 401, 'pho_thong', 72, 3663000, 2420000, null),
+
+(4012, 401, 'thuong_gia', 24, 1783000, 902000, null),
+
+(4021, 402, 'pho_thong', 72, 2837000, 930000, null),
+
+(4022, 402, 'thuong_gia', 24, 5491000, 3246000, null),
+
+(4031, 403, 'pho_thong', 72, 2595000, 1627000, null),
+
+(4032, 403, 'thuong_gia', 24, 6526000, 4190000, null),
+
+(4041, 404, 'pho_thong', 72, 1908000, 1101000, null),
+
+(4042, 404, 'thuong_gia', 24, 4681000, 2556000, null),
+
+(4051, 405, 'pho_thong', 72, 2239000, 13000, null),
+
+(4052, 405, 'thuong_gia', 24, 4858000, 4076000, null),
+
+(4061, 406, 'pho_thong', 72, 1888000, 1601000, null),
+
+(4062, 406, 'thuong_gia', 24, 2102000, 1306000, null),
+
+(4071, 407, 'pho_thong', 72, 4564000, 2247000, null),
+
+(4072, 407, 'thuong_gia', 24, 2997000, 2318000, null),
+
+(4081, 408, 'pho_thong', 72, 1734000, 353000, null),
+
+(4082, 408, 'thuong_gia', 24, 4201000, 3202000, null),
+
+(4091, 409, 'pho_thong', 72, 2752000, 292000, null),
+
+(4092, 409, 'thuong_gia', 24, 2860000, 1832000, null),
+
+(4101, 410, 'pho_thong', 72, 2187000, 2090000, null),
+
+(4102, 410, 'thuong_gia', 24, 1251000, 106000, null),
+
+(4111, 411, 'pho_thong', 72, 4354000, 1953000, null),
+
+(4112, 411, 'thuong_gia', 24, 4344000, 2064000, null),
+
+(4121, 412, 'pho_thong', 72, 2445000, 31000, null),
+
+(4122, 412, 'thuong_gia', 24, 7324000, 4948000, null),
+
+(4131, 413, 'pho_thong', 72, 1426000, 352000, null),
+
+(4132, 413, 'thuong_gia', 24, 5090000, 4280000, null),
+
+(4141, 414, 'pho_thong', 72, 3016000, 2136000, null),
+
+(4142, 414, 'thuong_gia', 24, 1167000, 462000, null),
+
+(4151, 415, 'pho_thong', 72, 1042000, 486000, null),
+
+(4152, 415, 'thuong_gia', 24, 1101000, 48000, null),
+
+(4161, 416, 'pho_thong', 72, 2961000, 745000, null),
+
+(4162, 416, 'thuong_gia', 24, 2072000, 1816000, null),
+
+(4171, 417, 'pho_thong', 72, 2929000, 1899000, null),
+
+(4172, 417, 'thuong_gia', 24, 5005000, 4718000, null),
+
+(4181, 418, 'pho_thong', 72, 1143000, 237000, null),
+
+(4182, 418, 'thuong_gia', 24, 5491000, 3054000, null),
+
+(4191, 419, 'pho_thong', 72, 1637000, 847000, null),
+
+(4192, 419, 'thuong_gia', 24, 5830000, 3968000, null),
+
+(4201, 420, 'pho_thong', 72, 2290000, 833000, null),
+
+(4202, 420, 'thuong_gia', 24, 6166000, 4420000, null),
+
+(4211, 421, 'pho_thong', 72, 1214000, 1193000, null),
+
+(4212, 421, 'thuong_gia', 24, 2708000, 910000, null),
+
+(4221, 422, 'pho_thong', 72, 2331000, 502000, null),
+
+(4222, 422, 'thuong_gia', 24, 2330000, 372000, null),
+
+(4231, 423, 'pho_thong', 72, 729000, 589000, null),
+
+(4232, 423, 'thuong_gia', 24, 4680000, 3496000, null),
+
+(4241, 424, 'pho_thong', 72, 3308000, 871000, null),
+
+(4242, 424, 'thuong_gia', 24, 2802000, 1276000, null),
+
+(4251, 425, 'pho_thong', 72, 4175000, 2297000, null),
+
+(4252, 425, 'thuong_gia', 24, 2471000, 2292000, null),
+
+(4261, 426, 'pho_thong', 72, 3998000, 2344000, null),
+
+(4262, 426, 'thuong_gia', 24, 2164000, 372000, null),
+
+(4271, 427, 'pho_thong', 72, 902000, 841000, null),
+
+(4272, 427, 'thuong_gia', 24, 3011000, 1896000, null),
+
+(4281, 428, 'pho_thong', 72, 2939000, 541000, null),
+
+(4282, 428, 'thuong_gia', 24, 2649000, 1750000, null),
+
+(4291, 429, 'pho_thong', 72, 2577000, 1395000, null),
+
+(4292, 429, 'thuong_gia', 24, 1333000, 514000, null),
+
+(4301, 430, 'pho_thong', 72, 1060000, 952000, null),
+
+(4302, 430, 'thuong_gia', 24, 4890000, 4590000, null),
+
+(4311, 431, 'pho_thong', 72, 2477000, 1148000, null),
+
+(4312, 431, 'thuong_gia', 24, 2056000, 1394000, null),
+
+(4321, 432, 'pho_thong', 72, 1353000, 1082000, null),
+
+(4322, 432, 'thuong_gia', 24, 5816000, 4058000, null),
+
+(4331, 433, 'pho_thong', 72, 2461000, 579000, null),
+
+(4332, 433, 'thuong_gia', 24, 4157000, 1958000, null),
+
+(4341, 434, 'pho_thong', 72, 3218000, 2072000, null),
+
+(4342, 434, 'thuong_gia', 24, 5587000, 4646000, null),
+
+(4351, 435, 'pho_thong', 72, 2445000, 1333000, null),
+
+(4352, 435, 'thuong_gia', 24, 2957000, 1586000, null),
+
+(4361, 436, 'pho_thong', 72, 4077000, 2196000, null),
+
+(4362, 436, 'thuong_gia', 24, 4304000, 2840000, null),
+
+(4371, 437, 'pho_thong', 72, 1476000, 115000, null),
+
+(4372, 437, 'thuong_gia', 24, 2440000, 2150000, null),
+
+(4381, 438, 'pho_thong', 72, 673000, 268000, null),
+
+(4382, 438, 'thuong_gia', 24, 3008000, 2366000, null),
+
+(4391, 439, 'pho_thong', 72, 3614000, 2193000, null),
+
+(4392, 439, 'thuong_gia', 24, 3869000, 1374000, null),
+
+(4401, 440, 'pho_thong', 72, 2156000, 372000, null),
+
+(4402, 440, 'thuong_gia', 24, 2386000, 2202000, null),
+
+(4411, 441, 'pho_thong', 72, 3320000, 1316000, null),
+
+(4412, 441, 'thuong_gia', 24, 3503000, 3200000, null),
+
+(4421, 442, 'pho_thong', 72, 1574000, 471000, null),
+
+(4422, 442, 'thuong_gia', 24, 1683000, 0, null),
+
+(4431, 443, 'pho_thong', 72, 3843000, 2499000, null),
+
+(4432, 443, 'thuong_gia', 24, 2752000, 1270000, null),
+
+(4441, 444, 'pho_thong', 72, 1745000, 1254000, null),
+
+(4442, 444, 'thuong_gia', 24, 1730000, 1274000, null),
+
+(4451, 445, 'pho_thong', 72, 770000, 302000, null),
+
+(4452, 445, 'thuong_gia', 24, 3599000, 1684000, null),
+
+(4461, 446, 'pho_thong', 72, 3176000, 722000, null),
+
+(4462, 446, 'thuong_gia', 24, 5353000, 3224000, null),
+
+(4471, 447, 'pho_thong', 72, 1403000, 357000, null),
+
+(4472, 447, 'thuong_gia', 24, 5281000, 4026000, null),
+
+(4481, 448, 'pho_thong', 72, 3280000, 1773000, null),
+
+(4482, 448, 'thuong_gia', 24, 2427000, 654000, null),
+
+(4491, 449, 'pho_thong', 72, 1463000, 1022000, null),
+
+(4492, 449, 'thuong_gia', 24, 2860000, 630000, null),
+
+(4501, 450, 'pho_thong', 72, 2483000, 2156000, null),
+
+(4502, 450, 'thuong_gia', 24, 1365000, 912000, null),
+
+(4511, 451, 'pho_thong', 72, 1307000, 150000, null),
+
+(4512, 451, 'thuong_gia', 24, 4237000, 2924000, null),
+
+(4521, 452, 'pho_thong', 72, 1599000, 904000, null),
+
+(4522, 452, 'thuong_gia', 24, 5511000, 4316000, null),
+
+(4531, 453, 'pho_thong', 72, 1908000, 1561000, null),
+
+(4532, 453, 'thuong_gia', 24, 1802000, 474000, null),
+
+(4541, 454, 'pho_thong', 72, 889000, 407000, null),
+
+(4542, 454, 'thuong_gia', 24, 2534000, 1890000, null),
+
+(4551, 455, 'pho_thong', 72, 3669000, 1866000, null),
+
+(4552, 455, 'thuong_gia', 24, 3587000, 3226000, null),
+
+(4561, 456, 'pho_thong', 72, 2166000, 1036000, null),
+
+(4562, 456, 'thuong_gia', 24, 4361000, 2810000, null),
+
+(4571, 457, 'pho_thong', 72, 1418000, 867000, null),
+
+(4572, 457, 'thuong_gia', 24, 1105000, 188000, null),
+
+(4581, 458, 'pho_thong', 72, 1076000, 713000, null),
+
+(4582, 458, 'thuong_gia', 24, 2308000, 114000, null),
+
+(4591, 459, 'pho_thong', 72, 1444000, 290000, null),
+
+(4592, 459, 'thuong_gia', 24, 4813000, 3550000, null),
+
+(4601, 460, 'pho_thong', 72, 2272000, 52000, null),
+
+(4602, 460, 'thuong_gia', 24, 6839000, 4874000, null),
+
+(4611, 461, 'pho_thong', 72, 1399000, 1159000, null),
+
+(4612, 461, 'thuong_gia', 24, 3148000, 942000, null),
+
+(4621, 462, 'pho_thong', 72, 3182000, 2157000, null),
+
+(4622, 462, 'thuong_gia', 24, 3529000, 1036000, null),
+
+(4631, 463, 'pho_thong', 72, 3577000, 2103000, null),
+
+(4632, 463, 'thuong_gia', 24, 2511000, 242000, null),
+
+(4641, 464, 'pho_thong', 72, 4854000, 2359000, null),
+
+(4642, 464, 'thuong_gia', 24, 1808000, 766000, null),
+
+(4651, 465, 'pho_thong', 72, 4221000, 1911000, null),
+
+(4652, 465, 'thuong_gia', 24, 3216000, 972000, null),
+
+(4661, 466, 'pho_thong', 72, 3496000, 2081000, null),
+
+(4662, 466, 'thuong_gia', 24, 5353000, 3060000, null),
+
+(4671, 467, 'pho_thong', 72, 3440000, 2124000, null),
+
+(4672, 467, 'thuong_gia', 24, 5528000, 3968000, null),
+
+(4681, 468, 'pho_thong', 72, 1328000, 226000, null),
+
+(4682, 468, 'thuong_gia', 24, 3100000, 1926000, null),
+
+(4691, 469, 'pho_thong', 72, 2085000, 1918000, null),
+
+(4692, 469, 'thuong_gia', 24, 2655000, 1556000, null),
+
+(4701, 470, 'pho_thong', 72, 2697000, 2332000, null),
+
+(4702, 470, 'thuong_gia', 24, 4879000, 4362000, null),
+
+(4711, 471, 'pho_thong', 72, 1077000, 490000, null),
+
+(4712, 471, 'thuong_gia', 24, 4410000, 4098000, null),
+
+(4721, 472, 'pho_thong', 72, 3550000, 2403000, null),
+
+(4722, 472, 'thuong_gia', 24, 3371000, 2794000, null),
+
+(4731, 473, 'pho_thong', 72, 2628000, 1589000, null),
+
+(4732, 473, 'thuong_gia', 24, 609000, 230000, null),
+
+(4741, 474, 'pho_thong', 72, 4404000, 2167000, null),
+
+(4742, 474, 'thuong_gia', 24, 1806000, 1494000, null),
+
+(4751, 475, 'pho_thong', 72, 1636000, 753000, null),
+
+(4752, 475, 'thuong_gia', 24, 2716000, 2636000, null),
+
+(4761, 476, 'pho_thong', 72, 1318000, 143000, null),
+
+(4762, 476, 'thuong_gia', 24, 2144000, 1894000, null),
+
+(4771, 477, 'pho_thong', 72, 1677000, 733000, null),
+
+(4772, 477, 'thuong_gia', 24, 5404000, 3692000, null),
+
+(4781, 478, 'pho_thong', 72, 1032000, 695000, null),
+
+(4782, 478, 'thuong_gia', 24, 3902000, 2512000, null),
+
+(4791, 479, 'pho_thong', 72, 3508000, 1946000, null),
+
+(4792, 479, 'thuong_gia', 24, 1658000, 718000, null),
+
+(4801, 480, 'pho_thong', 72, 3038000, 1347000, null),
+
+(4802, 480, 'thuong_gia', 24, 1721000, 498000, null),
+
+(4811, 481, 'pho_thong', 72, 2370000, 210000, null),
+
+(4812, 481, 'thuong_gia', 24, 5926000, 3982000, null),
+
+(4821, 482, 'pho_thong', 72, 2727000, 2437000, null),
+
+(4822, 482, 'thuong_gia', 24, 5375000, 3588000, null),
+
+(4831, 483, 'pho_thong', 72, 1035000, 831000, null),
+
+(4832, 483, 'thuong_gia', 24, 4434000, 1986000, null),
+
+(4841, 484, 'pho_thong', 72, 3435000, 1695000, null),
+
+(4842, 484, 'thuong_gia', 24, 4016000, 3478000, null),
+
+(4851, 485, 'pho_thong', 72, 3594000, 1487000, null),
+
+(4852, 485, 'thuong_gia', 24, 5311000, 2902000, null),
+
+(4861, 486, 'pho_thong', 72, 1402000, 152000, null),
+
+(4862, 486, 'thuong_gia', 24, 4664000, 4314000, null),
+
+(4871, 487, 'pho_thong', 72, 2856000, 1164000, null),
+
+(4872, 487, 'thuong_gia', 24, 3435000, 3326000, null),
+
+(4881, 488, 'pho_thong', 72, 3457000, 2242000, null),
+
+(4882, 488, 'thuong_gia', 24, 3265000, 3188000, null),
+
+(4891, 489, 'pho_thong', 72, 1935000, 1214000, null),
+
+(4892, 489, 'thuong_gia', 24, 1081000, 792000, null),
+
+(4901, 490, 'pho_thong', 72, 3106000, 2233000, null),
+
+(4902, 490, 'thuong_gia', 24, 4994000, 3168000, null),
+
+(4911, 491, 'pho_thong', 72, 3195000, 2404000, null),
+
+(4912, 491, 'thuong_gia', 24, 5431000, 4778000, null),
+
+(4921, 492, 'pho_thong', 72, 1258000, 1095000, null),
+
+(4922, 492, 'thuong_gia', 24, 3883000, 3448000, null),
+
+(4931, 493, 'pho_thong', 72, 2583000, 1095000, null),
+
+(4932, 493, 'thuong_gia', 24, 2744000, 2068000, null),
+
+(4941, 494, 'pho_thong', 72, 776000, 93000, null),
+
+(4942, 494, 'thuong_gia', 24, 2969000, 862000, null),
+
+(4951, 495, 'pho_thong', 72, 2186000, 966000, null),
+
+(4952, 495, 'thuong_gia', 24, 1698000, 1628000, null),
+
+(4961, 496, 'pho_thong', 72, 4392000, 2391000, null),
+
+(4962, 496, 'thuong_gia', 24, 2165000, 1976000, null),
+
+(4971, 497, 'pho_thong', 72, 3401000, 1442000, null),
+
+(4972, 497, 'thuong_gia', 24, 2277000, 1192000, null),
+
+(4981, 498, 'pho_thong', 72, 3089000, 1575000, null),
+
+(4982, 498, 'thuong_gia', 24, 2288000, 520000, null),
+
+(4991, 499, 'pho_thong', 72, 2553000, 207000, null),
+
+(4992, 499, 'thuong_gia', 24, 4422000, 2974000, null),
+
+(5001, 500, 'pho_thong', 72, 2103000, 1446000, null),
+
+(5002, 500, 'thuong_gia', 24, 2418000, 890000, null),
+
+(5011, 501, 'pho_thong', 72, 2611000, 2426000, null),
+
+(5012, 501, 'thuong_gia', 24, 4751000, 3954000, null),
+
+(5021, 502, 'pho_thong', 72, 3980000, 2082000, null),
+
+(5022, 502, 'thuong_gia', 24, 6612000, 4926000, null),
+
+(5031, 503, 'pho_thong', 72, 1217000, 972000, null),
+
+(5032, 503, 'thuong_gia', 24, 2578000, 2264000, null),
+
+(5041, 504, 'pho_thong', 72, 2850000, 540000, null),
+
+(5042, 504, 'thuong_gia', 24, 2391000, 1052000, null),
+
+(5051, 505, 'pho_thong', 72, 1779000, 159000, null),
+
+(5052, 505, 'thuong_gia', 24, 755000, 236000, null),
+
+(5061, 506, 'pho_thong', 72, 1029000, 684000, null),
+
+(5062, 506, 'thuong_gia', 24, 2422000, 2278000, null),
+
+(5071, 507, 'pho_thong', 72, 649000, 154000, null),
+
+(5072, 507, 'thuong_gia', 24, 2410000, 1636000, null),
+
+(5081, 508, 'pho_thong', 72, 967000, 473000, null),
+
+(5082, 508, 'thuong_gia', 24, 4881000, 2418000, null),
+
+(5091, 509, 'pho_thong', 72, 2064000, 374000, null),
+
+(5092, 509, 'thuong_gia', 24, 1646000, 650000, null),
+
+(5101, 510, 'pho_thong', 72, 2277000, 1658000, null),
+
+(5102, 510, 'thuong_gia', 24, 4640000, 3192000, null),
+
+(5111, 511, 'pho_thong', 72, 1067000, 346000, null),
+
+(5112, 511, 'thuong_gia', 24, 4426000, 3018000, null),
+
+(5121, 512, 'pho_thong', 72, 2560000, 1092000, null),
+
+(5122, 512, 'thuong_gia', 24, 4137000, 3684000, null),
+
+(5131, 513, 'pho_thong', 72, 2922000, 596000, null),
+
+(5132, 513, 'thuong_gia', 24, 3023000, 706000, null),
+
+(5141, 514, 'pho_thong', 72, 4712000, 2487000, null),
+
+(5142, 514, 'thuong_gia', 24, 4596000, 2892000, null),
+
+(5151, 515, 'pho_thong', 72, 3261000, 1776000, null),
+
+(5152, 515, 'thuong_gia', 24, 790000, 336000, null),
+
+(5161, 516, 'pho_thong', 72, 4575000, 2173000, null),
+
+(5162, 516, 'thuong_gia', 24, 2656000, 832000, null),
+
+(5171, 517, 'pho_thong', 72, 3717000, 2304000, null),
+
+(5172, 517, 'thuong_gia', 24, 3702000, 2416000, null),
+
+(5181, 518, 'pho_thong', 72, 3921000, 2484000, null),
+
+(5182, 518, 'thuong_gia', 24, 4384000, 3834000, null),
+
+(5191, 519, 'pho_thong', 72, 3163000, 868000, null),
+
+(5192, 519, 'thuong_gia', 24, 3793000, 3302000, null),
+
+(5201, 520, 'pho_thong', 72, 2127000, 1623000, null),
+
+(5202, 520, 'thuong_gia', 24, 791000, 426000, null),
+
+(5211, 521, 'pho_thong', 72, 2439000, 242000, null),
+
+(5212, 521, 'thuong_gia', 24, 6834000, 4472000, null),
+
+(5221, 522, 'pho_thong', 72, 3213000, 1855000, null),
+
+(5222, 522, 'thuong_gia', 24, 923000, 188000, null),
+
+(5231, 523, 'pho_thong', 72, 452000, 358000, null),
+
+(5232, 523, 'thuong_gia', 24, 5509000, 4592000, null),
+
+(5241, 524, 'pho_thong', 72, 3012000, 1122000, null),
+
+(5242, 524, 'thuong_gia', 24, 5974000, 4734000, null),
+
+(5251, 525, 'pho_thong', 72, 1984000, 1630000, null),
+
+(5252, 525, 'thuong_gia', 24, 4208000, 3422000, null),
+
+(5261, 526, 'pho_thong', 72, 1676000, 1600000, null),
+
+(5262, 526, 'thuong_gia', 24, 2504000, 1928000, null),
+
+(5271, 527, 'pho_thong', 72, 2295000, 1568000, null),
+
+(5272, 527, 'thuong_gia', 24, 5587000, 3424000, null),
+
+(5281, 528, 'pho_thong', 72, 4528000, 2431000, null),
+
+(5282, 528, 'thuong_gia', 24, 2743000, 2024000, null),
+
+(5291, 529, 'pho_thong', 72, 3170000, 1157000, null),
+
+(5292, 529, 'thuong_gia', 24, 6624000, 4478000, null),
+
+(5301, 530, 'pho_thong', 72, 1963000, 310000, null),
+
+(5302, 530, 'thuong_gia', 24, 4939000, 2486000, null),
+
+(5311, 531, 'pho_thong', 72, 2026000, 16000, null),
+
+(5312, 531, 'thuong_gia', 24, 6022000, 4822000, null),
+
+(5321, 532, 'pho_thong', 72, 1471000, 716000, null),
+
+(5322, 532, 'thuong_gia', 24, 1617000, 1616000, null),
+
+(5331, 533, 'pho_thong', 72, 2476000, 792000, null),
+
+(5332, 533, 'thuong_gia', 24, 2616000, 1866000, null),
+
+(5341, 534, 'pho_thong', 72, 2315000, 2031000, null),
+
+(5342, 534, 'thuong_gia', 24, 1286000, 174000, null),
+
+(5351, 535, 'pho_thong', 72, 1350000, 1195000, null),
+
+(5352, 535, 'thuong_gia', 24, 1130000, 100000, null),
+
+(5361, 536, 'pho_thong', 72, 2978000, 1889000, null),
+
+(5362, 536, 'thuong_gia', 24, 6767000, 4538000, null),
+
+(5371, 537, 'pho_thong', 72, 3674000, 1530000, null),
+
+(5372, 537, 'thuong_gia', 24, 7188000, 4878000, null),
+
+(5381, 538, 'pho_thong', 72, 3552000, 2471000, null),
+
+(5382, 538, 'thuong_gia', 24, 6029000, 4838000, null),
+
+(5391, 539, 'pho_thong', 72, 3396000, 1484000, null),
+
+(5392, 539, 'thuong_gia', 24, 2780000, 314000, null),
+
+(5401, 540, 'pho_thong', 72, 2080000, 1557000, null),
+
+(5402, 540, 'thuong_gia', 24, 4286000, 1880000, null),
+
+(5411, 541, 'pho_thong', 72, 3817000, 2350000, null),
+
+(5412, 541, 'thuong_gia', 24, 4063000, 2008000, null),
+
+(5421, 542, 'pho_thong', 72, 3094000, 1500000, null),
+
+(5422, 542, 'thuong_gia', 24, 3974000, 2484000, null),
+
+(5431, 543, 'pho_thong', 72, 2688000, 2246000, null),
+
+(5432, 543, 'thuong_gia', 24, 2900000, 758000, null),
+
+(5441, 544, 'pho_thong', 72, 3109000, 1321000, null),
+
+(5442, 544, 'thuong_gia', 24, 4720000, 4162000, null),
+
+(5451, 545, 'pho_thong', 72, 2772000, 2263000, null),
+
+(5452, 545, 'thuong_gia', 24, 1861000, 1836000, null),
+
+(5461, 546, 'pho_thong', 72, 1736000, 465000, null),
+
+(5462, 546, 'thuong_gia', 24, 3453000, 1810000, null),
+
+(5471, 547, 'pho_thong', 72, 1859000, 836000, null),
+
+(5472, 547, 'thuong_gia', 24, 2028000, 720000, null),
+
+(5481, 548, 'pho_thong', 72, 3341000, 1273000, null),
+
+(5482, 548, 'thuong_gia', 24, 2951000, 1340000, null),
+
+(5491, 549, 'pho_thong', 72, 4262000, 1976000, null),
+
+(5492, 549, 'thuong_gia', 24, 1493000, 582000, null),
+
+(5501, 550, 'pho_thong', 72, 2691000, 993000, null),
+
+(5502, 550, 'thuong_gia', 24, 5344000, 2872000, null),
+
+(5511, 551, 'pho_thong', 72, 1189000, 326000, null),
+
+(5512, 551, 'thuong_gia', 24, 4690000, 4096000, null),
+
+(5521, 552, 'pho_thong', 72, 1524000, 685000, null),
+
+(5522, 552, 'thuong_gia', 24, 5328000, 4256000, null),
+
+(5531, 553, 'pho_thong', 72, 2606000, 2302000, null),
+
+(5532, 553, 'thuong_gia', 24, 3893000, 2438000, null),
+
+(5541, 554, 'pho_thong', 72, 1191000, 86000, null),
+
+(5542, 554, 'thuong_gia', 24, 6286000, 4364000, null),
+
+(5551, 555, 'pho_thong', 72, 782000, 412000, null),
+
+(5552, 555, 'thuong_gia', 24, 4136000, 2566000, null),
+
+(5561, 556, 'pho_thong', 72, 2159000, 1990000, null),
+
+(5562, 556, 'thuong_gia', 24, 5885000, 4660000, null),
+
+(5571, 557, 'pho_thong', 72, 3098000, 2076000, null),
+
+(5572, 557, 'thuong_gia', 24, 1639000, 120000, null),
+
+(5581, 558, 'pho_thong', 72, 4117000, 1922000, null),
+
+(5582, 558, 'thuong_gia', 24, 3804000, 2188000, null),
+
+(5591, 559, 'pho_thong', 72, 1460000, 75000, null),
+
+(5592, 559, 'thuong_gia', 24, 5932000, 4422000, null),
+
+(5601, 560, 'pho_thong', 72, 3189000, 1287000, null),
+
+(5602, 560, 'thuong_gia', 24, 2796000, 2090000, null),
+
+(5611, 561, 'pho_thong', 72, 2752000, 1485000, null),
+
+(5612, 561, 'thuong_gia', 24, 4842000, 4274000, null),
+
+(5621, 562, 'pho_thong', 72, 2965000, 2409000, null),
+
+(5622, 562, 'thuong_gia', 24, 5498000, 3328000, null),
+
+(5631, 563, 'pho_thong', 72, 1703000, 691000, null),
+
+(5632, 563, 'thuong_gia', 24, 4235000, 3286000, null),
+
+(5641, 564, 'pho_thong', 72, 3472000, 1732000, null),
+
+(5642, 564, 'thuong_gia', 24, 3157000, 2268000, null),
+
+(5651, 565, 'pho_thong', 72, 4325000, 2294000, null),
+
+(5652, 565, 'thuong_gia', 24, 3605000, 1646000, null),
+
+(5661, 566, 'pho_thong', 72, 2109000, 654000, null),
+
+(5662, 566, 'thuong_gia', 24, 1259000, 192000, null),
+
+(5671, 567, 'pho_thong', 72, 1698000, 1424000, null),
+
+(5672, 567, 'thuong_gia', 24, 3949000, 2254000, null),
+
+(5681, 568, 'pho_thong', 72, 2672000, 1792000, null),
+
+(5682, 568, 'thuong_gia', 24, 3492000, 2784000, null),
+
+(5691, 569, 'pho_thong', 72, 2854000, 2146000, null),
+
+(5692, 569, 'thuong_gia', 24, 3675000, 3156000, null),
+
+(5701, 570, 'pho_thong', 72, 3174000, 2155000, null),
+
+(5702, 570, 'thuong_gia', 24, 4410000, 1938000, null),
+
+(5711, 571, 'pho_thong', 72, 4334000, 1855000, null),
+
+(5712, 571, 'thuong_gia', 24, 1388000, 266000, null),
+
+(5721, 572, 'pho_thong', 72, 2475000, 977000, null),
+
+(5722, 572, 'thuong_gia', 24, 5322000, 3212000, null),
+
+(5731, 573, 'pho_thong', 72, 2625000, 656000, null),
+
+(5732, 573, 'thuong_gia', 24, 6319000, 4290000, null),
+
+(5741, 574, 'pho_thong', 72, 2488000, 1629000, null),
+
+(5742, 574, 'thuong_gia', 24, 1982000, 446000, null),
+
+(5751, 575, 'pho_thong', 72, 4211000, 2412000, null),
+
+(5752, 575, 'thuong_gia', 24, 5365000, 3690000, null),
+
+(5761, 576, 'pho_thong', 72, 1731000, 1272000, null),
+
+(5762, 576, 'thuong_gia', 24, 4454000, 2962000, null),
+
+(5771, 577, 'pho_thong', 72, 1298000, 732000, null),
+
+(5772, 577, 'thuong_gia', 24, 2861000, 1472000, null),
+
+(5781, 578, 'pho_thong', 72, 2406000, 1518000, null),
+
+(5782, 578, 'thuong_gia', 24, 6288000, 4956000, null),
+
+(5791, 579, 'pho_thong', 72, 1980000, 1311000, null),
+
+(5792, 579, 'thuong_gia', 24, 2570000, 2428000, null),
+
+(5801, 580, 'pho_thong', 72, 1947000, 635000, null),
+
+(5802, 580, 'thuong_gia', 24, 2061000, 1478000, null),
+
+(5811, 581, 'pho_thong', 72, 1617000, 1595000, null),
+
+(5812, 581, 'thuong_gia', 24, 6080000, 4280000, null),
+
+(5821, 582, 'pho_thong', 72, 994000, 347000, null),
+
+(5822, 582, 'thuong_gia', 24, 1748000, 540000, null),
+
+(5831, 583, 'pho_thong', 72, 2608000, 2337000, null),
+
+(5832, 583, 'thuong_gia', 24, 2949000, 1058000, null),
+
+(5841, 584, 'pho_thong', 72, 745000, 545000, null),
+
+(5842, 584, 'thuong_gia', 24, 2483000, 1616000, null),
+
+(5851, 585, 'pho_thong', 72, 2424000, 676000, null),
+
+(5852, 585, 'thuong_gia', 24, 5207000, 4708000, null),
+
+(5861, 586, 'pho_thong', 72, 853000, 729000, null),
+
+(5862, 586, 'thuong_gia', 24, 2847000, 1892000, null),
+
+(5871, 587, 'pho_thong', 72, 2367000, 902000, null),
+
+(5872, 587, 'thuong_gia', 24, 2670000, 1802000, null),
+
+(5881, 588, 'pho_thong', 72, 2171000, 191000, null),
+
+(5882, 588, 'thuong_gia', 24, 4534000, 3274000, null),
+
+(5891, 589, 'pho_thong', 72, 4399000, 2114000, null),
+
+(5892, 589, 'thuong_gia', 24, 2970000, 834000, null),
+
+(5901, 590, 'pho_thong', 72, 4087000, 2441000, null),
+
+(5902, 590, 'thuong_gia', 24, 995000, 164000, null),
+
+(5911, 591, 'pho_thong', 72, 3144000, 1474000, null),
+
+(5912, 591, 'thuong_gia', 24, 4121000, 2322000, null),
+
+(5921, 592, 'pho_thong', 72, 1507000, 561000, null),
+
+(5922, 592, 'thuong_gia', 24, 2551000, 666000, null),
+
+(5931, 593, 'pho_thong', 72, 2267000, 283000, null),
+
+(5932, 593, 'thuong_gia', 24, 5149000, 3582000, null),
+
+(5941, 594, 'pho_thong', 72, 1667000, 1597000, null),
+
+(5942, 594, 'thuong_gia', 24, 2363000, 1784000, null),
+
+(5951, 595, 'pho_thong', 72, 1379000, 65000, null),
+
+(5952, 595, 'thuong_gia', 24, 4317000, 2652000, null),
+
+(5961, 596, 'pho_thong', 72, 3455000, 2262000, null),
+
+(5962, 596, 'thuong_gia', 24, 5165000, 2752000, null),
+
+(5971, 597, 'pho_thong', 72, 3867000, 2328000, null),
+
+(5972, 597, 'thuong_gia', 24, 2369000, 1446000, null),
+
+(5981, 598, 'pho_thong', 72, 1729000, 120000, null),
+
+(5982, 598, 'thuong_gia', 24, 5734000, 4496000, null),
+
+(5991, 599, 'pho_thong', 72, 2720000, 1112000, null),
+
+(5992, 599, 'thuong_gia', 24, 2379000, 1768000, null),
+
+(6001, 600, 'pho_thong', 72, 3844000, 1571000, null),
+
+(6002, 600, 'thuong_gia', 24, 4297000, 2742000, null),
+
+(6011, 601, 'pho_thong', 72, 2840000, 1874000, null),
+
+(6012, 601, 'thuong_gia', 24, 5806000, 4354000, null),
+
+(6021, 602, 'pho_thong', 72, 2534000, 275000, null),
+
+(6022, 602, 'thuong_gia', 24, 3700000, 2074000, null),
+
+(6031, 603, 'pho_thong', 72, 2205000, 1194000, null),
+
+(6032, 603, 'thuong_gia', 24, 1225000, 594000, null),
+
+(6041, 604, 'pho_thong', 72, 3743000, 2320000, null),
+
+(6042, 604, 'thuong_gia', 24, 6140000, 3704000, null),
+
+(6051, 605, 'pho_thong', 72, 2831000, 1651000, null),
+
+(6052, 605, 'thuong_gia', 24, 5333000, 4066000, null),
+
+(6061, 606, 'pho_thong', 72, 4634000, 2206000, null),
+
+(6062, 606, 'thuong_gia', 24, 2481000, 428000, null),
+
+(6071, 607, 'pho_thong', 72, 1054000, 170000, null),
+
+(6072, 607, 'thuong_gia', 24, 5390000, 4450000, null),
+
+(6081, 608, 'pho_thong', 72, 3604000, 1842000, null),
+
+(6082, 608, 'thuong_gia', 24, 5330000, 3656000, null),
+
+(6091, 609, 'pho_thong', 72, 2448000, 942000, null),
+
+(6092, 609, 'thuong_gia', 24, 5492000, 4756000, null),
+
+(6101, 610, 'pho_thong', 72, 2979000, 511000, null),
+
+(6102, 610, 'thuong_gia', 24, 4958000, 4064000, null),
+
+(6111, 611, 'pho_thong', 72, 2399000, 939000, null),
+
+(6112, 611, 'thuong_gia', 24, 6345000, 4244000, null),
+
+(6121, 612, 'pho_thong', 72, 3841000, 2338000, null),
+
+(6122, 612, 'thuong_gia', 24, 5356000, 4706000, null),
+
+(6131, 613, 'pho_thong', 72, 3903000, 1855000, null),
+
+(6132, 613, 'thuong_gia', 24, 4076000, 3678000, null),
+
+(6141, 614, 'pho_thong', 72, 3492000, 1526000, null),
+
+(6142, 614, 'thuong_gia', 24, 3442000, 3122000, null),
+
+(6151, 615, 'pho_thong', 72, 4506000, 2133000, null),
+
+(6152, 615, 'thuong_gia', 24, 3515000, 1914000, null),
+
+(6161, 616, 'pho_thong', 72, 4475000, 2160000, null),
+
+(6162, 616, 'thuong_gia', 24, 2638000, 2098000, null),
+
+(6171, 617, 'pho_thong', 72, 2037000, 1563000, null),
+
+(6172, 617, 'thuong_gia', 24, 4977000, 3084000, null),
+
+(6181, 618, 'pho_thong', 72, 2379000, 1119000, null),
+
+(6182, 618, 'thuong_gia', 24, 3019000, 2448000, null),
+
+(6191, 619, 'pho_thong', 72, 1346000, 1216000, null),
+
+(6192, 619, 'thuong_gia', 24, 3569000, 1898000, null),
+
+(6201, 620, 'pho_thong', 72, 2719000, 2090000, null),
+
+(6202, 620, 'thuong_gia', 24, 1077000, 230000, null),
+
+(6211, 621, 'pho_thong', 72, 1684000, 773000, null),
+
+(6212, 621, 'thuong_gia', 24, 1307000, 768000, null),
+
+(6221, 622, 'pho_thong', 72, 2662000, 907000, null),
+
+(6222, 622, 'thuong_gia', 24, 734000, 410000, null),
+
+(6231, 623, 'pho_thong', 72, 1558000, 1054000, null),
+
+(6232, 623, 'thuong_gia', 24, 2491000, 1688000, null),
+
+(6241, 624, 'pho_thong', 72, 3664000, 2379000, null),
+
+(6242, 624, 'thuong_gia', 24, 5790000, 4026000, null),
+
+(6251, 625, 'pho_thong', 72, 2576000, 1820000, null),
+
+(6252, 625, 'thuong_gia', 24, 4221000, 2924000, null),
+
+(6261, 626, 'pho_thong', 72, 3721000, 1440000, null),
+
+(6262, 626, 'thuong_gia', 24, 2731000, 1438000, null),
+
+(6271, 627, 'pho_thong', 72, 3143000, 1150000, null),
+
+(6272, 627, 'thuong_gia', 24, 1710000, 704000, null),
+
+(6281, 628, 'pho_thong', 72, 2926000, 1877000, null),
+
+(6282, 628, 'thuong_gia', 24, 1519000, 192000, null),
+
+(6291, 629, 'pho_thong', 72, 2223000, 385000, null),
+
+(6292, 629, 'thuong_gia', 24, 4681000, 4186000, null),
+
+(6301, 630, 'pho_thong', 72, 3345000, 1531000, null),
+
+(6302, 630, 'thuong_gia', 24, 3340000, 2500000, null),
+
+(6311, 631, 'pho_thong', 72, 2467000, 389000, null),
+
+(6312, 631, 'thuong_gia', 24, 4045000, 3044000, null),
+
+(6321, 632, 'pho_thong', 72, 1414000, 1254000, null),
+
+(6322, 632, 'thuong_gia', 24, 5738000, 4268000, null),
+
+(6331, 633, 'pho_thong', 72, 985000, 492000, null),
+
+(6332, 633, 'thuong_gia', 24, 2347000, 1028000, null),
+
+(6341, 634, 'pho_thong', 72, 3056000, 1017000, null),
+
+(6342, 634, 'thuong_gia', 24, 6980000, 4960000, null),
+
+(6351, 635, 'pho_thong', 72, 2382000, 1224000, null),
+
+(6352, 635, 'thuong_gia', 24, 2043000, 880000, null),
+
+(6361, 636, 'pho_thong', 72, 1094000, 413000, null),
+
+(6362, 636, 'thuong_gia', 24, 661000, 482000, null),
+
+(6371, 637, 'pho_thong', 72, 2273000, 536000, null),
+
+(6372, 637, 'thuong_gia', 24, 2599000, 910000, null),
+
+(6381, 638, 'pho_thong', 72, 3723000, 2382000, null),
+
+(6382, 638, 'thuong_gia', 24, 5609000, 4550000, null),
+
+(6391, 639, 'pho_thong', 72, 3064000, 896000, null),
+
+(6392, 639, 'thuong_gia', 24, 3159000, 1522000, null),
+
+(6401, 640, 'pho_thong', 72, 1878000, 821000, null),
+
+(6402, 640, 'thuong_gia', 24, 2936000, 2834000, null),
+
+(6411, 641, 'pho_thong', 72, 2085000, 1239000, null),
+
+(6412, 641, 'thuong_gia', 24, 2091000, 832000, null),
+
+(6421, 642, 'pho_thong', 72, 4703000, 2265000, null),
+
+(6422, 642, 'thuong_gia', 24, 3891000, 3434000, null),
+
+(6431, 643, 'pho_thong', 72, 2857000, 876000, null),
+
+(6432, 643, 'thuong_gia', 24, 3136000, 2436000, null),
+
+(6441, 644, 'pho_thong', 72, 3549000, 1632000, null),
+
+(6442, 644, 'thuong_gia', 24, 3994000, 1930000, null),
+
+(6451, 645, 'pho_thong', 72, 3323000, 2041000, null),
+
+(6452, 645, 'thuong_gia', 24, 2625000, 194000, null),
+
+(6461, 646, 'pho_thong', 72, 3573000, 2058000, null),
+
+(6462, 646, 'thuong_gia', 24, 5985000, 4534000, null),
+
+(6471, 647, 'pho_thong', 72, 2731000, 1362000, null),
+
+(6472, 647, 'thuong_gia', 24, 5776000, 4732000, null),
+
+(6481, 648, 'pho_thong', 72, 2832000, 1565000, null),
+
+(6482, 648, 'thuong_gia', 24, 3540000, 3434000, null),
+
+(6491, 649, 'pho_thong', 72, 1588000, 563000, null),
+
+(6492, 649, 'thuong_gia', 24, 4981000, 4114000, null),
+
+(6501, 650, 'pho_thong', 72, 4648000, 2352000, null),
+
+(6502, 650, 'thuong_gia', 24, 4933000, 4642000, null),
+
+(6511, 651, 'pho_thong', 72, 1662000, 785000, null),
+
+(6512, 651, 'thuong_gia', 24, 4219000, 1918000, null),
+
+(6521, 652, 'pho_thong', 72, 2011000, 1658000, null),
+
+(6522, 652, 'thuong_gia', 24, 475000, 244000, null),
+
+(6531, 653, 'pho_thong', 72, 2917000, 423000, null),
+
+(6532, 653, 'thuong_gia', 24, 6247000, 4616000, null),
+
+(6541, 654, 'pho_thong', 72, 3355000, 1678000, null),
+
+(6542, 654, 'thuong_gia', 24, 4786000, 3976000, null),
+
+(6551, 655, 'pho_thong', 72, 1513000, 894000, null),
+
+(6552, 655, 'thuong_gia', 24, 3159000, 1920000, null),
+
+(6561, 656, 'pho_thong', 72, 4238000, 2129000, null),
+
+(6562, 656, 'thuong_gia', 24, 2421000, 1692000, null),
+
+(6571, 657, 'pho_thong', 72, 2626000, 764000, null),
+
+(6572, 657, 'thuong_gia', 24, 3516000, 3312000, null),
+
+(6581, 658, 'pho_thong', 72, 2188000, 573000, null),
+
+(6582, 658, 'thuong_gia', 24, 2664000, 1182000, null),
+
+(6591, 659, 'pho_thong', 72, 1223000, 1117000, null),
+
+(6592, 659, 'thuong_gia', 24, 3365000, 1680000, null),
+
+(6601, 660, 'pho_thong', 72, 4392000, 2190000, null),
+
+(6602, 660, 'thuong_gia', 24, 4428000, 4396000, null),
+
+(6611, 661, 'pho_thong', 72, 3264000, 1540000, null),
+
+(6612, 661, 'thuong_gia', 24, 1267000, 526000, null),
+
+(6621, 662, 'pho_thong', 72, 272000, 148000, null),
+
+(6622, 662, 'thuong_gia', 24, 4714000, 3990000, null),
+
+(6631, 663, 'pho_thong', 72, 3916000, 1543000, null),
+
+(6632, 663, 'thuong_gia', 24, 6689000, 4814000, null),
+
+(6641, 664, 'pho_thong', 72, 3160000, 2316000, null),
+
+(6642, 664, 'thuong_gia', 24, 1770000, 582000, null),
+
+(6651, 665, 'pho_thong', 72, 3310000, 1668000, null),
+
+(6652, 665, 'thuong_gia', 24, 4054000, 1968000, null),
+
+(6661, 666, 'pho_thong', 72, 4790000, 2447000, null),
+
+(6662, 666, 'thuong_gia', 24, 4336000, 1980000, null),
+
+(6671, 667, 'pho_thong', 72, 4214000, 1954000, null),
+
+(6672, 667, 'thuong_gia', 24, 4194000, 4164000, null),
+
+(6681, 668, 'pho_thong', 72, 3197000, 1555000, null),
+
+(6682, 668, 'thuong_gia', 24, 1158000, 972000, null),
+
+(6691, 669, 'pho_thong', 72, 2128000, 341000, null),
+
+(6692, 669, 'thuong_gia', 24, 524000, 380000, null),
+
+(6701, 670, 'pho_thong', 72, 1299000, 528000, null),
+
+(6702, 670, 'thuong_gia', 24, 5409000, 4170000, null),
+
+(6711, 671, 'pho_thong', 72, 4348000, 2493000, null),
+
+(6712, 671, 'thuong_gia', 24, 4307000, 2216000, null),
+
+(6721, 672, 'pho_thong', 72, 2521000, 629000, null),
+
+(6722, 672, 'thuong_gia', 24, 1528000, 572000, null),
+
+(6731, 673, 'pho_thong', 72, 2826000, 2358000, null),
+
+(6732, 673, 'thuong_gia', 24, 1696000, 822000, null),
+
+(6741, 674, 'pho_thong', 72, 3669000, 1791000, null),
+
+(6742, 674, 'thuong_gia', 24, 2676000, 414000, null),
+
+(6751, 675, 'pho_thong', 72, 3903000, 2180000, null),
+
+(6752, 675, 'thuong_gia', 24, 4890000, 3704000, null),
+
+(6761, 676, 'pho_thong', 72, 4021000, 2176000, null),
+
+(6762, 676, 'thuong_gia', 24, 2497000, 1970000, null),
+
+(6771, 677, 'pho_thong', 72, 3503000, 1512000, null),
+
+(6772, 677, 'thuong_gia', 24, 5737000, 4466000, null),
+
+(6781, 678, 'pho_thong', 72, 3190000, 1250000, null),
+
+(6782, 678, 'thuong_gia', 24, 3234000, 1796000, null),
+
+(6791, 679, 'pho_thong', 72, 4229000, 2074000, null),
+
+(6792, 679, 'thuong_gia', 24, 2403000, 896000, null),
+
+(6801, 680, 'pho_thong', 72, 1212000, 107000, null),
+
+(6802, 680, 'thuong_gia', 24, 2875000, 1954000, null),
+
+(6811, 681, 'pho_thong', 72, 3565000, 1662000, null),
+
+(6812, 681, 'thuong_gia', 24, 3409000, 2068000, null),
+
+(6821, 682, 'pho_thong', 72, 2588000, 2021000, null),
+
+(6822, 682, 'thuong_gia', 24, 2533000, 1504000, null),
+
+(6831, 683, 'pho_thong', 72, 2402000, 564000, null),
+
+(6832, 683, 'thuong_gia', 24, 5758000, 3358000, null),
+
+(6841, 684, 'pho_thong', 72, 1639000, 708000, null),
+
+(6842, 684, 'thuong_gia', 24, 3571000, 3564000, null),
+
+(6851, 685, 'pho_thong', 72, 3071000, 750000, null),
+
+(6852, 685, 'thuong_gia', 24, 5211000, 4538000, null),
+
+(6861, 686, 'pho_thong', 72, 1957000, 949000, null),
+
+(6862, 686, 'thuong_gia', 24, 5107000, 3890000, null),
+
+(6871, 687, 'pho_thong', 72, 3254000, 1345000, null),
+
+(6872, 687, 'thuong_gia', 24, 1852000, 226000, null),
+
+(6881, 688, 'pho_thong', 72, 3045000, 1194000, null),
+
+(6882, 688, 'thuong_gia', 24, 3566000, 1906000, null),
+
+(6891, 689, 'pho_thong', 72, 1794000, 1162000, null),
+
+(6892, 689, 'thuong_gia', 24, 5608000, 4220000, null),
+
+(6901, 690, 'pho_thong', 72, 2393000, 440000, null),
+
+(6902, 690, 'thuong_gia', 24, 2173000, 686000, null),
+
+(6911, 691, 'pho_thong', 72, 1827000, 285000, null),
+
+(6912, 691, 'thuong_gia', 24, 6565000, 4242000, null),
+
+(6921, 692, 'pho_thong', 72, 3704000, 2089000, null),
+
+(6922, 692, 'thuong_gia', 24, 4503000, 3320000, null),
+
+(6931, 693, 'pho_thong', 72, 958000, 433000, null),
+
+(6932, 693, 'thuong_gia', 24, 4133000, 1830000, null),
+
+(6941, 694, 'pho_thong', 72, 1816000, 634000, null),
+
+(6942, 694, 'thuong_gia', 24, 5072000, 4586000, null),
+
+(6951, 695, 'pho_thong', 72, 2322000, 508000, null),
+
+(6952, 695, 'thuong_gia', 24, 4487000, 3102000, null),
+
+(6961, 696, 'pho_thong', 72, 2057000, 409000, null),
+
+(6962, 696, 'thuong_gia', 24, 3833000, 3746000, null),
+
+(6971, 697, 'pho_thong', 72, 4351000, 1950000, null),
+
+(6972, 697, 'thuong_gia', 24, 2497000, 158000, null),
+
+(6981, 698, 'pho_thong', 72, 3756000, 1747000, null),
+
+(6982, 698, 'thuong_gia', 24, 2951000, 1666000, null),
+
+(6991, 699, 'pho_thong', 72, 860000, 656000, null),
+
+(6992, 699, 'thuong_gia', 24, 4941000, 4896000, null),
+
+(7001, 700, 'pho_thong', 72, 2027000, 1254000, null),
+
+(7002, 700, 'thuong_gia', 24, 5823000, 3368000, null),
+
+(7011, 701, 'pho_thong', 72, 1754000, 909000, null),
+
+(7012, 701, 'thuong_gia', 24, 3749000, 1980000, null),
+
+(7021, 702, 'pho_thong', 72, 3613000, 1974000, null),
+
+(7022, 702, 'thuong_gia', 24, 2393000, 346000, null),
+
+(7031, 703, 'pho_thong', 72, 3127000, 1882000, null),
+
+(7032, 703, 'thuong_gia', 24, 1237000, 630000, null),
+
+(7041, 704, 'pho_thong', 72, 1658000, 1046000, null),
+
+(7042, 704, 'thuong_gia', 24, 1610000, 896000, null),
+
+(7051, 705, 'pho_thong', 72, 3889000, 1404000, null),
+
+(7052, 705, 'thuong_gia', 24, 1374000, 794000, null),
+
+(7061, 706, 'pho_thong', 72, 3146000, 2023000, null),
+
+(7062, 706, 'thuong_gia', 24, 1141000, 866000, null),
+
+(7071, 707, 'pho_thong', 72, 4240000, 2300000, null),
+
+(7072, 707, 'thuong_gia', 24, 4567000, 3170000, null),
+
+(7081, 708, 'pho_thong', 72, 1468000, 1268000, null),
+
+(7082, 708, 'thuong_gia', 24, 3838000, 2040000, null),
+
+(7091, 709, 'pho_thong', 72, 1839000, 1187000, null),
+
+(7092, 709, 'thuong_gia', 24, 5621000, 4326000, null),
+
+(7101, 710, 'pho_thong', 72, 2714000, 428000, null),
+
+(7102, 710, 'thuong_gia', 24, 2411000, 498000, null),
+
+(7111, 711, 'pho_thong', 72, 1898000, 706000, null),
+
+(7112, 711, 'thuong_gia', 24, 3169000, 3072000, null),
+
+(7121, 712, 'pho_thong', 72, 2633000, 2178000, null),
+
+(7122, 712, 'thuong_gia', 24, 3347000, 3060000, null),
+
+(7131, 713, 'pho_thong', 72, 2639000, 1214000, null),
+
+(7132, 713, 'thuong_gia', 24, 3678000, 1896000, null),
+
+(7141, 714, 'pho_thong', 72, 2024000, 1954000, null),
+
+(7142, 714, 'thuong_gia', 24, 3136000, 938000, null),
+
+(7151, 715, 'pho_thong', 72, 2643000, 2017000, null),
+
+(7152, 715, 'thuong_gia', 24, 4413000, 3124000, null),
+
+(7161, 716, 'pho_thong', 72, 3923000, 1627000, null),
+
+(7162, 716, 'thuong_gia', 24, 2183000, 1450000, null),
+
+(7171, 717, 'pho_thong', 72, 1479000, 250000, null),
+
+(7172, 717, 'thuong_gia', 24, 4768000, 3124000, null),
+
+(7181, 718, 'pho_thong', 72, 3885000, 1993000, null),
+
+(7182, 718, 'thuong_gia', 24, 1421000, 616000, null),
+
+(7191, 719, 'pho_thong', 72, 2312000, 18000, null),
+
+(7192, 719, 'thuong_gia', 24, 6732000, 4586000, null),
+
+(7201, 720, 'pho_thong', 72, 2485000, 2187000, null),
+
+(7202, 720, 'thuong_gia', 24, 4133000, 2098000, null),
+
+(7211, 721, 'pho_thong', 72, 2226000, 427000, null),
+
+(7212, 721, 'thuong_gia', 24, 3011000, 1548000, null),
+
+(7221, 722, 'pho_thong', 72, 1765000, 525000, null),
+
+(7222, 722, 'thuong_gia', 24, 2796000, 870000, null),
+
+(7231, 723, 'pho_thong', 72, 2990000, 1102000, null),
+
+(7232, 723, 'thuong_gia', 24, 5265000, 4452000, null),
+
+(7241, 724, 'pho_thong', 72, 2400000, 469000, null),
+
+(7242, 724, 'thuong_gia', 24, 5841000, 3544000, null),
+
+(7251, 725, 'pho_thong', 72, 1715000, 256000, null),
+
+(7252, 725, 'thuong_gia', 24, 5392000, 3136000, null),
+
+(7261, 726, 'pho_thong', 72, 3118000, 2284000, null),
+
+(7262, 726, 'thuong_gia', 24, 1793000, 1218000, null),
+
+(7271, 727, 'pho_thong', 72, 2559000, 845000, null),
+
+(7272, 727, 'thuong_gia', 24, 4394000, 4208000, null),
+
+(7281, 728, 'pho_thong', 72, 1125000, 599000, null),
+
+(7282, 728, 'thuong_gia', 24, 913000, 116000, null),
+
+(7291, 729, 'pho_thong', 72, 4504000, 2247000, null),
+
+(7292, 729, 'thuong_gia', 24, 1404000, 762000, null),
+
+(7301, 730, 'pho_thong', 72, 1789000, 446000, null),
+
+(7302, 730, 'thuong_gia', 24, 2182000, 170000, null),
+
+(7311, 731, 'pho_thong', 72, 1650000, 857000, null),
+
+(7312, 731, 'thuong_gia', 24, 2297000, 1918000, null),
+
+(7321, 732, 'pho_thong', 72, 2705000, 1960000, null),
+
+(7322, 732, 'thuong_gia', 24, 3859000, 2104000, null),
+
+(7331, 733, 'pho_thong', 72, 1038000, 380000, null),
+
+(7332, 733, 'thuong_gia', 24, 2979000, 2128000, null),
+
+(7341, 734, 'pho_thong', 72, 3955000, 1740000, null),
+
+(7342, 734, 'thuong_gia', 24, 6136000, 4316000, null),
+
+(7351, 735, 'pho_thong', 72, 1574000, 1480000, null),
+
+(7352, 735, 'thuong_gia', 24, 1953000, 618000, null),
+
+(7361, 736, 'pho_thong', 72, 2920000, 1950000, null),
+
+(7362, 736, 'thuong_gia', 24, 2512000, 2254000, null),
+
+(7371, 737, 'pho_thong', 72, 938000, 844000, null),
+
+(7372, 737, 'thuong_gia', 24, 5046000, 4726000, null),
+
+(7381, 738, 'pho_thong', 72, 3429000, 1553000, null),
+
+(7382, 738, 'thuong_gia', 24, 6935000, 4638000, null),
+
+(7391, 739, 'pho_thong', 72, 3069000, 1556000, null),
+
+(7392, 739, 'thuong_gia', 24, 2444000, 2324000, null),
+
+(7401, 740, 'pho_thong', 72, 214000, 84000, null),
+
+(7402, 740, 'thuong_gia', 24, 4508000, 3202000, null),
+
+(7411, 741, 'pho_thong', 72, 1841000, 29000, null),
+
+(7412, 741, 'thuong_gia', 24, 4002000, 2762000, null),
+
+(7421, 742, 'pho_thong', 72, 769000, 666000, null),
+
+(7422, 742, 'thuong_gia', 24, 1697000, 276000, null),
+
+(7431, 743, 'pho_thong', 72, 4420000, 2065000, null),
+
+(7432, 743, 'thuong_gia', 24, 3781000, 3176000, null),
+
+(7441, 744, 'pho_thong', 72, 2577000, 450000, null),
+
+(7442, 744, 'thuong_gia', 24, 2753000, 1690000, null),
+
+(7451, 745, 'pho_thong', 72, 3013000, 1927000, null),
+
+(7452, 745, 'thuong_gia', 24, 3275000, 2210000, null),
+
+(7461, 746, 'pho_thong', 72, 2014000, 944000, null),
+
+(7462, 746, 'thuong_gia', 24, 2528000, 1204000, null),
+
+(7471, 747, 'pho_thong', 72, 1293000, 1102000, null),
+
+(7472, 747, 'thuong_gia', 24, 2818000, 1486000, null),
+
+(7481, 748, 'pho_thong', 72, 1748000, 110000, null),
+
+(7482, 748, 'thuong_gia', 24, 1662000, 1624000, null),
+
+(7491, 749, 'pho_thong', 72, 1666000, 204000, null),
+
+(7492, 749, 'thuong_gia', 24, 1966000, 1366000, null),
+
+(7501, 750, 'pho_thong', 72, 1521000, 388000, null),
+
+(7502, 750, 'thuong_gia', 24, 3793000, 2526000, null),
+
+(7511, 751, 'pho_thong', 72, 1839000, 760000, null),
+
+(7512, 751, 'thuong_gia', 24, 2230000, 1724000, null),
+
+(7521, 752, 'pho_thong', 72, 2379000, 1683000, null),
+
+(7522, 752, 'thuong_gia', 24, 5394000, 4354000, null),
+
+(7531, 753, 'pho_thong', 72, 1187000, 822000, null),
+
+(7532, 753, 'thuong_gia', 24, 2013000, 596000, null),
+
+(7541, 754, 'pho_thong', 72, 2176000, 1087000, null),
+
+(7542, 754, 'thuong_gia', 24, 5177000, 4370000, null),
+
+(7551, 755, 'pho_thong', 72, 4412000, 2130000, null),
+
+(7552, 755, 'thuong_gia', 24, 3910000, 3732000, null),
+
+(7561, 756, 'pho_thong', 72, 2551000, 1470000, null),
+
+(7562, 756, 'thuong_gia', 24, 1101000, 736000, null),
+
+(7571, 757, 'pho_thong', 72, 4230000, 1739000, null),
+
+(7572, 757, 'thuong_gia', 24, 3591000, 1124000, null),
+
+(7581, 758, 'pho_thong', 72, 2498000, 1760000, null),
+
+(7582, 758, 'thuong_gia', 24, 4497000, 2590000, null),
+
+(7591, 759, 'pho_thong', 72, 1458000, 228000, null),
+
+(7592, 759, 'thuong_gia', 24, 4951000, 2658000, null),
+
+(7601, 760, 'pho_thong', 72, 770000, 98000, null),
+
+(7602, 760, 'thuong_gia', 24, 2138000, 830000, null),
+
+(7611, 761, 'pho_thong', 72, 2365000, 1812000, null),
+
+(7612, 761, 'thuong_gia', 24, 5472000, 4076000, null),
+
+(7621, 762, 'pho_thong', 72, 3881000, 2159000, null),
+
+(7622, 762, 'thuong_gia', 24, 3632000, 1724000, null),
+
+(7631, 763, 'pho_thong', 72, 1911000, 1317000, null),
+
+(7632, 763, 'thuong_gia', 24, 3852000, 1428000, null),
+
+(7641, 764, 'pho_thong', 72, 850000, 801000, null),
+
+(7642, 764, 'thuong_gia', 24, 5543000, 3318000, null),
+
+(7651, 765, 'pho_thong', 72, 2736000, 1676000, null),
+
+(7652, 765, 'thuong_gia', 24, 3819000, 2136000, null),
+
+(7661, 766, 'pho_thong', 72, 2511000, 2274000, null),
+
+(7662, 766, 'thuong_gia', 24, 5342000, 2954000, null),
+
+(7671, 767, 'pho_thong', 72, 3162000, 691000, null),
+
+(7672, 767, 'thuong_gia', 24, 3888000, 3764000, null),
+
+(7681, 768, 'pho_thong', 72, 2287000, 1049000, null),
+
+(7682, 768, 'thuong_gia', 24, 4967000, 2984000, null),
+
+(7691, 769, 'pho_thong', 72, 3424000, 2485000, null),
+
+(7692, 769, 'thuong_gia', 24, 4819000, 2478000, null),
+
+(7701, 770, 'pho_thong', 72, 4183000, 2366000, null),
+
+(7702, 770, 'thuong_gia', 24, 3088000, 1020000, null),
+
+(7711, 771, 'pho_thong', 72, 2431000, 2125000, null),
+
+(7712, 771, 'thuong_gia', 24, 2465000, 2014000, null),
+
+(7721, 772, 'pho_thong', 72, 2537000, 1411000, null),
+
+(7722, 772, 'thuong_gia', 24, 2106000, 850000, null),
+
+(7731, 773, 'pho_thong', 72, 2974000, 1527000, null),
+
+(7732, 773, 'thuong_gia', 24, 959000, 892000, null),
+
+(7741, 774, 'pho_thong', 72, 1575000, 520000, null),
+
+(7742, 774, 'thuong_gia', 24, 293000, 268000, null),
+
+(7751, 775, 'pho_thong', 72, 1117000, 813000, null),
+
+(7752, 775, 'thuong_gia', 24, 2209000, 344000, null),
+
+(7761, 776, 'pho_thong', 72, 1335000, 1111000, null),
+
+(7762, 776, 'thuong_gia', 24, 4068000, 2794000, null),
+
+(7771, 777, 'pho_thong', 72, 3266000, 1850000, null),
+
+(7772, 777, 'thuong_gia', 24, 5072000, 3238000, null),
+
+(7781, 778, 'pho_thong', 72, 4696000, 2486000, null),
+
+(7782, 778, 'thuong_gia', 24, 2522000, 1372000, null),
+
+(7791, 779, 'pho_thong', 72, 4440000, 2254000, null),
+
+(7792, 779, 'thuong_gia', 24, 1347000, 58000, null),
+
+(7801, 780, 'pho_thong', 72, 921000, 400000, null),
+
+(7802, 780, 'thuong_gia', 24, 5988000, 3760000, null),
+
+(7811, 781, 'pho_thong', 72, 1204000, 1170000, null),
+
+(7812, 781, 'thuong_gia', 24, 3167000, 1630000, null),
+
+(7821, 782, 'pho_thong', 72, 4055000, 1755000, null),
+
+(7822, 782, 'thuong_gia', 24, 2712000, 1368000, null),
+
+(7831, 783, 'pho_thong', 72, 2463000, 150000, null),
+
+(7832, 783, 'thuong_gia', 24, 367000, 76000, null),
+
+(7841, 784, 'pho_thong', 72, 2324000, 457000, null),
+
+(7842, 784, 'thuong_gia', 24, 2567000, 884000, null),
+
+(7851, 785, 'pho_thong', 72, 3401000, 946000, null),
+
+(7852, 785, 'thuong_gia', 24, 6494000, 4026000, null),
+
+(7861, 786, 'pho_thong', 72, 2294000, 895000, null),
+
+(7862, 786, 'thuong_gia', 24, 1641000, 1008000, null),
+
+(7871, 787, 'pho_thong', 72, 2312000, 2033000, null),
+
+(7872, 787, 'thuong_gia', 24, 3767000, 1840000, null),
+
+(7881, 788, 'pho_thong', 72, 4098000, 2206000, null),
+
+(7882, 788, 'thuong_gia', 24, 1586000, 126000, null),
+
+(7891, 789, 'pho_thong', 72, 4322000, 2128000, null),
+
+(7892, 789, 'thuong_gia', 24, 2545000, 2090000, null),
+
+(7901, 790, 'pho_thong', 72, 1292000, 824000, null),
+
+(7902, 790, 'thuong_gia', 24, 5117000, 4648000, null),
+
+(7911, 791, 'pho_thong', 72, 2662000, 1928000, null),
+
+(7912, 791, 'thuong_gia', 24, 5130000, 4186000, null),
+
+(7921, 792, 'pho_thong', 72, 1130000, 1003000, null),
+
+(7922, 792, 'thuong_gia', 24, 4346000, 2264000, null),
+
+(7931, 793, 'pho_thong', 72, 4577000, 2231000, null),
+
+(7932, 793, 'thuong_gia', 24, 4212000, 3510000, null),
+
+(7941, 794, 'pho_thong', 72, 531000, 321000, null),
+
+(7942, 794, 'thuong_gia', 24, 6226000, 4108000, null),
+
+(7951, 795, 'pho_thong', 72, 324000, 18000, null),
+
+(7952, 795, 'thuong_gia', 24, 5601000, 4950000, null),
+
+(7961, 796, 'pho_thong', 72, 2411000, 2313000, null),
+
+(7962, 796, 'thuong_gia', 24, 2317000, 324000, null),
+
+(7971, 797, 'pho_thong', 72, 2316000, 1485000, null),
+
+(7972, 797, 'thuong_gia', 24, 3088000, 1162000, null),
+
+(7981, 798, 'pho_thong', 72, 1193000, 1181000, null),
+
+(7982, 798, 'thuong_gia', 24, 5433000, 4252000, null),
+
+(7991, 799, 'pho_thong', 72, 2504000, 2386000, null),
+
+(7992, 799, 'thuong_gia', 24, 2737000, 2350000, null),
+
+(8001, 800, 'pho_thong', 72, 2926000, 1616000, null),
+
+(8002, 800, 'thuong_gia', 24, 3693000, 1786000, null),
+
+(8011, 801, 'pho_thong', 72, 1931000, 1462000, null),
+
+(8012, 801, 'thuong_gia', 24, 4809000, 2760000, null),
+
+(8021, 802, 'pho_thong', 72, 1789000, 75000, null),
+
+(8022, 802, 'thuong_gia', 24, 5610000, 4228000, null),
+
+(8031, 803, 'pho_thong', 72, 2053000, 2025000, null),
+
+(8032, 803, 'thuong_gia', 24, 1056000, 400000, null),
+
+(8041, 804, 'pho_thong', 72, 3509000, 2377000, null),
+
+(8042, 804, 'thuong_gia', 24, 403000, 162000, null),
+
+(8051, 805, 'pho_thong', 72, 501000, 183000, null),
+
+(8052, 805, 'thuong_gia', 24, 1249000, 930000, null),
+
+(8061, 806, 'pho_thong', 72, 2302000, 1268000, null),
+
+(8062, 806, 'thuong_gia', 24, 6012000, 4598000, null),
+
+(8071, 807, 'pho_thong', 72, 1784000, 451000, null),
+
+(8072, 807, 'thuong_gia', 24, 5006000, 3898000, null),
+
+(8081, 808, 'pho_thong', 72, 3851000, 1597000, null),
+
+(8082, 808, 'thuong_gia', 24, 3015000, 1794000, null),
+
+(8091, 809, 'pho_thong', 72, 1190000, 850000, null),
+
+(8092, 809, 'thuong_gia', 24, 6165000, 4808000, null),
+
+(8101, 810, 'pho_thong', 72, 135000, 10000, null),
+
+(8102, 810, 'thuong_gia', 24, 3558000, 1808000, null),
+
+(8111, 811, 'pho_thong', 72, 2690000, 2371000, null),
+
+(8112, 811, 'thuong_gia', 24, 6944000, 4764000, null),
+
+(8121, 812, 'pho_thong', 72, 2499000, 513000, null),
+
+(8122, 812, 'thuong_gia', 24, 5334000, 4934000, null),
+
+(8131, 813, 'pho_thong', 72, 4048000, 1963000, null),
+
+(8132, 813, 'thuong_gia', 24, 2864000, 618000, null),
+
+(8141, 814, 'pho_thong', 72, 2337000, 1995000, null),
+
+(8142, 814, 'thuong_gia', 24, 4170000, 2738000, null),
+
+(8151, 815, 'pho_thong', 72, 2121000, 1474000, null),
+
+(8152, 815, 'thuong_gia', 24, 4587000, 2758000, null),
+
+(8161, 816, 'pho_thong', 72, 1524000, 1214000, null),
+
+(8162, 816, 'thuong_gia', 24, 4886000, 4490000, null),
+
+(8171, 817, 'pho_thong', 72, 3397000, 2215000, null),
+
+(8172, 817, 'thuong_gia', 24, 6766000, 4840000, null),
+
+(8181, 818, 'pho_thong', 72, 4918000, 2462000, null),
+
+(8182, 818, 'thuong_gia', 24, 3776000, 3260000, null),
+
+(8191, 819, 'pho_thong', 72, 1761000, 1056000, null),
+
+(8192, 819, 'thuong_gia', 24, 6756000, 4836000, null),
+
+(8201, 820, 'pho_thong', 72, 2206000, 506000, null),
+
+(8202, 820, 'thuong_gia', 24, 2311000, 1964000, null),
+
+(8211, 821, 'pho_thong', 72, 2287000, 1676000, null),
+
+(8212, 821, 'thuong_gia', 24, 5160000, 4910000, null),
+
+(8221, 822, 'pho_thong', 72, 3708000, 1576000, null),
+
+(8222, 822, 'thuong_gia', 24, 2985000, 1054000, null),
+
+(8231, 823, 'pho_thong', 72, 1457000, 1297000, null),
+
+(8232, 823, 'thuong_gia', 24, 5659000, 3700000, null),
+
+(8241, 824, 'pho_thong', 72, 1913000, 522000, null),
+
+(8242, 824, 'thuong_gia', 24, 2168000, 1506000, null),
+
+(8251, 825, 'pho_thong', 72, 3173000, 1404000, null),
+
+(8252, 825, 'thuong_gia', 24, 5760000, 3548000, null),
+
+(8261, 826, 'pho_thong', 72, 2578000, 916000, null),
+
+(8262, 826, 'thuong_gia', 24, 6303000, 4132000, null),
+
+(8271, 827, 'pho_thong', 72, 1259000, 646000, null),
+
+(8272, 827, 'thuong_gia', 24, 3269000, 2300000, null),
+
+(8281, 828, 'pho_thong', 72, 3520000, 1181000, null),
+
+(8282, 828, 'thuong_gia', 24, 4364000, 4086000, null),
+
+(8291, 829, 'pho_thong', 72, 2807000, 1745000, null),
+
+(8292, 829, 'thuong_gia', 24, 5153000, 4188000, null),
+
+(8301, 830, 'pho_thong', 72, 3493000, 1463000, null),
+
+(8302, 830, 'thuong_gia', 24, 3611000, 2774000, null),
+
+(8311, 831, 'pho_thong', 72, 2701000, 1889000, null),
+
+(8312, 831, 'thuong_gia', 24, 3776000, 2320000, null),
+
+(8321, 832, 'pho_thong', 72, 2544000, 225000, null),
+
+(8322, 832, 'thuong_gia', 24, 4968000, 3186000, null),
+
+(8331, 833, 'pho_thong', 72, 517000, 219000, null),
+
+(8332, 833, 'thuong_gia', 24, 2476000, 1104000, null),
+
+(8341, 834, 'pho_thong', 72, 1677000, 1651000, null),
+
+(8342, 834, 'thuong_gia', 24, 6059000, 3866000, null),
+
+(8351, 835, 'pho_thong', 72, 1688000, 1600000, null),
+
+(8352, 835, 'thuong_gia', 24, 957000, 930000, null),
+
+(8361, 836, 'pho_thong', 72, 3345000, 2194000, null),
+
+(8362, 836, 'thuong_gia', 24, 1932000, 1584000, null),
+
+(8371, 837, 'pho_thong', 72, 2831000, 496000, null),
+
+(8372, 837, 'thuong_gia', 24, 5633000, 4154000, null),
+
+(8381, 838, 'pho_thong', 72, 2903000, 2140000, null),
+
+(8382, 838, 'thuong_gia', 24, 2847000, 2830000, null),
+
+(8391, 839, 'pho_thong', 72, 4039000, 2304000, null),
+
+(8392, 839, 'thuong_gia', 24, 3649000, 1320000, null),
+
+(8401, 840, 'pho_thong', 72, 2063000, 827000, null),
+
+(8402, 840, 'thuong_gia', 24, 649000, 58000, null),
+
+(8411, 841, 'pho_thong', 72, 3644000, 2105000, null),
+
+(8412, 841, 'thuong_gia', 24, 6696000, 4306000, null),
+
+(8421, 842, 'pho_thong', 72, 3659000, 2115000, null),
+
+(8422, 842, 'thuong_gia', 24, 4764000, 4628000, null),
+
+(8431, 843, 'pho_thong', 72, 3515000, 2298000, null),
+
+(8432, 843, 'thuong_gia', 24, 4448000, 3806000, null),
+
+(8441, 844, 'pho_thong', 72, 2648000, 2483000, null),
+
+(8442, 844, 'thuong_gia', 24, 1157000, 106000, null),
+
+(8451, 845, 'pho_thong', 72, 2882000, 1140000, null),
+
+(8452, 845, 'thuong_gia', 24, 2507000, 2334000, null),
+
+(8461, 846, 'pho_thong', 72, 1212000, 19000, null),
+
+(8462, 846, 'thuong_gia', 24, 2235000, 1544000, null),
+
+(8471, 847, 'pho_thong', 72, 3410000, 1213000, null),
+
+(8472, 847, 'thuong_gia', 24, 1080000, 534000, null),
+
+(8481, 848, 'pho_thong', 72, 3645000, 1330000, null),
+
+(8482, 848, 'thuong_gia', 24, 5688000, 4038000, null),
+
+(8491, 849, 'pho_thong', 72, 350000, 348000, null),
+
+(8492, 849, 'thuong_gia', 24, 5895000, 4342000, null),
+
+(8501, 850, 'pho_thong', 72, 4328000, 2279000, null),
+
+(8502, 850, 'thuong_gia', 24, 2502000, 1722000, null),
+
+(8511, 851, 'pho_thong', 72, 1530000, 11000, null),
+
+(8512, 851, 'thuong_gia', 24, 4270000, 3046000, null),
+
+(8521, 852, 'pho_thong', 72, 2102000, 145000, null),
+
+(8522, 852, 'thuong_gia', 24, 2096000, 2006000, null),
+
+(8531, 853, 'pho_thong', 72, 232000, 124000, null),
+
+(8532, 853, 'thuong_gia', 24, 4760000, 4006000, null),
+
+(8541, 854, 'pho_thong', 72, 4158000, 1685000, null),
+
+(8542, 854, 'thuong_gia', 24, 4908000, 3650000, null),
+
+(8551, 855, 'pho_thong', 72, 4628000, 2253000, null),
+
+(8552, 855, 'thuong_gia', 24, 5342000, 3246000, null),
+
+(8561, 856, 'pho_thong', 72, 2250000, 1219000, null),
+
+(8562, 856, 'thuong_gia', 24, 3103000, 1824000, null),
+
+(8571, 857, 'pho_thong', 72, 419000, 30000, null),
+
+(8572, 857, 'thuong_gia', 24, 3217000, 2718000, null),
+
+(8581, 858, 'pho_thong', 72, 1053000, 217000, null),
+
+(8582, 858, 'thuong_gia', 24, 5183000, 3092000, null),
+
+(8591, 859, 'pho_thong', 72, 2123000, 1575000, null),
+
+(8592, 859, 'thuong_gia', 24, 6137000, 4554000, null),
+
+(8601, 860, 'pho_thong', 72, 2831000, 2467000, null),
+
+(8602, 860, 'thuong_gia', 24, 5676000, 3672000, null),
+
+(8611, 861, 'pho_thong', 72, 2138000, 1129000, null),
+
+(8612, 861, 'thuong_gia', 24, 5766000, 4994000, null),
+
+(8621, 862, 'pho_thong', 72, 1820000, 1749000, null),
+
+(8622, 862, 'thuong_gia', 24, 1456000, 140000, null),
+
+(8631, 863, 'pho_thong', 72, 2678000, 959000, null),
+
+(8632, 863, 'thuong_gia', 24, 3194000, 1250000, null),
+
+(8641, 864, 'pho_thong', 72, 3224000, 1983000, null),
+
+(8642, 864, 'thuong_gia', 24, 4207000, 3006000, null),
+
+(8651, 865, 'pho_thong', 72, 4060000, 2496000, null),
+
+(8652, 865, 'thuong_gia', 24, 4947000, 2828000, null),
+
+(8661, 866, 'pho_thong', 72, 684000, 663000, null),
+
+(8662, 866, 'thuong_gia', 24, 1625000, 396000, null),
+
+(8671, 867, 'pho_thong', 72, 963000, 4000, null),
+
+(8672, 867, 'thuong_gia', 24, 2551000, 306000, null),
+
+(8681, 868, 'pho_thong', 72, 4742000, 2382000, null),
+
+(8682, 868, 'thuong_gia', 24, 3064000, 1290000, null),
+
+(8691, 869, 'pho_thong', 72, 1359000, 945000, null),
+
+(8692, 869, 'thuong_gia', 24, 4708000, 3876000, null),
+
+(8701, 870, 'pho_thong', 72, 963000, 554000, null),
+
+(8702, 870, 'thuong_gia', 24, 1061000, 452000, null),
+
+(8711, 871, 'pho_thong', 72, 3166000, 2005000, null),
+
+(8712, 871, 'thuong_gia', 24, 3359000, 1218000, null),
+
+(8721, 872, 'pho_thong', 72, 2250000, 1937000, null),
+
+(8722, 872, 'thuong_gia', 24, 933000, 370000, null),
+
+(8731, 873, 'pho_thong', 72, 1388000, 1083000, null),
+
+(8732, 873, 'thuong_gia', 24, 6180000, 4646000, null),
+
+(8741, 874, 'pho_thong', 72, 711000, 306000, null),
+
+(8742, 874, 'thuong_gia', 24, 6543000, 4174000, null),
+
+(8751, 875, 'pho_thong', 72, 1094000, 811000, null),
+
+(8752, 875, 'thuong_gia', 24, 2925000, 634000, null),
+
+(8761, 876, 'pho_thong', 72, 2473000, 87000, null),
+
+(8762, 876, 'thuong_gia', 24, 3758000, 2576000, null),
+
+(8771, 877, 'pho_thong', 72, 1465000, 985000, null),
+
+(8772, 877, 'thuong_gia', 24, 1846000, 1066000, null),
+
+(8781, 878, 'pho_thong', 72, 1865000, 483000, null),
+
+(8782, 878, 'thuong_gia', 24, 4137000, 2480000, null),
+
+(8791, 879, 'pho_thong', 72, 925000, 527000, null),
+
+(8792, 879, 'thuong_gia', 24, 5121000, 4790000, null),
+
+(8801, 880, 'pho_thong', 72, 1652000, 579000, null),
+
+(8802, 880, 'thuong_gia', 24, 4989000, 4926000, null),
+
+(8811, 881, 'pho_thong', 72, 2927000, 1853000, null),
+
+(8812, 881, 'thuong_gia', 24, 1021000, 102000, null),
+
+(8821, 882, 'pho_thong', 72, 1127000, 1052000, null),
+
+(8822, 882, 'thuong_gia', 24, 666000, 586000, null),
+
+(8831, 883, 'pho_thong', 72, 3937000, 1765000, null),
+
+(8832, 883, 'thuong_gia', 24, 6011000, 4038000, null),
+
+(8841, 884, 'pho_thong', 72, 1417000, 1077000, null),
+
+(8842, 884, 'thuong_gia', 24, 3627000, 1962000, null),
+
+(8851, 885, 'pho_thong', 72, 1925000, 685000, null),
+
+(8852, 885, 'thuong_gia', 24, 3923000, 2324000, null),
+
+(8861, 886, 'pho_thong', 72, 4610000, 2124000, null),
+
+(8862, 886, 'thuong_gia', 24, 5240000, 2928000, null),
+
+(8871, 887, 'pho_thong', 72, 2793000, 1266000, null),
+
+(8872, 887, 'thuong_gia', 24, 7396000, 4982000, null),
+
+(8881, 888, 'pho_thong', 72, 3032000, 1238000, null),
+
+(8882, 888, 'thuong_gia', 24, 5097000, 3134000, null),
+
+(8891, 889, 'pho_thong', 72, 1158000, 592000, null),
+
+(8892, 889, 'thuong_gia', 24, 3475000, 1568000, null),
+
+(8901, 890, 'pho_thong', 72, 2019000, 18000, null),
+
+(8902, 890, 'thuong_gia', 24, 4242000, 2240000, null),
+
+(8911, 891, 'pho_thong', 72, 3204000, 2353000, null),
+
+(8912, 891, 'thuong_gia', 24, 3382000, 2024000, null),
+
+(8921, 892, 'pho_thong', 72, 3866000, 1849000, null),
+
+(8922, 892, 'thuong_gia', 24, 4144000, 1738000, null),
+
+(8931, 893, 'pho_thong', 72, 2982000, 1529000, null),
+
+(8932, 893, 'thuong_gia', 24, 5881000, 4116000, null),
+
+(8941, 894, 'pho_thong', 72, 2348000, 1531000, null),
+
+(8942, 894, 'thuong_gia', 24, 2488000, 482000, null),
+
+(8951, 895, 'pho_thong', 72, 2039000, 1779000, null),
+
+(8952, 895, 'thuong_gia', 24, 1927000, 1324000, null),
+
+(8961, 896, 'pho_thong', 72, 1273000, 766000, null),
+
+(8962, 896, 'thuong_gia', 24, 6042000, 3834000, null),
+
+(8971, 897, 'pho_thong', 72, 3103000, 2314000, null),
+
+(8972, 897, 'thuong_gia', 24, 2843000, 1004000, null),
+
+(8981, 898, 'pho_thong', 72, 1889000, 10000, null),
+
+(8982, 898, 'thuong_gia', 24, 2695000, 602000, null),
+
+(8991, 899, 'pho_thong', 72, 1720000, 1685000, null),
+
+(8992, 899, 'thuong_gia', 24, 2691000, 1454000, null),
+
+(9001, 900, 'pho_thong', 72, 2729000, 2014000, null),
+
+(9002, 900, 'thuong_gia', 24, 4080000, 1654000, null),
+
+(9011, 901, 'pho_thong', 72, 2811000, 473000, null),
+
+(9012, 901, 'thuong_gia', 24, 5232000, 3412000, null),
+
+(9021, 902, 'pho_thong', 72, 4040000, 2347000, null),
+
+(9022, 902, 'thuong_gia', 24, 4749000, 4328000, null),
+
+(9031, 903, 'pho_thong', 72, 1955000, 979000, null),
+
+(9032, 903, 'thuong_gia', 24, 1927000, 1290000, null),
+
+(9041, 904, 'pho_thong', 72, 2377000, 17000, null),
+
+(9042, 904, 'thuong_gia', 24, 3314000, 2394000, null),
+
+(9051, 905, 'pho_thong', 72, 3934000, 2027000, null),
+
+(9052, 905, 'thuong_gia', 24, 2340000, 2246000, null),
+
+(9061, 906, 'pho_thong', 72, 4189000, 1726000, null),
+
+(9062, 906, 'thuong_gia', 24, 3146000, 2480000, null),
+
+(9071, 907, 'pho_thong', 72, 1159000, 1101000, null),
+
+(9072, 907, 'thuong_gia', 24, 1985000, 1908000, null),
+
+(9081, 908, 'pho_thong', 72, 2872000, 1585000, null),
+
+(9082, 908, 'thuong_gia', 24, 4886000, 4470000, null),
+
+(9091, 909, 'pho_thong', 72, 1974000, 1496000, null),
+
+(9092, 909, 'thuong_gia', 24, 5251000, 4346000, null),
+
+(9101, 910, 'pho_thong', 72, 1671000, 1526000, null),
+
+(9102, 910, 'thuong_gia', 24, 2834000, 486000, null),
+
+(9111, 911, 'pho_thong', 72, 3608000, 1741000, null),
+
+(9112, 911, 'thuong_gia', 24, 2383000, 494000, null),
+
+(9121, 912, 'pho_thong', 72, 2653000, 1371000, null),
+
+(9122, 912, 'thuong_gia', 24, 4559000, 4550000, null),
+
+(9131, 913, 'pho_thong', 72, 1629000, 509000, null),
+
+(9132, 913, 'thuong_gia', 24, 4708000, 3942000, null),
+
+(9141, 914, 'pho_thong', 72, 2080000, 1430000, null),
+
+(9142, 914, 'thuong_gia', 24, 3100000, 3100000, null),
+
+(9151, 915, 'pho_thong', 72, 2186000, 219000, null),
+
+(9152, 915, 'thuong_gia', 24, 1315000, 588000, null),
+
+(9161, 916, 'pho_thong', 72, 2534000, 2172000, null),
+
+(9162, 916, 'thuong_gia', 24, 6052000, 4984000, null),
+
+(9171, 917, 'pho_thong', 72, 2638000, 1530000, null),
+
+(9172, 917, 'thuong_gia', 24, 5795000, 4290000, null),
+
+(9181, 918, 'pho_thong', 72, 4427000, 2408000, null),
+
+(9182, 918, 'thuong_gia', 24, 5967000, 3498000, null),
+
+(9191, 919, 'pho_thong', 72, 2754000, 1338000, null),
+
+(9192, 919, 'thuong_gia', 24, 5774000, 4146000, null),
+
+(9201, 920, 'pho_thong', 72, 4254000, 2046000, null),
+
+(9202, 920, 'thuong_gia', 24, 4121000, 2466000, null),
+
+(9211, 921, 'pho_thong', 72, 2655000, 1341000, null),
+
+(9212, 921, 'thuong_gia', 24, 1041000, 624000, null),
+
+(9221, 922, 'pho_thong', 72, 1418000, 368000, null),
+
+(9222, 922, 'thuong_gia', 24, 5002000, 3260000, null),
+
+(9231, 923, 'pho_thong', 72, 2513000, 185000, null),
+
+(9232, 923, 'thuong_gia', 24, 2893000, 2222000, null),
+
+(9241, 924, 'pho_thong', 72, 2357000, 851000, null),
+
+(9242, 924, 'thuong_gia', 24, 6635000, 4992000, null),
+
+(9251, 925, 'pho_thong', 72, 2602000, 2041000, null),
+
+(9252, 925, 'thuong_gia', 24, 2982000, 1816000, null),
+
+(9261, 926, 'pho_thong', 72, 2361000, 1402000, null),
+
+(9262, 926, 'thuong_gia', 24, 2255000, 922000, null),
+
+(9271, 927, 'pho_thong', 72, 3401000, 935000, null),
+
+(9272, 927, 'thuong_gia', 24, 4472000, 2290000, null),
+
+(9281, 928, 'pho_thong', 72, 2065000, 1953000, null),
+
+(9282, 928, 'thuong_gia', 24, 1903000, 494000, null),
+
+(9291, 929, 'pho_thong', 72, 1193000, 457000, null),
+
+(9292, 929, 'thuong_gia', 24, 6614000, 4434000, null),
+
+(9301, 930, 'pho_thong', 72, 4459000, 2155000, null),
+
+(9302, 930, 'thuong_gia', 24, 5447000, 3066000, null),
+
+(9311, 931, 'pho_thong', 72, 2861000, 369000, null),
+
+(9312, 931, 'thuong_gia', 24, 3527000, 1490000, null),
+
+(9321, 932, 'pho_thong', 72, 2004000, 441000, null),
+
+(9322, 932, 'thuong_gia', 24, 1753000, 1714000, null),
+
+(9331, 933, 'pho_thong', 72, 4091000, 2477000, null),
+
+(9332, 933, 'thuong_gia', 24, 6456000, 4048000, null),
+
+(9341, 934, 'pho_thong', 72, 4515000, 2016000, null),
+
+(9342, 934, 'thuong_gia', 24, 4429000, 3180000, null),
+
+(9351, 935, 'pho_thong', 72, 552000, 427000, null),
+
+(9352, 935, 'thuong_gia', 24, 3552000, 1304000, null),
+
+(9361, 936, 'pho_thong', 72, 4433000, 2342000, null),
+
+(9362, 936, 'thuong_gia', 24, 5310000, 3150000, null),
+
+(9371, 937, 'pho_thong', 72, 4385000, 1942000, null),
+
+(9372, 937, 'thuong_gia', 24, 7428000, 4988000, null),
+
+(9381, 938, 'pho_thong', 72, 4287000, 1889000, null),
+
+(9382, 938, 'thuong_gia', 24, 5254000, 4742000, null),
+
+(9391, 939, 'pho_thong', 72, 3335000, 2258000, null),
+
+(9392, 939, 'thuong_gia', 24, 625000, 478000, null),
+
+(9401, 940, 'pho_thong', 72, 4374000, 2451000, null),
+
+(9402, 940, 'thuong_gia', 24, 2792000, 2192000, null),
+
+(9411, 941, 'pho_thong', 72, 2344000, 1862000, null),
+
+(9412, 941, 'thuong_gia', 24, 3031000, 914000, null),
+
+(9421, 942, 'pho_thong', 72, 4030000, 2498000, null),
+
+(9422, 942, 'thuong_gia', 24, 2105000, 1230000, null),
+
+(9431, 943, 'pho_thong', 72, 4591000, 2327000, null),
+
+(9432, 943, 'thuong_gia', 24, 5276000, 4172000, null),
+
+(9441, 944, 'pho_thong', 72, 2746000, 1486000, null),
+
+(9442, 944, 'thuong_gia', 24, 3002000, 2776000, null),
+
+(9451, 945, 'pho_thong', 72, 3638000, 1350000, null),
+
+(9452, 945, 'thuong_gia', 24, 6248000, 4884000, null),
+
+(9461, 946, 'pho_thong', 72, 2466000, 747000, null),
+
+(9462, 946, 'thuong_gia', 24, 4217000, 2046000, null),
+
+(9471, 947, 'pho_thong', 72, 2712000, 1796000, null),
+
+(9472, 947, 'thuong_gia', 24, 5482000, 3650000, null),
+
+(9481, 948, 'pho_thong', 72, 2428000, 1449000, null),
+
+(9482, 948, 'thuong_gia', 24, 2545000, 1122000, null),
+
+(9491, 949, 'pho_thong', 72, 3989000, 2274000, null),
+
+(9492, 949, 'thuong_gia', 24, 5437000, 3794000, null),
+
+(9501, 950, 'pho_thong', 72, 2713000, 821000, null),
+
+(9502, 950, 'thuong_gia', 24, 6785000, 4560000, null),
+
+(9511, 951, 'pho_thong', 72, 2333000, 990000, null),
+
+(9512, 951, 'thuong_gia', 24, 3997000, 2022000, null),
+
+(9521, 952, 'pho_thong', 72, 2362000, 1161000, null),
+
+(9522, 952, 'thuong_gia', 24, 6750000, 4440000, null),
+
+(9531, 953, 'pho_thong', 72, 1941000, 281000, null),
+
+(9532, 953, 'thuong_gia', 24, 4368000, 3366000, null),
+
+(9541, 954, 'pho_thong', 72, 2413000, 2309000, null),
+
+(9542, 954, 'thuong_gia', 24, 4202000, 3732000, null),
+
+(9551, 955, 'pho_thong', 72, 3128000, 1419000, null),
+
+(9552, 955, 'thuong_gia', 24, 5102000, 2824000, null),
+
+(9561, 956, 'pho_thong', 72, 3593000, 2083000, null),
+
+(9562, 956, 'thuong_gia', 24, 6558000, 4654000, null),
+
+(9571, 957, 'pho_thong', 72, 2695000, 449000, null),
+
+(9572, 957, 'thuong_gia', 24, 2420000, 1062000, null),
+
+(9581, 958, 'pho_thong', 72, 2591000, 782000, null),
+
+(9582, 958, 'thuong_gia', 24, 3405000, 2034000, null),
+
+(9591, 959, 'pho_thong', 72, 2242000, 906000, null),
+
+(9592, 959, 'thuong_gia', 24, 5232000, 4442000, null),
+
+(9601, 960, 'pho_thong', 72, 2383000, 160000, null),
+
+(9602, 960, 'thuong_gia', 24, 2590000, 512000, null),
+
+(9611, 961, 'pho_thong', 72, 2228000, 957000, null),
+
+(9612, 961, 'thuong_gia', 24, 2860000, 612000, null),
+
+(9621, 962, 'pho_thong', 72, 3494000, 1860000, null),
+
+(9622, 962, 'thuong_gia', 24, 4419000, 3632000, null),
+
+(9631, 963, 'pho_thong', 72, 2691000, 547000, null),
+
+(9632, 963, 'thuong_gia', 24, 6337000, 4694000, null),
+
+(9641, 964, 'pho_thong', 72, 1779000, 32000, null),
+
+(9642, 964, 'thuong_gia', 24, 4430000, 2650000, null),
+
+(9651, 965, 'pho_thong', 72, 2116000, 1283000, null),
+
+(9652, 965, 'thuong_gia', 24, 3947000, 3012000, null),
+
+(9661, 966, 'pho_thong', 72, 1927000, 446000, null),
+
+(9662, 966, 'thuong_gia', 24, 4619000, 3054000, null),
+
+(9671, 967, 'pho_thong', 72, 1298000, 314000, null),
+
+(9672, 967, 'thuong_gia', 24, 2659000, 1056000, null),
+
+(9681, 968, 'pho_thong', 72, 1780000, 1109000, null),
+
+(9682, 968, 'thuong_gia', 24, 2574000, 2472000, null),
+
+(9691, 969, 'pho_thong', 72, 4282000, 2075000, null),
+
+(9692, 969, 'thuong_gia', 24, 2053000, 188000, null),
+
+(9701, 970, 'pho_thong', 72, 3346000, 2420000, null),
+
+(9702, 970, 'thuong_gia', 24, 5059000, 4792000, null),
+
+(9711, 971, 'pho_thong', 72, 991000, 759000, null),
+
+(9712, 971, 'thuong_gia', 24, 3553000, 3348000, null),
+
+(9721, 972, 'pho_thong', 72, 1986000, 613000, null),
+
+(9722, 972, 'thuong_gia', 24, 2321000, 1904000, null),
+
+(9731, 973, 'pho_thong', 72, 3616000, 1957000, null),
+
+(9732, 973, 'thuong_gia', 24, 5279000, 3698000, null),
+
+(9741, 974, 'pho_thong', 72, 3218000, 1701000, null),
+
+(9742, 974, 'thuong_gia', 24, 1614000, 1562000, null),
+
+(9751, 975, 'pho_thong', 72, 3535000, 1389000, null),
+
+(9752, 975, 'thuong_gia', 24, 4274000, 1874000, null),
+
+(9761, 976, 'pho_thong', 72, 1862000, 1811000, null),
+
+(9762, 976, 'thuong_gia', 24, 3335000, 2406000, null),
+
+(9771, 977, 'pho_thong', 72, 2657000, 2154000, null),
+
+(9772, 977, 'thuong_gia', 24, 3004000, 2134000, null),
+
+(9781, 978, 'pho_thong', 72, 3416000, 1252000, null),
+
+(9782, 978, 'thuong_gia', 24, 577000, 198000, null),
+
+(9791, 979, 'pho_thong', 72, 2527000, 1924000, null),
+
+(9792, 979, 'thuong_gia', 24, 1098000, 318000, null),
+
+(9801, 980, 'pho_thong', 72, 2513000, 1311000, null),
+
+(9802, 980, 'thuong_gia', 24, 2889000, 2796000, null),
+
+(9811, 981, 'pho_thong', 72, 1285000, 454000, null),
+
+(9812, 981, 'thuong_gia', 24, 3635000, 2146000, null),
+
+(9821, 982, 'pho_thong', 72, 3155000, 2158000, null),
+
+(9822, 982, 'thuong_gia', 24, 2672000, 368000, null),
+
+(9831, 983, 'pho_thong', 72, 2726000, 750000, null),
+
+(9832, 983, 'thuong_gia', 24, 3979000, 3912000, null),
+
+(9841, 984, 'pho_thong', 72, 2594000, 2390000, null),
+
+(9842, 984, 'thuong_gia', 24, 2741000, 1728000, null),
+
+(9851, 985, 'pho_thong', 72, 3150000, 1650000, null),
+
+(9852, 985, 'thuong_gia', 24, 4685000, 4194000, null),
+
+(9861, 986, 'pho_thong', 72, 2728000, 604000, null),
+
+(9862, 986, 'thuong_gia', 24, 3873000, 2598000, null),
+
+(9871, 987, 'pho_thong', 72, 540000, 530000, null),
+
+(9872, 987, 'thuong_gia', 24, 6817000, 4648000, null),
+
+(9881, 988, 'pho_thong', 72, 2259000, 1971000, null),
+
+(9882, 988, 'thuong_gia', 24, 3957000, 1938000, null),
+
+(9891, 989, 'pho_thong', 72, 4232000, 2208000, null),
+
+(9892, 989, 'thuong_gia', 24, 1233000, 482000, null),
+
+(9901, 990, 'pho_thong', 72, 2065000, 660000, null),
+
+(9902, 990, 'thuong_gia', 24, 5767000, 3316000, null),
+
+(9911, 991, 'pho_thong', 72, 1745000, 1544000, null),
+
+(9912, 991, 'thuong_gia', 24, 2334000, 1580000, null),
+
+(9921, 992, 'pho_thong', 72, 2764000, 1975000, null),
+
+(9922, 992, 'thuong_gia', 24, 5852000, 4582000, null),
+
+(9931, 993, 'pho_thong', 72, 304000, 80000, null),
+
+(9932, 993, 'thuong_gia', 24, 5664000, 3696000, null),
+
+(9941, 994, 'pho_thong', 72, 2366000, 1418000, null),
+
+(9942, 994, 'thuong_gia', 24, 2590000, 878000, null),
+
+(9951, 995, 'pho_thong', 72, 3764000, 1457000, null),
+
+(9952, 995, 'thuong_gia', 24, 2853000, 474000, null),
+
+(9961, 996, 'pho_thong', 72, 3130000, 1408000, null),
+
+(9962, 996, 'thuong_gia', 24, 4605000, 3246000, null),
+
+(9971, 997, 'pho_thong', 72, 1170000, 1138000, null),
+
+(9972, 997, 'thuong_gia', 24, 3425000, 1442000, null),
+
+(9981, 998, 'pho_thong', 72, 322000, 149000, null),
+
+(9982, 998, 'thuong_gia', 24, 3908000, 2782000, null),
+
+(9991, 999, 'pho_thong', 72, 1074000, 848000, null),
+
+(9992, 999, 'thuong_gia', 24, 5231000, 3342000, null),
+
+(10001, 1000, 'pho_thong', 72, 1494000, 1169000, null),
+
+(10002, 1000, 'thuong_gia', 24, 3982000, 3486000, null)
 
