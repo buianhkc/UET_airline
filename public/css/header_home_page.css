@@ -1,3 +1,7 @@
+a {
+    cursor: pointer;
+}
+
 #header-wrapper {
     background-color: whitesmoke;
     height: 84px;
@@ -11,7 +15,6 @@
     display: flex;
     justify-content: space-between;
 }
-
 
 .container-wrapper .nav-home {
     height: 90%;
@@ -112,7 +115,7 @@
     transition: 0.5s;
 }
 
-.onHover:hover {
+a:hover {
     font-size: 20px;
     font-weight: bold;
     color: rgb(0, 128, 255);

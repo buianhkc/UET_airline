@@ -194,6 +194,7 @@ label {
     transition: all .2s;
     display: flex;
     padding: 20px 20px 10px 22px !important;
+    justify-content: right;
 }
 
 .result-into-sort-filter {
@@ -282,6 +283,7 @@ label {
     padding-right: 10px;
     display: flex;
     justify-content: space-between;
+    float: right;
 }
 
 .offer-labels .offer-label {

@@ -13,9 +13,9 @@
             <div class="nav-sitetop">
                 <% if (typeof isLoggedIn !== 'undefined') { %>
                     <% if (isLoggedIn) { %>
-                        <a href="/user-page" class="linkToUser onHover <%= user.ma_khach_hang %> ahref">Xin Chào: <%= user.ten_khach_hang %> </a>
-                        <a class="logout onHover ahref" onclick="logOut()" >Đăng Xuất</a>
-                        <script src="/public/js/logout.js"></script>
+                        <a class="linkToUser onHover <%= user.ma_khach_hang %> ahref">Xin Chào: <%= user.ten_khach_hang %> </a>
+                        <a id="logout" class="logout onHover ahref" >Đăng Xuất</a>
+                        <!-- <script src="/public/js/logout.js"></script> -->
                     <% } %>
                 <% } else { %>
                     <a href="/login" class="linkTologin onHover ahref">Đăng nhập</a>
@@ -29,4 +29,5 @@
             </div>
         </div>
     </div>
+    <script src="/public/js/header.js"></script>
 </div>
