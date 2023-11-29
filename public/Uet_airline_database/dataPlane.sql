@@ -1,150 +1,201 @@
 INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (1, 'ATA0', 36, 12, 48);
+VALUES (1, 'ATA0', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (2, 'ATA1', 36, 12, 48);
+(2, 'ATA1', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (3, 'ATA2', 36, 12, 48);
+(3, 'ATA2', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (4, 'ATA3', 36, 12, 48);
+(4, 'ATA3', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (5, 'ATA4', 36, 12, 48);
+(5, 'ATA4', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (6, 'ATA5', 36, 12, 48);
+(6, 'ATA5', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (7, 'ATA6', 36, 12, 48);
+(7, 'ATA6', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (8, 'ATA7', 36, 12, 48);
+(8, 'ATA7', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (9, 'ATA8', 36, 12, 48);
+(9, 'ATA8', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (10, 'ATA9', 36, 12, 48);
+(10, 'ATA9', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (11, 'ATA10', 36, 12, 48);
+(11, 'ATA10', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (12, 'ATA11', 36, 12, 48);
+(12, 'ATA11', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (13, 'ATA12', 36, 12, 48);
+(13, 'ATA12', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (14, 'ATA13', 36, 12, 48);
+(14, 'ATA13', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (15, 'ATA14', 36, 12, 48);
+(15, 'ATA14', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (16, 'ATA15', 36, 12, 48);
+(16, 'ATA15', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (17, 'ATA16', 36, 12, 48);
+(17, 'ATA16', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (18, 'ATA17', 36, 12, 48);
+(18, 'ATA17', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (19, 'ATA18', 36, 12, 48);
+(19, 'ATA18', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (20, 'ATA19', 36, 12, 48);
+(20, 'ATA19', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (21, 'ATA20', 36, 12, 48);
+(21, 'ATA20', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (22, 'ATA21', 36, 12, 48);
+(22, 'ATA21', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (23, 'ATA22', 36, 12, 48);
+(23, 'ATA22', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (24, 'ATA23', 36, 12, 48);
+(24, 'ATA23', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (25, 'ATA24', 36, 12, 48);
+(25, 'ATA24', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (26, 'ATA25', 36, 12, 48);
+(26, 'ATA25', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (27, 'ATA26', 36, 12, 48);
+(27, 'ATA26', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (28, 'ATA27', 36, 12, 48);
+(28, 'ATA27', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (29, 'ATA28', 36, 12, 48);
+(29, 'ATA28', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (30, 'ATA29', 36, 12, 48);
+(30, 'ATA29', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (31, 'ATA30', 36, 12, 48);
+(31, 'ATA30', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (32, 'ATA31', 36, 12, 48);
+(32, 'ATA31', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (33, 'ATA32', 36, 12, 48);
+(33, 'ATA32', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (34, 'ATA33', 36, 12, 48);
+(34, 'ATA33', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (35, 'ATA34', 36, 12, 48);
+(35, 'ATA34', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (36, 'ATA35', 36, 12, 48);
+(36, 'ATA35', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (37, 'ATA36', 36, 12, 48);
+(37, 'ATA36', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (38, 'ATA37', 36, 12, 48);
+(38, 'ATA37', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (39, 'ATA38', 36, 12, 48);
+(39, 'ATA38', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (40, 'ATA39', 36, 12, 48);
+(40, 'ATA39', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (41, 'ATA40', 36, 12, 48);
+(41, 'ATA40', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (42, 'ATA41', 36, 12, 48);
+(42, 'ATA41', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (43, 'ATA42', 36, 12, 48);
+(43, 'ATA42', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (44, 'ATA43', 36, 12, 48);
+(44, 'ATA43', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (45, 'ATA44', 36, 12, 48);
+(45, 'ATA44', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (46, 'ATA45', 36, 12, 48);
+(46, 'ATA45', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (47, 'ATA46', 36, 12, 48);
+(47, 'ATA46', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (48, 'ATA47', 36, 12, 48);
+(48, 'ATA47', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (49, 'ATA48', 36, 12, 48);
+(49, 'ATA48', 72, 24, 96),
 
-INSERT INTO planes(ma_may_bay, ten_may_bay, so_ghe_pho_thong, so_ghe_thuong_gia, tong_so_ghe)
-VALUES (50, 'ATA49', 36, 12, 48);
+(50, 'ATA49', 72, 24, 96),
+
+(51, 'ATA50', 72, 24, 96),
+
+(52, 'ATA51', 72, 24, 96),
+
+(53, 'ATA52', 72, 24, 96),
+
+(54, 'ATA53', 72, 24, 96),
+
+(55, 'ATA54', 72, 24, 96),
+
+(56, 'ATA55', 72, 24, 96),
+
+(57, 'ATA56', 72, 24, 96),
+
+(58, 'ATA57', 72, 24, 96),
+
+(59, 'ATA58', 72, 24, 96),
+
+(60, 'ATA59', 72, 24, 96),
+
+(61, 'ATA60', 72, 24, 96),
+
+(62, 'ATA61', 72, 24, 96),
+
+(63, 'ATA62', 72, 24, 96),
+
+(64, 'ATA63', 72, 24, 96),
+
+(65, 'ATA64', 72, 24, 96),
+
+(66, 'ATA65', 72, 24, 96),
+
+(67, 'ATA66', 72, 24, 96),
+
+(68, 'ATA67', 72, 24, 96),
+
+(69, 'ATA68', 72, 24, 96),
+
+(70, 'ATA69', 72, 24, 96),
+
+(71, 'ATA70', 72, 24, 96),
+
+(72, 'ATA71', 72, 24, 96),
+
+(73, 'ATA72', 72, 24, 96),
+
+(74, 'ATA73', 72, 24, 96),
+
+(75, 'ATA74', 72, 24, 96),
+
+(76, 'ATA75', 72, 24, 96),
+
+(77, 'ATA76', 72, 24, 96),
+
+(78, 'ATA77', 72, 24, 96),
+
+(79, 'ATA78', 72, 24, 96),
+
+(80, 'ATA79', 72, 24, 96),
+
+(81, 'ATA80', 72, 24, 96),
+
+(82, 'ATA81', 72, 24, 96),
+
+(83, 'ATA82', 72, 24, 96),
+
+(84, 'ATA83', 72, 24, 96),
+
+(85, 'ATA84', 72, 24, 96),
+
+(86, 'ATA85', 72, 24, 96),
+
+(87, 'ATA86', 72, 24, 96),
+
+(88, 'ATA87', 72, 24, 96),
+
+(89, 'ATA88', 72, 24, 96),
+
+(90, 'ATA89', 72, 24, 96),
+
+(91, 'ATA90', 72, 24, 96),
+
+(92, 'ATA91', 72, 24, 96),
+
+(93, 'ATA92', 72, 24, 96),
+
+(94, 'ATA93', 72, 24, 96),
+
+(95, 'ATA94', 72, 24, 96),
+
+(96, 'ATA95', 72, 24, 96),
+
+(97, 'ATA96', 72, 24, 96),
+
+(98, 'ATA97', 72, 24, 96),
+
+(99, 'ATA98', 72, 24, 96),
+
+(100, 'ATA99', 72, 24, 96)
 

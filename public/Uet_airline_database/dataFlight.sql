@@ -1,900 +1,2001 @@
 INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (1, 43, '2024-03-01 18:13:13', '2024-03-02 03:04:13', 'DBI', 'QNA', '08:51:56');
+VALUES (1, 32, '2024-02-16 13:21:00', '2024-02-16 17:02:00', 'DBI', 'QBI', '03:41:22'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (2, 30, '2024-03-07 04:00:13', '2024-03-07 07:25:13', 'PYE', 'QNH', '03:25:47');
+(2, 89, '2024-02-16 11:28:00', '2024-02-16 17:37:00', 'QNA', 'KGI', '06:09:20'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (3, 21, '2024-02-12 12:13:13', '2024-02-12 18:43:13', 'TTH', 'DLA', '06:30:10');
+(3, 31, '2023-12-25 11:49:00', '2023-12-25 21:59:00', 'KHA', 'BDI', '10:10:12'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (4, 31, '2024-01-05 02:35:13', '2024-01-05 12:42:13', 'NAN', 'VTB', '10:07:26');
+(4, 98, '2024-01-31 01:41:00', '2024-01-31 03:45:00', 'HCM', 'HPG', '02:04:46'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (5, 30, '2024-01-28 16:53:13', '2024-01-28 17:54:13', 'HCM', 'CMU', '01:01:09');
+(5, 61, '2024-01-22 03:50:00', '2024-01-22 06:48:00', 'DLA', 'DBI', '02:58:24'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (6, 46, '2024-02-09 03:05:13', '2024-02-09 09:18:13', 'QBI', 'DNA', '06:13:32');
+(6, 64, '2024-03-05 15:40:00', '2024-03-05 21:31:00', 'CTH', 'DBI', '05:51:17'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (7, 5, '2024-01-08 10:04:13', '2024-01-08 11:22:13', 'HPG', 'TTH', '01:18:42');
+(7, 32, '2024-01-19 21:01:00', '2024-01-20 01:03:00', 'QBI', 'PYE', '04:02:39'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (8, 14, '2024-01-10 15:12:13', '2024-01-10 22:58:13', 'VTB', 'DLA', '07:46:09');
+(8, 44, '2023-12-23 07:43:00', '2023-12-23 10:23:00', 'KGI', 'QNA', '02:40:46'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (9, 42, '2024-01-16 04:18:13', '2024-01-16 07:24:13', 'QNA', 'DNA', '03:06:25');
+(9, 46, '2024-01-18 08:52:00', '2024-01-18 16:23:00', 'VTB', 'QBI', '07:31:44'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (10, 3, '2024-02-05 11:16:13', '2024-02-05 17:32:13', 'QNA', 'QBI', '06:16:10');
+(10, 4, '2024-01-12 21:33:00', '2024-01-13 05:55:00', 'QNA', 'KHA', '08:22:13'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (11, 43, '2024-01-17 19:47:13', '2024-01-17 23:22:13', 'KHA', 'DLA', '03:35:24');
+(11, 97, '2024-03-07 10:21:00', '2024-03-07 17:20:00', 'QNH', 'QNA', '06:59:07'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (12, 19, '2024-02-27 18:55:13', '2024-02-28 00:29:13', 'DLA', 'VTB', '05:34:20');
+(12, 39, '2024-01-23 11:39:00', '2024-01-23 16:21:00', 'TTH', 'CTH', '04:42:20'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (13, 5, '2023-12-12 19:05:13', '2023-12-12 22:11:13', 'HNO', 'TTH', '03:06:42');
+(13, 28, '2023-12-15 03:48:00', '2023-12-15 12:22:00', 'TTH', 'DNA', '08:34:02'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (14, 27, '2024-01-24 22:00:13', '2024-01-25 01:24:13', 'BDI', 'GLA', '03:24:31');
+(14, 80, '2024-01-21 21:53:00', '2024-01-22 05:37:00', 'NAN', 'QBI', '07:44:02'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (15, 28, '2024-01-07 12:07:13', '2024-01-07 19:36:13', 'HNO', 'DNA', '07:29:02');
+(15, 37, '2024-02-10 19:29:00', '2024-02-11 02:19:00', 'HNO', 'NAN', '06:50:35'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (16, 31, '2023-12-23 10:10:13', '2023-12-23 13:09:13', 'HNO', 'QNA', '02:59:55');
+(16, 49, '2024-03-07 02:59:00', '2024-03-07 06:17:00', 'PYE', 'DNA', '03:18'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (17, 47, '2023-12-10 21:21:13', '2023-12-11 06:23:13', 'NAN', 'HPG', '09:02:36');
+(17, 77, '2023-12-18 21:53:00', '2023-12-19 06:14:00', 'NAN', 'DBI', '08:21:46'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (18, 25, '2023-12-11 12:42:13', '2023-12-11 17:44:13', 'DBI', 'QNH', '05:02');
+(18, 41, '2024-02-21 21:59:00', '2024-02-22 06:58:00', 'KHA', 'BDI', '08:59:40'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (19, 24, '2024-02-05 06:43:13', '2024-02-05 09:08:13', 'KGI', 'NAN', '02:25:57');
+(19, 37, '2023-12-22 07:17:00', '2023-12-22 08:45:00', 'DBI', 'PYE', '01:28:30'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (20, 39, '2023-12-31 23:19:13', '2024-01-01 02:46:13', 'THA', 'LDG', '03:27:11');
+(20, 94, '2024-01-12 06:27:00', '2024-01-12 15:33:00', 'DLA', 'THA', '09:06:08'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (21, 38, '2024-01-14 01:39:13', '2024-01-14 09:30:13', 'DLA', 'HPG', '07:51:46');
+(21, 52, '2024-03-02 20:42:00', '2024-03-03 02:03:00', 'HCM', 'QBI', '05:21:04'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (22, 47, '2024-01-05 08:21:13', '2024-01-05 13:48:13', 'NAN', 'QNH', '05:27:13');
+(22, 27, '2024-01-25 09:04:00', '2024-01-25 10:15:00', 'GLA', 'CTH', '01:11:59'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (23, 11, '2024-03-06 20:25:13', '2024-03-06 23:50:13', 'LDG', 'NAN', '03:25:48');
+(23, 36, '2024-02-06 23:51:00', '2024-02-07 05:21:00', 'CMU', 'DLA', '05:30:47'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (24, 45, '2023-12-31 00:56:13', '2023-12-31 06:48:13', 'QBI', 'LDG', '05:52:08');
+(24, 97, '2024-01-16 19:18:00', '2024-01-17 02:02:00', 'VTB', 'DBI', '06:44:48'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (25, 48, '2024-01-20 02:05:13', '2024-01-20 04:21:13', 'LDG', 'CMU', '02:16:47');
+(25, 52, '2024-01-30 13:20:00', '2024-01-30 17:05:00', 'DBI', 'KHA', '03:45:51'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (26, 43, '2024-01-11 09:28:13', '2024-01-11 16:11:13', 'CMU', 'THA', '06:43:28');
+(26, 30, '2023-12-15 14:58:00', '2023-12-16 00:45:00', 'LDG', 'GLA', '09:47:55'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (27, 45, '2024-01-11 03:02:13', '2024-01-11 09:52:13', 'KHA', 'HNO', '06:50:02');
+(27, 44, '2023-12-28 18:38:00', '2023-12-29 02:39:00', 'BDI', 'QBI', '08:01:08'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (28, 33, '2023-12-30 13:19:13', '2023-12-30 21:51:13', 'HCM', 'HNO', '08:32:29');
+(28, 75, '2023-12-19 18:10:00', '2023-12-19 21:41:00', 'KGI', 'KHA', '03:31'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (29, 2, '2023-12-08 21:33:13', '2023-12-09 05:57:13', 'QNH', 'THA', '08:24:20');
+(29, 93, '2023-12-28 00:33:00', '2023-12-28 05:00:00', 'DLA', 'HCM', '04:27:19'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (30, 12, '2023-12-15 12:11:13', '2023-12-15 14:24:13', 'NAN', 'LDG', '02:13:21');
+(30, 93, '2023-12-12 00:52:00', '2023-12-12 08:34:00', 'HCM', 'NAN', '07:42:42'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (31, 45, '2023-12-14 01:38:13', '2023-12-14 09:21:13', 'HCM', 'CTH', '07:43:52');
+(31, 21, '2024-01-25 13:49:00', '2024-01-25 14:55:00', 'GLA', 'CTH', '01:06:06'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (32, 38, '2024-02-28 20:26:13', '2024-02-29 04:01:13', 'TTH', 'CTH', '07:35:19');
+(32, 70, '2024-02-18 00:55:00', '2024-02-18 02:57:00', 'BDI', 'DNA', '02:02:41'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (33, 46, '2023-12-18 04:06:13', '2023-12-18 11:50:13', 'CMU', 'NAN', '07:44:55');
+(33, 55, '2024-01-20 03:52:00', '2024-01-20 06:05:00', 'TTH', 'HCM', '02:13:32'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (34, 14, '2023-12-16 05:16:13', '2023-12-16 06:18:13', 'KGI', 'DLA', '01:02:37');
+(34, 99, '2024-01-29 09:23:00', '2024-01-29 14:59:00', 'DLA', 'NAN', '05:36:45'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (35, 40, '2024-02-02 18:42:13', '2024-02-02 21:03:13', 'NAN', 'VTB', '02:21:41');
+(35, 24, '2024-03-04 21:58:00', '2024-03-05 08:27:00', 'QBI', 'DNA', '10:29:36'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (36, 10, '2024-02-13 12:14:13', '2024-02-13 15:52:13', 'THA', 'HPG', '03:38:25');
+(36, 45, '2024-01-14 23:22:00', '2024-01-15 02:53:00', 'KGI', 'HNO', '03:31:46'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (37, 2, '2024-02-21 12:55:13', '2024-02-21 17:54:13', 'THA', 'HCM', '04:59:49');
+(37, 79, '2024-01-12 00:10:00', '2024-01-12 01:10:00', 'BDI', 'HCM', '01:00:21'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (38, 41, '2023-12-24 06:11:13', '2023-12-24 16:50:13', 'KGI', 'PYE', '10:39:10');
+(38, 21, '2024-01-31 15:04:00', '2024-01-31 21:32:00', 'THA', 'HNO', '06:28:35'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (39, 7, '2023-12-14 12:09:13', '2023-12-14 22:45:13', 'QNA', 'PYE', '10:36:41');
+(39, 62, '2023-12-09 21:22:00', '2023-12-09 22:39:00', 'DNA', 'DLA', '01:17:36'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (40, 6, '2024-02-02 23:26:13', '2024-02-03 07:52:13', 'TTH', 'VTB', '08:26:10');
+(40, 29, '2024-02-27 12:37:00', '2024-02-27 13:45:00', 'CTH', 'PYE', '01:08:13'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (41, 39, '2023-12-13 18:02:13', '2023-12-13 22:03:13', 'QNA', 'QBI', '04:01:53');
+(41, 27, '2023-12-10 14:04:00', '2023-12-10 23:05:00', 'DBI', 'PYE', '09:01:19'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (42, 11, '2024-01-12 14:06:13', '2024-01-12 21:37:13', 'VTB', 'NAN', '07:31:17');
+(42, 85, '2023-12-13 01:29:00', '2023-12-13 05:53:00', 'QNH', 'QBI', '04:24:35'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (43, 31, '2024-02-06 11:40:13', '2024-02-06 15:41:13', 'KGI', 'HCM', '04:01:29');
+(43, 75, '2024-01-22 00:25:00', '2024-01-22 04:07:00', 'DNA', 'LDG', '03:42:30'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (44, 47, '2024-02-19 22:21:13', '2024-02-20 06:38:13', 'QBI', 'HPG', '08:17:59');
+(44, 99, '2024-01-08 14:14:00', '2024-01-09 00:06:00', 'THA', 'NAN', '09:52:34'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (45, 17, '2023-12-29 10:34:13', '2023-12-29 19:34:13', 'QNH', 'THA', '09:00:37');
+(45, 60, '2024-01-20 18:35:00', '2024-01-20 23:57:00', 'KGI', 'CTH', '05:22:26'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (46, 38, '2023-12-28 18:26:13', '2023-12-29 04:48:13', 'DLA', 'HCM', '10:22:05');
+(46, 95, '2024-03-03 21:28:00', '2024-03-03 22:38:00', 'DLA', 'CMU', '01:10:21'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (47, 43, '2024-01-20 00:48:13', '2024-01-20 03:43:13', 'LDG', 'NAN', '02:55:09');
+(47, 54, '2024-01-28 18:51:00', '2024-01-28 22:46:00', 'TTH', 'VTB', '03:55:53'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (48, 8, '2024-02-25 08:35:13', '2024-02-25 18:40:13', 'BDI', 'THA', '10:05:20');
+(48, 21, '2024-01-30 05:40:00', '2024-01-30 12:04:00', 'QNA', 'KHA', '06:24:52'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (49, 9, '2023-12-23 03:03:13', '2023-12-23 12:38:13', 'CMU', 'THA', '09:35:56');
+(49, 37, '2024-02-08 12:51:00', '2024-02-08 20:19:00', 'QNA', 'CMU', '07:28:34'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (50, 40, '2024-01-20 07:49:13', '2024-01-20 14:36:13', 'QNH', 'TTH', '06:47:46');
+(50, 89, '2024-01-06 05:55:00', '2024-01-06 13:03:00', 'QBI', 'BDI', '07:08:16'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (51, 10, '2024-01-28 20:49:13', '2024-01-29 00:11:13', 'PYE', 'LDG', '03:22:18');
+(51, 64, '2024-01-13 11:18:00', '2024-01-13 20:14:00', 'HPG', 'QNA', '08:56:33'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (52, 50, '2023-12-31 06:49:13', '2023-12-31 15:40:13', 'BDI', 'GLA', '08:51:16');
+(52, 16, '2024-03-05 21:20:00', '2024-03-06 04:31:00', 'TTH', 'KHA', '07:11:09'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (53, 4, '2024-02-19 23:08:13', '2024-02-20 04:36:13', 'THA', 'HNO', '05:28:29');
+(53, 34, '2024-02-29 08:36:00', '2024-02-29 16:09:00', 'QNA', 'CTH', '07:33:58'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (54, 34, '2024-03-05 14:03:13', '2024-03-05 19:15:13', 'THA', 'NAN', '05:12:38');
+(54, 34, '2023-12-29 14:06:00', '2023-12-29 22:05:00', 'HNO', 'HPG', '07:59:17'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (55, 2, '2023-12-18 15:09:13', '2023-12-18 18:33:13', 'LDG', 'HCM', '03:24:14');
+(55, 37, '2024-02-07 08:56:00', '2024-02-07 18:38:00', 'PYE', 'CTH', '09:42:10'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (56, 22, '2024-02-03 09:31:13', '2024-02-03 17:28:13', 'LDG', 'HCM', '07:57:47');
+(56, 83, '2024-02-18 13:50:00', '2024-02-18 21:10:00', 'TTH', 'THA', '07:20:41'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (57, 46, '2024-02-15 04:37:13', '2024-02-15 13:14:13', 'KGI', 'GLA', '08:37:17');
+(57, 51, '2024-02-11 19:01:00', '2024-02-12 01:43:00', 'LDG', 'KHA', '06:42:39'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (58, 32, '2023-12-26 23:31:13', '2023-12-27 02:09:13', 'KGI', 'NAN', '02:38:13');
+(58, 99, '2024-02-24 14:37:00', '2024-02-24 21:06:00', 'THA', 'LDG', '06:29:01'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (59, 39, '2024-02-14 19:29:13', '2024-02-14 23:11:13', 'VTB', 'LDG', '03:42:24');
+(59, 55, '2024-01-09 15:55:00', '2024-01-09 22:28:00', 'HNO', 'KGI', '06:33:32'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (60, 20, '2024-01-13 18:32:13', '2024-01-13 21:57:13', 'NAN', 'VTB', '03:25:07');
+(60, 7, '2024-01-21 13:00:00', '2024-01-21 16:20:00', 'NAN', 'BDI', '03:20:36'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (61, 49, '2024-02-25 15:39:13', '2024-02-26 00:06:13', 'PYE', 'GLA', '08:27:21');
+(61, 25, '2024-02-27 22:19:00', '2024-02-28 09:13:00', 'PYE', 'LDG', '10:54:56'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (62, 28, '2024-03-01 20:00:13', '2024-03-02 05:51:13', 'THA', 'QBI', '09:51:55');
+(62, 94, '2024-01-18 19:00:00', '2024-01-19 00:48:00', 'QNA', 'HNO', '05:48:45'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (63, 28, '2024-01-30 08:25:13', '2024-01-30 11:34:13', 'HNO', 'CMU', '03:09:01');
+(63, 69, '2023-12-25 20:05:00', '2023-12-25 21:15:00', 'CTH', 'THA', '01:10:09'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (64, 19, '2024-02-17 14:34:13', '2024-02-17 21:06:13', 'QBI', 'VTB', '06:32:28');
+(64, 38, '2024-03-05 07:03:00', '2024-03-05 17:44:00', 'BDI', 'HPG', '10:41:10'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (65, 3, '2024-02-18 20:29:13', '2024-02-19 04:45:13', 'BDI', 'DBI', '08:16:32');
+(65, 79, '2023-12-30 21:11:00', '2023-12-30 23:54:00', 'VTB', 'HNO', '02:43:58'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (66, 27, '2023-12-19 13:30:13', '2023-12-19 19:57:13', 'QBI', 'DNA', '06:27:02');
+(66, 30, '2024-01-07 11:45:00', '2024-01-07 18:50:00', 'DBI', 'NAN', '07:05:02'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (67, 46, '2023-12-14 17:33:13', '2023-12-14 22:52:13', 'HNO', 'BDI', '05:19:17');
+(67, 67, '2024-01-13 21:30:00', '2024-01-14 06:44:00', 'QNH', 'HCM', '09:14:53'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (68, 25, '2023-12-25 15:03:13', '2023-12-25 23:06:13', 'CMU', 'BDI', '08:03:47');
+(68, 74, '2024-01-11 20:39:00', '2024-01-12 05:28:00', 'QNH', 'QNA', '08:49:33'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (69, 36, '2024-02-22 08:26:13', '2024-02-22 18:22:13', 'HCM', 'TTH', '09:56:24');
+(69, 8, '2023-12-28 18:53:00', '2023-12-28 20:45:00', 'THA', 'CMU', '01:52:21'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (70, 24, '2024-02-16 19:50:13', '2024-02-17 02:42:13', 'CTH', 'PYE', '06:52:11');
+(70, 62, '2024-01-04 02:26:00', '2024-01-04 07:48:00', 'CMU', 'KHA', '05:22:35'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (71, 1, '2024-02-06 12:50:13', '2024-02-06 14:23:13', 'CMU', 'GLA', '01:33:08');
+(71, 31, '2024-02-04 23:43:00', '2024-02-05 07:32:00', 'GLA', 'HCM', '07:49:04'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (72, 49, '2024-01-31 20:26:13', '2024-01-31 23:19:13', 'DLA', 'KHA', '02:53:03');
+(72, 8, '2024-01-04 06:45:00', '2024-01-04 09:17:00', 'QBI', 'QNH', '02:32:53'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (73, 14, '2024-01-10 17:01:13', '2024-01-10 20:48:13', 'PYE', 'QBI', '03:47');
+(73, 98, '2024-03-01 16:09:00', '2024-03-01 23:36:00', 'HCM', 'QBI', '07:27:13'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (74, 29, '2024-02-05 21:05:13', '2024-02-06 04:08:13', 'HCM', 'TTH', '07:03:01');
+(74, 100, '2023-12-20 07:14:00', '2023-12-20 13:56:00', 'HCM', 'GLA', '06:42:52'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (75, 36, '2024-02-24 11:25:13', '2024-02-24 19:08:13', 'NAN', 'KGI', '07:43:14');
+(75, 14, '2023-12-22 02:10:00', '2023-12-22 03:12:00', 'HNO', 'VTB', '01:02:58'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (76, 17, '2024-01-26 13:14:13', '2024-01-26 15:01:13', 'VTB', 'CMU', '01:47:46');
+(76, 86, '2024-01-25 03:47:00', '2024-01-25 10:49:00', 'LDG', 'CMU', '07:02:49'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (77, 25, '2024-01-28 16:55:13', '2024-01-28 22:02:13', 'THA', 'CTH', '05:07:49');
+(77, 11, '2024-02-13 22:34:00', '2024-02-14 03:02:00', 'HCM', 'VTB', '04:28:09'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (78, 11, '2024-03-07 04:11:13', '2024-03-07 11:21:13', 'BDI', 'NAN', '07:10:55');
+(78, 14, '2024-01-01 19:05:00', '2024-01-01 23:39:00', 'BDI', 'DBI', '04:34:33'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (79, 43, '2024-02-27 21:15:13', '2024-02-28 07:17:13', 'QNH', 'HCM', '10:02:56');
+(79, 86, '2023-12-25 16:15:00', '2023-12-26 02:30:00', 'TTH', 'HPG', '10:15:01'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (80, 8, '2023-12-31 11:04:13', '2023-12-31 14:53:13', 'QBI', 'VTB', '03:49:54');
+(80, 52, '2024-02-06 03:20:00', '2024-02-06 13:46:00', 'HPG', 'HNO', '10:26:37'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (81, 30, '2023-12-16 22:15:13', '2023-12-17 08:50:13', 'THA', 'QNA', '10:35:05');
+(81, 73, '2023-12-10 15:00:00', '2023-12-10 17:12:00', 'HNO', 'DBI', '02:12:25'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (82, 8, '2024-01-13 12:36:13', '2024-01-13 22:05:13', 'TTH', 'NAN', '09:29:02');
+(82, 91, '2024-02-16 13:25:00', '2024-02-16 15:04:00', 'DLA', 'HCM', '01:39:01'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (83, 43, '2023-12-23 04:08:13', '2023-12-23 07:50:13', 'HPG', 'QNA', '03:42:14');
+(83, 18, '2024-01-05 16:11:00', '2024-01-05 22:53:00', 'KGI', 'HPG', '06:42:16'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (84, 10, '2024-02-02 03:46:13', '2024-02-02 11:27:13', 'BDI', 'DBI', '07:41:03');
+(84, 42, '2023-12-10 22:51:00', '2023-12-11 06:55:00', 'TTH', 'KHA', '08:04:55'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (85, 27, '2024-03-07 21:41:13', '2024-03-08 05:44:13', 'TTH', 'HCM', '08:03:13');
+(85, 61, '2024-01-26 12:27:00', '2024-01-26 18:15:00', 'QNH', 'DBI', '05:48:14'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (86, 11, '2024-02-10 18:16:13', '2024-02-11 02:16:13', 'BDI', 'GLA', '08:00:14');
+(86, 5, '2024-01-17 21:07:00', '2024-01-18 03:51:00', 'VTB', 'QNA', '06:44:49'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (87, 42, '2024-02-19 03:26:13', '2024-02-19 05:17:13', 'CTH', 'BDI', '01:51:22');
+(87, 90, '2024-01-14 18:41:00', '2024-01-14 22:54:00', 'TTH', 'NAN', '04:13:31'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (88, 31, '2023-12-30 03:14:13', '2023-12-30 04:37:13', 'VTB', 'KHA', '01:23:51');
+(88, 42, '2024-01-09 06:25:00', '2024-01-09 10:01:00', 'DBI', 'THA', '03:36:56'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (89, 44, '2024-01-09 16:25:13', '2024-01-10 02:00:13', 'KGI', 'QBI', '09:35:30');
+(89, 31, '2023-12-22 06:02:00', '2023-12-22 11:26:00', 'TTH', 'GLA', '05:24:45'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (90, 38, '2024-02-22 13:02:13', '2024-02-22 18:58:13', 'NAN', 'QBI', '05:56:44');
+(90, 26, '2024-02-24 07:03:00', '2024-02-24 17:17:00', 'NAN', 'KHA', '10:14:43'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (91, 24, '2024-03-02 20:42:13', '2024-03-02 22:32:13', 'LDG', 'CTH', '01:50:13');
+(91, 13, '2023-12-13 12:50:00', '2023-12-13 18:48:00', 'PYE', 'DLA', '05:58:14'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (92, 48, '2024-01-27 19:55:13', '2024-01-28 01:53:13', 'HNO', 'BDI', '05:58:31');
+(92, 24, '2024-02-12 02:33:00', '2024-02-12 13:15:00', 'CTH', 'DBI', '10:42:46'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (93, 26, '2023-12-22 04:54:13', '2023-12-22 07:57:13', 'KHA', 'CTH', '03:03:30');
+(93, 36, '2024-02-25 04:07:00', '2024-02-25 09:52:00', 'VTB', 'PYE', '05:45:43'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (94, 2, '2024-03-06 10:30:13', '2024-03-06 15:44:13', 'QBI', 'HCM', '05:14:36');
+(94, 50, '2024-01-08 06:52:00', '2024-01-08 08:21:00', 'HPG', 'KHA', '01:29:18'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (95, 34, '2023-12-08 03:40:13', '2023-12-08 13:15:13', 'NAN', 'DNA', '09:35:43');
+(95, 41, '2024-02-10 11:36:00', '2024-02-10 22:29:00', 'QBI', 'QNA', '10:53:15'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (96, 3, '2023-12-16 08:12:13', '2023-12-16 16:18:13', 'GLA', 'KHA', '08:06:48');
+(96, 18, '2023-12-28 15:19:00', '2023-12-28 19:57:00', 'DBI', 'CMU', '04:38:03'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (97, 27, '2024-01-20 08:29:13', '2024-01-20 15:02:13', 'NAN', 'CTH', '06:33:06');
+(97, 81, '2024-02-18 09:26:00', '2024-02-18 18:37:00', 'DNA', 'TTH', '09:11:37'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (98, 28, '2023-12-30 20:22:13', '2023-12-31 00:03:13', 'HPG', 'THA', '03:41:19');
+(98, 53, '2024-03-05 19:25:00', '2024-03-06 02:36:00', 'TTH', 'QBI', '07:11:31'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (99, 47, '2024-01-26 05:58:13', '2024-01-26 16:21:13', 'KGI', 'LDG', '10:23:53');
+(99, 16, '2023-12-09 23:14:00', '2023-12-10 02:42:00', 'CTH', 'HPG', '03:28:17'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (100, 26, '2023-12-20 01:49:13', '2023-12-20 04:40:13', 'KGI', 'DNA', '02:51:36');
+(100, 48, '2024-01-08 11:31:00', '2024-01-08 15:55:00', 'HCM', 'QNA', '04:24:23'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (101, 21, '2024-01-10 16:20:13', '2024-01-10 17:25:13', 'NAN', 'DBI', '01:05:03');
+(101, 75, '2024-01-07 23:41:00', '2024-01-08 06:27:00', 'QNA', 'HPG', '06:46:04'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (102, 34, '2024-03-02 05:13:13', '2024-03-02 15:50:13', 'PYE', 'CMU', '10:37:37');
+(102, 73, '2024-03-05 04:28:00', '2024-03-05 14:22:00', 'CTH', 'VTB', '09:54:11'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (103, 8, '2024-01-20 21:54:13', '2024-01-21 05:52:13', 'KHA', 'DBI', '07:58:40');
+(103, 51, '2024-01-12 10:00:00', '2024-01-12 17:27:00', 'PYE', 'QBI', '07:27:08'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (104, 37, '2024-02-15 22:33:13', '2024-02-16 08:49:13', 'HCM', 'DNA', '10:16:31');
+(104, 51, '2023-12-18 05:34:00', '2023-12-18 07:15:00', 'PYE', 'HPG', '01:41:05'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (105, 39, '2023-12-20 22:36:13', '2023-12-21 06:16:13', 'HCM', 'KHA', '07:40:09');
+(105, 9, '2023-12-22 11:13:00', '2023-12-22 13:46:00', 'LDG', 'HNO', '02:33:30'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (106, 19, '2024-01-25 18:30:13', '2024-01-26 03:19:13', 'DLA', 'HPG', '08:49:04');
+(106, 91, '2024-02-05 01:46:00', '2024-02-05 06:15:00', 'KGI', 'KHA', '04:29:44'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (107, 8, '2024-01-15 21:02:13', '2024-01-16 02:18:13', 'HCM', 'LDG', '05:16:02');
+(107, 81, '2024-01-30 00:23:00', '2024-01-30 04:19:00', 'VTB', 'DLA', '03:56:13'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (108, 12, '2024-03-07 22:23:13', '2024-03-08 01:00:13', 'NAN', 'LDG', '02:37:17');
+(108, 99, '2023-12-12 01:02:00', '2023-12-12 10:38:00', 'BDI', 'DLA', '09:36:40'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (109, 34, '2024-01-03 09:36:13', '2024-01-03 16:00:13', 'DNA', 'QBI', '06:24:31');
+(109, 97, '2024-01-12 08:11:00', '2024-01-12 10:09:00', 'CTH', 'TTH', '01:58:44'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (110, 49, '2023-12-20 20:18:13', '2023-12-21 00:25:13', 'HCM', 'THA', '04:07:52');
+(110, 38, '2024-01-03 02:45:00', '2024-01-03 13:37:00', 'TTH', 'CTH', '10:52:21'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (111, 42, '2024-02-21 10:54:13', '2024-02-21 12:50:13', 'GLA', 'HCM', '01:56:28');
+(111, 25, '2024-02-18 03:59:00', '2024-02-18 05:29:00', 'LDG', 'HNO', '01:30:44'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (112, 34, '2024-02-19 05:21:13', '2024-02-19 09:54:13', 'QBI', 'DLA', '04:33:28');
+(112, 1, '2024-02-19 21:00:00', '2024-02-20 05:26:00', 'VTB', 'KHA', '08:26:02'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (113, 25, '2023-12-09 18:18:13', '2023-12-10 03:55:13', 'QNA', 'BDI', '09:37:28');
+(113, 74, '2023-12-21 13:56:00', '2023-12-21 23:28:00', 'DLA', 'NAN', '09:32:02'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (114, 29, '2024-03-05 12:50:13', '2024-03-05 17:11:13', 'VTB', 'THA', '04:21:08');
+(114, 48, '2024-03-01 21:42:00', '2024-03-02 07:04:00', 'LDG', 'QNA', '09:22:37'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (115, 37, '2024-01-21 15:31:13', '2024-01-21 20:45:13', 'DBI', 'PYE', '05:14:06');
+(115, 76, '2024-01-07 01:12:00', '2024-01-07 08:02:00', 'DBI', 'DNA', '06:50:49'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (116, 28, '2024-01-06 09:30:13', '2024-01-06 15:49:13', 'NAN', 'KGI', '06:19:01');
+(116, 74, '2024-03-05 18:03:00', '2024-03-05 20:15:00', 'TTH', 'BDI', '02:12:43'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (117, 6, '2023-12-08 06:49:13', '2023-12-08 11:13:13', 'QNA', 'QBI', '04:24:01');
+(117, 10, '2023-12-21 22:15:00', '2023-12-22 06:14:00', 'CTH', 'THA', '07:59:54'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (118, 14, '2024-02-21 03:49:13', '2024-02-21 13:40:13', 'DNA', 'QNA', '09:51:38');
+(118, 52, '2024-02-08 19:50:00', '2024-02-08 22:06:00', 'DBI', 'DNA', '02:16:14'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (119, 30, '2024-01-02 11:35:13', '2024-01-02 14:24:13', 'CMU', 'HPG', '02:49:12');
+(119, 4, '2024-01-17 00:50:00', '2024-01-17 02:53:00', 'HCM', 'GLA', '02:03:35'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (120, 36, '2024-02-10 09:56:13', '2024-02-10 16:07:13', 'QNA', 'LDG', '06:11:13');
+(120, 82, '2024-02-23 10:10:00', '2024-02-23 20:43:00', 'TTH', 'DLA', '10:33:31'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (121, 17, '2024-01-04 08:07:13', '2024-01-04 11:12:13', 'VTB', 'DNA', '03:05:22');
+(121, 9, '2024-03-06 16:22:00', '2024-03-06 17:45:00', 'HPG', 'VTB', '01:23:20'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (122, 35, '2023-12-15 01:52:13', '2023-12-15 03:40:13', 'QBI', 'DBI', '01:48:57');
+(122, 98, '2024-02-13 14:51:00', '2024-02-13 16:37:00', 'KGI', 'HPG', '01:46:03'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (123, 26, '2024-03-07 18:53:13', '2024-03-08 02:32:13', 'QNH', 'BDI', '07:39:14');
+(123, 71, '2023-12-15 02:34:00', '2023-12-15 08:50:00', 'DBI', 'VTB', '06:16:05'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (124, 39, '2023-12-13 06:38:13', '2023-12-13 10:55:13', 'QNA', 'KGI', '04:17:46');
+(124, 8, '2024-03-03 05:53:00', '2024-03-03 15:02:00', 'TTH', 'DBI', '09:09:47'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (125, 43, '2024-03-02 08:31:13', '2024-03-02 15:20:13', 'QNA', 'QNH', '06:49:21');
+(125, 96, '2024-02-12 21:29:00', '2024-02-13 03:55:00', 'QNA', 'DNA', '06:26:29'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (126, 10, '2024-02-19 16:11:13', '2024-02-20 00:08:13', 'QNH', 'CMU', '07:57:57');
+(126, 86, '2024-03-06 07:34:00', '2024-03-06 16:25:00', 'HNO', 'DBI', '08:51:48'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (127, 38, '2024-02-27 05:44:13', '2024-02-27 13:01:13', 'CTH', 'THA', '07:17:06');
+(127, 68, '2024-01-14 19:27:00', '2024-01-14 21:12:00', 'KHA', 'QNA', '01:45:41'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (128, 2, '2023-12-10 20:21:13', '2023-12-10 23:16:13', 'QNH', 'PYE', '02:55');
+(128, 72, '2024-02-14 03:42:00', '2024-02-14 06:14:00', 'KGI', 'NAN', '02:32:53'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (129, 35, '2024-03-03 15:12:13', '2024-03-03 16:30:13', 'CMU', 'THA', '01:18:44');
+(129, 34, '2024-01-10 15:15:00', '2024-01-10 18:00:00', 'QBI', 'QNA', '02:45:59'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (130, 30, '2024-01-17 08:15:13', '2024-01-17 14:56:13', 'KGI', 'DNA', '06:41:55');
+(130, 67, '2024-02-17 08:20:00', '2024-02-17 18:23:00', 'HCM', 'CMU', '10:03:33'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (131, 37, '2024-01-01 09:24:13', '2024-01-01 12:48:13', 'LDG', 'DNA', '03:24:01');
+(131, 62, '2024-03-07 17:06:00', '2024-03-07 22:03:00', 'HCM', 'HNO', '04:57:50'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (132, 38, '2024-02-22 04:48:13', '2024-02-22 09:28:13', 'TTH', 'QNH', '04:40:30');
+(132, 85, '2024-01-22 16:09:00', '2024-01-23 00:34:00', 'THA', 'VTB', '08:25:12'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (133, 21, '2023-12-21 00:30:13', '2023-12-21 04:16:13', 'CTH', 'DLA', '03:46:13');
+(133, 65, '2024-02-08 01:07:00', '2024-02-08 03:01:00', 'VTB', 'HPG', '01:54:55'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (134, 28, '2024-02-06 07:27:13', '2024-02-06 12:22:13', 'HPG', 'NAN', '04:55:33');
+(134, 45, '2024-02-15 01:28:00', '2024-02-15 09:11:00', 'CTH', 'THA', '07:43:19'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (135, 41, '2024-02-16 05:42:13', '2024-02-16 07:22:13', 'GLA', 'DLA', '01:40:31');
+(135, 10, '2024-01-01 05:30:00', '2024-01-01 10:35:00', 'KHA', 'QBI', '05:05:28'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (136, 49, '2024-02-17 12:37:13', '2024-02-17 14:56:13', 'CMU', 'CTH', '02:19:21');
+(136, 37, '2023-12-20 17:10:00', '2023-12-20 20:14:00', 'TTH', 'KGI', '03:04:20'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (137, 45, '2024-03-06 16:31:13', '2024-03-06 23:11:13', 'HCM', 'NAN', '06:40:40');
+(137, 3, '2024-01-28 15:53:00', '2024-01-29 02:21:00', 'PYE', 'QNH', '10:28:48'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (138, 6, '2024-01-29 09:12:13', '2024-01-29 15:03:13', 'TTH', 'BDI', '05:51:15');
+(138, 19, '2024-02-09 06:42:00', '2024-02-09 10:57:00', 'DLA', 'DNA', '04:15:44'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (139, 41, '2024-02-10 13:11:13', '2024-02-10 20:37:13', 'CMU', 'QNH', '07:26:03');
+(139, 50, '2024-02-18 15:08:00', '2024-02-18 19:23:00', 'QNA', 'TTH', '04:15:18'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (140, 20, '2024-02-27 23:13:13', '2024-02-28 01:50:13', 'DLA', 'CTH', '02:37:20');
+(140, 70, '2024-01-29 17:43:00', '2024-01-29 23:36:00', 'DNA', 'THA', '05:53:02'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (141, 41, '2023-12-10 02:39:13', '2023-12-10 09:42:13', 'HCM', 'DBI', '07:03:53');
+(141, 17, '2024-03-06 02:17:00', '2024-03-06 06:49:00', 'QNA', 'QNH', '04:32:22'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (142, 42, '2023-12-24 17:45:13', '2023-12-25 03:01:13', 'KGI', 'HCM', '09:16:57');
+(142, 98, '2024-02-11 17:15:00', '2024-02-11 23:14:00', 'KGI', 'DLA', '05:59:29'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (143, 17, '2024-02-18 18:26:13', '2024-02-18 23:47:13', 'HPG', 'KGI', '05:21:46');
+(143, 40, '2024-02-20 15:07:00', '2024-02-20 20:47:00', 'DNA', 'HNO', '05:40:06'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (144, 37, '2024-01-10 02:56:13', '2024-01-10 07:36:13', 'CMU', 'DLA', '04:40:41');
+(144, 2, '2024-03-03 15:25:00', '2024-03-03 21:22:00', 'THA', 'DNA', '05:57:15'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (145, 11, '2024-01-25 00:16:13', '2024-01-25 07:03:13', 'VTB', 'LDG', '06:47:43');
+(145, 23, '2023-12-26 10:57:00', '2023-12-26 21:23:00', 'HNO', 'VTB', '10:26:04'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (146, 25, '2024-01-10 07:52:13', '2024-01-10 10:32:13', 'HCM', 'KHA', '02:40:26');
+(146, 76, '2023-12-28 04:29:00', '2023-12-28 11:21:00', 'QNH', 'HPG', '06:52:03'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (147, 38, '2024-02-05 04:10:13', '2024-02-05 06:38:13', 'VTB', 'DNA', '02:28:11');
+(147, 26, '2024-02-19 11:40:00', '2024-02-19 14:46:00', 'HCM', 'KGI', '03:06:17'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (148, 46, '2023-12-21 16:02:13', '2023-12-21 23:07:13', 'BDI', 'KGI', '07:05:23');
+(148, 64, '2024-02-02 09:05:00', '2024-02-02 17:08:00', 'HCM', 'QBI', '08:03:09'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (149, 49, '2024-02-27 14:49:13', '2024-02-27 20:12:13', 'TTH', 'DLA', '05:23');
+(149, 84, '2024-01-14 13:52:00', '2024-01-14 19:47:00', 'DLA', 'QNA', '05:55:13'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (150, 32, '2024-02-29 04:13:13', '2024-02-29 12:58:13', 'QNA', 'HNO', '08:45:49');
+(150, 31, '2024-01-04 01:47:00', '2024-01-04 07:08:00', 'HCM', 'NAN', '05:21:47'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (151, 9, '2024-02-05 14:55:13', '2024-02-06 01:07:13', 'HNO', 'THA', '10:12:48');
+(151, 26, '2024-01-11 20:41:00', '2024-01-12 01:06:00', 'DLA', 'HNO', '04:25:48'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (152, 39, '2024-01-09 22:39:13', '2024-01-10 06:43:13', 'VTB', 'CTH', '08:04:31');
+(152, 70, '2024-01-13 09:10:00', '2024-01-13 17:44:00', 'CTH', 'QNA', '08:34:51'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (153, 37, '2024-01-06 11:45:13', '2024-01-06 18:09:13', 'QBI', 'DBI', '06:24:46');
+(153, 5, '2024-01-06 12:54:00', '2024-01-06 15:19:00', 'HCM', 'TTH', '02:25:18'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (154, 22, '2023-12-23 23:51:13', '2023-12-24 04:34:13', 'QBI', 'QNH', '04:43:19');
+(154, 15, '2024-01-15 16:54:00', '2024-01-15 21:23:00', 'GLA', 'QBI', '04:29:08'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (155, 35, '2024-01-21 11:25:13', '2024-01-21 14:58:13', 'DBI', 'HCM', '03:33:40');
+(155, 43, '2024-01-10 18:46:00', '2024-01-11 00:13:00', 'DLA', 'LDG', '05:27:30'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (156, 32, '2023-12-19 13:25:13', '2023-12-19 16:48:13', 'TTH', 'QNH', '03:23');
+(156, 94, '2023-12-13 12:25:00', '2023-12-13 14:55:00', 'DBI', 'BDI', '02:30:29'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (157, 47, '2024-02-23 16:17:13', '2024-02-23 17:26:13', 'BDI', 'DLA', '01:09');
+(157, 81, '2024-03-01 00:39:00', '2024-03-01 05:31:00', 'CTH', 'TTH', '04:52:44'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (158, 11, '2024-02-27 20:07:13', '2024-02-28 01:34:13', 'CTH', 'CMU', '05:27:14');
+(158, 14, '2023-12-19 07:41:00', '2023-12-19 11:27:00', 'CTH', 'HPG', '03:46:31'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (159, 30, '2024-01-02 17:52:13', '2024-01-03 04:28:13', 'TTH', 'NAN', '10:36:25');
+(159, 34, '2024-02-13 10:11:00', '2024-02-13 12:35:00', 'HNO', 'NAN', '02:24:28'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (160, 10, '2024-01-08 09:49:13', '2024-01-08 17:27:13', 'QNA', 'PYE', '07:38:29');
+(160, 92, '2023-12-17 01:07:00', '2023-12-17 06:43:00', 'VTB', 'TTH', '05:36:44'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (161, 21, '2024-01-24 04:25:13', '2024-01-24 14:34:13', 'VTB', 'TTH', '10:09:04');
+(161, 98, '2024-02-06 06:38:00', '2024-02-06 14:09:00', 'HCM', 'NAN', '07:31:33'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (162, 14, '2023-12-09 23:38:13', '2023-12-10 01:52:13', 'KHA', 'GLA', '02:14:45');
+(162, 42, '2024-03-03 12:25:00', '2024-03-03 16:23:00', 'NAN', 'DBI', '03:58:44'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (163, 26, '2024-03-01 23:35:13', '2024-03-02 10:22:13', 'QBI', 'HCM', '10:47:20');
+(163, 78, '2024-01-20 10:33:00', '2024-01-20 20:32:00', 'QBI', 'HCM', '09:59:28'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (164, 16, '2024-01-30 05:55:13', '2024-01-30 08:21:13', 'DBI', 'QNH', '02:26:16');
+(164, 70, '2024-01-01 04:40:00', '2024-01-01 06:19:00', 'DNA', 'QNA', '01:39:54'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (165, 10, '2024-03-01 19:47:13', '2024-03-01 22:47:13', 'TTH', 'VTB', '03:00:25');
+(165, 18, '2024-01-11 08:57:00', '2024-01-11 14:45:00', 'NAN', 'CMU', '05:48:48'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (166, 26, '2024-02-24 01:47:13', '2024-02-24 05:25:13', 'DBI', 'VTB', '03:38:22');
+(166, 67, '2024-01-27 23:27:00', '2024-01-28 01:52:00', 'QNA', 'TTH', '02:25:27'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (167, 20, '2023-12-27 01:20:13', '2023-12-27 10:33:13', 'QBI', 'THA', '09:13:18');
+(167, 41, '2024-02-15 14:24:00', '2024-02-15 19:47:00', 'DLA', 'HCM', '05:23:58'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (168, 22, '2024-03-01 17:11:13', '2024-03-02 00:43:13', 'QNA', 'CTH', '07:32:17');
+(168, 79, '2024-01-21 06:17:00', '2024-01-21 16:49:00', 'DLA', 'DNA', '10:32:08'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (169, 30, '2023-12-09 09:26:13', '2023-12-09 11:16:13', 'QBI', 'KGI', '01:50:04');
+(169, 49, '2024-02-13 03:04:00', '2024-02-13 08:25:00', 'LDG', 'HNO', '05:21:47'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (170, 35, '2024-02-05 10:08:13', '2024-02-05 18:09:13', 'HNO', 'KGI', '08:01:50');
+(170, 88, '2024-01-29 20:04:00', '2024-01-30 06:08:00', 'KHA', 'NAN', '10:04:38'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (171, 50, '2024-01-03 11:21:13', '2024-01-03 14:32:13', 'LDG', 'HNO', '03:11:04');
+(171, 53, '2024-03-08 01:48:00', '2024-03-08 03:42:00', 'GLA', 'HCM', '01:54:06'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (172, 38, '2024-01-23 12:13:13', '2024-01-23 13:43:13', 'QNA', 'LDG', '01:30:04');
+(172, 100, '2024-01-29 03:09:00', '2024-01-29 10:51:00', 'TTH', 'HNO', '07:42:35'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (173, 33, '2024-03-06 18:56:13', '2024-03-06 20:24:13', 'TTH', 'THA', '01:28:13');
+(173, 38, '2023-12-10 01:10:00', '2023-12-10 11:04:00', 'HPG', 'VTB', '09:54:49'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (174, 29, '2023-12-12 03:13:13', '2023-12-12 11:08:13', 'DBI', 'GLA', '07:55:33');
+(174, 85, '2023-12-26 21:54:00', '2023-12-27 05:28:00', 'QNA', 'DLA', '07:34:55'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (175, 32, '2024-02-18 06:35:13', '2024-02-18 15:44:13', 'BDI', 'LDG', '09:09:54');
+(175, 22, '2024-01-09 00:02:00', '2024-01-09 08:04:00', 'CTH', 'THA', '08:02:17'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (176, 11, '2024-02-21 04:15:13', '2024-02-21 07:24:13', 'QBI', 'KGI', '03:09:55');
+(176, 23, '2024-01-01 11:28:00', '2024-01-01 14:25:00', 'THA', 'DBI', '02:57:17'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (177, 27, '2023-12-22 18:47:13', '2023-12-23 00:54:13', 'HNO', 'DNA', '06:07:33');
+(177, 16, '2024-01-16 02:43:00', '2024-01-16 06:55:00', 'DBI', 'VTB', '04:12:02'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (178, 48, '2024-02-16 00:47:13', '2024-02-16 03:57:13', 'CMU', 'TTH', '03:10:49');
+(178, 100, '2024-01-01 18:38:00', '2024-01-01 21:23:00', 'HPG', 'DBI', '02:45:53'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (179, 13, '2024-01-08 16:43:13', '2024-01-09 01:20:13', 'THA', 'BDI', '08:37:05');
+(179, 23, '2024-02-08 11:22:00', '2024-02-08 14:25:00', 'HNO', 'GLA', '03:03:37'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (180, 37, '2023-12-19 22:20:13', '2023-12-20 00:49:13', 'DBI', 'CMU', '02:29:12');
+(180, 96, '2024-02-11 02:06:00', '2024-02-11 04:51:00', 'CTH', 'NAN', '02:45:01'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (181, 1, '2023-12-16 15:01:13', '2023-12-17 00:18:13', 'VTB', 'QBI', '09:17:49');
+(181, 8, '2024-02-20 18:32:00', '2024-02-20 20:48:00', 'NAN', 'TTH', '02:16:25'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (182, 40, '2024-02-03 06:17:13', '2024-02-03 15:58:13', 'GLA', 'NAN', '09:41:46');
+(182, 69, '2024-01-11 17:12:00', '2024-01-11 21:23:00', 'GLA', 'CMU', '04:11:14'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (183, 46, '2024-02-19 20:27:13', '2024-02-19 21:52:13', 'CTH', 'QNA', '01:25:13');
+(183, 66, '2024-01-16 15:31:00', '2024-01-16 22:06:00', 'BDI', 'QBI', '06:35:27'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (184, 30, '2024-02-06 18:51:13', '2024-02-06 22:53:13', 'TTH', 'CMU', '04:02:17');
+(184, 56, '2024-01-22 15:56:00', '2024-01-23 00:44:00', 'CTH', 'DLA', '08:48:36'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (185, 35, '2024-03-01 19:42:13', '2024-03-02 01:16:13', 'HPG', 'QNH', '05:34:22');
+(185, 71, '2023-12-18 21:11:00', '2023-12-18 23:20:00', 'KGI', 'DLA', '02:09:44'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (186, 37, '2024-01-27 16:50:13', '2024-01-27 22:08:13', 'GLA', 'CTH', '05:18:48');
+(186, 51, '2024-01-08 13:13:00', '2024-01-08 18:56:00', 'VTB', 'QNH', '05:43:42'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (187, 28, '2023-12-18 13:04:13', '2023-12-18 22:10:13', 'PYE', 'DNA', '09:06:29');
+(187, 56, '2024-02-16 09:50:00', '2024-02-16 18:52:00', 'HPG', 'GLA', '09:02:03'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (188, 27, '2024-02-08 23:21:13', '2024-02-09 02:48:13', 'QBI', 'KGI', '03:27:18');
+(188, 62, '2024-02-12 03:33:00', '2024-02-12 11:48:00', 'NAN', 'DBI', '08:15:55'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (189, 13, '2023-12-17 01:05:13', '2023-12-17 02:29:13', 'VTB', 'QNH', '01:24:36');
+(189, 90, '2024-02-19 11:30:00', '2024-02-19 20:52:00', 'DBI', 'HNO', '09:22:08'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (190, 33, '2023-12-15 13:09:13', '2023-12-15 15:47:13', 'KHA', 'QNH', '02:38:50');
+(190, 9, '2024-01-04 00:10:00', '2024-01-04 04:17:00', 'DLA', 'PYE', '04:07:06'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (191, 41, '2024-01-03 18:24:13', '2024-01-03 21:15:13', 'DBI', 'THA', '02:51:32');
+(191, 31, '2024-02-06 11:49:00', '2024-02-06 21:11:00', 'LDG', 'HCM', '09:22:51'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (192, 8, '2024-02-22 04:52:13', '2024-02-22 10:09:13', 'KHA', 'VTB', '05:17:29');
+(192, 27, '2024-01-09 19:26:00', '2024-01-10 03:23:00', 'QNH', 'DBI', '07:57:15'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (193, 37, '2023-12-26 10:57:13', '2023-12-26 16:46:13', 'HPG', 'DNA', '05:49:49');
+(193, 96, '2023-12-22 19:49:00', '2023-12-22 22:46:00', 'VTB', 'BDI', '02:57:15'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (194, 44, '2024-01-11 13:42:13', '2024-01-11 23:03:13', 'LDG', 'NAN', '09:21:34');
+(194, 35, '2023-12-27 21:59:00', '2023-12-28 03:33:00', 'KGI', 'DNA', '05:34:05'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (195, 28, '2024-01-12 11:18:13', '2024-01-12 19:04:13', 'KGI', 'QNA', '07:46:51');
+(195, 5, '2023-12-19 00:58:00', '2023-12-19 03:49:00', 'GLA', 'THA', '02:51:56'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (196, 15, '2024-01-23 17:09:13', '2024-01-24 03:34:13', 'HCM', 'PYE', '10:25:18');
+(196, 50, '2023-12-27 04:23:00', '2023-12-27 06:38:00', 'HNO', 'TTH', '02:15:43'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (197, 9, '2024-01-09 01:45:13', '2024-01-09 06:43:13', 'GLA', 'QNA', '04:58:53');
+(197, 57, '2024-01-11 03:31:00', '2024-01-11 04:59:00', 'PYE', 'CTH', '01:28:05'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (198, 9, '2024-02-17 16:42:13', '2024-02-17 18:07:13', 'QNA', 'DLA', '01:25:48');
+(198, 79, '2023-12-31 20:58:00', '2024-01-01 00:00:00', 'DNA', 'NAN', '03:02:25'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (199, 50, '2024-01-20 08:02:13', '2024-01-20 10:04:13', 'DNA', 'HPG', '02:02:46');
+(199, 78, '2023-12-17 10:02:00', '2023-12-17 15:39:00', 'DLA', 'VTB', '05:37:50'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (200, 38, '2024-03-02 10:39:13', '2024-03-02 20:38:13', 'BDI', 'DNA', '09:59:48');
+(200, 35, '2023-12-10 04:20:00', '2023-12-10 12:19:00', 'QNH', 'KHA', '07:59:20'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (201, 29, '2024-01-30 18:21:13', '2024-01-30 22:46:13', 'LDG', 'DLA', '04:25:13');
+(201, 32, '2024-02-01 18:04:00', '2024-02-01 21:31:00', 'HNO', 'CTH', '03:27:46'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (202, 41, '2024-02-08 13:14:13', '2024-02-08 15:32:13', 'QNA', 'QBI', '02:18:08');
+(202, 34, '2024-02-14 12:31:00', '2024-02-14 17:21:00', 'LDG', 'QNA', '04:50:33'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (203, 18, '2024-01-09 13:18:13', '2024-01-09 22:18:13', 'QNH', 'DLA', '09:00:43');
+(203, 27, '2024-01-26 21:27:00', '2024-01-27 06:31:00', 'QBI', 'BDI', '09:04:35'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (204, 32, '2023-12-21 15:11:13', '2023-12-21 17:46:13', 'CMU', 'HCM', '02:35:32');
+(204, 8, '2024-02-16 06:14:00', '2024-02-16 09:59:00', 'GLA', 'LDG', '03:45:58'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (205, 4, '2024-02-23 04:26:13', '2024-02-23 13:02:13', 'DLA', 'THA', '08:36:34');
+(205, 66, '2023-12-24 03:34:00', '2023-12-24 06:54:00', 'KGI', 'LDG', '03:20:13'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (206, 48, '2024-01-25 14:05:13', '2024-01-25 22:15:13', 'DNA', 'HCM', '08:10:52');
+(206, 82, '2024-01-08 00:08:00', '2024-01-08 01:56:00', 'QBI', 'CMU', '01:48:14'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (207, 37, '2024-02-22 02:31:13', '2024-02-22 09:15:13', 'CTH', 'BDI', '06:44:41');
+(207, 54, '2024-02-03 00:16:00', '2024-02-03 04:30:00', 'CTH', 'LDG', '04:14:50'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (208, 41, '2023-12-11 11:54:13', '2023-12-11 13:39:13', 'DNA', 'HCM', '01:45:26');
+(208, 88, '2024-01-16 01:31:00', '2024-01-16 06:56:00', 'DLA', 'QNH', '05:25:21'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (209, 33, '2024-03-07 09:56:13', '2024-03-07 19:49:13', 'QNH', 'QBI', '09:53:14');
+(209, 51, '2024-01-14 22:52:00', '2024-01-15 09:33:00', 'HNO', 'HCM', '10:41:45'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (210, 37, '2024-01-13 18:34:13', '2024-01-14 03:42:13', 'KHA', 'TTH', '09:08:29');
+(210, 26, '2024-01-08 14:09:00', '2024-01-08 18:56:00', 'DNA', 'LDG', '04:47:45'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (211, 16, '2024-03-07 18:38:13', '2024-03-07 22:49:13', 'BDI', 'VTB', '04:11:03');
+(211, 48, '2024-01-07 20:03:00', '2024-01-08 00:15:00', 'QNH', 'DNA', '04:12:32'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (212, 43, '2023-12-27 22:25:13', '2023-12-28 01:19:13', 'CMU', 'QNA', '02:54:12');
+(212, 78, '2024-02-24 07:27:00', '2024-02-24 13:15:00', 'KGI', 'QNA', '05:48:23'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (213, 41, '2023-12-26 01:39:13', '2023-12-26 04:21:13', 'KHA', 'NAN', '02:42:13');
+(213, 29, '2023-12-28 19:33:00', '2023-12-29 03:35:00', 'VTB', 'LDG', '08:02:14'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (214, 43, '2023-12-28 09:20:13', '2023-12-28 18:25:13', 'BDI', 'DBI', '09:05:25');
+(214, 7, '2024-01-27 09:20:00', '2024-01-27 12:49:00', 'KHA', 'TTH', '03:29:03'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (215, 50, '2024-01-08 20:32:13', '2024-01-09 00:26:13', 'NAN', 'GLA', '03:54:21');
+(215, 11, '2024-03-04 09:36:00', '2024-03-04 13:55:00', 'LDG', 'DLA', '04:19:40'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (216, 21, '2023-12-14 23:01:13', '2023-12-15 06:46:13', 'LDG', 'HNO', '07:45:05');
+(216, 19, '2024-03-02 06:10:00', '2024-03-02 13:26:00', 'KGI', 'TTH', '07:16:24'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (217, 49, '2023-12-15 05:01:13', '2023-12-15 08:31:13', 'TTH', 'NAN', '03:30:31');
+(217, 23, '2023-12-24 06:30:00', '2023-12-24 11:26:00', 'VTB', 'LDG', '04:56:41'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (218, 23, '2024-01-29 18:54:13', '2024-01-30 00:33:13', 'QBI', 'TTH', '05:39:58');
+(218, 34, '2024-02-17 16:13:00', '2024-02-17 17:26:00', 'LDG', 'QNH', '01:13:02'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (219, 35, '2024-02-26 07:55:13', '2024-02-26 10:23:13', 'HPG', 'TTH', '02:28:10');
+(219, 51, '2023-12-29 00:21:00', '2023-12-29 07:13:00', 'QNA', 'VTB', '06:52:58'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (220, 24, '2024-01-14 15:23:13', '2024-01-15 00:47:13', 'HNO', 'CMU', '09:24:57');
+(220, 9, '2024-02-28 13:31:00', '2024-02-28 23:56:00', 'QBI', 'LDG', '10:25:39'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (221, 45, '2024-01-24 23:14:13', '2024-01-25 00:30:13', 'VTB', 'CTH', '01:16:08');
+(221, 97, '2024-01-31 17:52:00', '2024-02-01 02:26:00', 'KGI', 'DNA', '08:34:05'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (222, 28, '2024-02-06 04:57:13', '2024-02-06 11:00:13', 'HPG', 'THA', '06:03:49');
+(222, 41, '2023-12-23 23:48:00', '2023-12-24 10:40:00', 'KHA', 'GLA', '10:52:10'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (223, 48, '2024-01-24 06:14:13', '2024-01-24 13:45:13', 'HNO', 'QBI', '07:31:49');
+(223, 5, '2024-01-10 08:55:00', '2024-01-10 11:13:00', 'KHA', 'GLA', '02:18:43'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (224, 8, '2024-01-01 05:17:13', '2024-01-01 06:37:13', 'LDG', 'HPG', '01:20:19');
+(224, 65, '2024-01-24 15:33:00', '2024-01-25 01:50:00', 'HPG', 'DLA', '10:17:46'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (225, 44, '2024-02-04 16:57:13', '2024-02-04 19:04:13', 'KHA', 'HCM', '02:07:03');
+(225, 98, '2024-02-20 04:29:00', '2024-02-20 06:39:00', 'QNH', 'VTB', '02:10:30'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (226, 48, '2023-12-22 08:47:13', '2023-12-22 11:01:13', 'TTH', 'DNA', '02:14:48');
+(226, 44, '2024-03-08 14:00:00', '2024-03-08 15:21:00', 'PYE', 'QBI', '01:21:38'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (227, 9, '2024-01-04 12:40:13', '2024-01-04 18:52:13', 'DLA', 'PYE', '06:12:22');
+(227, 14, '2024-02-08 12:08:00', '2024-02-08 16:19:00', 'KHA', 'GLA', '04:11:10'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (228, 6, '2024-03-07 18:24:13', '2024-03-07 23:46:13', 'LDG', 'VTB', '05:22:07');
+(228, 8, '2024-02-23 15:51:00', '2024-02-23 20:41:00', 'CTH', 'VTB', '04:50:28'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (229, 44, '2024-01-26 21:01:13', '2024-01-26 23:28:13', 'VTB', 'DLA', '02:27:37');
+(229, 8, '2024-02-01 08:23:00', '2024-02-01 10:44:00', 'KGI', 'HCM', '02:21:06'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (230, 31, '2024-01-12 18:22:13', '2024-01-13 00:00:13', 'CTH', 'QNA', '05:38:13');
+(230, 79, '2024-01-01 19:20:00', '2024-01-02 05:15:00', 'HNO', 'VTB', '09:55:36'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (231, 8, '2024-01-25 18:10:13', '2024-01-26 00:45:13', 'HCM', 'TTH', '06:35:40');
+(231, 6, '2024-01-13 11:16:00', '2024-01-13 14:08:00', 'LDG', 'GLA', '02:52:29'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (232, 47, '2024-01-29 02:53:13', '2024-01-29 10:19:13', 'QNH', 'DLA', '07:26:17');
+(232, 84, '2024-02-17 16:21:00', '2024-02-17 20:25:00', 'PYE', 'KHA', '04:04:37'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (233, 8, '2023-12-21 14:34:13', '2023-12-22 00:34:13', 'CTH', 'DBI', '10:00:14');
+(233, 78, '2024-02-06 16:20:00', '2024-02-06 18:55:00', 'VTB', 'KGI', '02:35:42'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (234, 38, '2024-02-15 15:03:13', '2024-02-15 18:01:13', 'LDG', 'HNO', '02:58:17');
+(234, 25, '2024-02-05 06:26:00', '2024-02-05 10:59:00', 'DNA', 'DBI', '04:33:06'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (235, 15, '2024-02-01 16:04:13', '2024-02-02 01:23:13', 'DNA', 'HPG', '09:19:07');
+(235, 22, '2024-01-26 04:44:00', '2024-01-26 13:34:00', 'QBI', 'VTB', '08:50:17'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (236, 6, '2024-01-15 03:03:13', '2024-01-15 11:10:13', 'CTH', 'QNH', '08:07:40');
+(236, 66, '2024-02-19 21:18:00', '2024-02-20 01:07:00', 'GLA', 'HNO', '03:49:46'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (237, 39, '2024-03-02 15:19:13', '2024-03-02 18:41:13', 'VTB', 'TTH', '03:22:17');
+(237, 40, '2024-02-14 12:39:00', '2024-02-14 16:56:00', 'CMU', 'KGI', '04:17:01'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (238, 12, '2024-03-01 14:54:13', '2024-03-01 21:27:13', 'PYE', 'HCM', '06:33:07');
+(238, 7, '2024-02-01 18:42:00', '2024-02-02 01:28:00', 'PYE', 'KGI', '06:46:55'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (239, 42, '2023-12-29 05:38:13', '2023-12-29 13:06:13', 'HCM', 'DNA', '07:28:44');
+(239, 50, '2023-12-12 04:37:00', '2023-12-12 13:46:00', 'THA', 'HCM', '09:09:50'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (240, 27, '2023-12-08 12:17:13', '2023-12-08 18:39:13', 'DNA', 'DBI', '06:22:18');
+(240, 78, '2024-02-20 14:51:00', '2024-02-20 23:31:00', 'THA', 'VTB', '08:40:46'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (241, 47, '2024-02-23 10:24:13', '2024-02-23 13:14:13', 'QBI', 'KGI', '02:50:39');
+(241, 63, '2024-02-16 05:39:00', '2024-02-16 13:40:00', 'LDG', 'VTB', '08:01:38'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (242, 36, '2024-02-01 09:36:13', '2024-02-01 11:58:13', 'NAN', 'KHA', '02:22:01');
+(242, 33, '2023-12-13 19:29:00', '2023-12-13 23:32:00', 'TTH', 'DLA', '04:03:53'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (243, 22, '2024-02-24 01:18:13', '2024-02-24 06:48:13', 'CTH', 'TTH', '05:30:39');
+(243, 44, '2024-01-10 08:21:00', '2024-01-10 11:08:00', 'KHA', 'DBI', '02:47:57'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (244, 22, '2024-02-22 14:27:13', '2024-02-22 22:55:13', 'KHA', 'DLA', '08:28:48');
+(244, 64, '2024-02-21 23:24:00', '2024-02-22 02:20:00', 'HNO', 'QBI', '02:56:13'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (245, 50, '2024-02-24 03:10:13', '2024-02-24 06:24:13', 'DNA', 'HPG', '03:14:17');
+(245, 57, '2024-02-28 18:16:00', '2024-02-29 02:55:00', 'THA', 'QBI', '08:39:28'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (246, 19, '2023-12-26 16:32:13', '2023-12-27 02:27:13', 'PYE', 'HPG', '09:55:07');
+(246, 99, '2024-01-04 17:01:00', '2024-01-04 22:54:00', 'KHA', 'GLA', '05:53:24'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (247, 12, '2024-03-03 23:32:13', '2024-03-04 03:22:13', 'HPG', 'DLA', '03:50:47');
+(247, 68, '2023-12-12 16:03:00', '2023-12-12 23:31:00', 'DLA', 'BDI', '07:28:36'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (248, 6, '2024-03-05 10:30:13', '2024-03-05 17:53:13', 'QBI', 'NAN', '07:23:42');
+(248, 45, '2024-02-29 12:02:00', '2024-02-29 15:52:00', 'DLA', 'QNA', '03:50:43'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (249, 10, '2024-01-28 11:26:13', '2024-01-28 16:50:13', 'QNH', 'TTH', '05:24:50');
+(249, 92, '2023-12-16 12:12:00', '2023-12-16 16:05:00', 'DBI', 'QNH', '03:53:56'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (250, 27, '2023-12-28 07:49:13', '2023-12-28 15:35:13', 'THA', 'DBI', '07:46:07');
+(250, 56, '2024-02-23 18:39:00', '2024-02-23 21:14:00', 'HCM', 'CMU', '02:35:11'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (251, 36, '2024-01-23 09:41:13', '2024-01-23 19:11:13', 'THA', 'PYE', '09:30:22');
+(251, 83, '2024-02-20 12:29:00', '2024-02-20 22:46:00', 'CMU', 'HCM', '10:17:04'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (252, 41, '2024-01-27 17:03:13', '2024-01-28 00:52:13', 'QBI', 'HCM', '07:49:11');
+(252, 24, '2023-12-14 19:55:00', '2023-12-14 22:44:00', 'QNA', 'QBI', '02:49:55'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (253, 43, '2024-01-30 05:42:13', '2024-01-30 11:44:13', 'HNO', 'DNA', '06:02:54');
+(253, 47, '2024-02-09 18:05:00', '2024-02-10 02:39:00', 'PYE', 'NAN', '08:34:21'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (254, 44, '2024-01-16 06:25:13', '2024-01-16 14:25:13', 'QNH', 'CTH', '08:00:23');
+(254, 47, '2023-12-14 19:41:00', '2023-12-15 00:20:00', 'TTH', 'PYE', '04:39:58'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (255, 12, '2023-12-27 08:53:13', '2023-12-27 10:45:13', 'HPG', 'KGI', '01:52:41');
+(255, 33, '2024-01-07 10:47:00', '2024-01-07 13:37:00', 'BDI', 'DLA', '02:50:14'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (256, 48, '2024-01-11 01:19:13', '2024-01-11 05:06:13', 'THA', 'HCM', '03:47:57');
+(256, 30, '2024-02-05 19:10:00', '2024-02-06 03:08:00', 'BDI', 'KHA', '07:58:28'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (257, 23, '2023-12-11 16:05:13', '2023-12-11 20:10:13', 'BDI', 'THA', '04:05:19');
+(257, 62, '2023-12-20 09:54:00', '2023-12-20 18:40:00', 'BDI', 'THA', '08:46:32'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (258, 46, '2024-01-01 00:40:13', '2024-01-01 10:21:13', 'TTH', 'PYE', '09:41:06');
+(258, 93, '2024-02-15 16:06:00', '2024-02-16 01:34:00', 'PYE', 'HNO', '09:28:21'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (259, 41, '2024-02-25 05:59:13', '2024-02-25 09:59:13', 'DLA', 'HPG', '04:00:55');
+(259, 98, '2023-12-25 23:07:00', '2023-12-26 09:10:00', 'HNO', 'KGI', '10:03:03'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (260, 19, '2023-12-13 22:27:13', '2023-12-14 09:17:13', 'CTH', 'THA', '10:50:43');
+(260, 1, '2023-12-21 05:41:00', '2023-12-21 09:25:00', 'HCM', 'PYE', '03:44:13'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (261, 18, '2024-01-31 19:08:13', '2024-02-01 00:44:13', 'HNO', 'KGI', '05:36:48');
+(261, 86, '2024-03-05 02:17:00', '2024-03-05 06:59:00', 'NAN', 'DLA', '04:42:32'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (262, 44, '2024-02-20 23:20:13', '2024-02-21 08:38:13', 'QBI', 'DNA', '09:18:53');
+(262, 85, '2024-02-07 09:07:00', '2024-02-07 13:35:00', 'QNH', 'DBI', '04:28:14'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (263, 28, '2024-01-07 02:06:13', '2024-01-07 03:32:13', 'HPG', 'NAN', '01:26:44');
+(263, 80, '2024-01-07 07:14:00', '2024-01-07 14:42:00', 'THA', 'DLA', '07:28:58'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (264, 48, '2024-03-07 16:36:13', '2024-03-07 23:43:13', 'VTB', 'QNA', '07:07:51');
+(264, 41, '2024-01-17 22:11:00', '2024-01-18 00:09:00', 'DBI', 'CMU', '01:58:57'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (265, 30, '2023-12-08 21:35:13', '2023-12-09 03:58:13', 'HCM', 'THA', '06:23:01');
+(265, 95, '2024-01-13 13:44:00', '2024-01-13 22:35:00', 'TTH', 'QBI', '08:51:20'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (266, 13, '2024-01-11 12:39:13', '2024-01-11 17:49:13', 'QNH', 'KHA', '05:10:58');
+(266, 27, '2024-03-03 21:15:00', '2024-03-03 23:34:00', 'NAN', 'DLA', '02:19:05'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (267, 17, '2024-01-03 17:10:13', '2024-01-03 20:29:13', 'GLA', 'KGI', '03:19:16');
+(267, 42, '2024-01-06 07:19:00', '2024-01-06 14:31:00', 'DNA', 'DBI', '07:12:23'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (268, 26, '2024-01-22 14:58:13', '2024-01-23 01:08:13', 'HNO', 'QBI', '10:10:35');
+(268, 88, '2024-02-23 20:27:00', '2024-02-23 21:48:00', 'BDI', 'DBI', '01:21:51'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (269, 40, '2023-12-16 19:00:13', '2023-12-16 21:11:13', 'QNH', 'TTH', '02:11:22');
+(269, 67, '2024-03-04 15:30:00', '2024-03-04 17:40:00', 'DBI', 'CTH', '02:10:47'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (270, 40, '2024-02-26 15:44:13', '2024-02-27 01:12:13', 'CMU', 'GLA', '09:28:59');
+(270, 15, '2024-01-24 19:23:00', '2024-01-25 04:23:00', 'PYE', 'DNA', '09:00:04'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (271, 42, '2024-02-14 05:12:13', '2024-02-14 09:09:13', 'VTB', 'HPG', '03:57:55');
+(271, 41, '2024-01-18 02:06:00', '2024-01-18 09:37:00', 'KHA', 'DLA', '07:31:48'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (272, 27, '2024-01-15 09:56:13', '2024-01-15 17:30:13', 'CTH', 'DLA', '07:34:23');
+(272, 15, '2024-02-22 08:06:00', '2024-02-22 15:59:00', 'GLA', 'KHA', '07:53:56'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (273, 10, '2024-01-26 03:52:13', '2024-01-26 09:02:13', 'GLA', 'KGI', '05:10:15');
+(273, 26, '2024-02-17 21:24:00', '2024-02-18 03:35:00', 'TTH', 'CTH', '06:11:12'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (274, 23, '2024-01-27 00:42:13', '2024-01-27 08:17:13', 'THA', 'CMU', '07:35:34');
+(274, 39, '2024-01-31 15:29:00', '2024-02-01 01:58:00', 'DBI', 'GLA', '10:29:58'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (275, 36, '2023-12-24 11:42:13', '2023-12-24 15:44:13', 'CMU', 'BDI', '04:02:59');
+(275, 83, '2024-02-18 00:38:00', '2024-02-18 11:23:00', 'KGI', 'BDI', '10:45:19'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (276, 1, '2024-03-03 13:49:13', '2024-03-03 19:17:13', 'CTH', 'HNO', '05:28:42');
+(276, 61, '2024-03-02 16:53:00', '2024-03-03 03:29:00', 'QNH', 'HPG', '10:36:15'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (277, 8, '2024-02-17 22:17:13', '2024-02-18 03:06:13', 'DBI', 'KGI', '04:49:16');
+(277, 28, '2024-02-20 04:47:00', '2024-02-20 12:41:00', 'PYE', 'HCM', '07:54:45'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (278, 23, '2023-12-21 03:05:13', '2023-12-21 10:44:13', 'NAN', 'THA', '07:39:55');
+(278, 18, '2024-01-05 23:47:00', '2024-01-06 07:58:00', 'BDI', 'HCM', '08:11:06'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (279, 40, '2024-01-17 21:14:13', '2024-01-18 06:47:13', 'QBI', 'VTB', '09:33:23');
+(279, 74, '2023-12-27 19:09:00', '2023-12-28 01:17:00', 'DNA', 'QNH', '06:08:21'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (280, 43, '2024-02-26 09:57:13', '2024-02-26 18:11:13', 'KHA', 'HCM', '08:14:08');
+(280, 21, '2023-12-10 12:10:00', '2023-12-10 20:47:00', 'THA', 'QNH', '08:37:46'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (281, 44, '2024-02-01 01:15:13', '2024-02-01 05:49:13', 'QBI', 'DBI', '04:34:29');
+(281, 69, '2023-12-14 02:29:00', '2023-12-14 10:29:00', 'CTH', 'NAN', '08:00:02'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (282, 49, '2023-12-20 15:30:13', '2023-12-20 17:55:13', 'KGI', 'BDI', '02:25:43');
+(282, 75, '2023-12-20 00:16:00', '2023-12-20 04:06:00', 'QNH', 'TTH', '03:50:52'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (283, 7, '2024-01-26 18:33:13', '2024-01-27 05:31:13', 'QNH', 'QNA', '10:58:01');
+(283, 75, '2023-12-13 05:18:00', '2023-12-13 11:06:00', 'CMU', 'THA', '05:48:09'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (284, 39, '2024-02-01 18:07:13', '2024-02-02 03:57:13', 'THA', 'HCM', '09:50:31');
+(284, 32, '2023-12-22 00:50:00', '2023-12-22 04:18:00', 'QNA', 'NAN', '03:28:49'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (285, 44, '2024-01-29 17:10:13', '2024-01-29 19:37:13', 'HPG', 'HNO', '02:27:23');
+(285, 100, '2024-01-28 01:43:00', '2024-01-28 10:25:00', 'QBI', 'CTH', '08:42'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (286, 16, '2023-12-09 22:28:13', '2023-12-10 07:10:13', 'TTH', 'THA', '08:42:28');
+(286, 19, '2024-02-16 06:33:00', '2024-02-16 08:09:00', 'THA', 'NAN', '01:36:24'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (287, 7, '2024-02-27 20:45:13', '2024-02-28 00:51:13', 'LDG', 'QNH', '04:06:54');
+(287, 54, '2024-03-06 04:06:00', '2024-03-06 08:51:00', 'BDI', 'CTH', '04:45:57'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (288, 3, '2023-12-19 16:36:13', '2023-12-20 00:49:13', 'BDI', 'THA', '08:13:54');
+(288, 5, '2024-02-13 17:57:00', '2024-02-13 20:33:00', 'TTH', 'CMU', '02:36:04'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (289, 15, '2024-02-27 21:20:13', '2024-02-27 23:44:13', 'DNA', 'TTH', '02:24:38');
+(289, 2, '2023-12-23 10:03:00', '2023-12-23 21:02:00', 'VTB', 'QNH', '10:59:21'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (290, 31, '2024-02-21 11:41:13', '2024-02-21 18:32:13', 'TTH', 'QNA', '06:51:16');
+(290, 49, '2024-03-08 05:05:00', '2024-03-08 13:53:00', 'HCM', 'BDI', '08:48:46'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (291, 39, '2024-03-04 05:18:13', '2024-03-04 08:46:13', 'QNH', 'DNA', '03:28:27');
+(291, 28, '2024-01-13 10:56:00', '2024-01-13 14:16:00', 'TTH', 'CTH', '03:20:44'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (292, 4, '2023-12-13 14:33:13', '2023-12-13 20:46:13', 'CMU', 'LDG', '06:13:41');
+(292, 92, '2023-12-10 02:45:00', '2023-12-10 12:14:00', 'NAN', 'KHA', '09:29:58'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (293, 36, '2024-03-07 13:29:13', '2024-03-07 19:49:13', 'PYE', 'DNA', '06:20:13');
+(293, 75, '2023-12-10 16:04:00', '2023-12-11 02:37:00', 'CTH', 'THA', '10:33:05'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (294, 45, '2023-12-23 17:20:13', '2023-12-24 03:28:13', 'THA', 'BDI', '10:08:08');
+(294, 81, '2024-01-27 21:40:00', '2024-01-28 08:01:00', 'DNA', 'QNH', '10:21:40'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (295, 10, '2024-02-21 09:27:13', '2024-02-21 19:39:13', 'NAN', 'PYE', '10:12:57');
+(295, 94, '2023-12-26 18:35:00', '2023-12-27 04:04:00', 'DNA', 'KHA', '09:29:58'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (296, 39, '2023-12-22 19:53:13', '2023-12-23 06:14:13', 'TTH', 'DNA', '10:21:13');
+(296, 63, '2023-12-24 14:49:00', '2023-12-24 22:37:00', 'NAN', 'BDI', '07:48:39'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (297, 25, '2024-02-10 15:50:13', '2024-02-10 23:52:13', 'CTH', 'QNH', '08:02:55');
+(297, 57, '2023-12-25 01:09:00', '2023-12-25 07:04:00', 'QNA', 'HNO', '05:55:07'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (298, 44, '2024-02-06 22:36:13', '2024-02-07 09:18:13', 'PYE', 'QBI', '10:42:17');
+(298, 83, '2024-01-12 20:59:00', '2024-01-13 06:02:00', 'HPG', 'KHA', '09:03'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (299, 11, '2024-02-01 00:50:13', '2024-02-01 04:23:13', 'HCM', 'CMU', '03:33:19');
+(299, 54, '2023-12-10 06:05:00', '2023-12-10 13:51:00', 'QBI', 'CTH', '07:46:17'),
 
-INSERT INTO flights(ma_chuyen_bay, ma_may_bay, ngay_di, ngay_den, ma_diem_den, ma_diem_di, gio_bay)
-VALUES (300, 7, '2024-02-27 20:48:13', '2024-02-27 22:44:13', 'TTH', 'CMU', '01:56:22');
+(300, 58, '2024-02-07 15:45:00', '2024-02-07 21:33:00', 'GLA', 'DNA', '05:48:54'),
+
+(301, 80, '2024-03-02 05:20:00', '2024-03-02 08:37:00', 'LDG', 'VTB', '03:17'),
+
+(302, 30, '2023-12-14 10:15:00', '2023-12-14 15:49:00', 'DBI', 'HPG', '05:34:51'),
+
+(303, 21, '2024-02-05 00:56:00', '2024-02-05 07:07:00', 'CMU', 'PYE', '06:11:07'),
+
+(304, 66, '2023-12-16 01:06:00', '2023-12-16 04:52:00', 'NAN', 'DBI', '03:46:21'),
+
+(305, 77, '2023-12-11 04:52:00', '2023-12-11 15:44:00', 'TTH', 'QNH', '10:52:31'),
+
+(306, 28, '2024-01-18 21:17:00', '2024-01-19 05:34:00', 'VTB', 'THA', '08:17:04'),
+
+(307, 5, '2024-02-20 17:39:00', '2024-02-21 01:28:00', 'LDG', 'NAN', '07:49:16'),
+
+(308, 9, '2024-02-21 03:39:00', '2024-02-21 09:31:00', 'GLA', 'LDG', '05:52:32'),
+
+(309, 1, '2023-12-21 16:08:00', '2023-12-21 22:53:00', 'TTH', 'HPG', '06:45:31'),
+
+(310, 89, '2024-02-03 04:20:00', '2024-02-03 14:08:00', 'CMU', 'DNA', '09:48:12'),
+
+(311, 5, '2024-01-09 00:05:00', '2024-01-09 04:14:00', 'VTB', 'TTH', '04:09:27'),
+
+(312, 45, '2024-02-06 04:57:00', '2024-02-06 14:06:00', 'BDI', 'KGI', '09:09:10'),
+
+(313, 60, '2023-12-28 22:38:00', '2023-12-29 06:29:00', 'VTB', 'NAN', '07:51:01'),
+
+(314, 94, '2023-12-29 16:52:00', '2023-12-30 03:47:00', 'QNA', 'TTH', '10:55:16'),
+
+(315, 86, '2023-12-17 12:57:00', '2023-12-17 23:31:00', 'HCM', 'HPG', '10:34:48'),
+
+(316, 44, '2024-02-05 06:18:00', '2024-02-05 16:08:00', 'HCM', 'THA', '09:50:13'),
+
+(317, 17, '2023-12-15 01:42:00', '2023-12-15 11:29:00', 'KGI', 'KHA', '09:47:34'),
+
+(318, 87, '2023-12-12 02:10:00', '2023-12-12 12:43:00', 'HNO', 'TTH', '10:33:48'),
+
+(319, 38, '2024-01-28 14:59:00', '2024-01-29 01:23:00', 'TTH', 'GLA', '10:24:12'),
+
+(320, 10, '2024-02-16 16:35:00', '2024-02-16 23:51:00', 'HPG', 'BDI', '07:16:26'),
+
+(321, 86, '2024-03-04 13:41:00', '2024-03-04 15:21:00', 'QBI', 'DLA', '01:40:54'),
+
+(322, 59, '2023-12-15 18:09:00', '2023-12-15 21:17:00', 'BDI', 'NAN', '03:08:56'),
+
+(323, 36, '2024-01-21 11:20:00', '2024-01-21 18:05:00', 'DLA', 'CMU', '06:45:11'),
+
+(324, 14, '2024-02-15 02:11:00', '2024-02-15 09:20:00', 'LDG', 'DLA', '07:09:07'),
+
+(325, 2, '2024-01-09 05:36:00', '2024-01-09 13:06:00', 'VTB', 'HNO', '07:30:50'),
+
+(326, 83, '2024-02-07 12:20:00', '2024-02-07 22:20:00', 'CTH', 'VTB', '10:00:05'),
+
+(327, 92, '2024-01-04 11:33:00', '2024-01-04 13:02:00', 'THA', 'NAN', '01:29:21'),
+
+(328, 85, '2024-01-02 03:29:00', '2024-01-02 06:03:00', 'DLA', 'TTH', '02:34:11'),
+
+(329, 42, '2024-02-08 22:06:00', '2024-02-09 06:47:00', 'NAN', 'TTH', '08:41:24'),
+
+(330, 52, '2023-12-31 08:44:00', '2023-12-31 15:06:00', 'VTB', 'DNA', '06:22:13'),
+
+(331, 45, '2024-01-10 19:41:00', '2024-01-11 05:25:00', 'BDI', 'PYE', '09:44:40'),
+
+(332, 2, '2024-02-22 20:59:00', '2024-02-22 22:40:00', 'VTB', 'CTH', '01:41:49'),
+
+(333, 76, '2024-01-03 16:20:00', '2024-01-04 01:45:00', 'KGI', 'THA', '09:25:32'),
+
+(334, 21, '2024-03-02 10:19:00', '2024-03-02 20:15:00', 'LDG', 'QNH', '09:56:57'),
+
+(335, 78, '2024-01-09 18:34:00', '2024-01-09 23:18:00', 'HCM', 'DNA', '04:44:44'),
+
+(336, 97, '2024-02-21 04:32:00', '2024-02-21 10:47:00', 'PYE', 'THA', '06:15:08'),
+
+(337, 94, '2023-12-23 16:54:00', '2023-12-24 00:39:00', 'LDG', 'DNA', '07:45:30'),
+
+(338, 23, '2024-02-05 11:39:00', '2024-02-05 15:07:00', 'LDG', 'HPG', '03:28:08'),
+
+(339, 89, '2024-01-26 20:57:00', '2024-01-27 02:58:00', 'QBI', 'THA', '06:01:28'),
+
+(340, 3, '2023-12-27 04:40:00', '2023-12-27 08:57:00', 'LDG', 'QNA', '04:17:55'),
+
+(341, 4, '2024-01-15 16:01:00', '2024-01-15 18:05:00', 'DBI', 'QNA', '02:04:54'),
+
+(342, 88, '2023-12-18 12:27:00', '2023-12-18 20:33:00', 'TTH', 'BDI', '08:06:12'),
+
+(343, 98, '2024-01-09 05:16:00', '2024-01-09 13:00:00', 'HPG', 'QBI', '07:44:38'),
+
+(344, 5, '2024-02-19 06:27:00', '2024-02-19 14:00:00', 'QNA', 'LDG', '07:33:17'),
+
+(345, 92, '2024-02-13 21:21:00', '2024-02-14 07:39:00', 'GLA', 'HNO', '10:18:34'),
+
+(346, 44, '2024-03-01 03:49:00', '2024-03-01 14:06:00', 'KGI', 'QNA', '10:17:31'),
+
+(347, 95, '2024-01-01 22:21:00', '2024-01-02 00:17:00', 'NAN', 'KGI', '01:56:22'),
+
+(348, 64, '2024-02-02 16:28:00', '2024-02-02 20:42:00', 'HNO', 'TTH', '04:14:18'),
+
+(349, 41, '2024-01-10 04:25:00', '2024-01-10 15:12:00', 'DNA', 'VTB', '10:47:33'),
+
+(350, 42, '2024-01-17 03:55:00', '2024-01-17 11:17:00', 'LDG', 'CMU', '07:22:36'),
+
+(351, 44, '2024-02-28 03:46:00', '2024-02-28 11:25:00', 'PYE', 'GLA', '07:39:12'),
+
+(352, 33, '2023-12-31 11:40:00', '2023-12-31 20:37:00', 'GLA', 'KGI', '08:57:49'),
+
+(353, 100, '2024-02-15 09:12:00', '2024-02-15 11:14:00', 'NAN', 'HCM', '02:02:41'),
+
+(354, 84, '2024-01-04 21:38:00', '2024-01-05 06:30:00', 'HNO', 'LDG', '08:52:36'),
+
+(355, 84, '2024-02-14 05:24:00', '2024-02-14 14:13:00', 'BDI', 'DNA', '08:49:21'),
+
+(356, 59, '2024-01-13 17:35:00', '2024-01-13 20:32:00', 'DBI', 'GLA', '02:57'),
+
+(357, 16, '2024-01-13 05:50:00', '2024-01-13 14:18:00', 'DBI', 'HPG', '08:28:49'),
+
+(358, 16, '2023-12-13 09:39:00', '2023-12-13 15:03:00', 'DBI', 'HNO', '05:24:57'),
+
+(359, 30, '2023-12-26 19:49:00', '2023-12-27 01:51:00', 'HNO', 'GLA', '06:02:25'),
+
+(360, 29, '2023-12-23 07:31:00', '2023-12-23 13:18:00', 'GLA', 'LDG', '05:47:14'),
+
+(361, 93, '2023-12-12 18:14:00', '2023-12-12 19:22:00', 'BDI', 'HCM', '01:08:50'),
+
+(362, 10, '2024-02-23 15:34:00', '2024-02-24 01:09:00', 'PYE', 'GLA', '09:35:33'),
+
+(363, 33, '2024-02-21 19:57:00', '2024-02-22 05:29:00', 'GLA', 'QNA', '09:32:03'),
+
+(364, 15, '2024-02-26 06:23:00', '2024-02-26 08:33:00', 'CMU', 'HCM', '02:10:07'),
+
+(365, 53, '2024-02-17 06:15:00', '2024-02-17 11:05:00', 'NAN', 'TTH', '04:50:28'),
+
+(366, 18, '2024-01-23 07:46:00', '2024-01-23 10:04:00', 'NAN', 'HCM', '02:18:39'),
+
+(367, 55, '2024-01-04 03:11:00', '2024-01-04 13:59:00', 'DLA', 'DBI', '10:48:24'),
+
+(368, 34, '2024-01-03 18:00:00', '2024-01-03 22:14:00', 'VTB', 'HPG', '04:14:10'),
+
+(369, 57, '2024-02-02 18:12:00', '2024-02-02 23:43:00', 'HPG', 'BDI', '05:31:29'),
+
+(370, 76, '2024-02-17 19:54:00', '2024-02-18 00:01:00', 'HCM', 'HPG', '04:07:05'),
+
+(371, 87, '2024-02-04 03:14:00', '2024-02-04 12:46:00', 'KHA', 'CMU', '09:32:41'),
+
+(372, 37, '2024-01-01 12:36:00', '2024-01-01 13:36:00', 'KHA', 'GLA', '01:00:40'),
+
+(373, 74, '2024-02-27 20:59:00', '2024-02-28 04:50:00', 'GLA', 'QNA', '07:51:36'),
+
+(374, 35, '2024-02-23 14:39:00', '2024-02-23 23:08:00', 'NAN', 'CMU', '08:29:27'),
+
+(375, 92, '2024-01-18 12:57:00', '2024-01-18 19:26:00', 'QNA', 'QBI', '06:29:37'),
+
+(376, 20, '2023-12-31 21:37:00', '2024-01-01 02:13:00', 'NAN', 'QNA', '04:36:46'),
+
+(377, 85, '2024-01-26 18:27:00', '2024-01-27 04:14:00', 'TTH', 'QNA', '09:47:31'),
+
+(378, 42, '2024-02-23 20:36:00', '2024-02-24 04:54:00', 'QBI', 'DBI', '08:18:01'),
+
+(379, 99, '2024-01-03 02:21:00', '2024-01-03 09:46:00', 'GLA', 'CTH', '07:25:31'),
+
+(380, 64, '2024-01-09 23:50:00', '2024-01-10 07:18:00', 'DNA', 'KHA', '07:28:06'),
+
+(381, 26, '2023-12-24 19:54:00', '2023-12-25 02:22:00', 'NAN', 'TTH', '06:28:52'),
+
+(382, 73, '2024-01-18 13:34:00', '2024-01-18 18:17:00', 'CMU', 'QNH', '04:43:37'),
+
+(383, 41, '2023-12-28 22:50:00', '2023-12-29 07:53:00', 'HCM', 'VTB', '09:03'),
+
+(384, 22, '2023-12-25 10:02:00', '2023-12-25 14:55:00', 'QNH', 'KGI', '04:53:08'),
+
+(385, 80, '2024-01-12 02:02:00', '2024-01-12 07:51:00', 'NAN', 'CMU', '05:49:55'),
+
+(386, 80, '2024-03-04 08:08:00', '2024-03-04 11:49:00', 'VTB', 'DLA', '03:41:23'),
+
+(387, 77, '2024-01-28 11:09:00', '2024-01-28 13:03:00', 'DBI', 'BDI', '01:54:06'),
+
+(388, 9, '2024-02-07 07:44:00', '2024-02-07 14:31:00', 'PYE', 'NAN', '06:47:05'),
+
+(389, 72, '2023-12-12 16:15:00', '2023-12-13 01:39:00', 'HPG', 'KHA', '09:24:30'),
+
+(390, 84, '2023-12-14 16:22:00', '2023-12-15 00:21:00', 'DNA', 'CTH', '07:59:25'),
+
+(391, 93, '2023-12-21 16:34:00', '2023-12-21 23:48:00', 'KHA', 'DNA', '07:14:35'),
+
+(392, 62, '2024-03-08 12:25:00', '2024-03-08 21:41:00', 'GLA', 'THA', '09:16:41'),
+
+(393, 52, '2024-02-19 09:49:00', '2024-02-19 16:32:00', 'VTB', 'GLA', '06:43:24'),
+
+(394, 84, '2023-12-13 21:07:00', '2023-12-14 00:14:00', 'HNO', 'HPG', '03:07:44'),
+
+(395, 16, '2024-01-03 23:50:00', '2024-01-04 04:19:00', 'QNA', 'CTH', '04:29:34'),
+
+(396, 1, '2023-12-16 20:57:00', '2023-12-17 00:27:00', 'CTH', 'QBI', '03:30:05'),
+
+(397, 18, '2024-01-11 14:33:00', '2024-01-11 19:11:00', 'LDG', 'DBI', '04:38:59'),
+
+(398, 4, '2024-01-25 05:39:00', '2024-01-25 11:59:00', 'HNO', 'QBI', '06:20:18'),
+
+(399, 21, '2024-02-04 08:26:00', '2024-02-04 11:35:00', 'DBI', 'THA', '03:09:13'),
+
+(400, 78, '2024-01-07 08:04:00', '2024-01-07 10:12:00', 'DNA', 'THA', '02:08:20'),
+
+(401, 90, '2024-02-25 07:27:00', '2024-02-25 12:47:00', 'QNH', 'PYE', '05:20:58'),
+
+(402, 27, '2023-12-30 07:28:00', '2023-12-30 11:25:00', 'BDI', 'THA', '03:57:18'),
+
+(403, 3, '2024-02-18 16:56:00', '2024-02-18 22:13:00', 'HCM', 'PYE', '05:17:26'),
+
+(404, 75, '2024-02-18 21:18:00', '2024-02-19 05:10:00', 'CMU', 'QNA', '07:52:11'),
+
+(405, 10, '2023-12-17 03:15:00', '2023-12-17 11:39:00', 'GLA', 'VTB', '08:24:09'),
+
+(406, 34, '2024-01-17 22:45:00', '2024-01-18 06:46:00', 'THA', 'LDG', '08:01:07'),
+
+(407, 9, '2024-02-02 11:55:00', '2024-02-02 21:04:00', 'CMU', 'NAN', '09:09:31'),
+
+(408, 66, '2023-12-27 12:55:00', '2023-12-27 19:30:00', 'HCM', 'CTH', '06:35:43'),
+
+(409, 96, '2024-01-06 09:57:00', '2024-01-06 17:35:00', 'QNA', 'CTH', '07:38:18'),
+
+(410, 88, '2024-02-24 13:44:00', '2024-02-24 19:28:00', 'CMU', 'KGI', '05:44:12'),
+
+(411, 39, '2024-01-17 20:19:00', '2024-01-18 04:17:00', 'BDI', 'QNH', '07:58:41'),
+
+(412, 98, '2023-12-17 15:35:00', '2023-12-18 02:07:00', 'PYE', 'BDI', '10:32:05'),
+
+(413, 6, '2024-03-01 00:17:00', '2024-03-01 06:45:00', 'VTB', 'KHA', '06:28:20'),
+
+(414, 43, '2024-01-18 00:19:00', '2024-01-18 04:46:00', 'HNO', 'CTH', '04:27:15'),
+
+(415, 60, '2024-02-19 15:23:00', '2024-02-19 18:00:00', 'HCM', 'DNA', '02:37:22'),
+
+(416, 36, '2024-01-23 14:42:00', '2024-01-23 21:21:00', 'GLA', 'QNA', '06:39:25'),
+
+(417, 55, '2024-03-08 11:43:00', '2024-03-08 14:33:00', 'DBI', 'QBI', '02:50:17'),
+
+(418, 26, '2024-02-27 23:31:00', '2024-02-28 09:49:00', 'HPG', 'KGI', '10:18:48'),
+
+(419, 80, '2024-02-06 00:48:00', '2024-02-06 07:49:00', 'DBI', 'CMU', '07:01:35'),
+
+(420, 52, '2024-01-30 07:18:00', '2024-01-30 08:45:00', 'THA', 'NAN', '01:27:16'),
+
+(421, 97, '2024-01-26 14:39:00', '2024-01-26 19:23:00', 'LDG', 'QBI', '04:44:25'),
+
+(422, 12, '2024-01-01 10:36:00', '2024-01-01 11:40:00', 'DNA', 'CMU', '01:04:05'),
+
+(423, 13, '2024-01-18 16:56:00', '2024-01-18 18:06:00', 'VTB', 'LDG', '01:10:15'),
+
+(424, 53, '2023-12-31 08:55:00', '2023-12-31 18:31:00', 'CTH', 'LDG', '09:36:49'),
+
+(425, 49, '2024-02-10 07:01:00', '2024-02-10 15:11:00', 'HCM', 'PYE', '08:10:03'),
+
+(426, 5, '2024-01-21 05:09:00', '2024-01-21 14:12:00', 'THA', 'TTH', '09:03:32'),
+
+(427, 72, '2024-01-21 17:11:00', '2024-01-21 20:07:00', 'HPG', 'THA', '02:56:38'),
+
+(428, 29, '2023-12-21 16:33:00', '2023-12-22 00:35:00', 'DNA', 'GLA', '08:02:50'),
+
+(429, 21, '2024-02-01 09:37:00', '2024-02-01 14:40:00', 'QBI', 'CMU', '05:03:52'),
+
+(430, 87, '2024-02-19 09:43:00', '2024-02-19 12:38:00', 'NAN', 'GLA', '02:55:17'),
+
+(431, 90, '2024-01-25 07:10:00', '2024-01-25 12:41:00', 'CMU', 'NAN', '05:31:56'),
+
+(432, 39, '2024-02-05 22:24:00', '2024-02-06 02:51:00', 'VTB', 'QNH', '04:27:14'),
+
+(433, 68, '2024-01-24 00:40:00', '2024-01-24 09:58:00', 'QBI', 'HCM', '09:18:06'),
+
+(434, 37, '2024-01-24 14:33:00', '2024-01-24 15:39:00', 'GLA', 'HPG', '01:06:51'),
+
+(435, 97, '2024-02-15 02:31:00', '2024-02-15 10:51:00', 'QNA', 'CTH', '08:20:03'),
+
+(436, 97, '2023-12-20 06:19:00', '2023-12-20 13:35:00', 'BDI', 'QNH', '07:16:35'),
+
+(437, 92, '2024-02-29 12:12:00', '2024-02-29 20:14:00', 'HCM', 'VTB', '08:02:31'),
+
+(438, 21, '2024-03-03 04:19:00', '2024-03-03 08:21:00', 'QNA', 'KGI', '04:02:58'),
+
+(439, 38, '2024-02-03 11:41:00', '2024-02-03 14:57:00', 'HNO', 'VTB', '03:16:58'),
+
+(440, 50, '2024-03-04 19:51:00', '2024-03-05 05:25:00', 'KGI', 'NAN', '09:34:08'),
+
+(441, 8, '2024-01-11 05:01:00', '2024-01-11 09:55:00', 'KHA', 'VTB', '04:54:32'),
+
+(442, 59, '2024-01-16 19:29:00', '2024-01-17 05:28:00', 'QBI', 'PYE', '09:59:35'),
+
+(443, 45, '2024-01-12 03:53:00', '2024-01-12 05:07:00', 'KHA', 'DNA', '01:14:05'),
+
+(444, 3, '2024-01-11 20:10:00', '2024-01-12 01:17:00', 'DBI', 'CTH', '05:07:38'),
+
+(445, 89, '2024-02-28 14:30:00', '2024-02-28 15:52:00', 'QBI', 'HPG', '01:22:30'),
+
+(446, 39, '2024-03-08 15:46:00', '2024-03-08 22:47:00', 'PYE', 'HNO', '07:01:26'),
+
+(447, 21, '2024-02-06 17:21:00', '2024-02-06 20:53:00', 'DBI', 'PYE', '03:32:14'),
+
+(448, 89, '2023-12-16 12:39:00', '2023-12-16 21:14:00', 'KGI', 'NAN', '08:35:27'),
+
+(449, 55, '2024-02-22 17:09:00', '2024-02-23 01:06:00', 'GLA', 'HPG', '07:57:58'),
+
+(450, 17, '2024-03-02 03:16:00', '2024-03-02 06:11:00', 'HPG', 'CTH', '02:55:07'),
+
+(451, 60, '2024-03-07 02:38:00', '2024-03-07 04:08:00', 'DNA', 'KHA', '01:30:46'),
+
+(452, 57, '2024-02-04 13:26:00', '2024-02-04 20:43:00', 'HPG', 'DLA', '07:17:38'),
+
+(453, 81, '2024-01-23 10:06:00', '2024-01-23 13:08:00', 'VTB', 'QNH', '03:02:21'),
+
+(454, 58, '2024-02-23 03:44:00', '2024-02-23 06:57:00', 'NAN', 'HNO', '03:13:08'),
+
+(455, 96, '2024-03-06 01:21:00', '2024-03-06 11:14:00', 'QNH', 'DBI', '09:53:12'),
+
+(456, 35, '2024-02-02 18:58:00', '2024-02-03 01:02:00', 'LDG', 'NAN', '06:04:06'),
+
+(457, 88, '2024-02-08 13:34:00', '2024-02-08 14:54:00', 'TTH', 'PYE', '01:20:32'),
+
+(458, 22, '2024-01-05 15:45:00', '2024-01-06 00:02:00', 'CMU', 'THA', '08:17:24'),
+
+(459, 20, '2024-02-17 09:33:00', '2024-02-17 18:34:00', 'PYE', 'LDG', '09:01:26'),
+
+(460, 61, '2024-02-29 16:17:00', '2024-02-29 17:34:00', 'PYE', 'GLA', '01:17:43'),
+
+(461, 5, '2024-01-16 10:51:00', '2024-01-16 16:06:00', 'DBI', 'KHA', '05:15:15'),
+
+(462, 93, '2024-02-24 06:21:00', '2024-02-24 10:29:00', 'QBI', 'GLA', '04:08:38'),
+
+(463, 81, '2024-01-30 15:44:00', '2024-01-31 02:24:00', 'KGI', 'HNO', '10:40:54'),
+
+(464, 90, '2024-01-07 00:43:00', '2024-01-07 04:48:00', 'HCM', 'THA', '04:05:34'),
+
+(465, 67, '2024-03-06 01:30:00', '2024-03-06 08:27:00', 'DBI', 'HCM', '06:57:48'),
+
+(466, 2, '2023-12-27 10:29:00', '2023-12-27 13:52:00', 'QNA', 'HNO', '03:23:03'),
+
+(467, 42, '2024-01-16 06:55:00', '2024-01-16 09:42:00', 'HCM', 'QNA', '02:47:20'),
+
+(468, 84, '2024-01-16 19:04:00', '2024-01-16 21:20:00', 'CTH', 'DBI', '02:16:04'),
+
+(469, 45, '2024-01-20 12:32:00', '2024-01-20 14:23:00', 'HCM', 'DNA', '01:51:47'),
+
+(470, 62, '2024-02-23 10:22:00', '2024-02-23 13:59:00', 'DBI', 'QBI', '03:37:23'),
+
+(471, 79, '2024-01-23 20:37:00', '2024-01-24 01:05:00', 'DNA', 'QNH', '04:28:06'),
+
+(472, 14, '2024-03-02 02:19:00', '2024-03-02 03:22:00', 'QNA', 'QNH', '01:03:23'),
+
+(473, 31, '2024-01-18 05:57:00', '2024-01-18 10:35:00', 'DLA', 'LDG', '04:38:50'),
+
+(474, 52, '2024-01-11 01:49:00', '2024-01-11 08:19:00', 'DNA', 'THA', '06:30:57'),
+
+(475, 94, '2024-02-03 10:09:00', '2024-02-03 18:53:00', 'TTH', 'HCM', '08:44:08'),
+
+(476, 12, '2024-03-08 04:12:00', '2024-03-08 10:22:00', 'VTB', 'DBI', '06:10:17'),
+
+(477, 44, '2024-03-05 14:16:00', '2024-03-05 23:07:00', 'DBI', 'LDG', '08:51:02'),
+
+(478, 8, '2024-01-28 13:25:00', '2024-01-28 22:37:00', 'QBI', 'HNO', '09:12:30'),
+
+(479, 34, '2024-02-15 17:16:00', '2024-02-15 22:27:00', 'TTH', 'PYE', '05:11:13'),
+
+(480, 33, '2023-12-20 03:51:00', '2023-12-20 08:33:00', 'DLA', 'QBI', '04:42:38'),
+
+(481, 88, '2023-12-10 05:12:00', '2023-12-10 07:17:00', 'VTB', 'KHA', '02:05:20'),
+
+(482, 35, '2024-02-06 10:27:00', '2024-02-06 20:52:00', 'DLA', 'DNA', '10:25:18'),
+
+(483, 49, '2024-01-08 01:39:00', '2024-01-08 04:22:00', 'DBI', 'HNO', '02:43:46'),
+
+(484, 64, '2024-01-21 14:15:00', '2024-01-21 23:15:00', 'QNH', 'VTB', '09:00:05'),
+
+(485, 35, '2023-12-12 16:55:00', '2023-12-12 21:34:00', 'GLA', 'KHA', '04:39:08'),
+
+(486, 5, '2024-01-31 01:56:00', '2024-01-31 05:26:00', 'NAN', 'HPG', '03:30:08'),
+
+(487, 76, '2023-12-21 05:31:00', '2023-12-21 07:22:00', 'CTH', 'PYE', '01:51:19'),
+
+(488, 75, '2024-03-05 11:41:00', '2024-03-05 14:09:00', 'HPG', 'DLA', '02:28:20'),
+
+(489, 59, '2023-12-10 01:21:00', '2023-12-10 05:50:00', 'VTB', 'DBI', '04:29:55'),
+
+(490, 65, '2024-01-24 14:06:00', '2024-01-24 16:58:00', 'HCM', 'TTH', '02:52:25'),
+
+(491, 71, '2024-01-15 01:10:00', '2024-01-15 02:17:00', 'CMU', 'CTH', '01:07:45'),
+
+(492, 99, '2024-02-09 01:27:00', '2024-02-09 11:48:00', 'VTB', 'NAN', '10:21:24'),
+
+(493, 2, '2024-02-12 19:02:00', '2024-02-12 20:45:00', 'KHA', 'HPG', '01:43:32'),
+
+(494, 96, '2024-01-08 05:35:00', '2024-01-08 11:08:00', 'KHA', 'GLA', '05:33:28'),
+
+(495, 1, '2024-01-04 21:56:00', '2024-01-05 05:44:00', 'CMU', 'LDG', '07:48:04'),
+
+(496, 90, '2024-01-13 15:51:00', '2024-01-14 01:55:00', 'QBI', 'NAN', '10:04:37'),
+
+(497, 51, '2024-03-03 20:54:00', '2024-03-04 05:30:00', 'CMU', 'HPG', '08:36:37'),
+
+(498, 70, '2024-03-03 08:54:00', '2024-03-03 17:18:00', 'DNA', 'NAN', '08:24:08'),
+
+(499, 13, '2024-01-05 16:26:00', '2024-01-06 00:02:00', 'BDI', 'KGI', '07:36:01'),
+
+(500, 19, '2024-02-12 20:17:00', '2024-02-13 03:30:00', 'HCM', 'DNA', '07:13:27'),
+
+(501, 59, '2024-02-17 19:27:00', '2024-02-18 05:06:00', 'KHA', 'PYE', '09:39:01'),
+
+(502, 65, '2024-02-05 17:04:00', '2024-02-05 18:28:00', 'QNH', 'HNO', '01:24:24'),
+
+(503, 82, '2024-03-04 01:30:00', '2024-03-04 03:44:00', 'KGI', 'QBI', '02:14:56'),
+
+(504, 50, '2023-12-23 16:54:00', '2023-12-23 23:07:00', 'CTH', 'KGI', '06:13:39'),
+
+(505, 10, '2024-02-20 07:42:00', '2024-02-20 11:25:00', 'NAN', 'HCM', '03:43:54'),
+
+(506, 52, '2024-01-05 02:16:00', '2024-01-05 11:23:00', 'LDG', 'DNA', '09:07:37'),
+
+(507, 48, '2024-01-22 18:06:00', '2024-01-22 20:59:00', 'QNA', 'CMU', '02:53:54'),
+
+(508, 87, '2024-01-21 01:05:00', '2024-01-21 03:18:00', 'DBI', 'DLA', '02:13:52'),
+
+(509, 71, '2024-01-02 13:55:00', '2024-01-02 22:43:00', 'KHA', 'KGI', '08:48:54'),
+
+(510, 65, '2024-02-09 09:54:00', '2024-02-09 11:53:00', 'QBI', 'PYE', '01:59:50'),
+
+(511, 45, '2023-12-17 23:35:00', '2023-12-18 07:38:00', 'CTH', 'KGI', '08:03:14'),
+
+(512, 64, '2024-03-04 09:25:00', '2024-03-04 10:39:00', 'QBI', 'TTH', '01:14:49'),
+
+(513, 72, '2024-02-08 00:59:00', '2024-02-08 06:36:00', 'CTH', 'BDI', '05:37:15'),
+
+(514, 86, '2023-12-12 14:00:00', '2023-12-12 19:36:00', 'HCM', 'QNA', '05:36:43'),
+
+(515, 71, '2023-12-10 10:30:00', '2023-12-10 20:18:00', 'QNA', 'BDI', '09:48:45'),
+
+(516, 24, '2023-12-30 12:23:00', '2023-12-30 13:46:00', 'TTH', 'HPG', '01:23:59'),
+
+(517, 97, '2024-01-09 03:55:00', '2024-01-09 13:34:00', 'NAN', 'DLA', '09:39:44'),
+
+(518, 48, '2024-01-09 21:06:00', '2024-01-10 04:49:00', 'HPG', 'QNH', '07:43:10'),
+
+(519, 21, '2024-01-25 16:51:00', '2024-01-25 19:16:00', 'HPG', 'KGI', '02:25:39'),
+
+(520, 67, '2024-01-27 07:15:00', '2024-01-27 09:27:00', 'VTB', 'THA', '02:12:38'),
+
+(521, 27, '2024-03-04 13:43:00', '2024-03-04 19:36:00', 'VTB', 'HNO', '05:53:53'),
+
+(522, 65, '2024-02-27 16:13:00', '2024-02-27 23:23:00', 'QNA', 'DLA', '07:10:06'),
+
+(523, 38, '2024-01-07 18:15:00', '2024-01-08 03:34:00', 'HCM', 'CTH', '09:19:18'),
+
+(524, 20, '2024-01-17 22:45:00', '2024-01-18 02:39:00', 'KHA', 'BDI', '03:54:25'),
+
+(525, 38, '2024-01-24 11:39:00', '2024-01-24 19:50:00', 'GLA', 'DNA', '08:11:08'),
+
+(526, 65, '2024-02-18 13:25:00', '2024-02-18 23:17:00', 'BDI', 'HNO', '09:52:57'),
+
+(527, 79, '2024-03-07 09:53:00', '2024-03-07 15:18:00', 'DBI', 'NAN', '05:25:32'),
+
+(528, 70, '2024-01-15 22:37:00', '2024-01-16 01:10:00', 'DBI', 'KHA', '02:33:13'),
+
+(529, 97, '2024-02-29 13:19:00', '2024-02-29 20:21:00', 'HNO', 'NAN', '07:02:34'),
+
+(530, 58, '2024-02-02 01:02:00', '2024-02-02 04:54:00', 'VTB', 'KGI', '03:52:03'),
+
+(531, 75, '2024-03-09 15:47:00', '2024-03-10 02:28:00', 'CTH', 'HPG', '10:41:56'),
+
+(532, 51, '2023-12-13 04:14:00', '2023-12-13 13:44:00', 'HCM', 'TTH', '09:30:32'),
+
+(533, 16, '2024-01-23 13:54:00', '2024-01-23 16:08:00', 'KHA', 'CMU', '02:14:14'),
+
+(534, 5, '2024-02-13 18:39:00', '2024-02-13 20:28:00', 'GLA', 'THA', '01:49:58'),
+
+(535, 68, '2024-01-09 23:03:00', '2024-01-10 04:14:00', 'TTH', 'QBI', '05:11:15'),
+
+(536, 43, '2023-12-30 18:02:00', '2023-12-30 23:56:00', 'QNH', 'CMU', '05:54:32'),
+
+(537, 20, '2023-12-20 05:46:00', '2023-12-20 11:45:00', 'QBI', 'KGI', '05:59:09'),
+
+(538, 9, '2024-01-29 00:50:00', '2024-01-29 11:02:00', 'TTH', 'QBI', '10:12:46'),
+
+(539, 59, '2024-01-15 16:56:00', '2024-01-16 02:38:00', 'BDI', 'KHA', '09:42:02'),
+
+(540, 12, '2024-03-04 01:53:00', '2024-03-04 04:20:00', 'HPG', 'VTB', '02:27:54'),
+
+(541, 3, '2024-02-27 02:42:00', '2024-02-27 13:36:00', 'GLA', 'LDG', '10:54:32'),
+
+(542, 42, '2024-02-27 14:01:00', '2024-02-27 21:06:00', 'QBI', 'CTH', '07:05:32'),
+
+(543, 60, '2024-01-24 13:40:00', '2024-01-24 23:02:00', 'DLA', 'CTH', '09:22:34'),
+
+(544, 29, '2023-12-25 05:51:00', '2023-12-25 14:26:00', 'NAN', 'HNO', '08:35:30'),
+
+(545, 72, '2024-01-07 14:52:00', '2024-01-07 17:38:00', 'BDI', 'HNO', '02:46:41'),
+
+(546, 92, '2024-02-26 10:36:00', '2024-02-26 13:42:00', 'VTB', 'BDI', '03:06:52'),
+
+(547, 96, '2023-12-26 12:09:00', '2023-12-26 14:50:00', 'BDI', 'QNA', '02:41:03'),
+
+(548, 85, '2024-02-11 10:36:00', '2024-02-11 14:08:00', 'CMU', 'HCM', '03:32:40'),
+
+(549, 50, '2024-03-07 20:42:00', '2024-03-08 05:15:00', 'HPG', 'PYE', '08:33:55'),
+
+(550, 59, '2024-03-05 16:38:00', '2024-03-05 21:04:00', 'DBI', 'QNA', '04:26:53'),
+
+(551, 7, '2024-02-14 10:15:00', '2024-02-14 17:08:00', 'KGI', 'QNH', '06:53:28'),
+
+(552, 53, '2024-01-23 16:29:00', '2024-01-23 23:13:00', 'QBI', 'PYE', '06:44:09'),
+
+(553, 77, '2024-02-26 08:49:00', '2024-02-26 14:33:00', 'QNH', 'QNA', '05:44:18'),
+
+(554, 7, '2023-12-26 11:53:00', '2023-12-26 17:41:00', 'BDI', 'QNH', '05:48:32'),
+
+(555, 86, '2024-02-21 05:49:00', '2024-02-21 16:08:00', 'BDI', 'DLA', '10:19:39'),
+
+(556, 76, '2024-01-23 21:29:00', '2024-01-23 23:10:00', 'TTH', 'HCM', '01:41:45'),
+
+(557, 8, '2024-03-05 17:53:00', '2024-03-06 00:18:00', 'KHA', 'HPG', '06:25:33'),
+
+(558, 13, '2024-02-10 23:08:00', '2024-02-11 01:06:00', 'KHA', 'DLA', '01:58:46'),
+
+(559, 42, '2023-12-31 06:17:00', '2023-12-31 16:19:00', 'PYE', 'HPG', '10:02:06'),
+
+(560, 25, '2023-12-29 04:36:00', '2023-12-29 07:42:00', 'TTH', 'CTH', '03:06:53'),
+
+(561, 67, '2024-01-13 03:07:00', '2024-01-13 08:46:00', 'THA', 'KHA', '05:39:33'),
+
+(562, 18, '2024-03-07 09:59:00', '2024-03-07 20:17:00', 'LDG', 'HCM', '10:18:21'),
+
+(563, 37, '2024-02-16 23:51:00', '2024-02-17 09:40:00', 'KHA', 'LDG', '09:49:13'),
+
+(564, 5, '2024-01-19 14:08:00', '2024-01-20 00:47:00', 'QBI', 'DNA', '10:39:04'),
+
+(565, 94, '2023-12-11 11:05:00', '2023-12-11 14:28:00', 'DLA', 'PYE', '03:23:41'),
+
+(566, 99, '2024-02-23 13:58:00', '2024-02-23 20:59:00', 'THA', 'HCM', '07:01:36'),
+
+(567, 73, '2023-12-26 09:19:00', '2023-12-26 16:38:00', 'GLA', 'DBI', '07:19:23'),
+
+(568, 23, '2023-12-16 07:32:00', '2023-12-16 08:49:00', 'BDI', 'THA', '01:17:19'),
+
+(569, 92, '2024-02-20 22:35:00', '2024-02-21 09:26:00', 'CTH', 'HCM', '10:51:01'),
+
+(570, 78, '2024-01-27 13:52:00', '2024-01-27 23:31:00', 'CTH', 'KHA', '09:39:06'),
+
+(571, 2, '2024-03-04 15:03:00', '2024-03-04 21:00:00', 'THA', 'DNA', '05:57:45'),
+
+(572, 80, '2023-12-13 06:42:00', '2023-12-13 10:46:00', 'VTB', 'DNA', '04:04:58'),
+
+(573, 58, '2024-03-01 17:56:00', '2024-03-01 23:20:00', 'TTH', 'HCM', '05:24:12'),
+
+(574, 17, '2024-02-17 05:52:00', '2024-02-17 15:43:00', 'NAN', 'GLA', '09:51:25'),
+
+(575, 50, '2024-02-17 17:14:00', '2024-02-17 19:00:00', 'HNO', 'CMU', '01:46:56'),
+
+(576, 7, '2024-02-23 21:08:00', '2024-02-24 05:29:00', 'DLA', 'THA', '08:21:58'),
+
+(577, 16, '2024-01-03 02:46:00', '2024-01-03 09:33:00', 'DNA', 'TTH', '06:47:04'),
+
+(578, 66, '2024-02-13 13:55:00', '2024-02-13 18:00:00', 'CTH', 'KHA', '04:05:52'),
+
+(579, 3, '2024-01-14 16:39:00', '2024-01-14 23:05:00', 'BDI', 'CMU', '06:26:24'),
+
+(580, 48, '2024-01-20 06:49:00', '2024-01-20 15:51:00', 'VTB', 'QBI', '09:02:21'),
+
+(581, 47, '2023-12-11 13:06:00', '2023-12-11 21:18:00', 'VTB', 'QNH', '08:12:35'),
+
+(582, 25, '2024-01-18 01:08:00', '2024-01-18 06:18:00', 'BDI', 'QNA', '05:10:39'),
+
+(583, 93, '2023-12-11 16:52:00', '2023-12-12 00:02:00', 'NAN', 'KGI', '07:10:34'),
+
+(584, 12, '2024-01-07 03:23:00', '2024-01-07 05:45:00', 'PYE', 'LDG', '02:22:42'),
+
+(585, 19, '2024-02-19 08:39:00', '2024-02-19 18:53:00', 'PYE', 'THA', '10:14:18'),
+
+(586, 34, '2024-02-18 01:16:00', '2024-02-18 07:45:00', 'QNH', 'VTB', '06:29:41'),
+
+(587, 11, '2024-02-13 14:22:00', '2024-02-13 16:54:00', 'QNA', 'HCM', '02:32:49'),
+
+(588, 54, '2024-01-20 12:39:00', '2024-01-20 16:12:00', 'THA', 'QNH', '03:33:51'),
+
+(589, 38, '2024-01-15 21:44:00', '2024-01-16 04:08:00', 'HNO', 'BDI', '06:24:57'),
+
+(590, 90, '2024-02-06 16:38:00', '2024-02-07 02:54:00', 'CTH', 'DNA', '10:16:49'),
+
+(591, 3, '2024-01-03 20:58:00', '2024-01-04 00:51:00', 'VTB', 'DNA', '03:53:17'),
+
+(592, 45, '2024-01-16 23:13:00', '2024-01-17 05:11:00', 'VTB', 'THA', '05:58:05'),
+
+(593, 63, '2024-02-22 20:26:00', '2024-02-22 23:44:00', 'CMU', 'BDI', '03:18:40'),
+
+(594, 12, '2024-02-16 14:10:00', '2024-02-16 20:52:00', 'NAN', 'PYE', '06:42:40'),
+
+(595, 8, '2023-12-22 17:04:00', '2023-12-23 02:35:00', 'QNH', 'QNA', '09:31:46'),
+
+(596, 34, '2024-02-06 22:24:00', '2024-02-07 08:03:00', 'NAN', 'DNA', '09:39:02'),
+
+(597, 57, '2024-01-20 05:28:00', '2024-01-20 13:04:00', 'QBI', 'QNA', '07:36:28'),
+
+(598, 90, '2024-02-12 13:41:00', '2024-02-12 23:07:00', 'NAN', 'VTB', '09:26:17'),
+
+(599, 71, '2023-12-28 14:28:00', '2023-12-28 17:45:00', 'QNH', 'HCM', '03:17:24'),
+
+(600, 61, '2024-01-13 00:37:00', '2024-01-13 05:43:00', 'QNH', 'PYE', '05:06:42'),
+
+(601, 98, '2024-02-22 07:50:00', '2024-02-22 13:27:00', 'DLA', 'QBI', '05:37:01'),
+
+(602, 8, '2024-02-18 05:12:00', '2024-02-18 10:56:00', 'CTH', 'HNO', '05:44:44'),
+
+(603, 12, '2024-01-31 23:15:00', '2024-02-01 03:31:00', 'GLA', 'DLA', '04:16:46'),
+
+(604, 30, '2023-12-24 13:16:00', '2023-12-24 17:13:00', 'KHA', 'QNH', '03:57:04'),
+
+(605, 90, '2024-01-23 13:15:00', '2024-01-23 23:10:00', 'DLA', 'HCM', '09:55:54'),
+
+(606, 42, '2024-02-04 04:30:00', '2024-02-04 12:51:00', 'NAN', 'HCM', '08:21:09'),
+
+(607, 9, '2024-02-25 23:24:00', '2024-02-26 04:14:00', 'KGI', 'DNA', '04:50:25'),
+
+(608, 21, '2024-02-03 08:58:00', '2024-02-03 15:03:00', 'DLA', 'TTH', '06:05:55'),
+
+(609, 3, '2023-12-24 16:58:00', '2023-12-24 20:30:00', 'DLA', 'DNA', '03:32:49'),
+
+(610, 55, '2024-01-04 03:42:00', '2024-01-04 12:14:00', 'BDI', 'HNO', '08:32:53'),
+
+(611, 61, '2023-12-10 16:40:00', '2023-12-10 19:40:00', 'KHA', 'DBI', '03:00:32'),
+
+(612, 21, '2024-01-13 08:44:00', '2024-01-13 10:39:00', 'QBI', 'KGI', '01:55'),
+
+(613, 87, '2023-12-27 04:06:00', '2023-12-27 11:20:00', 'KHA', 'TTH', '07:14:56'),
+
+(614, 5, '2023-12-27 14:23:00', '2023-12-28 01:06:00', 'PYE', 'CMU', '10:43:38'),
+
+(615, 43, '2024-01-30 00:12:00', '2024-01-30 08:17:00', 'CTH', 'CMU', '08:05:12'),
+
+(616, 19, '2024-02-01 20:27:00', '2024-02-02 02:34:00', 'KHA', 'HNO', '06:07:27'),
+
+(617, 9, '2024-02-29 10:36:00', '2024-02-29 12:38:00', 'BDI', 'VTB', '02:02:04'),
+
+(618, 46, '2024-03-03 05:57:00', '2024-03-03 07:37:00', 'GLA', 'QNH', '01:40'),
+
+(619, 6, '2024-01-17 03:55:00', '2024-01-17 14:19:00', 'DLA', 'HPG', '10:24:59'),
+
+(620, 96, '2023-12-26 17:09:00', '2023-12-27 03:50:00', 'HNO', 'BDI', '10:41:54'),
+
+(621, 3, '2023-12-29 18:05:00', '2023-12-29 21:38:00', 'HCM', 'HNO', '03:33:46'),
+
+(622, 78, '2024-02-29 15:14:00', '2024-02-29 19:28:00', 'KHA', 'NAN', '04:14:33'),
+
+(623, 89, '2024-01-05 03:13:00', '2024-01-05 08:33:00', 'NAN', 'KHA', '05:20:30'),
+
+(624, 37, '2024-01-09 05:28:00', '2024-01-09 11:21:00', 'LDG', 'CMU', '05:53:56'),
+
+(625, 33, '2023-12-26 14:14:00', '2023-12-26 18:07:00', 'GLA', 'THA', '03:53:46'),
+
+(626, 38, '2024-02-10 01:44:00', '2024-02-10 12:24:00', 'VTB', 'LDG', '10:40:06'),
+
+(627, 94, '2024-02-22 13:30:00', '2024-02-22 17:54:00', 'GLA', 'PYE', '04:24:39'),
+
+(628, 38, '2024-01-28 08:05:00', '2024-01-28 11:58:00', 'HCM', 'HNO', '03:53:24'),
+
+(629, 93, '2024-01-13 05:09:00', '2024-01-13 10:47:00', 'QNH', 'QBI', '05:38:23'),
+
+(630, 94, '2024-02-22 10:31:00', '2024-02-22 17:42:00', 'LDG', 'DNA', '07:11:51'),
+
+(631, 17, '2024-01-18 21:47:00', '2024-01-19 02:26:00', 'PYE', 'HCM', '04:39:21'),
+
+(632, 39, '2024-02-28 02:17:00', '2024-02-28 11:51:00', 'CTH', 'NAN', '09:34:50'),
+
+(633, 72, '2024-02-06 15:23:00', '2024-02-06 21:29:00', 'QBI', 'CTH', '06:06:58'),
+
+(634, 7, '2024-02-23 04:42:00', '2024-02-23 10:14:00', 'QNA', 'BDI', '05:32:20'),
+
+(635, 58, '2024-01-03 06:34:00', '2024-01-03 08:58:00', 'GLA', 'LDG', '02:24:37'),
+
+(636, 96, '2024-02-20 13:50:00', '2024-02-21 00:42:00', 'LDG', 'NAN', '10:52:12'),
+
+(637, 26, '2024-02-26 20:37:00', '2024-02-27 06:06:00', 'QBI', 'HPG', '09:29'),
+
+(638, 79, '2023-12-19 22:08:00', '2023-12-20 00:41:00', 'QNH', 'CTH', '02:33:02'),
+
+(639, 78, '2023-12-31 06:05:00', '2023-12-31 11:32:00', 'QBI', 'LDG', '05:27:21'),
+
+(640, 47, '2024-01-23 17:08:00', '2024-01-23 21:59:00', 'HCM', 'QBI', '04:51:55'),
+
+(641, 35, '2024-03-07 22:07:00', '2024-03-08 03:36:00', 'HPG', 'QBI', '05:29:34'),
+
+(642, 27, '2024-01-04 22:28:00', '2024-01-05 02:14:00', 'HPG', 'QBI', '03:46:04'),
+
+(643, 1, '2024-01-12 05:37:00', '2024-01-12 14:52:00', 'VTB', 'CTH', '09:15:08'),
+
+(644, 27, '2024-02-27 06:39:00', '2024-02-27 15:38:00', 'QNA', 'DNA', '08:59:55'),
+
+(645, 41, '2023-12-18 13:31:00', '2023-12-19 00:07:00', 'DLA', 'CMU', '10:36:33'),
+
+(646, 87, '2023-12-21 10:20:00', '2023-12-21 12:23:00', 'LDG', 'DBI', '02:03:38'),
+
+(647, 69, '2024-02-04 09:57:00', '2024-02-04 16:25:00', 'DLA', 'CTH', '06:28:38'),
+
+(648, 57, '2024-02-20 00:42:00', '2024-02-20 07:52:00', 'PYE', 'DNA', '07:10:52'),
+
+(649, 30, '2024-01-29 06:52:00', '2024-01-29 10:41:00', 'THA', 'NAN', '03:49:19'),
+
+(650, 87, '2024-03-08 22:52:00', '2024-03-09 08:47:00', 'QNH', 'CTH', '09:55:15'),
+
+(651, 75, '2024-01-22 23:31:00', '2024-01-23 06:38:00', 'TTH', 'KGI', '07:07:20'),
+
+(652, 19, '2024-02-16 09:00:00', '2024-02-16 14:53:00', 'BDI', 'KGI', '05:53:18'),
+
+(653, 13, '2023-12-20 12:58:00', '2023-12-20 21:27:00', 'LDG', 'DNA', '08:29:23'),
+
+(654, 31, '2024-01-16 10:56:00', '2024-01-16 19:37:00', 'KHA', 'GLA', '08:41:12'),
+
+(655, 57, '2024-01-27 12:43:00', '2024-01-27 13:50:00', 'KHA', 'DNA', '01:07:26'),
+
+(656, 4, '2024-02-27 09:33:00', '2024-02-27 18:45:00', 'DBI', 'QBI', '09:12:10'),
+
+(657, 4, '2023-12-24 13:12:00', '2023-12-24 15:32:00', 'HNO', 'QNA', '02:20:17'),
+
+(658, 86, '2024-01-13 06:32:00', '2024-01-13 14:24:00', 'HCM', 'PYE', '07:52:03'),
+
+(659, 61, '2024-02-23 08:22:00', '2024-02-23 09:27:00', 'CMU', 'DLA', '01:05:02'),
+
+(660, 86, '2023-12-11 01:04:00', '2023-12-11 08:34:00', 'QNA', 'HCM', '07:30:25'),
+
+(661, 62, '2024-02-23 10:48:00', '2024-02-23 13:04:00', 'BDI', 'HNO', '02:16:14'),
+
+(662, 20, '2024-01-13 11:17:00', '2024-01-13 19:52:00', 'TTH', 'DNA', '08:35:55'),
+
+(663, 72, '2024-01-05 15:17:00', '2024-01-06 00:04:00', 'DBI', 'KHA', '08:47:28'),
+
+(664, 82, '2024-03-04 22:26:00', '2024-03-05 03:40:00', 'TTH', 'DBI', '05:14'),
+
+(665, 14, '2024-01-15 02:04:00', '2024-01-15 09:51:00', 'VTB', 'TTH', '07:47:43'),
+
+(666, 84, '2024-02-21 22:50:00', '2024-02-22 07:29:00', 'CMU', 'HCM', '08:39:06'),
+
+(667, 63, '2023-12-10 18:49:00', '2023-12-11 05:16:00', 'CTH', 'KGI', '10:27:51'),
+
+(668, 40, '2024-02-10 12:18:00', '2024-02-10 23:14:00', 'VTB', 'KGI', '10:56:46'),
+
+(669, 10, '2024-01-09 08:10:00', '2024-01-09 13:26:00', 'LDG', 'TTH', '05:16:15'),
+
+(670, 18, '2023-12-28 19:15:00', '2023-12-29 05:40:00', 'LDG', 'KGI', '10:25:55'),
+
+(671, 97, '2024-02-22 05:40:00', '2024-02-22 10:12:00', 'QNH', 'DBI', '04:32:49'),
+
+(672, 19, '2024-02-08 04:27:00', '2024-02-08 14:02:00', 'TTH', 'NAN', '09:35:56'),
+
+(673, 96, '2024-01-12 21:11:00', '2024-01-13 02:47:00', 'LDG', 'KGI', '05:36:26'),
+
+(674, 42, '2024-01-16 10:33:00', '2024-01-16 19:52:00', 'PYE', 'BDI', '09:19:10'),
+
+(675, 66, '2024-02-17 16:11:00', '2024-02-17 18:42:00', 'DBI', 'LDG', '02:31:52'),
+
+(676, 38, '2024-02-14 13:35:00', '2024-02-14 19:37:00', 'QNA', 'DNA', '06:02:53'),
+
+(677, 13, '2024-02-01 13:05:00', '2024-02-01 19:36:00', 'LDG', 'TTH', '06:31:41'),
+
+(678, 74, '2024-01-07 22:06:00', '2024-01-07 23:14:00', 'KGI', 'PYE', '01:08:41'),
+
+(679, 54, '2024-02-27 20:39:00', '2024-02-27 22:40:00', 'KHA', 'THA', '02:01:41'),
+
+(680, 89, '2024-01-07 20:23:00', '2024-01-08 04:58:00', 'QBI', 'DLA', '08:35:02'),
+
+(681, 57, '2024-01-29 01:32:00', '2024-01-29 09:01:00', 'QNH', 'BDI', '07:29:55'),
+
+(682, 66, '2024-01-31 08:15:00', '2024-01-31 11:45:00', 'HCM', 'THA', '03:30:54'),
+
+(683, 44, '2024-02-22 19:45:00', '2024-02-23 04:11:00', 'HPG', 'DLA', '08:26:49'),
+
+(684, 39, '2024-01-23 21:41:00', '2024-01-24 07:03:00', 'HCM', 'CTH', '09:22:52'),
+
+(685, 12, '2023-12-29 20:56:00', '2023-12-30 01:55:00', 'HPG', 'DLA', '04:59:56'),
+
+(686, 6, '2023-12-22 19:10:00', '2023-12-23 02:32:00', 'DLA', 'HPG', '07:22:26'),
+
+(687, 39, '2024-01-13 09:14:00', '2024-01-13 10:32:00', 'QNH', 'DBI', '01:18:50'),
+
+(688, 62, '2024-02-20 09:02:00', '2024-02-20 13:58:00', 'HNO', 'HCM', '04:56:59'),
+
+(689, 99, '2024-02-23 01:18:00', '2024-02-23 11:48:00', 'PYE', 'KHA', '10:30:27'),
+
+(690, 30, '2024-01-12 21:00:00', '2024-01-13 05:55:00', 'LDG', 'BDI', '08:55:20'),
+
+(691, 20, '2024-02-09 05:31:00', '2024-02-09 07:07:00', 'THA', 'GLA', '01:36:51'),
+
+(692, 31, '2024-01-08 01:47:00', '2024-01-08 09:29:00', 'CTH', 'NAN', '07:42:43'),
+
+(693, 88, '2024-02-07 19:47:00', '2024-02-08 00:44:00', 'KHA', 'NAN', '04:57:31'),
+
+(694, 31, '2024-01-26 07:17:00', '2024-01-26 16:28:00', 'DLA', 'BDI', '09:11:29'),
+
+(695, 20, '2024-01-28 02:39:00', '2024-01-28 09:48:00', 'LDG', 'THA', '07:09:07'),
+
+(696, 38, '2024-01-05 20:18:00', '2024-01-06 06:59:00', 'DLA', 'HPG', '10:41:25'),
+
+(697, 40, '2024-02-11 12:29:00', '2024-02-11 15:16:00', 'BDI', 'LDG', '02:47:19'),
+
+(698, 10, '2024-01-04 01:33:00', '2024-01-04 07:37:00', 'CTH', 'VTB', '06:04:58'),
+
+(699, 46, '2023-12-10 15:32:00', '2023-12-10 22:29:00', 'DBI', 'LDG', '06:57:03'),
+
+(700, 57, '2024-01-29 08:01:00', '2024-01-29 11:02:00', 'QNH', 'CTH', '03:01:44'),
+
+(701, 99, '2024-01-06 03:03:00', '2024-01-06 13:34:00', 'BDI', 'QNA', '10:31:13'),
+
+(702, 71, '2024-02-19 00:53:00', '2024-02-19 02:26:00', 'CMU', 'NAN', '01:33:05'),
+
+(703, 6, '2024-01-24 22:39:00', '2024-01-25 00:11:00', 'KGI', 'BDI', '01:32:24'),
+
+(704, 72, '2024-01-25 02:38:00', '2024-01-25 04:17:00', 'QNA', 'NAN', '01:39:50'),
+
+(705, 69, '2024-03-02 06:59:00', '2024-03-02 10:19:00', 'QNH', 'DBI', '03:20:22'),
+
+(706, 92, '2024-01-24 09:47:00', '2024-01-24 20:10:00', 'LDG', 'HCM', '10:23:03'),
+
+(707, 89, '2024-03-03 20:23:00', '2024-03-03 22:20:00', 'DNA', 'PYE', '01:57:15'),
+
+(708, 64, '2024-02-15 02:07:00', '2024-02-15 10:19:00', 'PYE', 'CMU', '08:12:08'),
+
+(709, 38, '2023-12-10 11:51:00', '2023-12-10 19:04:00', 'QBI', 'DLA', '07:13:56'),
+
+(710, 49, '2023-12-21 20:47:00', '2023-12-22 07:19:00', 'DBI', 'BDI', '10:32:20'),
+
+(711, 97, '2024-02-08 17:52:00', '2024-02-09 03:01:00', 'QBI', 'HCM', '09:09:57'),
+
+(712, 44, '2024-02-06 07:11:00', '2024-02-06 11:09:00', 'BDI', 'DNA', '03:58:14'),
+
+(713, 84, '2023-12-23 02:46:00', '2023-12-23 05:46:00', 'THA', 'KGI', '03:00:12'),
+
+(714, 81, '2024-03-07 14:09:00', '2024-03-07 18:47:00', 'QNA', 'QNH', '04:38:11'),
+
+(715, 20, '2024-01-25 23:41:00', '2024-01-26 08:32:00', 'CMU', 'PYE', '08:51:19'),
+
+(716, 89, '2024-02-24 01:31:00', '2024-02-24 08:39:00', 'QNA', 'VTB', '07:08:46'),
+
+(717, 86, '2024-01-16 03:21:00', '2024-01-16 14:06:00', 'HNO', 'KGI', '10:45:38'),
+
+(718, 15, '2024-01-27 20:08:00', '2024-01-28 01:41:00', 'VTB', 'DLA', '05:33:21'),
+
+(719, 24, '2024-01-27 14:21:00', '2024-01-27 16:52:00', 'HCM', 'THA', '02:31:09'),
+
+(720, 42, '2024-01-14 01:26:00', '2024-01-14 10:58:00', 'DNA', 'CTH', '09:32:45'),
+
+(721, 6, '2024-02-16 00:33:00', '2024-02-16 05:55:00', 'DBI', 'TTH', '05:22:08'),
+
+(722, 60, '2024-01-09 00:23:00', '2024-01-09 05:51:00', 'DBI', 'GLA', '05:28:17'),
+
+(723, 62, '2024-01-24 01:25:00', '2024-01-24 07:40:00', 'QNH', 'DLA', '06:15:36'),
+
+(724, 82, '2024-03-08 21:05:00', '2024-03-09 03:06:00', 'VTB', 'PYE', '06:01:37'),
+
+(725, 48, '2024-01-09 08:18:00', '2024-01-09 15:48:00', 'KHA', 'HNO', '07:30:53'),
+
+(726, 67, '2024-02-08 21:45:00', '2024-02-09 00:06:00', 'DLA', 'VTB', '02:21:14'),
+
+(727, 86, '2024-02-20 08:53:00', '2024-02-20 16:42:00', 'HCM', 'PYE', '07:49:32'),
+
+(728, 66, '2024-03-03 01:50:00', '2024-03-03 03:03:00', 'PYE', 'QNH', '01:13:01'),
+
+(729, 30, '2024-02-10 08:20:00', '2024-02-10 17:19:00', 'KGI', 'QNH', '08:59:26'),
+
+(730, 23, '2024-02-02 22:51:00', '2024-02-03 07:55:00', 'QNH', 'DNA', '09:04:25'),
+
+(731, 14, '2024-03-03 15:23:00', '2024-03-03 23:22:00', 'HNO', 'NAN', '07:59:30'),
+
+(732, 11, '2023-12-31 11:18:00', '2023-12-31 14:03:00', 'QNA', 'PYE', '02:45:38'),
+
+(733, 19, '2024-03-05 16:09:00', '2024-03-05 18:49:00', 'QBI', 'TTH', '02:40:09'),
+
+(734, 40, '2024-01-17 02:10:00', '2024-01-17 09:57:00', 'GLA', 'DLA', '07:47:35'),
+
+(735, 24, '2024-01-10 05:51:00', '2024-01-10 11:01:00', 'GLA', 'QNA', '05:10:39'),
+
+(736, 1, '2024-01-12 00:46:00', '2024-01-12 07:02:00', 'DNA', 'HCM', '06:16:38'),
+
+(737, 5, '2024-02-22 17:38:00', '2024-02-23 02:39:00', 'CMU', 'TTH', '09:01:45'),
+
+(738, 68, '2024-01-03 03:59:00', '2024-01-03 09:22:00', 'GLA', 'CTH', '05:23:11'),
+
+(739, 36, '2024-01-28 01:35:00', '2024-01-28 11:40:00', 'GLA', 'KHA', '10:05:08'),
+
+(740, 54, '2023-12-30 11:11:00', '2023-12-30 13:32:00', 'DNA', 'CTH', '02:21:23'),
+
+(741, 98, '2024-01-01 15:54:00', '2024-01-01 20:31:00', 'CMU', 'QNA', '04:37:11'),
+
+(742, 30, '2024-01-28 10:42:00', '2024-01-28 12:48:00', 'THA', 'QBI', '02:06:10'),
+
+(743, 55, '2024-01-07 00:04:00', '2024-01-07 10:11:00', 'CMU', 'DLA', '10:07:26'),
+
+(744, 25, '2023-12-17 16:56:00', '2023-12-18 03:41:00', 'QNH', 'DLA', '10:45:14'),
+
+(745, 61, '2024-01-18 15:54:00', '2024-01-18 17:11:00', 'GLA', 'KHA', '01:17:38'),
+
+(746, 65, '2024-02-25 13:14:00', '2024-02-25 14:47:00', 'CMU', 'PYE', '01:33:31'),
+
+(747, 21, '2024-02-18 12:02:00', '2024-02-18 19:55:00', 'TTH', 'HNO', '07:53:09'),
+
+(748, 80, '2024-03-01 16:15:00', '2024-03-01 21:14:00', 'KGI', 'QNH', '04:59:06'),
+
+(749, 96, '2024-02-26 21:17:00', '2024-02-27 05:49:00', 'DNA', 'HPG', '08:32:01'),
+
+(750, 62, '2024-01-28 19:26:00', '2024-01-29 01:13:00', 'NAN', 'GLA', '05:47:41'),
+
+(751, 62, '2024-01-01 10:22:00', '2024-01-01 18:49:00', 'DNA', 'HNO', '08:27:08'),
+
+(752, 19, '2024-01-03 07:58:00', '2024-01-03 09:10:00', 'KGI', 'DBI', '01:12:58'),
+
+(753, 76, '2024-01-02 23:22:00', '2024-01-03 08:48:00', 'DNA', 'HCM', '09:26:07'),
+
+(754, 63, '2024-02-20 18:32:00', '2024-02-20 21:51:00', 'NAN', 'HPG', '03:19:19'),
+
+(755, 76, '2024-02-16 12:06:00', '2024-02-16 16:49:00', 'CTH', 'VTB', '04:43:14'),
+
+(756, 56, '2024-01-31 03:23:00', '2024-01-31 10:56:00', 'TTH', 'HCM', '07:33:19'),
+
+(757, 36, '2023-12-17 09:49:00', '2023-12-17 13:46:00', 'CMU', 'HPG', '03:57:33'),
+
+(758, 79, '2024-01-18 18:25:00', '2024-01-18 22:21:00', 'TTH', 'THA', '03:56:02'),
+
+(759, 85, '2024-01-25 16:28:00', '2024-01-25 21:35:00', 'HCM', 'LDG', '05:07:58'),
+
+(760, 48, '2024-01-04 21:30:00', '2024-01-05 01:25:00', 'CTH', 'THA', '03:55:40'),
+
+(761, 33, '2024-01-19 15:40:00', '2024-01-19 23:05:00', 'THA', 'HNO', '07:25:57'),
+
+(762, 49, '2024-02-20 08:53:00', '2024-02-20 15:18:00', 'QNA', 'DNA', '06:25:46'),
+
+(763, 4, '2024-02-21 00:26:00', '2024-02-21 04:11:00', 'HNO', 'QBI', '03:45:13'),
+
+(764, 44, '2023-12-13 12:27:00', '2023-12-13 18:17:00', 'CMU', 'QNH', '05:50:10'),
+
+(765, 6, '2023-12-14 00:59:00', '2023-12-14 03:14:00', 'GLA', 'DLA', '02:15:49'),
+
+(766, 77, '2024-01-28 08:53:00', '2024-01-28 10:29:00', 'HCM', 'QBI', '01:36:41'),
+
+(767, 50, '2024-01-24 11:04:00', '2024-01-24 16:36:00', 'CTH', 'DLA', '05:32:54'),
+
+(768, 49, '2024-02-25 14:51:00', '2024-02-25 22:02:00', 'THA', 'VTB', '07:11:33'),
+
+(769, 19, '2024-01-14 00:03:00', '2024-01-14 07:51:00', 'THA', 'LDG', '07:48:03'),
+
+(770, 47, '2024-03-01 02:35:00', '2024-03-01 05:38:00', 'KHA', 'GLA', '03:03:41'),
+
+(771, 93, '2024-01-15 22:56:00', '2024-01-16 02:44:00', 'CTH', 'DLA', '03:48:11'),
+
+(772, 4, '2024-02-23 11:45:00', '2024-02-23 19:11:00', 'BDI', 'NAN', '07:26:04'),
+
+(773, 41, '2024-02-03 09:38:00', '2024-02-03 11:51:00', 'THA', 'KHA', '02:13:41'),
+
+(774, 14, '2024-03-05 09:24:00', '2024-03-05 18:48:00', 'BDI', 'DNA', '09:24:42'),
+
+(775, 91, '2024-01-21 15:54:00', '2024-01-21 22:41:00', 'THA', 'DBI', '06:47:51'),
+
+(776, 93, '2024-01-10 13:02:00', '2024-01-10 16:32:00', 'DNA', 'NAN', '03:30:56'),
+
+(777, 41, '2024-01-24 00:12:00', '2024-01-24 05:57:00', 'HNO', 'CTH', '05:45:08'),
+
+(778, 43, '2024-01-03 15:25:00', '2024-01-03 17:56:00', 'HPG', 'PYE', '02:31:38'),
+
+(779, 63, '2024-02-22 22:25:00', '2024-02-23 09:18:00', 'BDI', 'DLA', '10:53:55'),
+
+(780, 73, '2023-12-11 08:52:00', '2023-12-11 19:44:00', 'CMU', 'CTH', '10:52:56'),
+
+(781, 33, '2024-01-24 14:32:00', '2024-01-24 17:27:00', 'TTH', 'HCM', '02:55:27'),
+
+(782, 41, '2023-12-31 23:33:00', '2024-01-01 07:41:00', 'DLA', 'HPG', '08:08:48'),
+
+(783, 45, '2023-12-15 01:12:00', '2023-12-15 03:52:00', 'NAN', 'DBI', '02:40:45'),
+
+(784, 57, '2024-03-03 03:49:00', '2024-03-03 08:29:00', 'DBI', 'KHA', '04:40:25'),
+
+(785, 85, '2024-01-28 23:30:00', '2024-01-29 01:20:00', 'HPG', 'DNA', '01:50:59'),
+
+(786, 27, '2024-03-07 06:06:00', '2024-03-07 15:20:00', 'QBI', 'BDI', '09:14:35'),
+
+(787, 79, '2023-12-22 08:57:00', '2023-12-22 17:04:00', 'LDG', 'KHA', '08:07:46'),
+
+(788, 31, '2024-02-13 11:57:00', '2024-02-13 22:12:00', 'CTH', 'DNA', '10:15:53'),
+
+(789, 46, '2023-12-17 08:28:00', '2023-12-17 15:49:00', 'PYE', 'HPG', '07:21:30'),
+
+(790, 44, '2024-01-11 16:29:00', '2024-01-11 21:44:00', 'CMU', 'HCM', '05:15:36'),
+
+(791, 24, '2024-01-06 19:58:00', '2024-01-06 22:51:00', 'HNO', 'GLA', '02:53:58'),
+
+(792, 21, '2024-02-14 02:07:00', '2024-02-14 12:24:00', 'CMU', 'CTH', '10:17:07'),
+
+(793, 78, '2024-02-28 18:27:00', '2024-02-29 00:46:00', 'DLA', 'KHA', '06:19:04'),
+
+(794, 40, '2024-02-09 07:49:00', '2024-02-09 10:58:00', 'NAN', 'TTH', '03:09:02'),
+
+(795, 97, '2023-12-25 08:51:00', '2023-12-25 10:12:00', 'HPG', 'DBI', '01:21:33'),
+
+(796, 72, '2024-03-02 19:30:00', '2024-03-03 00:21:00', 'HCM', 'HPG', '04:51:08'),
+
+(797, 24, '2024-03-07 05:39:00', '2024-03-07 10:05:00', 'HNO', 'VTB', '04:26:03'),
+
+(798, 51, '2024-01-22 02:57:00', '2024-01-22 13:41:00', 'HPG', 'VTB', '10:44:27'),
+
+(799, 81, '2024-02-14 20:11:00', '2024-02-15 02:08:00', 'KHA', 'DLA', '05:57:58'),
+
+(800, 64, '2023-12-28 02:29:00', '2023-12-28 05:30:00', 'THA', 'HCM', '03:01:34'),
+
+(801, 15, '2024-02-25 10:36:00', '2024-02-25 20:42:00', 'HCM', 'BDI', '10:06:38'),
+
+(802, 9, '2024-02-01 18:02:00', '2024-02-02 01:03:00', 'KGI', 'CTH', '07:01:17'),
+
+(803, 16, '2024-02-13 05:23:00', '2024-02-13 11:59:00', 'KHA', 'QNH', '06:36:01'),
+
+(804, 36, '2023-12-26 13:03:00', '2023-12-26 18:44:00', 'DLA', 'QNH', '05:41:38'),
+
+(805, 35, '2023-12-19 14:46:00', '2023-12-19 16:30:00', 'QBI', 'QNH', '01:44:01'),
+
+(806, 26, '2024-01-17 05:25:00', '2024-01-17 09:17:00', 'DNA', 'KHA', '03:52:48'),
+
+(807, 50, '2023-12-11 05:27:00', '2023-12-11 07:52:00', 'TTH', 'PYE', '02:25:34'),
+
+(808, 94, '2024-01-14 09:18:00', '2024-01-14 15:45:00', 'DBI', 'KGI', '06:27:46'),
+
+(809, 15, '2024-02-29 23:08:00', '2024-03-01 00:52:00', 'NAN', 'TTH', '01:44:14'),
+
+(810, 16, '2024-03-04 15:35:00', '2024-03-04 18:31:00', 'DLA', 'TTH', '02:56:30'),
+
+(811, 87, '2024-02-21 15:47:00', '2024-02-21 17:05:00', 'LDG', 'BDI', '01:18'),
+
+(812, 15, '2024-01-27 18:14:00', '2024-01-28 05:07:00', 'CTH', 'VTB', '10:53:27'),
+
+(813, 5, '2024-01-31 22:09:00', '2024-02-01 05:47:00', 'TTH', 'LDG', '07:38:42'),
+
+(814, 16, '2024-01-08 00:02:00', '2024-01-08 04:40:00', 'QBI', 'THA', '04:38:35'),
+
+(815, 57, '2024-03-05 10:42:00', '2024-03-05 12:25:00', 'KHA', 'CMU', '01:43:34'),
+
+(816, 29, '2024-01-02 07:03:00', '2024-01-02 12:06:00', 'BDI', 'QBI', '05:03:32'),
+
+(817, 91, '2023-12-13 04:31:00', '2023-12-13 11:13:00', 'QNA', 'DBI', '06:42:50'),
+
+(818, 74, '2024-01-31 13:04:00', '2024-01-31 14:32:00', 'BDI', 'PYE', '01:28:25'),
+
+(819, 1, '2024-02-11 05:33:00', '2024-02-11 11:54:00', 'BDI', 'HNO', '06:21:34'),
+
+(820, 68, '2024-02-22 00:41:00', '2024-02-22 10:50:00', 'DBI', 'DLA', '10:09:32'),
+
+(821, 53, '2024-02-19 04:06:00', '2024-02-19 09:11:00', 'PYE', 'NAN', '05:05:38'),
+
+(822, 48, '2023-12-28 09:49:00', '2023-12-28 15:26:00', 'THA', 'QNH', '05:37:30'),
+
+(823, 85, '2024-03-06 20:07:00', '2024-03-07 03:17:00', 'NAN', 'TTH', '07:10:43'),
+
+(824, 20, '2024-01-17 06:46:00', '2024-01-17 11:27:00', 'CMU', 'HNO', '04:41:59'),
+
+(825, 69, '2024-02-17 12:06:00', '2024-02-17 15:29:00', 'QNH', 'QNA', '03:23:48'),
+
+(826, 89, '2023-12-28 20:28:00', '2023-12-29 04:36:00', 'HNO', 'DLA', '08:08:44'),
+
+(827, 2, '2024-02-09 19:36:00', '2024-02-10 00:19:00', 'DLA', 'KGI', '04:43:29'),
+
+(828, 82, '2023-12-18 08:39:00', '2023-12-18 15:04:00', 'DLA', 'KGI', '06:25:44'),
+
+(829, 4, '2024-02-17 08:54:00', '2024-02-17 12:28:00', 'PYE', 'THA', '03:34:44'),
+
+(830, 34, '2024-01-05 21:53:00', '2024-01-05 23:02:00', 'KGI', 'DBI', '01:09'),
+
+(831, 86, '2024-02-12 14:45:00', '2024-02-13 00:49:00', 'QNA', 'HPG', '10:04:20'),
+
+(832, 76, '2024-01-20 01:56:00', '2024-01-20 09:30:00', 'DBI', 'HNO', '07:34:54'),
+
+(833, 56, '2024-02-13 22:06:00', '2024-02-14 07:31:00', 'LDG', 'TTH', '09:25:30'),
+
+(834, 66, '2024-01-20 06:42:00', '2024-01-20 13:56:00', 'GLA', 'DNA', '07:14:05'),
+
+(835, 83, '2024-02-18 03:49:00', '2024-02-18 13:07:00', 'HCM', 'HNO', '09:18:28'),
+
+(836, 17, '2024-03-02 14:29:00', '2024-03-02 21:32:00', 'LDG', 'HCM', '07:03:25'),
+
+(837, 2, '2024-02-06 21:44:00', '2024-02-07 02:38:00', 'HNO', 'GLA', '04:54:30'),
+
+(838, 61, '2024-01-12 14:54:00', '2024-01-12 19:27:00', 'KHA', 'QBI', '04:33:17'),
+
+(839, 38, '2024-03-04 13:04:00', '2024-03-04 22:50:00', 'QBI', 'DBI', '09:46:53'),
+
+(840, 54, '2024-03-04 21:06:00', '2024-03-05 03:33:00', 'CTH', 'DLA', '06:27:10'),
+
+(841, 80, '2024-02-18 11:01:00', '2024-02-18 17:37:00', 'QBI', 'KGI', '06:36:08'),
+
+(842, 71, '2024-02-29 16:07:00', '2024-03-01 00:16:00', 'TTH', 'PYE', '08:09:30'),
+
+(843, 85, '2024-01-30 15:19:00', '2024-01-30 17:29:00', 'DLA', 'GLA', '02:10:36'),
+
+(844, 16, '2023-12-19 03:27:00', '2023-12-19 13:36:00', 'DLA', 'BDI', '10:09:01'),
+
+(845, 34, '2023-12-14 18:18:00', '2023-12-15 03:36:00', 'DBI', 'DLA', '09:18:51'),
+
+(846, 34, '2024-01-15 00:40:00', '2024-01-15 07:26:00', 'DLA', 'HNO', '06:46:56'),
+
+(847, 76, '2024-01-30 08:12:00', '2024-01-30 13:35:00', 'KHA', 'DLA', '05:23:34'),
+
+(848, 79, '2023-12-23 13:13:00', '2023-12-23 14:41:00', 'PYE', 'DLA', '01:28:14'),
+
+(849, 27, '2023-12-15 02:18:00', '2023-12-15 10:28:00', 'THA', 'HNO', '08:10:37'),
+
+(850, 73, '2023-12-17 08:18:00', '2023-12-17 18:39:00', 'DBI', 'LDG', '10:21:38'),
+
+(851, 29, '2023-12-29 12:04:00', '2023-12-29 15:58:00', 'HNO', 'DLA', '03:54:09'),
+
+(852, 64, '2024-01-15 03:29:00', '2024-01-15 07:34:00', 'DLA', 'CMU', '04:05:22'),
+
+(853, 79, '2024-01-24 03:20:00', '2024-01-24 10:33:00', 'QNH', 'NAN', '07:13:53'),
+
+(854, 29, '2024-02-19 00:34:00', '2024-02-19 10:11:00', 'VTB', 'DBI', '09:37:23'),
+
+(855, 98, '2024-02-28 21:54:00', '2024-02-29 00:18:00', 'QNH', 'HCM', '02:24:25'),
+
+(856, 25, '2024-01-04 19:27:00', '2024-01-04 20:39:00', 'BDI', 'KGI', '01:12:19'),
+
+(857, 51, '2024-01-02 23:34:00', '2024-01-03 10:21:00', 'NAN', 'KHA', '10:47:22'),
+
+(858, 26, '2023-12-16 00:11:00', '2023-12-16 10:56:00', 'GLA', 'DLA', '10:45:01'),
+
+(859, 90, '2024-01-21 19:09:00', '2024-01-21 22:37:00', 'HPG', 'QBI', '03:28:21'),
+
+(860, 81, '2024-01-31 06:04:00', '2024-01-31 10:08:00', 'HCM', 'DLA', '04:04:22'),
+
+(861, 15, '2024-02-08 23:14:00', '2024-02-09 05:54:00', 'PYE', 'QNA', '06:40:43'),
+
+(862, 30, '2023-12-12 13:00:00', '2023-12-12 22:09:00', 'CMU', 'GLA', '09:09:12'),
+
+(863, 25, '2024-01-18 07:54:00', '2024-01-18 18:23:00', 'BDI', 'KGI', '10:29:42'),
+
+(864, 52, '2023-12-15 14:31:00', '2023-12-16 01:29:00', 'HPG', 'VTB', '10:58:44'),
+
+(865, 31, '2024-02-13 06:51:00', '2024-02-13 13:26:00', 'QBI', 'KGI', '06:35:59'),
+
+(866, 23, '2023-12-11 04:09:00', '2023-12-11 06:42:00', 'QBI', 'VTB', '02:33:03'),
+
+(867, 44, '2024-01-23 17:31:00', '2024-01-23 21:13:00', 'VTB', 'CMU', '03:42:37'),
+
+(868, 62, '2024-01-17 05:52:00', '2024-01-17 10:03:00', 'KGI', 'HNO', '04:11:43'),
+
+(869, 30, '2024-03-02 20:25:00', '2024-03-02 23:03:00', 'DNA', 'LDG', '02:38:23'),
+
+(870, 14, '2024-03-09 07:05:00', '2024-03-09 13:30:00', 'HNO', 'VTB', '06:25:13'),
+
+(871, 96, '2024-01-29 00:31:00', '2024-01-29 08:47:00', 'BDI', 'CMU', '08:16:31'),
+
+(872, 20, '2024-02-25 02:24:00', '2024-02-25 11:03:00', 'KHA', 'HPG', '08:39'),
+
+(873, 47, '2023-12-14 21:05:00', '2023-12-15 07:40:00', 'THA', 'NAN', '10:35:05'),
+
+(874, 87, '2023-12-11 04:20:00', '2023-12-11 07:19:00', 'DBI', 'LDG', '02:59:46'),
+
+(875, 52, '2024-03-05 05:27:00', '2024-03-05 08:11:00', 'QBI', 'CMU', '02:44:09'),
+
+(876, 69, '2023-12-22 10:14:00', '2023-12-22 19:04:00', 'DLA', 'TTH', '08:50:28'),
+
+(877, 3, '2024-02-10 00:00:00', '2024-02-10 06:29:00', 'LDG', 'TTH', '06:29:24'),
+
+(878, 74, '2024-02-23 14:43:00', '2024-02-23 23:23:00', 'CMU', 'DNA', '08:40:07'),
+
+(879, 64, '2024-03-03 16:33:00', '2024-03-03 22:47:00', 'DNA', 'PYE', '06:14:37'),
+
+(880, 4, '2024-02-16 04:13:00', '2024-02-16 09:42:00', 'LDG', 'NAN', '05:29:23'),
+
+(881, 46, '2024-02-22 21:20:00', '2024-02-23 00:21:00', 'CMU', 'CTH', '03:01:28'),
+
+(882, 60, '2024-02-06 16:06:00', '2024-02-07 02:13:00', 'GLA', 'DNA', '10:07:41'),
+
+(883, 30, '2024-01-18 20:34:00', '2024-01-19 05:35:00', 'DBI', 'HNO', '09:01:07'),
+
+(884, 90, '2024-01-14 05:09:00', '2024-01-14 11:23:00', 'KGI', 'HNO', '06:14:01'),
+
+(885, 21, '2024-02-08 03:18:00', '2024-02-08 08:50:00', 'QBI', 'KGI', '05:32:29'),
+
+(886, 84, '2024-01-26 22:59:00', '2024-01-27 02:13:00', 'DNA', 'QBI', '03:14:20'),
+
+(887, 87, '2024-02-08 14:53:00', '2024-02-09 01:07:00', 'TTH', 'DBI', '10:14:55'),
+
+(888, 60, '2024-03-09 02:19:00', '2024-03-09 11:10:00', 'CTH', 'TTH', '08:51:21'),
+
+(889, 52, '2024-01-05 11:17:00', '2024-01-05 20:35:00', 'QNH', 'THA', '09:18:53'),
+
+(890, 69, '2024-02-18 08:33:00', '2024-02-18 14:24:00', 'DLA', 'QNA', '05:51:48'),
+
+(891, 46, '2023-12-22 08:51:00', '2023-12-22 18:54:00', 'TTH', 'DBI', '10:03:10'),
+
+(892, 43, '2024-01-21 23:52:00', '2024-01-22 03:58:00', 'LDG', 'QNA', '04:06:28'),
+
+(893, 4, '2024-01-28 15:50:00', '2024-01-28 19:20:00', 'VTB', 'HNO', '03:30:30'),
+
+(894, 5, '2024-02-26 01:13:00', '2024-02-26 11:09:00', 'GLA', 'PYE', '09:56:35'),
+
+(895, 30, '2024-01-05 07:39:00', '2024-01-05 15:13:00', 'DNA', 'GLA', '07:34:09'),
+
+(896, 53, '2023-12-19 07:20:00', '2023-12-19 09:40:00', 'DLA', 'QBI', '02:20:52'),
+
+(897, 12, '2024-01-12 01:04:00', '2024-01-12 08:31:00', 'CMU', 'BDI', '07:27:17'),
+
+(898, 6, '2023-12-24 06:55:00', '2023-12-24 17:33:00', 'KHA', 'CMU', '10:38:40'),
+
+(899, 75, '2024-02-12 19:57:00', '2024-02-13 01:03:00', 'HNO', 'KHA', '05:06:22'),
+
+(900, 42, '2024-02-13 15:49:00', '2024-02-14 02:23:00', 'DBI', 'THA', '10:34:52'),
+
+(901, 70, '2023-12-18 14:40:00', '2023-12-18 19:47:00', 'QBI', 'PYE', '05:07:13'),
+
+(902, 54, '2024-01-23 16:29:00', '2024-01-23 20:53:00', 'HNO', 'QNA', '04:24:27'),
+
+(903, 65, '2024-01-09 14:34:00', '2024-01-09 20:01:00', 'HNO', 'BDI', '05:27:09'),
+
+(904, 95, '2024-02-16 09:36:00', '2024-02-16 11:54:00', 'QBI', 'KHA', '02:18:39'),
+
+(905, 83, '2023-12-17 14:20:00', '2023-12-17 22:57:00', 'CMU', 'GLA', '08:37:19'),
+
+(906, 65, '2024-01-20 06:57:00', '2024-01-20 13:38:00', 'HNO', 'QNH', '06:41:54'),
+
+(907, 65, '2024-02-10 12:20:00', '2024-02-10 13:31:00', 'CMU', 'LDG', '01:11:01'),
+
+(908, 69, '2024-01-24 18:12:00', '2024-01-25 01:47:00', 'DNA', 'QNA', '07:35:46'),
+
+(909, 1, '2024-01-05 22:40:00', '2024-01-06 00:04:00', 'THA', 'LDG', '01:24:47'),
+
+(910, 5, '2024-02-03 19:07:00', '2024-02-03 23:43:00', 'QBI', 'QNH', '04:36:05'),
+
+(911, 53, '2023-12-16 07:24:00', '2023-12-16 08:40:00', 'TTH', 'QNH', '01:16:40'),
+
+(912, 26, '2023-12-13 04:55:00', '2023-12-13 14:32:00', 'QBI', 'LDG', '09:37:08'),
+
+(913, 41, '2024-01-30 03:04:00', '2024-01-30 06:45:00', 'PYE', 'CTH', '03:41:56'),
+
+(914, 74, '2024-02-22 15:27:00', '2024-02-22 19:40:00', 'HNO', 'BDI', '04:13:46'),
+
+(915, 69, '2023-12-19 17:10:00', '2023-12-19 19:06:00', 'THA', 'DLA', '01:56:27'),
+
+(916, 100, '2024-01-12 04:55:00', '2024-01-12 15:32:00', 'NAN', 'QBI', '10:37:39'),
+
+(917, 34, '2024-02-27 09:45:00', '2024-02-27 12:22:00', 'THA', 'QBI', '02:37:25'),
+
+(918, 58, '2024-01-31 13:50:00', '2024-01-31 19:30:00', 'CMU', 'QNH', '05:40:50'),
+
+(919, 18, '2023-12-12 19:35:00', '2023-12-13 01:33:00', 'CTH', 'HCM', '05:58:17'),
+
+(920, 47, '2024-01-02 06:56:00', '2024-01-02 13:39:00', 'GLA', 'HPG', '06:43:09'),
+
+(921, 16, '2024-01-01 08:53:00', '2024-01-01 16:48:00', 'QNH', 'DNA', '07:55:38'),
+
+(922, 72, '2024-01-29 10:19:00', '2024-01-29 11:26:00', 'GLA', 'LDG', '01:07:38'),
+
+(923, 70, '2024-02-03 20:20:00', '2024-02-04 03:59:00', 'CMU', 'PYE', '07:39:58'),
+
+(924, 52, '2024-02-22 08:30:00', '2024-02-22 16:28:00', 'THA', 'VTB', '07:58:06'),
+
+(925, 27, '2023-12-12 02:29:00', '2023-12-12 04:23:00', 'DNA', 'LDG', '01:54:55'),
+
+(926, 78, '2024-02-08 23:07:00', '2024-02-09 00:07:00', 'DBI', 'DNA', '01:00:15'),
+
+(927, 57, '2024-01-04 17:52:00', '2024-01-05 02:26:00', 'KGI', 'QNH', '08:34:20'),
+
+(928, 63, '2024-01-27 12:08:00', '2024-01-27 21:34:00', 'CTH', 'HPG', '09:26:12'),
+
+(929, 48, '2024-01-21 05:49:00', '2024-01-21 12:20:00', 'KHA', 'CMU', '06:31:55'),
+
+(930, 13, '2024-02-14 13:28:00', '2024-02-14 20:49:00', 'HNO', 'LDG', '07:21'),
+
+(931, 59, '2024-02-03 23:11:00', '2024-02-04 03:34:00', 'BDI', 'NAN', '04:23'),
+
+(932, 94, '2024-02-28 21:14:00', '2024-02-29 00:36:00', 'TTH', 'DLA', '03:22:52'),
+
+(933, 50, '2023-12-18 18:42:00', '2023-12-19 00:39:00', 'QNH', 'DBI', '05:57:03'),
+
+(934, 100, '2024-01-31 07:46:00', '2024-01-31 10:50:00', 'HPG', 'DBI', '03:04:25'),
+
+(935, 15, '2024-01-22 13:09:00', '2024-01-22 19:10:00', 'NAN', 'QNA', '06:01:06'),
+
+(936, 98, '2024-01-19 10:14:00', '2024-01-19 20:44:00', 'HNO', 'PYE', '10:30:42'),
+
+(937, 61, '2024-01-04 17:49:00', '2024-01-05 03:23:00', 'QNH', 'DBI', '09:34:03'),
+
+(938, 90, '2024-01-09 18:57:00', '2024-01-10 01:26:00', 'HCM', 'HNO', '06:29:38'),
+
+(939, 40, '2024-03-06 07:45:00', '2024-03-06 14:48:00', 'HNO', 'GLA', '07:03:40'),
+
+(940, 59, '2024-01-15 22:52:00', '2024-01-16 01:24:00', 'DBI', 'TTH', '02:32:17'),
+
+(941, 35, '2023-12-28 08:46:00', '2023-12-28 12:20:00', 'HPG', 'NAN', '03:34:53'),
+
+(942, 67, '2024-03-02 18:41:00', '2024-03-03 03:58:00', 'DLA', 'BDI', '09:17:43'),
+
+(943, 9, '2024-02-27 23:02:00', '2024-02-28 03:42:00', 'HPG', 'CMU', '04:40:08'),
+
+(944, 84, '2024-03-03 08:52:00', '2024-03-03 19:35:00', 'KHA', 'QBI', '10:43:48'),
+
+(945, 96, '2023-12-22 05:17:00', '2023-12-22 07:19:00', 'QNA', 'HCM', '02:02:47'),
+
+(946, 34, '2024-02-01 02:51:00', '2024-02-01 13:11:00', 'VTB', 'CTH', '10:20:01'),
+
+(947, 71, '2024-02-03 15:25:00', '2024-02-03 23:52:00', 'DLA', 'QBI', '08:27:18'),
+
+(948, 76, '2024-03-06 03:42:00', '2024-03-06 13:26:00', 'KHA', 'QNA', '09:44:20'),
+
+(949, 81, '2024-02-27 08:06:00', '2024-02-27 11:15:00', 'QNH', 'THA', '03:09:32'),
+
+(950, 94, '2024-01-24 10:40:00', '2024-01-24 16:58:00', 'BDI', 'THA', '06:18:18'),
+
+(951, 52, '2023-12-17 06:12:00', '2023-12-17 10:51:00', 'GLA', 'KGI', '04:39'),
+
+(952, 56, '2024-01-13 05:11:00', '2024-01-13 08:22:00', 'QNA', 'DBI', '03:11:44'),
+
+(953, 49, '2023-12-12 04:04:00', '2023-12-12 08:30:00', 'LDG', 'CMU', '04:26:43'),
+
+(954, 43, '2023-12-24 12:53:00', '2023-12-24 20:01:00', 'HNO', 'VTB', '07:08:10'),
+
+(955, 85, '2024-02-03 09:11:00', '2024-02-03 15:16:00', 'HCM', 'KHA', '06:05:53'),
+
+(956, 100, '2024-01-01 09:24:00', '2024-01-01 13:12:00', 'KGI', 'QBI', '03:48:59'),
+
+(957, 86, '2024-03-03 00:52:00', '2024-03-03 11:37:00', 'HNO', 'HPG', '10:45:18'),
+
+(958, 89, '2024-03-08 11:22:00', '2024-03-08 14:54:00', 'DBI', 'QNH', '03:32:18'),
+
+(959, 62, '2023-12-24 05:41:00', '2023-12-24 14:14:00', 'HCM', 'DLA', '08:33:08'),
+
+(960, 65, '2024-02-22 04:49:00', '2024-02-22 13:54:00', 'PYE', 'CTH', '09:05:15'),
+
+(961, 26, '2024-01-31 12:59:00', '2024-01-31 17:34:00', 'TTH', 'THA', '04:35:26'),
+
+(962, 73, '2024-03-02 15:09:00', '2024-03-02 18:34:00', 'TTH', 'HNO', '03:25:57'),
+
+(963, 88, '2024-01-22 03:33:00', '2024-01-22 08:33:00', 'VTB', 'PYE', '05:00:53'),
+
+(964, 48, '2024-02-05 16:48:00', '2024-02-06 03:12:00', 'HPG', 'HCM', '10:24:48'),
+
+(965, 16, '2024-03-09 03:13:00', '2024-03-09 11:21:00', 'HCM', 'QBI', '08:08:33'),
+
+(966, 54, '2024-02-24 07:04:00', '2024-02-24 14:47:00', 'LDG', 'QNH', '07:43:52'),
+
+(967, 56, '2024-03-06 23:49:00', '2024-03-07 01:27:00', 'VTB', 'HCM', '01:38:58'),
+
+(968, 58, '2024-01-08 16:44:00', '2024-01-08 18:22:00', 'CTH', 'DLA', '01:38:05'),
+
+(969, 56, '2024-01-07 22:35:00', '2024-01-08 01:10:00', 'GLA', 'QNA', '02:35:18'),
+
+(970, 88, '2024-01-12 00:30:00', '2024-01-12 07:12:00', 'THA', 'HPG', '06:42:46'),
+
+(971, 18, '2024-01-17 21:14:00', '2024-01-18 03:27:00', 'QBI', 'DBI', '06:13:54'),
+
+(972, 85, '2024-01-06 12:54:00', '2024-01-06 22:49:00', 'HNO', 'GLA', '09:55:37'),
+
+(973, 73, '2024-01-13 10:04:00', '2024-01-13 16:06:00', 'TTH', 'BDI', '06:02:11'),
+
+(974, 87, '2024-01-22 03:12:00', '2024-01-22 11:46:00', 'HCM', 'KGI', '08:34:10'),
+
+(975, 28, '2023-12-16 13:32:00', '2023-12-16 18:17:00', 'QNH', 'HCM', '04:45:59'),
+
+(976, 57, '2023-12-24 03:23:00', '2023-12-24 11:47:00', 'KHA', 'QBI', '08:24:28'),
+
+(977, 32, '2024-02-02 01:00:00', '2024-02-02 10:00:00', 'DNA', 'QBI', '09:00:08'),
+
+(978, 57, '2024-03-07 23:33:00', '2024-03-08 08:53:00', 'HPG', 'TTH', '09:20:20'),
+
+(979, 70, '2024-01-02 12:59:00', '2024-01-02 14:21:00', 'PYE', 'QNH', '01:22:02'),
+
+(980, 95, '2024-01-06 13:47:00', '2024-01-06 19:52:00', 'PYE', 'LDG', '06:05:21'),
+
+(981, 51, '2024-02-07 18:03:00', '2024-02-07 22:41:00', 'DBI', 'KHA', '04:38:39'),
+
+(982, 91, '2024-02-03 23:08:00', '2024-02-04 05:48:00', 'LDG', 'THA', '06:40:36'),
+
+(983, 23, '2023-12-29 19:41:00', '2023-12-29 22:01:00', 'KGI', 'PYE', '02:20:24'),
+
+(984, 5, '2024-02-25 21:03:00', '2024-02-25 22:51:00', 'CTH', 'QBI', '01:48:56'),
+
+(985, 75, '2024-01-12 13:44:00', '2024-01-12 22:02:00', 'HPG', 'DNA', '08:18:09'),
+
+(986, 33, '2024-01-28 20:18:00', '2024-01-28 22:23:00', 'GLA', 'THA', '02:05:14'),
+
+(987, 26, '2024-02-01 11:06:00', '2024-02-01 19:42:00', 'TTH', 'LDG', '08:36:38'),
+
+(988, 53, '2024-02-11 06:32:00', '2024-02-11 08:49:00', 'GLA', 'CMU', '02:17:45'),
+
+(989, 88, '2024-01-27 04:10:00', '2024-01-27 13:22:00', 'THA', 'CMU', '09:12:48'),
+
+(990, 51, '2024-01-29 10:41:00', '2024-01-29 16:55:00', 'CTH', 'DBI', '06:14:04'),
+
+(991, 74, '2024-02-24 05:13:00', '2024-02-24 09:56:00', 'VTB', 'GLA', '04:43:11'),
+
+(992, 45, '2024-03-06 16:16:00', '2024-03-06 21:18:00', 'HCM', 'PYE', '05:02:06'),
+
+(993, 26, '2024-01-27 16:25:00', '2024-01-28 00:05:00', 'THA', 'LDG', '07:40:56'),
+
+(994, 89, '2024-01-06 12:22:00', '2024-01-06 15:14:00', 'CTH', 'DLA', '02:52:24'),
+
+(995, 94, '2024-01-08 05:33:00', '2024-01-08 07:54:00', 'DNA', 'HPG', '02:21:44'),
+
+(996, 4, '2024-01-12 20:06:00', '2024-01-13 02:03:00', 'KGI', 'BDI', '05:57:36'),
+
+(997, 2, '2024-03-08 17:47:00', '2024-03-09 00:06:00', 'NAN', 'LDG', '06:19:04'),
+
+(998, 92, '2024-01-10 09:53:00', '2024-01-10 18:29:00', 'BDI', 'TTH', '08:36'),
+
+(999, 29, '2024-01-06 07:17:00', '2024-01-06 15:25:00', 'VTB', 'DBI', '08:08:42'),
+
+(1000, 42, '2023-12-20 10:55:00', '2023-12-20 16:10:00', 'LDG', 'HNO', '05:15:19')
 
