@@ -1,8 +1,16 @@
 # UET_airline
 
-install nodejs version 20.9 https://nodejs.org/en/download/
+Trang web được code trên Code editor Visual Studio Code
 
-nhập trên cmd theo các dòng dưới:
+Database tự sinh nhờ code 
+
+Để khởi tạo database MySQL Workbench mở các file .sql trong folder theo đường dẫn UET_airline\public\Uet_airline_database
+
+Chạy lần lượt theo thứ tự CreateDataBase, dataCity,
+
+Install nodejs version 20.9 https://nodejs.org/en/download/
+
+Nhập trên terminal theo các dòng dưới:
 
 - npm init 
 
@@ -18,4 +26,4 @@ nhập trên cmd theo các dòng dưới:
 
 - npm install express-session 
 
-để chạy nhập: npm start
+Để chạy nhập: npm start
