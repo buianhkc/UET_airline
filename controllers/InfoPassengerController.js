@@ -56,7 +56,7 @@ class InfoPassengerController {
             for (const iP of listInfoPassenger) {
                 const sql = `INSERT passengers(order_number, ma_hanh_khach, ten, gioi_tinh, do_tuoi, ngay_sinh)
                             VALUES(?, ?, ?, ?, ?, ?)`;
-                const values = [iP.order_number, iP.ma_hanh_khach, `'${iP.ten}'`, `'${iP.gioi_tinh}'`, `'${iP.do_tuoi}'`, `'${iP.ngay_sinh}'`];
+                const values = [iP.order_number, iP.ma_hanh_khach, iP.ten, iP.gioi_tinh, iP.do_tuoi, iP.ngay_sinh];
 
                 console.log(sql);
 
