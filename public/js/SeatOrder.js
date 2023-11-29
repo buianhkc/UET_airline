@@ -168,7 +168,6 @@ function initSeat() {
 getOrderDetails();
 
 function backToInfoPassenger() {
-  window.removeEventListener('beforeunload', handleUnload());
   // Tạo URL với tham số truyền đi
   var url = "/info-passenger"
     + "?order_number=" + encodeURIComponent(order_number)

@@ -89,7 +89,7 @@ CREATE TABLE passengers (
     ma_hanh_khach INT NOT NULL,
     ten NVARCHAR(100),
     gioi_tinh NVARCHAR(10),
-    do_tuoi NVARCHAR(10),
+    do_tuoi NVARCHAR(20),
     ngay_sinh DATE
 );
 

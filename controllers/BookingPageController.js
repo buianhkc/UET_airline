@@ -1,8 +1,7 @@
 const db = require("../database/server");
 
 class BookingPageController {
-    // [GET] /user-page
-    index(req, res) {
+    async index(req, res) {
         if (req.session.isLoggedIn) {
             res.render('./pages/booking-page', { isLoggedIn: req.session.isLoggedIn, user: req.session.user });
         } else {
@@ -10,71 +9,68 @@ class BookingPageController {
         }
     }
 
-    book(req, res) {
-        // console.log(req.body);
+    async book(req, res) {
+        try {
+            const { ma_ve, ma_khach_hang, order_date, so_luong_nguoi_lon, so_luong_tre_em, trang_thai } = req.body;
 
-        var { ma_ve, ma_khach_hang, order_date, so_luong_nguoi_lon, so_luong_tre_em, trang_thai } = req.body;
+            const sql = `INSERT INTO orders(ma_ve, ma_khach_hang, order_date, so_luong_nguoi_lon, so_luong_tre_em, trang_thai)
+                        VALUES (?, ?, ?, ?, ?, ?);`;
 
-        var sql = `INSERT orders(ma_ve, ma_khach_hang, order_date, so_luong_nguoi_lon, so_luong_tre_em, trang_thai)
-                    VALUES (${ma_ve}, ${ma_khach_hang}, '${order_date}', ${so_luong_nguoi_lon}, ${so_luong_tre_em}, '${trang_thai}');`;
+            await db.execute(sql, [ma_ve, ma_khach_hang, order_date, so_luong_nguoi_lon, so_luong_tre_em, trang_thai]);
 
-        db.execute(sql)
-            .then((result) => {
-                res.json(true)
-            })
-            .catch(err => {
-                console.log(err);
-            })
+            res.json(true);
+        } catch (error) {
+            console.error("Error in book:", error);
+            res.status(500).json({ error: "Internal Server Error" });
+        }
     }
 
-    getOrderNumber(req, res) {
-        // console.log(req.body);
+    async getOrderNumber(req, res) {
+        try {
+            const { ma_khach_hang } = req.body;
 
-        var { ma_khach_hang } = req.body;
+            const sql = `SELECT MAX(order_number) as order_number
+                FROM orders
+                WHERE ma_khach_hang = ?;`;
 
-        var sql = `SELECT MAX(order_number) as order_number
-        FROM orders
-        WHERE ma_khach_hang = ${ma_khach_hang};`;
-
-        db.execute(sql)
-            .then((result) => {
-                // console.log(result[0][0]);
-                res.json(result[0][0]);
-            })
-            .catch(err => {
-                console.log(err);
-            })
+            const result = await db.execute(sql, [ma_khach_hang]);
+            res.json(result[0][0]);
+        } catch (error) {
+            console.error("Error in getOrderNumber:", error);
+            res.status(500).json({ error: "Internal Server Error" });
+        }
     }
 
-    cancelOrder(req, res) {
-        var { order_number } = req.body;
-        // console.log(order_number);
-        console.log("huy ve");
-        var sql1 = `DELETE FROM orders
-        WHERE order_number = ${order_number};`;
+    async cancelOrder(req, res) {
+        try {
+            const { order_number } = req.body;
 
-        db.execute(sql1)
-            .catch(err => {
-                console.log(err);
-            })
+            const sql = `DELETE FROM orders
+                WHERE order_number = ?;`;
+
+            await db.execute(sql, [order_number]);
+            res.json(true);
+        } catch (error) {
+            console.error("Error in cancelOrder:", error);
+            res.status(500).json({ error: "Internal Server Error" });
+        }
     }
 
-    existSeatOrder(req, res) {
-        var {order_number} = req.body;
+    async existSeatOrder(req, res) {
+        try {
+            const { order_number } = req.body;
 
-        var sql = `SELECT count(*) as num
-                    FROM order_seats
-                    WHERE order_number = ${order_number}`;
+            const sql = `SELECT COUNT(*) as num
+                        FROM order_seats
+                        WHERE order_number = ?;`;
 
-        db.execute(sql)
-            .then(result => {
-                // console.log(result[0]);
-                res.json(result[0][0])
-            })
-            .catch(err => {
-                console.log(err);
-            })
+            const result = await db.execute(sql, [order_number]);
+            res.json(result[0][0]);
+        } catch (error) {
+            console.error("Error in existSeatOrder:", error);
+            res.status(500).json({ error: "Internal Server Error" });
+        }
     }
-};
+}
 
 module.exports = new BookingPageController;
