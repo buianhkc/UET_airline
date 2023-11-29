@@ -8,6 +8,8 @@ BackEnd: sử dụng NodeJs, frame work Express
 
 Database tự sinh nhờ code
 
+Nguồn tham khảo chính web https://www.vietnamairlines.com/
+
 ### Hướng dẫn chạy localhost
 
 Để khởi tạo database MySQL Workbench mở các file .sql trong folder theo đường dẫn UET_airline\public\Uet_airline_database
