@@ -1,14 +1,14 @@
-# UET Airline - Bài tập lớn Cơ sở dữ liệu
+# ✈️ UET Airline - Bài tập lớn Cơ sở dữ liệu
 
 Đây là bài tập lớn của môn học Cơ sở dữ liệu tại trường Đại học Công nghệ - Đại học Quốc gia Hà Nội (UET). Mục tiêu của dự án là giúp sinh viên áp dụng kiến thức về tạo database và tương tác với database thông qua một trang web. Chủ đề chúng tôi lựa chọn là một trang web đặt vé máy bay.
 
-## Công nghệ sử dụng
+## 🚀 Công nghệ sử dụng
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js với framework Express
 - **Database:** MySQL
 
-## Hướng dẫn chạy dự án trên localhost
+## 🛠️ Hướng dẫn chạy dự án trên localhost
 
 1. **Clone dự án:**
     ```bash
@@ -41,6 +41,8 @@
 
     - Truy cập trang web qua địa chỉ [http://localhost:3000](http://localhost:3000).
 
-Mọi ý kiến đóng góp và báo lỗi đều được hoan nghênh. Để biết thêm thông tin về cách sử dụng và phát triển dự án, hãy mail cho tôi buianhkc112004@gmail.com
+## 📚 Tham khảo
+
+Dự án được lấy cảm hứng từ [Vietnam Airlines](https://www.vietnamairlines.com/).
 
 Chúc bạn thành công!
