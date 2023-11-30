@@ -2,8 +2,12 @@
 
 Đây là bài tập lớn của môn học Cơ sở dữ liệu tại trường Đại học Công nghệ - Đại học Quốc gia Hà Nội (UET). Mục tiêu của dự án là giúp sinh viên áp dụng kiến thức về tạo database và tương tác với database thông qua một trang web. Chủ đề chúng tôi lựa chọn là một trang web đặt vé máy bay.
 
-## 🚀 Công nghệ sử dụng
+## 📹 Video Demo
 
+Xem demo dự án trên YouTube: [UET Airline Demo](https://www.youtube.com/watch?v=ny6n667tthA)
+
+## 🚀 Công nghệ sử dụng
+- **IDE:** Visual Studio Code
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js với framework Express
 - **Database:** MySQL
